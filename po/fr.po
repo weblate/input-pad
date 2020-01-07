@@ -11,14 +11,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
-"POT-Creation-Date: 2016-03-02 18:45+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-03-03 13:05+0900\n"
 "PO-Revision-Date: 2013-11-20 05:40-0500\n"
 "Last-Translator: Jérôme Fenal <jfenal@gmail.com>\n"
 "Language-Team: French <trans-fr@lists.fedoraproject.org>\n"
 "Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Zanata 3.8.2\n"
 
@@ -3265,9 +3265,11 @@ msgid "Copy Buffer"
 msgstr "Mémoire tampon de copie"
 
 #: ../input-pad/dialog.ui.h:6
-msgid "Base 16\n"
+msgid ""
+"Base 16\n"
 "Hex"
-msgstr "Base 16\n"
+msgstr ""
+"Base 16\n"
 "Hex"
 
 #: ../input-pad/dialog.ui.h:8
@@ -3275,9 +3277,11 @@ msgid "Set number case to hexadecimal"
 msgstr "Définir la base des nombres à hexadécimal"
 
 #: ../input-pad/dialog.ui.h:9
-msgid "Base 10\n"
+msgid ""
+"Base 10\n"
 "Dec"
-msgstr "Base 10\n"
+msgstr ""
+"Base 10\n"
 "Dec"
 
 #: ../input-pad/dialog.ui.h:11
@@ -3285,9 +3289,11 @@ msgid "Set number case to decimal"
 msgstr "Définir la base des nombres à décimal"
 
 #: ../input-pad/dialog.ui.h:12
-msgid "Base 8\n"
+msgid ""
+"Base 8\n"
 "Oct"
-msgstr "Base 8\n"
+msgstr ""
+"Base 8\n"
 "Oct"
 
 #: ../input-pad/dialog.ui.h:14
@@ -3295,9 +3301,11 @@ msgid "Set number case to octal"
 msgstr "Définir la base des nombres à octal"
 
 #: ../input-pad/dialog.ui.h:15
-msgid "Base 2\n"
+msgid ""
+"Base 2\n"
 "Bin"
-msgstr "Base 2\n"
+msgstr ""
+"Base 2\n"
 "Bin"
 
 #: ../input-pad/dialog.ui.h:17
@@ -3395,8 +3403,7 @@ msgstr "<b>Options du clavier</b>"
 
 #: ../input-pad/dialog.ui.h:43
 msgid "The input pad is a tool to send a character on button."
-msgstr ""
-"Le pad de saisie est un outil pour envoyer un caractère sur un bouton."
+msgstr "Le pad de saisie est un outil pour envoyer un caractère sur un bouton."
 
 #: ../input-pad/dialog.ui.h:44
 msgid "translator_credits"
@@ -4216,22 +4223,22 @@ msgstr "_Configurer les dispositions"
 #. "modify it under the terms of the GNU Lesser General Public "
 #. "License as published by the Free Software Foundation; either "
 #. "version 2 of the License, or (at your option) any later version.");
-#. 
+#.
 #. license2 = _(""
 #. "This library is distributed in the hope that it will be useful, "
 #. "but WITHOUT ANY WARRANTY; without even the implied warranty of "
 #. "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU "
 #. "Lesser General Public License for more details.");
-#. 
+#.
 #. license3 = _(""
 #. "You should have received a copy of the GNU Lesser General Public "
 #. "License along with this library; if not, write to the Free Software "
 #. "Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, "
 #. "MA  02110-1301  USA");
-#. 
+#.
 #. license = g_strdup_printf ("%s\n\n%s\n\n%s",
 #. license1, license2, license3);
-#. 
+#.
 #. This format has been used since gtk 2.20.
 #: ../input-pad/window-gtk.c:3164
 #, c-format
