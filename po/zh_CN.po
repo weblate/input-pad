@@ -9,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
-"POT-Creation-Date: 2016-03-02 18:45+0900\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2016-03-03 13:05+0900\n"
 "PO-Revision-Date: 2013-11-20 05:40-0500\n"
 "Last-Translator: Christopher Meng <cickumqt@gmail.com>\n"
 "Language-Team: Chinese (China) <trans-zh_cn@lists.fedoraproject.org>\n"
 "Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Zanata 3.8.2\n"
 
@@ -3263,7 +3263,8 @@ msgid "Copy Buffer"
 msgstr "复制缓存"
 
 #: ../input-pad/dialog.ui.h:6
-msgid "Base 16\n"
+msgid ""
+"Base 16\n"
 "Hex"
 msgstr ""
 
@@ -3272,7 +3273,8 @@ msgid "Set number case to hexadecimal"
 msgstr "设定数字为十六进制"
 
 #: ../input-pad/dialog.ui.h:9
-msgid "Base 10\n"
+msgid ""
+"Base 10\n"
 "Dec"
 msgstr ""
 
@@ -3281,7 +3283,8 @@ msgid "Set number case to decimal"
 msgstr "设定数字为十进制"
 
 #: ../input-pad/dialog.ui.h:12
-msgid "Base 8\n"
+msgid ""
+"Base 8\n"
 "Oct"
 msgstr ""
 
@@ -3290,7 +3293,8 @@ msgid "Set number case to octal"
 msgstr "设定数字为八进制"
 
 #: ../input-pad/dialog.ui.h:15
-msgid "Base 2\n"
+msgid ""
+"Base 2\n"
 "Bin"
 msgstr ""
 
@@ -4196,22 +4200,22 @@ msgstr "配置布局(_C)"
 #. "modify it under the terms of the GNU Lesser General Public "
 #. "License as published by the Free Software Foundation; either "
 #. "version 2 of the License, or (at your option) any later version.");
-#. 
+#.
 #. license2 = _(""
 #. "This library is distributed in the hope that it will be useful, "
 #. "but WITHOUT ANY WARRANTY; without even the implied warranty of "
 #. "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU "
 #. "Lesser General Public License for more details.");
-#. 
+#.
 #. license3 = _(""
 #. "You should have received a copy of the GNU Lesser General Public "
 #. "License along with this library; if not, write to the Free Software "
 #. "Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, "
 #. "MA  02110-1301  USA");
-#. 
+#.
 #. license = g_strdup_printf ("%s\n\n%s\n\n%s",
 #. license1, license2, license3);
-#. 
+#.
 #. This format has been used since gtk 2.20.
 #: ../input-pad/window-gtk.c:3164
 #, c-format
