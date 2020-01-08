@@ -7,13 +7,16 @@ msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2016-03-03 13:05+0900\n"
-"PO-Revision-Date: 2012-06-22 17:50+0900\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-01-12 18:15+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://translate.stg.fedoraproject.org/projects/"
+"input-pad/master/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.10.1\n"
 
 #: ../data/alphabet.xml.in.in.h:1
 msgid "Alphabets"
@@ -21,7 +24,7 @@ msgstr ""
 
 #: ../data/base.xml.in.h:1
 msgid "Symbols"
-msgstr ""
+msgstr "Semboller"
 
 #: ../data/base.xml.in.h:2
 msgid "Currency"
@@ -37,7 +40,7 @@ msgstr ""
 
 #: ../data/base.xml.in.h:5 ../input-pad/unicode_block.h:116
 msgid "Dingbats"
-msgstr ""
+msgstr "Dingbat'ler"
 
 #. Translators: Superscripts and Subscripts
 #: ../data/base.xml.in.h:7
@@ -54,7 +57,7 @@ msgstr ""
 
 #: ../data/base.xml.in.h:10
 msgid "Script"
-msgstr ""
+msgstr "Komut dosyası"
 
 #: ../data/base.xml.in.h:11
 msgid "Double Struck"
@@ -62,7 +65,7 @@ msgstr ""
 
 #: ../data/base.xml.in.h:12
 msgid "All"
-msgstr ""
+msgstr "Hepsi"
 
 #: ../data/base.xml.in.h:13 ../data/zh.xml.in.h:2
 msgid "Numbers"
@@ -106,11 +109,11 @@ msgstr ""
 
 #: ../data/base.xml.in.h:23
 msgid "Arrow"
-msgstr ""
+msgstr "Oklar"
 
 #: ../data/base.xml.in.h:24 ../input-pad/unicode_block.h:112
 msgid "Box Drawing"
-msgstr ""
+msgstr "Kutu Çizimi"
 
 #: ../data/base.xml.in.h:25 ../input-pad/window-gtk.c:3685
 msgid "Block"
@@ -130,7 +133,7 @@ msgstr ""
 
 #: ../data/base.xml.in.h:29
 msgid "General"
-msgstr ""
+msgstr "Genel"
 
 #: ../data/base.xml.in.h:30
 msgid "CJK"
@@ -138,7 +141,7 @@ msgstr ""
 
 #: ../data/base.xml.in.h:31 ../input-pad/unicode_block.h:145
 msgid "CJK Compatibility"
-msgstr ""
+msgstr "CJK Uyumluluğu"
 
 #: ../data/base.xml.in.h:32
 msgid "Small Form"
@@ -146,7 +149,7 @@ msgstr ""
 
 #: ../data/cmd.xml.in.h:1
 msgid "Command"
-msgstr ""
+msgstr "Komut"
 
 #: ../data/cmd.xml.in.h:2
 msgid "Date"
@@ -178,7 +181,7 @@ msgstr ""
 
 #: ../data/cmd.xml.in.h:9
 msgid "Era"
-msgstr ""
+msgstr "Dönem"
 
 #: ../data/cmd.xml.in.h:10
 msgid "Century Year"
@@ -226,13 +229,13 @@ msgstr ""
 
 #: ../data/goth.xml.in.h:1 ../input-pad/unicode_block.h:196
 msgid "Gothic"
-msgstr ""
+msgstr "Gotik"
 
 #: ../data/input-pad.desktop.in.h:1 ../input-pad/dialog.ui.h:42
 #: ../input-pad/window-gtk.c:5084 ../input-pad/window-gtk.c:5085
 #: ../input-pad/window-gtk.ui.h:1
 msgid "Input Pad"
-msgstr ""
+msgstr "İnput Pad"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-obsolete.xml.in.h:2
@@ -1390,11 +1393,11 @@ msgstr ""
 
 #: ../data/ja.xml.in.h:2 ../input-pad/unicode_block.h:136
 msgid "Hiragana"
-msgstr ""
+msgstr "Hiragana"
 
 #: ../data/ja.xml.in.h:3 ../input-pad/unicode_block.h:137
 msgid "Katakana"
-msgstr ""
+msgstr "Katakana"
 
 #: ../data/ja.xml.in.h:4 ../data/zh.xml.in.h:3
 msgid "Radicals"
@@ -1402,7 +1405,7 @@ msgstr ""
 
 #: ../data/ja.xml.in.h:5 ../input-pad/unicode_block.h:132
 msgid "CJK Radicals Supplement"
-msgstr ""
+msgstr "CJK Radikaller İlave"
 
 #: ../data/keyboard.xml.in.h:1
 msgid "Keyboard"
@@ -1422,11 +1425,11 @@ msgstr ""
 
 #: ../data/latin.xml.in.h:2 ../input-pad/unicode_block.h:38
 msgid "Latin-1 Supplement"
-msgstr ""
+msgstr "Latin-1 İlave"
 
 #: ../data/latin.xml.in.h:3 ../input-pad/unicode_block.h:39
 msgid "Latin Extended-A"
-msgstr ""
+msgstr "Latin Genişletilmiş-A"
 
 #: ../data/latin.xml.in.h:4
 msgid "Old and Middle English"
@@ -1450,7 +1453,7 @@ msgstr ""
 
 #: ../data/shaw.xml.in.h:1 ../input-pad/unicode_block.h:200
 msgid "Shavian"
-msgstr ""
+msgstr "Shavian"
 
 #: ../data/str.xml.in.h:1
 msgid "Chat"
@@ -1458,7 +1461,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:2
 msgid "Emoji"
-msgstr ""
+msgstr "Emoji"
 
 #: ../data/str.xml.in.h:3
 msgid "Rain"
