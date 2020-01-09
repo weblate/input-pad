@@ -7,3311 +7,3324 @@ msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2016-03-03 13:05+0900\n"
-"PO-Revision-Date: 2012-06-22 17:50+0900\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-01-15 10:40+0000\n"
+"Last-Translator: Mike FABIAN <mfabian@redhat.com>\n"
+"Language-Team: German <https://translate.stg.fedoraproject.org/projects/"
+"input-pad/master/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.10.1\n"
 
 #: ../data/alphabet.xml.in.in.h:1
 msgid "Alphabets"
-msgstr ""
+msgstr "Alphabete"
 
 #: ../data/base.xml.in.h:1
 msgid "Symbols"
-msgstr ""
+msgstr "Symbole"
 
 #: ../data/base.xml.in.h:2
 msgid "Currency"
-msgstr ""
+msgstr "Währungen"
 
 #: ../data/base.xml.in.h:3
 msgid "Letterlike"
-msgstr ""
+msgstr "Buchstabenähnlich"
 
 #: ../data/base.xml.in.h:4
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Verschiedenes"
 
 #: ../data/base.xml.in.h:5 ../input-pad/unicode_block.h:116
 msgid "Dingbats"
-msgstr ""
+msgstr "Dingbats"
 
 #. Translators: Superscripts and Subscripts
 #: ../data/base.xml.in.h:7
 msgid "Super and Sub"
-msgstr ""
+msgstr "Hoch- und tiefgestellt"
 
 #: ../data/base.xml.in.h:8
 msgid "Bold"
-msgstr ""
+msgstr "Fett"
 
 #: ../data/base.xml.in.h:9
 msgid "Italic"
-msgstr ""
+msgstr "Kursiv"
 
 #: ../data/base.xml.in.h:10
 msgid "Script"
-msgstr ""
+msgstr "Script"
 
 #: ../data/base.xml.in.h:11
 msgid "Double Struck"
-msgstr ""
+msgstr "Buchstaben mit Doppelstrich"
 
 #: ../data/base.xml.in.h:12
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 #: ../data/base.xml.in.h:13 ../data/zh.xml.in.h:2
 msgid "Numbers"
-msgstr ""
+msgstr "Ziffern"
 
 #: ../data/base.xml.in.h:14
 msgid "Roman"
-msgstr ""
+msgstr "Römische Zahlen"
 
 #: ../data/base.xml.in.h:15
 msgid "Enclosed"
-msgstr ""
+msgstr "Umschlossen"
 
 #: ../data/base.xml.in.h:16
 msgid "Fraction"
-msgstr ""
+msgstr "Brüche"
 
 #: ../data/base.xml.in.h:17
 msgid "Technical"
-msgstr ""
+msgstr "Technisch"
 
 #: ../data/base.xml.in.h:18
 msgid "Unit"
-msgstr ""
+msgstr "Einheiten"
 
 #: ../data/base.xml.in.h:19
 msgid "Mathematical"
-msgstr ""
+msgstr "Mathematisch"
 
 #: ../data/base.xml.in.h:20
 msgid "Controls"
-msgstr ""
+msgstr "Steuerungszeichen"
 
 #: ../data/base.xml.in.h:21
 msgid "OCR"
-msgstr ""
+msgstr "Texterkennung"
 
 #: ../data/base.xml.in.h:22
 msgid "Graphics"
-msgstr ""
+msgstr "Graphik"
 
 #: ../data/base.xml.in.h:23
 msgid "Arrow"
-msgstr ""
+msgstr "Pfeile"
 
 #: ../data/base.xml.in.h:24 ../input-pad/unicode_block.h:112
 msgid "Box Drawing"
-msgstr ""
+msgstr "Rahmenzeichnung"
 
 #: ../data/base.xml.in.h:25 ../input-pad/window-gtk.c:3685
 msgid "Block"
-msgstr ""
+msgstr "Klötzchen"
 
 #: ../data/base.xml.in.h:26
 msgid "Geometric"
-msgstr ""
+msgstr "Geometrie"
 
 #: ../data/base.xml.in.h:27
 msgid "Braille"
-msgstr ""
+msgstr "Blindenschrift"
 
 #: ../data/base.xml.in.h:28
 msgid "Punctuations"
-msgstr ""
+msgstr "Interpunktion"
 
 #: ../data/base.xml.in.h:29
 msgid "General"
-msgstr ""
+msgstr "Allgemein"
 
 #: ../data/base.xml.in.h:30
 msgid "CJK"
-msgstr ""
+msgstr "CJK"
 
 #: ../data/base.xml.in.h:31 ../input-pad/unicode_block.h:145
 msgid "CJK Compatibility"
-msgstr ""
+msgstr "CJK Kompatibilität"
 
 #: ../data/base.xml.in.h:32
 msgid "Small Form"
-msgstr ""
+msgstr "Kleine Formen"
 
 #: ../data/cmd.xml.in.h:1
 msgid "Command"
-msgstr ""
+msgstr "Kommandos"
 
 #: ../data/cmd.xml.in.h:2
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: ../data/cmd.xml.in.h:3
 msgid "Normal Date"
-msgstr ""
+msgstr "Gewöhnliches Datum"
 
 #: ../data/cmd.xml.in.h:4
 msgid "Date and Time"
-msgstr ""
+msgstr "Datum und Uhrzeit"
 
 #: ../data/cmd.xml.in.h:5
 msgid "ChangeLog date"
-msgstr ""
+msgstr "ChangeLog Datum"
 
 #: ../data/cmd.xml.in.h:6
 msgid "USA English date"
-msgstr ""
+msgstr "USA Englisches Datum"
 
 #: ../data/cmd.xml.in.h:7
 msgid "UK English date"
-msgstr ""
+msgstr "Britisch-Englisches Datum"
 
 #: ../data/cmd.xml.in.h:8
 msgid "ISO 8601 date"
-msgstr ""
+msgstr "ISO 8601 Datum"
 
 #: ../data/cmd.xml.in.h:9
 msgid "Era"
-msgstr ""
+msgstr "Ära"
 
 #: ../data/cmd.xml.in.h:10
 msgid "Century Year"
-msgstr ""
+msgstr "Jahrhundert"
 
 #: ../data/cmd.xml.in.h:11
 msgid "Normal Time"
-msgstr ""
+msgstr "Gewöhnliche Uhrzeit"
 
 #: ../data/cmd.xml.in.h:12
 msgid "English Time"
-msgstr ""
+msgstr "Englische Uhrzeit"
 
 #: ../data/cmd.xml.in.h:13
 msgid "Month"
-msgstr ""
+msgstr "Monat"
 
 #: ../data/cmd.xml.in.h:14
 msgid "English Month"
-msgstr ""
+msgstr "Englischer Monat"
 
 #: ../data/cmd.xml.in.h:15
 msgid "Short Month"
-msgstr ""
+msgstr "Abgekürzter Monat"
 
 #: ../data/cmd.xml.in.h:16
 msgid "English Short Month"
-msgstr ""
+msgstr "Englischer abgekürzter Monat"
 
 #: ../data/cmd.xml.in.h:17
 msgid "Weekday"
-msgstr ""
+msgstr "Wochentag"
 
 #: ../data/cmd.xml.in.h:18
 msgid "English Weekday"
-msgstr ""
+msgstr "Englischer Wochentag"
 
 #: ../data/cmd.xml.in.h:19
 msgid "Short Weekday"
-msgstr ""
+msgstr "Abgekürzter Wochentag"
 
 #: ../data/cmd.xml.in.h:20
 msgid "English Short Weekday"
-msgstr ""
+msgstr "Englischer abgekürzter Wochentag"
 
 #: ../data/goth.xml.in.h:1 ../input-pad/unicode_block.h:196
 msgid "Gothic"
-msgstr ""
+msgstr "Gotisch"
 
 #: ../data/input-pad.desktop.in.h:1 ../input-pad/dialog.ui.h:42
 #: ../input-pad/window-gtk.c:5084 ../input-pad/window-gtk.c:5085
 #: ../input-pad/window-gtk.ui.h:1
 msgid "Input Pad"
-msgstr ""
+msgstr "Input Pad"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-obsolete.xml.in.h:2
 msgid "IPA (Obsolete)"
-msgstr ""
+msgstr "IPA (Veraltet)"
 
 #: ../data/ipa-obsolete.xml.in.h:3 ../data/ipa.xml.in.h:6
 msgid "Open back unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter offener Hinterzungenvokal"
 
 #: ../data/ipa-obsolete.xml.in.h:4
 msgid "Palatalized voiced bilabial plosive"
-msgstr ""
+msgstr "Stimmhafter palataler Plosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:5
 msgid "Voiceless palatal implosive"
-msgstr ""
+msgstr "Stimmloser palataler Implosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:6 ../data/ipa.xml.in.h:138
 msgid "Alveolar click"
-msgstr ""
+msgstr "Alveolarer Klick"
 
 #: ../data/ipa-obsolete.xml.in.h:7
 msgid "Palatalized voiced alveolar plosive"
-msgstr ""
+msgstr "Palatalisierter stimmhafter alveolarer Plosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:8 ../data/ipa.xml.in.h:25
 msgid "Voiced alveolar affricate"
-msgstr ""
+msgstr "Stimmhafte alveolare Affrikate"
 
 #: ../data/ipa-obsolete.xml.in.h:9 ../data/ipa.xml.in.h:27
 msgid "Voiced alveopalatal affricate"
-msgstr ""
+msgstr "Stimmhafte alveopalatale Affrikate"
 
 #: ../data/ipa-obsolete.xml.in.h:10 ../data/ipa.xml.in.h:26
 msgid "Voiced palato-alveolar affricate"
-msgstr ""
+msgstr "Stimmhafte palatal-alveolare Affrikate"
 
 #: ../data/ipa-obsolete.xml.in.h:11
 msgid "Palatalized voiceless labiodental fricative"
-msgstr ""
+msgstr "Palatalisierter stimmloser  labiodentaler  Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:12
 msgid "Palatalized voiced velar plosive"
-msgstr ""
+msgstr "Palatalisierter stimmhafter velarer Plosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:13
 msgid "Palatalized voiceless velar plosive"
-msgstr ""
+msgstr "Palatalisierter stimmloser velarer Plosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:14
 msgid "Voiceless velar implosive"
-msgstr ""
+msgstr "Stimmloser velarer Implosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:15
 msgid "Palatalized alveolar lateral approximant"
-msgstr ""
+msgstr "Palatalisierter  alveolarer lateraler Approximant"
 
 #: ../data/ipa-obsolete.xml.in.h:16
 msgid "Palatalized bilabial nasal"
-msgstr ""
+msgstr "Palatalisierter bilabialer Nasal"
 
 #: ../data/ipa-obsolete.xml.in.h:17
 msgid "Palatalized alveolar nasal"
-msgstr ""
+msgstr "Palatalisierter alveolarer Nasal"
 
 #: ../data/ipa-obsolete.xml.in.h:18
 msgid "Syllabic alveolar nasal"
-msgstr ""
+msgstr "Silbischer alveolarer Nasal"
 
 #: ../data/ipa-obsolete.xml.in.h:19
 msgid "Palatalized voiceless bilabial plosive"
-msgstr ""
+msgstr "Palatalisierter stimmloser bilabialer Plosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:20
 msgid "Voiceless bilabial implosive"
-msgstr ""
+msgstr "Stimmloser bilabialer Implosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:21
 msgid "Palatalized alveolar trill"
-msgstr ""
+msgstr "Palatalisierter alveolarer Vibrant"
 
 #: ../data/ipa-obsolete.xml.in.h:22
 msgid "Voiced strident apico-alveolar trill"
-msgstr ""
+msgstr "Stimmhafter stridenter  apico-alveolarer  Vibrant"
 
 #: ../data/ipa-obsolete.xml.in.h:23
 msgid "Palatalized voiceless alveolar fricative"
-msgstr ""
+msgstr "Palatalisierter stimmloser alveolarer Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:24 ../data/ipa.xml.in.h:19
 msgid "Voiceless alveopalatal fricative"
-msgstr ""
+msgstr "Stimmloser alveopalataler Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:25
 msgid "Labialized voiceless palato-alveolar fricative"
-msgstr ""
+msgstr "Labialisierter stimmloser palatal-alveolarer Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:26 ../data/ipa.xml.in.h:103
 msgid "Voiceless alveopalatal affricate"
-msgstr ""
+msgstr "Stimmlose alveopalatale Affrikate"
 
 #: ../data/ipa-obsolete.xml.in.h:27 ../data/ipa.xml.in.h:101
 msgid "Voiceless alveolar affricate"
-msgstr ""
+msgstr "Stimmlose alveolare Affrikate"
 
 #: ../data/ipa-obsolete.xml.in.h:28 ../data/ipa.xml.in.h:102
 msgid "Voiceless palato-alveolar affricate"
-msgstr ""
+msgstr "Stimmlose palatal-alveolare Affrikate"
 
 #: ../data/ipa-obsolete.xml.in.h:29
 msgid "Palatalized voiceless alveolar plosive"
-msgstr ""
+msgstr "Palatalisierter stimmloser alveolarer Plosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:30
 msgid "Voiceless alveolar implosive"
-msgstr ""
+msgstr "Stimmloser alveolarer Implosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:31 ../data/ipa.xml.in.h:137
 msgid "Dental click"
-msgstr ""
+msgstr "Dentaler Klick"
 
 #: ../data/ipa-obsolete.xml.in.h:32
 msgid "Voiceless uvular implosive"
-msgstr ""
+msgstr "Stimmloser uvularer Implosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:33
 msgid "Palatalized voiced labiodental fricative"
-msgstr ""
+msgstr "Palatalisierter stimmhafter labiodentaler Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:34
 msgid "Palatalized voiceless velar fricative"
-msgstr ""
+msgstr "Palatalisierter stimmloser velarer Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:35
 msgid "Palatalized voiced alveolar fricative"
-msgstr ""
+msgstr "Palatalisierter stimmhafter alveolarer Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:36
 msgid "Labialized voiced palato-alveolar fricative"
-msgstr ""
+msgstr "Labialisierter stimmhafter palatal-alveolarer Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:37 ../data/ipa.xml.in.h:128
 msgid "Voiced alveopalatal fricative"
-msgstr ""
+msgstr "Stimmhafter alveo-palataler Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:38 ../data/ipa.xml.in.h:106
 msgid "Near-close near-back vowel"
-msgstr ""
+msgstr "Zentralisierter fast geschlossener Hinterzungenvokal"
 
 #: ../data/ipa-obsolete.xml.in.h:39 ../data/ipa.xml.in.h:140
 msgid "Alveolar lateral click"
-msgstr ""
+msgstr "Alveolar-lateraler Klick"
 
 #: ../data/ipa-obsolete.xml.in.h:40
 msgid "Labialized voiceless alveolar or dental fricative"
-msgstr ""
+msgstr "Labialisierter stimmloser alveolarer oder dentaler Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:41
 msgid "Labialized voiced alveolar or dental fricative"
-msgstr ""
+msgstr "Labialisierter stimmhafter alveolarer oder  dentaler Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:42
 msgid "Combining labialization mark"
-msgstr ""
+msgstr "Kombinierendes Labialisierungszeichen"
 
 #: ../data/ipa-obsolete.xml.in.h:43
 msgid "Combining palatalization mark"
-msgstr ""
+msgstr "Kombinierendes Palatalisierungszeichen"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-unofficial.xml.in.h:2
 msgid "IPA (Unofficial)"
-msgstr ""
+msgstr "IPA (Inoffiziell)"
 
 #: ../data/ipa-unofficial.xml.in.h:3
 msgid "Voiced labiodental plosive"
-msgstr ""
+msgstr "Stimmhafter labiodentaler Plosiv"
 
 #: ../data/ipa-unofficial.xml.in.h:4 ../data/ipa.xml.in.h:18
 msgid "Voiceless palatal lateral affricate"
-msgstr ""
+msgstr "Stimmlose palatal-laterale Affrikate"
 
 #: ../data/ipa-unofficial.xml.in.h:5
 msgid "Voiced retroflex implosive"
-msgstr ""
+msgstr "Stimmhafter retroflexer Implosiv"
 
 #: ../data/ipa-unofficial.xml.in.h:6 ../data/ipa.xml.in.h:88
 msgid "Alveolar flap"
-msgstr ""
+msgstr "Alveolarer Tap"
 
 #: ../data/ipa-unofficial.xml.in.h:7 ../data/ipa.xml.in.h:125
 msgid "Voiceless palatal lateral fricative"
-msgstr ""
+msgstr "Stimmloser palatal-lateraler Frikativ"
 
 #: ../data/ipa-unofficial.xml.in.h:8 ../data/ipa.xml.in.h:91
 msgid "Retroflex flap"
-msgstr ""
+msgstr "Retroflexer Tap"
 
 #: ../data/ipa-unofficial.xml.in.h:9
 msgid "Voiceless retroflex lateral fricative"
-msgstr ""
+msgstr "Stimmloser retroflexer lateraler Frikativ"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in.h:11
 msgid "Voiceless retroflex lateral fricative (PUA)"
-msgstr ""
+msgstr "Stimmloser retroflexer lateraler Frikativ (PUA)"
 
 #: ../data/ipa-unofficial.xml.in.h:12 ../data/ipa.xml.in.h:59
 msgid "Voiceless velar lateral affricate"
-msgstr ""
+msgstr "Stimmlose velar-laterale Affrikate"
 
 #: ../data/ipa-unofficial.xml.in.h:13 ../data/ipa.xml.in.h:68
 msgid "Voiceless velar lateral fricative"
-msgstr ""
+msgstr "Stimmloser velarer lateraler Frikativ"
 
 #: ../data/ipa-unofficial.xml.in.h:14
 msgid "Epiglottal trill"
-msgstr ""
+msgstr "Epiglottaler Vibrant"
 
 #: ../data/ipa-unofficial.xml.in.h:15
 msgid "Voiceless labiodental plosive"
-msgstr ""
+msgstr "Stimmloser labiodentaler Plosiv"
 
 #: ../data/ipa-unofficial.xml.in.h:16
 msgid "Voiceless retroflex lateral affricate"
-msgstr ""
+msgstr "Stimmlose retroflexe-laterale Affrikate"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in.h:18
 msgid "Voiceless retroflex lateral affricate (PUA)"
-msgstr ""
+msgstr "Stimmlose retroflex-laterale Affrikate (PUA)"
 
 #: ../data/ipa-unofficial.xml.in.h:19
 msgid "Combining stridency mark"
-msgstr ""
+msgstr "Kombinierendes  Strident-Zeichen"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in.h:21
 msgid "Combining stridency mark (PUA)"
-msgstr ""
+msgstr "Kombinierendes Strident-Zeichen (PUA)"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa.xml.in.h:2
 msgid "IPA"
-msgstr ""
+msgstr "IPA"
 
 #: ../data/ipa.xml.in.h:3
 msgid "Open front unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter offener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:4
 msgid "Open central unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter offener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:5
 msgid "Near-open central vowel"
-msgstr ""
+msgstr "Fast offener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:7
 msgid "Open back rounded vowel"
-msgstr ""
+msgstr "Gerundeter offener Hinterzungenvokal"
 
 #: ../data/ipa.xml.in.h:8
 msgid "Open-mid back unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter halboffener Hinterzungenvokal"
 
 #: ../data/ipa.xml.in.h:9
 msgid "Near-open front unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter fast offener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:10
 msgid "Voiced bilabial plosive"
-msgstr ""
+msgstr "Stimmhafter bilabialer Plosiv"
 
 #: ../data/ipa.xml.in.h:11
 msgid "Voiced labiodental affricate"
-msgstr ""
+msgstr "Stimmhafte labiodentale Affrikate"
 
 #: ../data/ipa.xml.in.h:12
 msgid "Voiced bilabial implosive"
-msgstr ""
+msgstr "Stimmhafter bilabialer Implosiv"
 
 #: ../data/ipa.xml.in.h:13
 msgid "Bilabial trill"
-msgstr ""
+msgstr "Bilabialer Vibrant"
 
 #: ../data/ipa.xml.in.h:14
 msgid "Voiced bilabial fricative"
-msgstr ""
+msgstr "Stimmhafter bilabialer Frikativ"
 
 #: ../data/ipa.xml.in.h:15
 msgid "Voiceless palatal plosive"
-msgstr ""
+msgstr "Stimmloser palataler Plosiv"
 
 #: ../data/ipa.xml.in.h:16
 msgid "Voiceless palatal fricative"
-msgstr ""
+msgstr "Stimmloser palataler Frikativ"
 
 #: ../data/ipa.xml.in.h:17
 msgid "Voiceless palatal affricate"
-msgstr ""
+msgstr "Stimmhafte palatale Affrikate"
 
 #: ../data/ipa.xml.in.h:20
 msgid "Voiced alveolar plosive"
-msgstr ""
+msgstr "Stimmhafter alveolarer Plosiv"
 
 #: ../data/ipa.xml.in.h:21
 msgid "Voiced alveolar implosive"
-msgstr ""
+msgstr "Stimmhafter  alveolarer Implosiv"
 
 #: ../data/ipa.xml.in.h:22
 msgid "Voiced retroflex plosive"
-msgstr ""
+msgstr "Stimmhafter retroflexer Plosiv"
 
 #: ../data/ipa.xml.in.h:23
 msgid "Voiced dental fricative"
-msgstr ""
+msgstr "Stimmhafter dentaler Frikativ"
 
 #: ../data/ipa.xml.in.h:24
 msgid "Voiced alveolar lateral affricate"
-msgstr ""
+msgstr "Stimmhafte alveolar-laterale Affrikate"
 
 #: ../data/ipa.xml.in.h:28
 msgid "Voiced retroflex affricate"
-msgstr ""
+msgstr "Stimmhafte retroflexe Affrikate"
 
 #: ../data/ipa.xml.in.h:29
 msgid "Close-mid front unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter halbgeschlossener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:30
 msgid "Close-mid central unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter halbgeschlossener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:31
 msgid "Mid-central vowel"
-msgstr ""
+msgstr "Mittlerer Zentralvokal  (Schwa)"
 
 #: ../data/ipa.xml.in.h:32
 msgid "Rhotacized mid-central vowel"
-msgstr ""
+msgstr "Rhotischer mittlerer Zentralvokal (Rhotisches Schwa)"
 
 #: ../data/ipa.xml.in.h:33
 msgid "Open-mid front unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter halboffener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:34
 msgid "Open-mid central rounded vowel"
-msgstr ""
+msgstr "Gerundeter halboffener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:35
 msgid "Open-mid central unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter halboffener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:36
 msgid "Rhotacized open-mid central unrounded vowel"
-msgstr ""
+msgstr "Rhotischer ungerundeter halboffener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:37
 msgid "Voiceless labiodental fricative"
-msgstr ""
+msgstr "Stimmloser labiodentaler Frikativ"
 
 #: ../data/ipa.xml.in.h:38
 msgid "Velopharyngeal fricative"
-msgstr ""
+msgstr "Velopharyngealer Frikativ"
 
 #: ../data/ipa.xml.in.h:39
 msgid "Voiced velar plosive"
-msgstr ""
+msgstr "Stimmhafter velarer Plosiv"
 
 #: ../data/ipa.xml.in.h:40
 msgid "Voiced labial-velar plosive"
-msgstr ""
+msgstr "Stimmhafter labio-velarer Plosiv"
 
 #: ../data/ipa.xml.in.h:41
 msgid "Voiced velar implosive"
-msgstr ""
+msgstr "Stimmhafter velarer Implosiv"
 
 #: ../data/ipa.xml.in.h:42
 msgid "Voiced uvular plosive"
-msgstr ""
+msgstr "Stimmhafter uvularer Plosiv"
 
 #: ../data/ipa.xml.in.h:43
 msgid "Voiced uvular implosive"
-msgstr ""
+msgstr "Stimmhafter uvularer Implosiv"
 
 #: ../data/ipa.xml.in.h:44
 msgid "Voiceless glottal fricative"
-msgstr ""
+msgstr "Stimmloser glottaler  Frikativ"
 
 #: ../data/ipa.xml.in.h:45
 msgid "Voiced glottal fricative"
-msgstr ""
+msgstr "Stimmhafter glottaler Frikativ"
 
 #: ../data/ipa.xml.in.h:46
 msgid "Voiceless pharyngeal fricative"
-msgstr ""
+msgstr "Stimmloser pharyngaler Frikativ"
 
 #: ../data/ipa.xml.in.h:47
 msgid "Voiceless coarticulated velar and palato-alveolar fricative"
-msgstr ""
+msgstr "Stimmloser velopalataler Frikativ"
 
 #: ../data/ipa.xml.in.h:48
 msgid "Voiceless epiglottal fricative"
-msgstr ""
+msgstr "Stimmloser epiglottaler  Frikativ"
 
 #: ../data/ipa.xml.in.h:49
 msgid "Close front unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter geschlossener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:50
 msgid "Near-close near-front unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter zentralisierter fast geschlossener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:51
 msgid "Near-close central unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter zentralisierter fast geschlossener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:52
 msgid "Close central unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter geschlossener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:53
 msgid "Palatal approximant"
-msgstr ""
+msgstr "Palataler Approximant"
 
 #: ../data/ipa.xml.in.h:54
 msgid "Voiced palatal fricative"
-msgstr ""
+msgstr "Stimmhafter palataler  Frikativ"
 
 #: ../data/ipa.xml.in.h:55
 msgid "Voiced palatal plosive"
-msgstr ""
+msgstr "Stimmhafter palataler Plosiv"
 
 #: ../data/ipa.xml.in.h:56
 msgid "Voiced palatal affricate"
-msgstr ""
+msgstr "Stimmhafte palatale Affrikate"
 
 #: ../data/ipa.xml.in.h:57
 msgid "Voiced palatal implosive"
-msgstr ""
+msgstr "Stimmhafter  palataler  Implosiv"
 
 #: ../data/ipa.xml.in.h:58
 msgid "Voiceless velar plosive"
-msgstr ""
+msgstr "Stimmloser velarer Plosiv"
 
 #: ../data/ipa.xml.in.h:60
 msgid "Voiceless labial-velar plosive"
-msgstr ""
+msgstr "Stimmloser labial-velarer Plosiv"
 
 #: ../data/ipa.xml.in.h:61
 msgid "Voiceless velar affricate"
-msgstr ""
+msgstr "Stimmlose velare Affrikate"
 
 #: ../data/ipa.xml.in.h:62
 msgid "Alveolar lateral approximant"
-msgstr ""
+msgstr "Alveolarer labialer Approximant"
 
 #: ../data/ipa.xml.in.h:63
 msgid "Velarized alveolar lateral approximant"
-msgstr ""
+msgstr "Velarisierter alveolarer lateraler Approximant"
 
 #: ../data/ipa.xml.in.h:64
 msgid "Voiceless alveolar lateral fricative"
-msgstr ""
+msgstr "Stimmloser alveolarer lateraler Frikativ"
 
 #: ../data/ipa.xml.in.h:65
 msgid "Retroflex lateral approximant"
-msgstr ""
+msgstr "Retroflexer lateraler Approximant"
 
 #: ../data/ipa.xml.in.h:66
 msgid "Voiced alveolar lateral fricative"
-msgstr ""
+msgstr "Stimmhafter alveolarer  lateraler Frikativ"
 
 #: ../data/ipa.xml.in.h:67
 msgid "Velar lateral approximant"
-msgstr ""
+msgstr "Velar-lateraler Approximant"
 
 #: ../data/ipa.xml.in.h:69
 msgid "Bilabial nasal"
-msgstr ""
+msgstr "Bilabialer Nasal"
 
 #: ../data/ipa.xml.in.h:70
 msgid "Labiodental nasal"
-msgstr ""
+msgstr "Labiodentaler Nasal"
 
 #: ../data/ipa.xml.in.h:71
 msgid "Alveolar nasal"
-msgstr ""
+msgstr "Alveolarer Nasal"
 
 #: ../data/ipa.xml.in.h:72
 msgid "Velar nasal"
-msgstr ""
+msgstr "Velarer Nasal"
 
 #: ../data/ipa.xml.in.h:73
 msgid "Labial-velar nasal"
-msgstr ""
+msgstr "Labio-velarer Nasal"
 
 #: ../data/ipa.xml.in.h:74
 msgid "Palatal nasal"
-msgstr ""
+msgstr "Palataler Nasal"
 
 #: ../data/ipa.xml.in.h:75
 msgid "Retroflex nasal"
-msgstr ""
+msgstr "Retroflexer Nasal"
 
 #: ../data/ipa.xml.in.h:76
 msgid "Uvular nasal"
-msgstr ""
+msgstr "Uvularer Nasal"
 
 #: ../data/ipa.xml.in.h:77
 msgid "Close-mid back rounded vowel"
-msgstr ""
+msgstr "Gerundeter halbgeschlossener Hinterzungenvokal"
 
 #: ../data/ipa.xml.in.h:78
 msgid "Close-mid front rounded vowel"
-msgstr ""
+msgstr "Gerundeter halbgeschlossener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:79
 msgid "Close-mid central rounded vowel"
-msgstr ""
+msgstr "Gerundeter halbgeschlossener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:80
 msgid "Open-mid front rounded vowel"
-msgstr ""
+msgstr "Gerundeter halboffener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:81
 msgid "Open front rounded vowel"
-msgstr ""
+msgstr "Gerundeter offener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:82
 msgid "Voiceless bilabial plosive"
-msgstr ""
+msgstr "Stimmloser bilabialer Plosiv"
 
 #: ../data/ipa.xml.in.h:83
 msgid "Voiceless bilabial-labiodental affricate"
-msgstr ""
+msgstr "Stimmlose bilabial-labiodentale Affrikate"
 
 #: ../data/ipa.xml.in.h:84
 msgid "Voiceless bilabial affricate"
-msgstr ""
+msgstr "Stimmlose bilabiale Affrikate"
 
 #: ../data/ipa.xml.in.h:85
 msgid "Voiceless labiodental affricate"
-msgstr ""
+msgstr "Stimmlose labiodentale Affrikate"
 
 #: ../data/ipa.xml.in.h:86
 msgid "Voiceless uvular plosive"
-msgstr ""
+msgstr "Stimmloser uvularer Plosiv"
 
 #: ../data/ipa.xml.in.h:87
 msgid "Alveolar trill"
-msgstr ""
+msgstr "Alveolarer Vibrant"
 
 #: ../data/ipa.xml.in.h:89
 msgid "Alveolar lateral flap"
-msgstr ""
+msgstr "Alveolarer lateraler Tap"
 
 #: ../data/ipa.xml.in.h:90
 msgid "Uvular trill"
-msgstr ""
+msgstr "Uvularer Vibrant"
 
 #: ../data/ipa.xml.in.h:92
 msgid "Alveolar approximant"
-msgstr ""
+msgstr "Alveolarer Approximant"
 
 #: ../data/ipa.xml.in.h:93
 msgid "Retroflex approximant"
-msgstr ""
+msgstr "Retroflexer Approximant"
 
 #: ../data/ipa.xml.in.h:94
 msgid "Voiced uvular fricative"
-msgstr ""
+msgstr "Stimmhafter uvularer Frikativ"
 
 #: ../data/ipa.xml.in.h:95
 msgid "Voiceless alveolar fricative"
-msgstr ""
+msgstr "Stimmloser alveolarer Frikativ"
 
 #: ../data/ipa.xml.in.h:96
 msgid "Voiceless palato-alveolar fricative"
-msgstr ""
+msgstr "Stimmloser palatal-alveolarer Frikativ"
 
 #: ../data/ipa.xml.in.h:97
 msgid "Voiceless retroflex fricative"
-msgstr ""
+msgstr "Stimmloser retroflexer Frikativ"
 
 #: ../data/ipa.xml.in.h:98
 msgid "Voiceless alveolar plosive"
-msgstr ""
+msgstr "Stimmloser alveolarer Frikativ"
 
 #: ../data/ipa.xml.in.h:99
 msgid "Voiceless retroflex plosive"
-msgstr ""
+msgstr "Stimmloser retroflexer Plosiv"
 
 #: ../data/ipa.xml.in.h:100
 msgid "Voiceless alveolar lateral affricate"
-msgstr ""
+msgstr "Stimmlose alveolar-laterale Affrikate"
 
 #: ../data/ipa.xml.in.h:104
 msgid "Voiceless retroflex affricate"
-msgstr ""
+msgstr "Stimmlose retroflexe Affrikate"
 
 #: ../data/ipa.xml.in.h:105
 msgid "Close back rounded vowel"
-msgstr ""
+msgstr "Gerundeter geschlossener Hinterzungenvokal"
 
 #: ../data/ipa.xml.in.h:107
 msgid "Near-close central vowel"
-msgstr ""
+msgstr "Fast geschlossener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:108
 msgid "Close central rounded vowel"
-msgstr ""
+msgstr "Gerundeter geschlossener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:109
 msgid "Labial-palatal approximant"
-msgstr ""
+msgstr "Labial-palataler Approximant"
 
 #: ../data/ipa.xml.in.h:110
 msgid "Close back unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter geschlossener Hinterzungenvokal"
 
 #: ../data/ipa.xml.in.h:111
 msgid "Voiced labiodental fricative"
-msgstr ""
+msgstr "Stimmhafter labiodentaler Frikativ"
 
 #: ../data/ipa.xml.in.h:112
 msgid "Labiodental flap"
-msgstr ""
+msgstr "Labiodentaler Tap"
 
 #: ../data/ipa.xml.in.h:113
 msgid "Labiodental approximant"
-msgstr ""
+msgstr "Labiodentaler Approximant"
 
 #: ../data/ipa.xml.in.h:114
 msgid "Voiced velar fricative"
-msgstr ""
+msgstr "Stimmhafter velarer Frikativ"
 
 #: ../data/ipa.xml.in.h:115
 msgid "Close-mid back unrounded vowel"
-msgstr ""
+msgstr "Ungerundeter halbgeschlossener Hinterzungenvokal"
 
 #: ../data/ipa.xml.in.h:116
 msgid "Voiced labiovelar approximant"
-msgstr ""
+msgstr "Stimmhafter labiovelarer Approximant"
 
 #: ../data/ipa.xml.in.h:117
 msgid "Voiceless labiovelar approximant"
-msgstr ""
+msgstr "Stimmloser labial-velarer Approximant"
 
 #: ../data/ipa.xml.in.h:118
 msgid "Velar approximant"
-msgstr ""
+msgstr "Velarer Approximant"
 
 #: ../data/ipa.xml.in.h:119
 msgid "Bilabial percussive"
-msgstr ""
+msgstr "Bilabialer Schlaglaut"
 
 #: ../data/ipa.xml.in.h:120
 msgid "Voiceless velar fricative"
-msgstr ""
+msgstr "Stimmloser velarer Frikativ"
 
 #: ../data/ipa.xml.in.h:121
 msgid "Voiceless uvular fricative"
-msgstr ""
+msgstr "Stimmloser uvularer Frikativ"
 
 #: ../data/ipa.xml.in.h:122
 msgid "Close front rounded vowel"
-msgstr ""
+msgstr "Gerundeter geschlossener Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:123
 msgid "Near-close near-front rounded vowel"
-msgstr ""
+msgstr "Gerundeter zentralisierter fast geschlossener Fast-Vorderzungenvokal"
 
 #: ../data/ipa.xml.in.h:124
 msgid "Palatal lateral approximant"
-msgstr ""
+msgstr "Palatal-lateraler Approximant"
 
 #: ../data/ipa.xml.in.h:126
 msgid "Voiced alveolar fricative"
-msgstr ""
+msgstr "Stimmhafter alveolarer Frikativ"
 
 #: ../data/ipa.xml.in.h:127
 msgid "Voiced palato-alveolar fricative"
-msgstr ""
+msgstr "Stimmhafter palatal-alveolarer Frikativ"
 
 #: ../data/ipa.xml.in.h:129
 msgid "Voiced retroflex fricative"
-msgstr ""
+msgstr "Stimmhafter retroflexer Frikativ"
 
 #: ../data/ipa.xml.in.h:130
 msgid "Voiceless dental fricative"
-msgstr ""
+msgstr "Stimmloser dentaler Frikativ"
 
 #: ../data/ipa.xml.in.h:131
 msgid "Voiceless bilabial fricative"
-msgstr ""
+msgstr "Stimmloser bilabialer Frikativ"
 
 #: ../data/ipa.xml.in.h:132
 msgid "Glottal stop"
-msgstr ""
+msgstr "Stimmloser glottaler Plosiv"
 
 #: ../data/ipa.xml.in.h:133
 msgid "Epiglottal plosive"
-msgstr ""
+msgstr "Epiglottaler Plosiv"
 
 #: ../data/ipa.xml.in.h:134
 msgid "Voiced pharyngeal fricative"
-msgstr ""
+msgstr "Stimmhafter pharyngaler Frikativ"
 
 #: ../data/ipa.xml.in.h:135
 msgid "Voiced epiglottal fricative"
-msgstr ""
+msgstr "Stimmhafter epiglottaler Frikativ"
 
 #: ../data/ipa.xml.in.h:136
 msgid "Bilabial click"
-msgstr ""
+msgstr "Bilabialer Klick"
 
 #: ../data/ipa.xml.in.h:139
 msgid "Palatal click"
-msgstr ""
+msgstr "Palataler Klick"
 
 #: ../data/ipa.xml.in.h:141
 msgid "Bidental percussive"
-msgstr ""
+msgstr "Bidentaler Schlaglaut"
 
 #: ../data/ipa.xml.in.h:142
 msgid "Aspiration mark"
-msgstr ""
+msgstr "Aspirationszeichen"
 
 #: ../data/ipa.xml.in.h:143
 msgid "Non-aspiration mark"
-msgstr ""
+msgstr "Nicht-Aspirierungszeichen"
 
 #: ../data/ipa.xml.in.h:144
 msgid "Breathy voice mark"
-msgstr ""
+msgstr "Stimmhaft-Aspiriert-Zeichen"
 
 #: ../data/ipa.xml.in.h:145
 msgid "Palatalization mark"
-msgstr ""
+msgstr "Palatalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:146
 msgid "Lateral release mark"
-msgstr ""
+msgstr "Zeichen für laterale Verschlußlösung"
 
 #: ../data/ipa.xml.in.h:147
 msgid "Bilabial nasal release mark"
-msgstr ""
+msgstr "Zeichen für bilabiale nasale Verschlußlösung"
 
 #: ../data/ipa.xml.in.h:148
 msgid "Labiodental nasal release mark"
-msgstr ""
+msgstr "Zeichen für labiodental-nasale Verschlußlösung"
 
 #: ../data/ipa.xml.in.h:149
 msgid "Alveolar nasal release mark"
-msgstr ""
+msgstr "Zeichen für alveolar nasale Verschlußlösung"
 
 #: ../data/ipa.xml.in.h:150
 msgid "Palatal nasal release mark"
-msgstr ""
+msgstr "Zeichen für palatal nasale Verschlußlösung"
 
 #: ../data/ipa.xml.in.h:151
 msgid "Retroflex nasal release mark"
-msgstr ""
+msgstr "Zeichen für retroflexe nasale Verschlußlösung"
 
 #: ../data/ipa.xml.in.h:152
 msgid "Uvular nasal release mark"
-msgstr ""
+msgstr "Zeichen für uvular nasale Verschlußlösung"
 
 #: ../data/ipa.xml.in.h:153
 msgid "Labio-palatalization mark"
-msgstr ""
+msgstr "Labio-palatalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:154
 msgid "Labiodentalization mark"
-msgstr ""
+msgstr "Labiodentalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:155
 msgid "Labialization mark"
-msgstr ""
+msgstr "Labialisierungszeichen"
 
 #: ../data/ipa.xml.in.h:156
 msgid "Velarization mark"
-msgstr ""
+msgstr "Velarisierungszeichen"
 
 #: ../data/ipa.xml.in.h:157
 msgid "Glottalization mark"
-msgstr ""
+msgstr "Glottalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:158
 msgid "Pharyngealization mark"
-msgstr ""
+msgstr "Pharyngalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:159
 msgid "Combining velarization/pharyngealization mark"
-msgstr ""
+msgstr "Kombinierendes Velarisierungs-/Pharyngalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:160
 msgid "Combining laryngealization mark"
-msgstr ""
+msgstr "Kombinierendes Laryngalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:161
 msgid "Combining retroflexion mark"
-msgstr ""
+msgstr "Kombinierendes Retroflexzeichen"
 
 #: ../data/ipa.xml.in.h:162
 msgid "Ejection mark"
-msgstr ""
+msgstr "Ejektivzeichen"
 
 #: ../data/ipa.xml.in.h:163
 msgid "Rhotacization mark"
-msgstr ""
+msgstr "Rhotisierungszeichen"
 
 #: ../data/ipa.xml.in.h:164
 msgid "Combining dentalization mark"
-msgstr ""
+msgstr "Kombinierendes Dentalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:165
 msgid "Combining dentolabialization mark"
-msgstr ""
+msgstr "Kombinierendes Dentolabialisierungszeichen"
 
 #: ../data/ipa.xml.in.h:166
 msgid "Combining alveolarization mark"
-msgstr ""
+msgstr "Kombinierendes Alveolarisierungszeichen"
 
 #: ../data/ipa.xml.in.h:167
 msgid "Combining linguolabialization mark"
-msgstr ""
+msgstr "Kombinierendes  Linguolabialisierungszeichen"
 
 #: ../data/ipa.xml.in.h:168
 msgid "Combining apicalization mark"
-msgstr ""
+msgstr "Kombinierendes Apikalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:169
 msgid "Combining laminalization mark"
-msgstr ""
+msgstr "Kombinierendes Laminalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:170
 msgid "Combining centralization mark"
-msgstr ""
+msgstr "Kombinierendes  Zentralisierungszeichen"
 
 #: ../data/ipa.xml.in.h:171
 msgid "Combining mid-centralization mark"
-msgstr ""
+msgstr "Kombinierendes Mitte-Zentralisierungszeichen"
 
 #: ../data/ipa.xml.in.h:172
 msgid "Combining nasalization mark"
-msgstr ""
+msgstr "Kombinierendes Nasalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:173
 msgid "Combining nasalization mark below"
-msgstr ""
+msgstr "Kombinierendes Nasalisierungszeichen unten"
 
 #: ../data/ipa.xml.in.h:174
 msgid "Combining denasalization mark"
-msgstr ""
+msgstr "Kombinierendes Denasalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:175
 msgid "Combining nasal friction mark"
-msgstr ""
+msgstr "Kombinierendes nasales Reibungszeichen"
 
 #: ../data/ipa.xml.in.h:176
 msgid "Combining velopharyngeal friction mark"
-msgstr ""
+msgstr "Kombinierendes Velopharyngales Reibungszeichen"
 
 #: ../data/ipa.xml.in.h:177
 msgid "Combining voiced mark"
-msgstr ""
+msgstr "Kombinierendes Stimmhaftzeichen"
 
 #: ../data/ipa.xml.in.h:178
 msgid "Combining voiceless mark"
-msgstr ""
+msgstr "Kombinierendes Stimmloszeichen"
 
 #: ../data/ipa.xml.in.h:179
 msgid "Combining voiceless mark above"
-msgstr ""
+msgstr "Kombinierendes Stimmloszeichen oben"
 
 #: ../data/ipa.xml.in.h:180
 msgid "Pre-voicing/post-voicing mark"
-msgstr ""
+msgstr "Vor-Stimmhaft/Nach-Stimmhaft-Zeichen"
 
 #: ../data/ipa.xml.in.h:181
 msgid "Combining breathy voice mark"
-msgstr ""
+msgstr "Kombinierendes Stimmhaft-Aspiriert-Zeichen"
 
 #: ../data/ipa.xml.in.h:182
 msgid "Combining unreleased stop mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für nicht-verschlußlösenden Stop"
 
 #: ../data/ipa.xml.in.h:183
 msgid "Combining more rounded mark"
-msgstr ""
+msgstr "Kombinierendes Mehr-Gerundet-Zeichen"
 
 #: ../data/ipa.xml.in.h:184
 msgid "Combining less rounded mark"
-msgstr ""
+msgstr "Kombinierendes Weniger-Gerundet-Zeichen"
 
 #: ../data/ipa.xml.in.h:185
 msgid "Combining labial spreading mark"
-msgstr ""
+msgstr "Kombinierendes labiales Verbreiterungszeichen"
 
 #: ../data/ipa.xml.in.h:186
 msgid "Combining syllabic mark"
-msgstr ""
+msgstr "Kombinierendes Sonantzeichen"
 
 #: ../data/ipa.xml.in.h:187
 msgid "Combining syllabic mark above"
-msgstr ""
+msgstr "Kombinierendes Sonantzeichen oben"
 
 #: ../data/ipa.xml.in.h:188
 msgid "Combining non-syllabic mark"
-msgstr ""
+msgstr "Kombinierendes nicht-Sonant-Zeichen"
 
 #: ../data/ipa.xml.in.h:189
 msgid "Combining non-syllabic mark above"
-msgstr ""
+msgstr "Kombinierendes nicht-Sonant-Zeichen oben"
 
 #: ../data/ipa.xml.in.h:190
 msgid "Combining top tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für extra hohen Ton"
 
 #: ../data/ipa.xml.in.h:191
 msgid "Combining high tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für hohen Ton"
 
 #: ../data/ipa.xml.in.h:192
 msgid "Combining mid tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für mittleren Ton"
 
 #: ../data/ipa.xml.in.h:193
 msgid "Combining low tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für tiefen Ton"
 
 #: ../data/ipa.xml.in.h:194
 msgid "Combining bottom tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für extra tiefen Ton"
 
 #: ../data/ipa.xml.in.h:195
 msgid "Combining falling tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für fallenden Ton"
 
 #: ../data/ipa.xml.in.h:196
 msgid "Combining high falling tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für hohen fallenden Ton"
 
 #: ../data/ipa.xml.in.h:197
 msgid "Combining low falling tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für tiefen fallenden Ton"
 
 #: ../data/ipa.xml.in.h:198
 msgid "Combining rising tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für steigenden Ton"
 
 #: ../data/ipa.xml.in.h:199
 msgid "Combining high rising tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für hohen steigen Ton"
 
 #: ../data/ipa.xml.in.h:200
 msgid "Combining low rising tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für tiefen steigenden Ton"
 
 #: ../data/ipa.xml.in.h:201
 msgid "Combining dipping tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für fallend-steigenden Ton"
 
 #: ../data/ipa.xml.in.h:202
 msgid "Combining peaking tone mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für steigend-fallenden Ton"
 
 #: ../data/ipa.xml.in.h:203
 msgid "Top tone letter"
-msgstr ""
+msgstr "Buchstabe für extra hohen Ton"
 
 #: ../data/ipa.xml.in.h:204
 msgid "High tone letter"
-msgstr ""
+msgstr "Buchstabe für hohen Ton"
 
 #: ../data/ipa.xml.in.h:205
 msgid "Mid tone letter"
-msgstr ""
+msgstr "Buchstaben für mittleren Ton"
 
 #: ../data/ipa.xml.in.h:206
 msgid "Low tone letter"
-msgstr ""
+msgstr "Buchstabe für tiefen Ton"
 
 #: ../data/ipa.xml.in.h:207
 msgid "Bottom tone letter"
-msgstr ""
+msgstr "Buchstabe für extra tiefen Ton"
 
 #: ../data/ipa.xml.in.h:208
 msgid "Falling tone digraph"
-msgstr ""
+msgstr "Digraph für fallenden Ton"
 
 #: ../data/ipa.xml.in.h:209
 msgid "High falling tone digraph"
-msgstr ""
+msgstr "Digraph für hohen fallenden Ton"
 
 #: ../data/ipa.xml.in.h:210
 msgid "Rising tone digraph"
-msgstr ""
+msgstr "Digraph für steigenden Ton"
 
 #: ../data/ipa.xml.in.h:211
 msgid "High rising tone digraph"
-msgstr ""
+msgstr "Digraph für hohen steigenden Ton"
 
 #: ../data/ipa.xml.in.h:212
 msgid "Low rising tone digraph"
-msgstr ""
+msgstr "Digraph für niedrigen steigenden Ton"
 
 #: ../data/ipa.xml.in.h:213
 msgid "Dipping tone trigraph"
-msgstr ""
+msgstr "Trigraph für fallend-steigenden Ton"
 
 #: ../data/ipa.xml.in.h:214
 msgid "Peaking tone trigraph"
-msgstr ""
+msgstr "Trigraph für steigend-fallenden Ton"
 
 #: ../data/ipa.xml.in.h:215
 msgid "Upstep mark"
-msgstr ""
+msgstr "Zeichen für Tonhöhenanhebung zwischen Silben"
 
 #: ../data/ipa.xml.in.h:216
 msgid "Downstep mark"
-msgstr ""
+msgstr "Zeichen für Tonhöhensenkung zwischen Silben"
 
 #: ../data/ipa.xml.in.h:217
 msgid "Minor break"
-msgstr ""
+msgstr "Kleine Pause"
 
 #: ../data/ipa.xml.in.h:218
 msgid "Major break"
-msgstr ""
+msgstr "Große Pause"
 
 #: ../data/ipa.xml.in.h:219
 msgid "Rising intonation mark"
-msgstr ""
+msgstr "Zeichen für steigende Intonation"
 
 #: ../data/ipa.xml.in.h:220
 msgid "Falling intonation mark"
-msgstr ""
+msgstr "Zeichen für fallende Intonation"
 
 #: ../data/ipa.xml.in.h:221
 msgid "Advanced articulation mark"
-msgstr ""
+msgstr "Zeichen für Artikulation vorne"
 
 #: ../data/ipa.xml.in.h:222
 msgid "Retracted articulation mark"
-msgstr ""
+msgstr "Zeichen für Artikulation hinten"
 
 #: ../data/ipa.xml.in.h:223
 msgid "Combining advanced articulation mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für Artikulation vorne"
 
 #: ../data/ipa.xml.in.h:224
 msgid "Combining retracted articulation mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für Artikulation hinten"
 
 #: ../data/ipa.xml.in.h:225
 msgid "Raised sound mark"
-msgstr ""
+msgstr "Zeichen für angehobenen Ton"
 
 #: ../data/ipa.xml.in.h:226
 msgid "Lowered sound mark"
-msgstr ""
+msgstr "Zeichen für abgesenkten Ton"
 
 #: ../data/ipa.xml.in.h:227
 msgid "Combining raised sound mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für angehobenen Ton"
 
 #: ../data/ipa.xml.in.h:228
 msgid "Combining lowered sound mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für abgesenkten Ton"
 
 #: ../data/ipa.xml.in.h:229
 msgid "Combining tongue root advancement mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für Zungenwurzel nach vorne"
 
 #: ../data/ipa.xml.in.h:230
 msgid "Combining tongue root retraction mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für Zungenwurzel zurück"
 
 #: ../data/ipa.xml.in.h:231
 msgid "Combining strong articulation mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für starke Artikulation"
 
 #: ../data/ipa.xml.in.h:232
 msgid "Combining weak articulation mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für schwache Artikulation"
 
 #: ../data/ipa.xml.in.h:233
 msgid "Combining whistled articulation mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für gepfiffene Artikulation"
 
 #: ../data/ipa.xml.in.h:234
 msgid "Combining sliding articulation mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für verschliffene Artikulation"
 
 #: ../data/ipa.xml.in.h:235
 msgid "Egression mark"
-msgstr ""
+msgstr "Egressiv Zeichen"
 
 #: ../data/ipa.xml.in.h:236
 msgid "Ingression mark"
-msgstr ""
+msgstr "Ingressiv Zeichen"
 
 #: ../data/ipa.xml.in.h:237
 msgid "Combining ligature tie"
-msgstr ""
+msgstr "Kombinierende Ligatur „tie“"
 
 #: ../data/ipa.xml.in.h:238
 msgid "Combining ligature undertie"
-msgstr ""
+msgstr "Kombinierende Ligatur „tie“ unten"
 
 #: ../data/ipa.xml.in.h:239
 msgid "Elongation mark"
-msgstr ""
+msgstr "Verlängerungszeichen"
 
 #: ../data/ipa.xml.in.h:240
 msgid "Weak elongation mark"
-msgstr ""
+msgstr "Schwaches Verlängerungszeichen"
 
 #: ../data/ipa.xml.in.h:241
 msgid "Combining extra-short duration mark"
-msgstr ""
+msgstr "Kombinierendes Zeichen für extra kurze Dauer"
 
 #: ../data/ipa.xml.in.h:242
 msgid "Liaison mark"
-msgstr ""
+msgstr "Liaisonzeichen"
 
 #: ../data/ipa.xml.in.h:243
 msgid "Stress mark"
-msgstr ""
+msgstr "Betonungszeichen"
 
 #: ../data/ipa.xml.in.h:244
 msgid "Weak stress mark"
-msgstr ""
+msgstr "Schwaches Betonungszeichen"
 
 #: ../data/ipa.xml.in.h:245
 msgid "Syllable break"
-msgstr ""
+msgstr "Silbentrennung"
 
 #: ../data/ipa.xml.in.h:246
 msgid "Opening orthographic bracket"
-msgstr ""
+msgstr "Öffnende orthographische Klammer"
 
 #: ../data/ipa.xml.in.h:247
 msgid "Closing orthographic bracket"
-msgstr ""
+msgstr "Schliessende orthographische Klammer"
 
 #: ../data/ja.xml.in.h:1
 msgid "Japanese"
-msgstr ""
+msgstr "Japanisch"
 
 #: ../data/ja.xml.in.h:2 ../input-pad/unicode_block.h:136
 msgid "Hiragana"
-msgstr ""
+msgstr "Hiragana"
 
 #: ../data/ja.xml.in.h:3 ../input-pad/unicode_block.h:137
 msgid "Katakana"
-msgstr ""
+msgstr "Katakana"
 
 #: ../data/ja.xml.in.h:4 ../data/zh.xml.in.h:3
 msgid "Radicals"
-msgstr ""
+msgstr "Radikale"
 
 #: ../data/ja.xml.in.h:5 ../input-pad/unicode_block.h:132
 msgid "CJK Radicals Supplement"
-msgstr ""
+msgstr "CJK-Radikale, Ergänzung"
 
 #: ../data/keyboard.xml.in.h:1
 msgid "Keyboard"
-msgstr ""
+msgstr "Tastatur"
 
 #: ../data/keyboard.xml.in.h:2
 msgid "Function Key"
-msgstr ""
+msgstr "Funktionstaste"
 
 #: ../data/keyboard.xml.in.h:3
 msgid "Key Pad"
-msgstr ""
+msgstr "Ziffernblock"
 
 #: ../data/latin.xml.in.h:1
 msgid "ASCII"
-msgstr ""
+msgstr "ASCII"
 
 #: ../data/latin.xml.in.h:2 ../input-pad/unicode_block.h:38
 msgid "Latin-1 Supplement"
-msgstr ""
+msgstr "Lateinisch-1, Ergänzung"
 
 #: ../data/latin.xml.in.h:3 ../input-pad/unicode_block.h:39
 msgid "Latin Extended-A"
-msgstr ""
+msgstr "Lateinisch, erweitert-A"
 
 #: ../data/latin.xml.in.h:4
 msgid "Old and Middle English"
-msgstr ""
+msgstr "Alt- und Mittelenglisch"
 
 #: ../data/runr.xml.in.h:1
 msgid "Runes (Unicode Block)"
-msgstr ""
+msgstr "Runen (Unicode Block)"
 
 #: ../data/runr.xml.in.h:2
 msgid "Runes (Elder Fuþark)"
-msgstr ""
+msgstr "Runen (Älteres Fuþark)"
 
 #: ../data/runr.xml.in.h:3
 msgid "Runes (Younger Fuþark)"
-msgstr ""
+msgstr "Runen (Jüngeres Fuþark)"
 
 #: ../data/runr.xml.in.h:4
 msgid "Runes (Fuþorc)"
-msgstr ""
+msgstr "Runen (Fuþorc)"
 
 #: ../data/shaw.xml.in.h:1 ../input-pad/unicode_block.h:200
 msgid "Shavian"
-msgstr ""
+msgstr "Shaw-Alphabet"
 
 #: ../data/str.xml.in.h:1
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: ../data/str.xml.in.h:2
 msgid "Emoji"
-msgstr ""
+msgstr "Emoji"
 
 #: ../data/str.xml.in.h:3
 msgid "Rain"
-msgstr ""
+msgstr "Regen"
 
 #: ../data/str.xml.in.h:4
 msgid "Comet"
-msgstr ""
+msgstr "Komet"
 
 #: ../data/str.xml.in.h:5
 msgid "Cross"
-msgstr ""
+msgstr "Kreuz"
 
 #: ../data/str.xml.in.h:6
 msgid "Solar"
-msgstr ""
+msgstr "Sonne"
 
 #: ../data/str.xml.in.h:7
 msgid "Mercury"
-msgstr ""
+msgstr "Merkur"
 
 #: ../data/str.xml.in.h:8
 msgid "Venus"
-msgstr ""
+msgstr "Venus"
 
 #: ../data/str.xml.in.h:9
 msgid "Earth"
-msgstr ""
+msgstr "Erde"
 
 #: ../data/str.xml.in.h:10
 msgid "Mars"
-msgstr ""
+msgstr "Mars"
 
 #: ../data/str.xml.in.h:11
 msgid "Jupiter"
-msgstr ""
+msgstr "Jupiter"
 
 #: ../data/str.xml.in.h:12
 msgid "Saturn"
-msgstr ""
+msgstr "Saturn"
 
 #: ../data/str.xml.in.h:13
 msgid "Uranus"
-msgstr ""
+msgstr "Uranus"
 
 #: ../data/str.xml.in.h:14
 msgid "Neptune"
-msgstr ""
+msgstr "Neptun"
 
 #: ../data/str.xml.in.h:15
 msgid "Pluto"
-msgstr ""
+msgstr "Pluto"
 
 #: ../data/str.xml.in.h:16
 msgid "Aries"
-msgstr ""
+msgstr "Widder"
 
 #: ../data/str.xml.in.h:17
 msgid "Taurus"
-msgstr ""
+msgstr "Stier"
 
 #: ../data/str.xml.in.h:18
 msgid "Gemini"
-msgstr ""
+msgstr "Zwillinge"
 
 #: ../data/str.xml.in.h:19
 msgid "Cancer"
-msgstr ""
+msgstr "Krebs"
 
 #: ../data/str.xml.in.h:20
 msgid "Leo"
-msgstr ""
+msgstr "Löwe"
 
 #: ../data/str.xml.in.h:21
 msgid "Virgo"
-msgstr ""
+msgstr "Jungfrau"
 
 #: ../data/str.xml.in.h:22
 msgid "Libra"
-msgstr ""
+msgstr "Waage"
 
 #: ../data/str.xml.in.h:23
 msgid "Scorpius"
-msgstr ""
+msgstr "Skorpion"
 
 #: ../data/str.xml.in.h:24
 msgid "Sagittarius"
-msgstr ""
+msgstr "Schütze"
 
 #: ../data/str.xml.in.h:25
 msgid "Capricorn"
-msgstr ""
+msgstr "Steinbock"
 
 #: ../data/str.xml.in.h:26
 msgid "Aquarius"
-msgstr ""
+msgstr "Wassermann"
 
 #: ../data/str.xml.in.h:27
 msgid "Pisces"
-msgstr ""
+msgstr "Fische"
 
 #: ../data/str.xml.in.h:28
 msgid "Dice 1"
-msgstr ""
+msgstr "Würfel 1"
 
 #: ../data/str.xml.in.h:29
 msgid "Dice 2"
-msgstr ""
+msgstr "Würfel 2"
 
 #: ../data/str.xml.in.h:30
 msgid "Dice 3"
-msgstr ""
+msgstr "Würfel 3"
 
 #: ../data/str.xml.in.h:31
 msgid "Dice 4"
-msgstr ""
+msgstr "Würfel 4"
 
 #: ../data/str.xml.in.h:32
 msgid "Dice 5"
-msgstr ""
+msgstr "Würfel 5"
 
 #: ../data/str.xml.in.h:33
 msgid "Dice 6"
-msgstr ""
+msgstr "Würfel 6"
 
 #: ../data/str.xml.in.h:34
 msgid "Anchor"
-msgstr ""
+msgstr "Anker"
 
 #: ../data/str.xml.in.h:35
 msgid "Sword"
-msgstr ""
+msgstr "Schwert"
 
 #: ../data/str.xml.in.h:36
 msgid "Scales"
-msgstr ""
+msgstr "Waage"
 
 #: ../data/str.xml.in.h:37
 msgid "Conversation"
-msgstr ""
+msgstr "Unterhaltung"
 
 #: ../data/str.xml.in.h:38
 msgid "Warning"
-msgstr ""
+msgstr "Warnung"
 
 #: ../data/str.xml.in.h:39
 msgid "Thunder"
-msgstr ""
+msgstr "Donner"
 
 #: ../data/str.xml.in.h:40
 msgid "Coffin"
-msgstr ""
+msgstr "Sarg"
 
 #: ../data/str.xml.in.h:41
 msgid "Gender"
-msgstr ""
+msgstr "Neutrum Gendersymbol"
 
 #: ../data/str.xml.in.h:42
 msgid "Soccer"
-msgstr ""
+msgstr "Fußball"
 
 #: ../data/str.xml.in.h:43
 msgid "Baseball"
-msgstr ""
+msgstr "Baseball"
 
 #: ../data/str.xml.in.h:44
 msgid "Snowman"
-msgstr ""
+msgstr "Schneemann"
 
 #: ../data/str.xml.in.h:45
 msgid "Shoji"
-msgstr ""
+msgstr "Shogistein"
 
 #: ../data/str.xml.in.h:46
 msgid "Maintenance"
-msgstr ""
+msgstr "Wartung"
 
 #: ../data/str.xml.in.h:47
 msgid "Roadblock"
-msgstr ""
+msgstr "Straßensperre"
 
 #: ../data/str.xml.in.h:48
 msgid "No entry"
-msgstr ""
+msgstr "Einfahrt verboten"
 
 #: ../data/str.xml.in.h:49
 msgid "Truck"
-msgstr ""
+msgstr "Lastwagen"
 
 #: ../data/str.xml.in.h:50
 msgid "Torii"
-msgstr ""
+msgstr "Torii"
 
 #: ../data/str.xml.in.h:51
 msgid "Church"
-msgstr ""
+msgstr "Kirche"
 
 #: ../data/str.xml.in.h:52
 msgid "Castle"
-msgstr ""
+msgstr "Burg"
 
 #: ../data/str.xml.in.h:53
 msgid "Historic site"
-msgstr ""
+msgstr "Historischer Ort"
 
 #: ../data/str.xml.in.h:54
 msgid "Power station"
-msgstr ""
+msgstr "Kraftwerk"
 
 #: ../data/str.xml.in.h:55
 msgid "Lighthouse"
-msgstr ""
+msgstr "Leuchtturm"
 
 #: ../data/str.xml.in.h:56
 msgid "Mountain"
-msgstr ""
+msgstr "Berg"
 
 #: ../data/str.xml.in.h:57
 msgid "Beach"
-msgstr ""
+msgstr "Strand"
 
 #: ../data/str.xml.in.h:58
 msgid "Park"
-msgstr ""
+msgstr "Park"
 
 #: ../data/str.xml.in.h:59
 msgid "Ferry"
-msgstr ""
+msgstr "Fähre"
 
 #: ../data/str.xml.in.h:60
 msgid "Sailboat"
-msgstr ""
+msgstr "Segelboot"
 
 #: ../data/str.xml.in.h:61
 msgid "Ice rink"
-msgstr ""
+msgstr "Eisbahn"
 
 #: ../data/str.xml.in.h:62
 msgid "Scissors"
-msgstr ""
+msgstr "Schere"
 
 #: ../data/str.xml.in.h:63
 msgid "Airplane"
-msgstr ""
+msgstr "Flugzeug"
 
 #: ../data/str.xml.in.h:64
 msgid "Clenched Fist"
-msgstr ""
+msgstr "Geballte Faust"
 
 #: ../data/str.xml.in.h:65
 msgid "Hand"
-msgstr ""
+msgstr "Hand"
 
 #: ../data/str.xml.in.h:66
 msgid "V Sign"
-msgstr ""
+msgstr "Victory-Geste"
 
 #: ../data/str.xml.in.h:67
 msgid "Writing"
-msgstr ""
+msgstr "Schreiben"
 
 #: ../data/str.xml.in.h:68
 msgid "Pencil"
-msgstr ""
+msgstr "Bleistift"
 
 #: ../data/str.xml.in.h:69
 msgid "Pen"
-msgstr ""
+msgstr "Kugelschreiber"
 
 #: ../data/str.xml.in.h:70
 msgid "Star"
-msgstr ""
+msgstr "Stern"
 
 #: ../data/str.xml.in.h:71
 msgid "Typhoon"
-msgstr ""
+msgstr "Taifun"
 
 #: ../data/str.xml.in.h:72
 msgid "Fog"
-msgstr ""
+msgstr "Nebel"
 
 #: ../data/str.xml.in.h:73
 msgid "Umbrella"
-msgstr ""
+msgstr "Regenschirm"
 
 #: ../data/str.xml.in.h:74
 msgid "Night sky"
-msgstr ""
+msgstr "Nachthimmel"
 
 #: ../data/str.xml.in.h:75
 msgid "Sunrise"
-msgstr ""
+msgstr "Sonnenaufgang"
 
 #: ../data/str.xml.in.h:76
 msgid "Sunset"
-msgstr ""
+msgstr "Sonnenuntergang"
 
 #: ../data/str.xml.in.h:77
 msgid "Bridge"
-msgstr ""
+msgstr "Brücke"
 
 #: ../data/str.xml.in.h:78
 msgid "Wave"
-msgstr ""
+msgstr "Welle"
 
 #: ../data/str.xml.in.h:79
 msgid "New Moon"
-msgstr ""
+msgstr "Neumond"
 
 #: ../data/str.xml.in.h:80
 msgid "Crescent Moon"
-msgstr ""
+msgstr "Mondviertel"
 
 #: ../data/str.xml.in.h:81
 msgid "Quarter Moon"
-msgstr ""
+msgstr "Viertelmond"
 
 #: ../data/str.xml.in.h:82
 msgid "Gibbous Moon"
-msgstr ""
+msgstr "Dreiviertelmond"
 
 #: ../data/str.xml.in.h:83
 msgid "Full Moon"
-msgstr ""
+msgstr "Vollmond"
 
 #: ../data/str.xml.in.h:84
 msgid "Moon"
-msgstr ""
+msgstr "Mond"
 
 #: ../data/str.xml.in.h:85
 msgid "Sun"
-msgstr ""
+msgstr "Sonne"
 
 #: ../data/str.xml.in.h:86
 msgid "Cloud"
-msgstr ""
+msgstr "Wolke"
 
 #: ../data/str.xml.in.h:87
 msgid "Palm"
-msgstr ""
+msgstr "Palme"
 
 #: ../data/str.xml.in.h:88
 msgid "Hot Pepper"
-msgstr ""
+msgstr "Peperoni"
 
 #: ../data/str.xml.in.h:89
 msgid "Flower"
-msgstr ""
+msgstr "Blume"
 
 #: ../data/str.xml.in.h:90
 msgid "Tulip"
-msgstr ""
+msgstr "Tulpe"
 
 #: ../data/str.xml.in.h:91
 msgid "Cherry"
-msgstr ""
+msgstr "Kirsche"
 
 #: ../data/str.xml.in.h:92
 msgid "Rose"
-msgstr ""
+msgstr "Rose"
 
 #: ../data/str.xml.in.h:93
 msgid "Hibiscus"
-msgstr ""
+msgstr "Hibiskus"
 
 #: ../data/str.xml.in.h:94
 msgid "Sunflower"
-msgstr ""
+msgstr "Sonnenblume"
 
 #: ../data/str.xml.in.h:95
 msgid "Blossom"
-msgstr ""
+msgstr "Blüte"
 
 #: ../data/str.xml.in.h:96
 msgid "Clover"
-msgstr ""
+msgstr "Klee"
 
 #: ../data/str.xml.in.h:97
 msgid "Maple"
-msgstr ""
+msgstr "Ahorn"
 
 #: ../data/str.xml.in.h:98
 msgid "Fallen Leaf"
-msgstr ""
+msgstr "Heruntergefallenes Blatt"
 
 #: ../data/str.xml.in.h:99
 msgid "Leaf"
-msgstr ""
+msgstr "Blatt"
 
 #: ../data/str.xml.in.h:100
 msgid "Mushroom"
-msgstr ""
+msgstr "Pilz"
 
 #: ../data/str.xml.in.h:101
 msgid "Tomato"
-msgstr ""
+msgstr "Tomate"
 
 #: ../data/str.xml.in.h:102
 msgid "Eggplant"
-msgstr ""
+msgstr "Aubergine"
 
 #: ../data/str.xml.in.h:103
 msgid "Grape"
-msgstr ""
+msgstr "Traube"
 
 #: ../data/str.xml.in.h:104
 msgid "Melon"
-msgstr ""
+msgstr "Melone"
 
 #: ../data/str.xml.in.h:105
 msgid "Watermelon"
-msgstr ""
+msgstr "Wassermelone"
 
 #: ../data/str.xml.in.h:106
 msgid "Tangerine"
-msgstr ""
+msgstr "Mandarine"
 
 #: ../data/str.xml.in.h:107
 msgid "Lemon"
-msgstr ""
+msgstr "Zitrone"
 
 #: ../data/str.xml.in.h:108
 msgid "Banana"
-msgstr ""
+msgstr "Banane"
 
 #: ../data/str.xml.in.h:109
 msgid "Pineapple"
-msgstr ""
+msgstr "Ananas"
 
 #: ../data/str.xml.in.h:110
 msgid "Apple"
-msgstr ""
+msgstr "Apfel"
 
 #: ../data/str.xml.in.h:111
 msgid "Pear"
-msgstr ""
+msgstr "Birne"
 
 #: ../data/str.xml.in.h:112
 msgid "Peach"
-msgstr ""
+msgstr "Pfirsich"
 
 #: ../data/str.xml.in.h:113
 msgid "Strawberry"
-msgstr ""
+msgstr "Erdbeere"
 
 #: ../data/str.xml.in.h:114
 msgid "Hamburger"
-msgstr ""
+msgstr "Hamburger"
 
 #: ../data/str.xml.in.h:115
 msgid "Pizza"
-msgstr ""
+msgstr "Pizza"
 
 #: ../data/str.xml.in.h:116
 msgid "Meat"
-msgstr ""
+msgstr "Fleisch"
 
 #: ../data/str.xml.in.h:117
 msgid "Poultry"
-msgstr ""
+msgstr "Geflügel"
 
 #: ../data/str.xml.in.h:118
 msgid "Rice Cracker"
-msgstr ""
+msgstr "Reiskeks"
 
 #: ../data/str.xml.in.h:119
 msgid "Rice Ball"
-msgstr ""
+msgstr "Reisbällchen"
 
 #: ../data/str.xml.in.h:120
 msgid "Rice"
-msgstr ""
+msgstr "Reis"
 
 #: ../data/str.xml.in.h:121
 msgid "Curry"
-msgstr ""
+msgstr "Curry"
 
 #: ../data/str.xml.in.h:122
 msgid "Ramen"
-msgstr ""
+msgstr "Ramen"
 
 #: ../data/str.xml.in.h:123
 msgid "Spaghetti"
-msgstr ""
+msgstr "Spaghetti"
 
 #: ../data/str.xml.in.h:124
 msgid "Bread"
-msgstr ""
+msgstr "Brot"
 
 #: ../data/str.xml.in.h:125
 msgid "Fried Potato"
-msgstr ""
+msgstr "Pommes  Frites"
 
 #: ../data/str.xml.in.h:126
 msgid "Roasted Sweet Potato"
-msgstr ""
+msgstr "Geröstete Süßkartoffel"
 
 #: ../data/str.xml.in.h:127
 msgid "Dango"
-msgstr ""
+msgstr "Dango"
 
 #: ../data/str.xml.in.h:128
 msgid "Oden"
-msgstr ""
+msgstr "Oden"
 
 #: ../data/str.xml.in.h:129
 msgid "Sushi"
-msgstr ""
+msgstr "Sushi"
 
 #: ../data/str.xml.in.h:130
 msgid "Fried Shrimp"
-msgstr ""
+msgstr "Frittierte Garnele"
 
 #: ../data/str.xml.in.h:131
 msgid "Fish Cake"
-msgstr ""
+msgstr "Fischfrikadelle"
 
 #: ../data/str.xml.in.h:132
 msgid "Soft Ice Cream"
-msgstr ""
+msgstr "Softeis"
 
 #: ../data/str.xml.in.h:133
 msgid "Shaved Ice"
-msgstr ""
+msgstr "Sorbet"
 
 #: ../data/str.xml.in.h:134
 msgid "Ice Cream"
-msgstr ""
+msgstr "Eiscreme"
 
 #: ../data/str.xml.in.h:135
 msgid "Doughnut"
-msgstr ""
+msgstr "Donut"
 
 #: ../data/str.xml.in.h:136
 msgid "Cookie"
-msgstr ""
+msgstr "Keks"
 
 #: ../data/str.xml.in.h:137
 msgid "Chocolate"
-msgstr ""
+msgstr "Schokolade"
 
 #: ../data/str.xml.in.h:138
 msgid "Candy"
-msgstr ""
+msgstr "Bonbon"
 
 #: ../data/str.xml.in.h:139
 msgid "Custard"
-msgstr ""
+msgstr "Pudding"
 
 #: ../data/str.xml.in.h:140
 msgid "Honey"
-msgstr ""
+msgstr "Honig"
 
 #: ../data/str.xml.in.h:141
 msgid "Shortcake"
-msgstr ""
+msgstr "Tortenstück"
 
 #: ../data/str.xml.in.h:142
 msgid "Bento"
-msgstr ""
+msgstr "Bento-Box"
 
 #: ../data/str.xml.in.h:143
 msgid "Pot of Food"
-msgstr ""
+msgstr "Topf mit Essen"
 
 #: ../data/str.xml.in.h:144
 msgid "Cooking"
-msgstr ""
+msgstr "Spiegelei in der Bratpfanne"
 
 #: ../data/str.xml.in.h:145
 msgid "Meal"
-msgstr ""
+msgstr "Mahlzeit"
 
 #: ../data/str.xml.in.h:146
 msgid "Cup"
-msgstr ""
+msgstr "Tasse"
 
 #: ../data/str.xml.in.h:147
 msgid "Sake"
-msgstr ""
+msgstr "Sake"
 
 #: ../data/str.xml.in.h:148
 msgid "Wine"
-msgstr ""
+msgstr "Wein"
 
 #: ../data/str.xml.in.h:149
 msgid "Cocktail"
-msgstr ""
+msgstr "Cocktail"
 
 #: ../data/str.xml.in.h:150
 msgid "Drink"
-msgstr ""
+msgstr "Getränk"
 
 #: ../data/str.xml.in.h:151
 msgid "Beer"
-msgstr ""
+msgstr "Bier"
 
 #: ../data/str.xml.in.h:152
 msgid "Cheers"
-msgstr ""
+msgstr "Prost"
 
 #: ../data/str.xml.in.h:153
 msgid "Baby Bottle"
-msgstr ""
+msgstr "Babyflasche"
 
 #: ../data/str.xml.in.h:154
 msgid "Ribbon"
-msgstr ""
+msgstr "Pinke Schleife"
 
 #: ../data/str.xml.in.h:155
 msgid "Present"
-msgstr ""
+msgstr "Geschenk"
 
 #: ../data/str.xml.in.h:156
 msgid "Cake"
-msgstr ""
+msgstr "Kuchen"
 
 #: ../data/str.xml.in.h:157
 msgid "Hallowe'en"
-msgstr ""
+msgstr "Halloween"
 
 #: ../data/str.xml.in.h:158
 msgid "Christmas"
-msgstr ""
+msgstr "Weihnachten"
 
 #: ../data/str.xml.in.h:159
 msgid "Piano"
-msgstr ""
+msgstr "Klavier"
 
 #: ../data/str.xml.in.h:160
 msgid "Microphone"
-msgstr ""
+msgstr "Mikrofon"
 
 #: ../data/str.xml.in.h:161
 msgid "Headphone"
-msgstr ""
+msgstr "Kopfhörer"
 
 #: ../data/str.xml.in.h:162
 msgid "Hat"
-msgstr ""
+msgstr "Hut"
 
 #: ../data/str.xml.in.h:163
 msgid "Musical Note"
-msgstr ""
+msgstr "Musiknote"
 
 #: ../data/str.xml.in.h:164
 msgid "Saxophone"
-msgstr ""
+msgstr "Saxofon"
 
 #: ../data/str.xml.in.h:165
 msgid "Guiter"
-msgstr ""
+msgstr "Gitarre"
 
 #: ../data/str.xml.in.h:166
 msgid "Trumpet"
-msgstr ""
+msgstr "Trompete"
 
 #: ../data/str.xml.in.h:167
 msgid "Violin"
-msgstr ""
+msgstr "Geige"
 
 #: ../data/str.xml.in.h:168
 msgid "Musical Score"
-msgstr ""
+msgstr "Partitur"
 
 #: ../data/str.xml.in.h:169
 msgid "Tennis"
-msgstr ""
+msgstr "Tennis"
 
 #: ../data/str.xml.in.h:170
 msgid "Ski"
-msgstr ""
+msgstr "Ski"
 
 #: ../data/str.xml.in.h:171
 msgid "Basketball"
-msgstr ""
+msgstr "Basketball"
 
 #: ../data/str.xml.in.h:172
 msgid "Flag"
-msgstr ""
+msgstr "Flaggen"
 
 #: ../data/str.xml.in.h:173
 msgid "Show Board"
-msgstr ""
+msgstr "Tastatur anzeigen"
 
 #: ../data/str.xml.in.h:174
 msgid "Running"
-msgstr ""
+msgstr "Laufen"
 
 #: ../data/str.xml.in.h:175
 msgid "Surfer"
-msgstr ""
+msgstr "Surfer"
 
 #: ../data/str.xml.in.h:176
 msgid "Medal"
-msgstr ""
+msgstr "Medaille"
 
 #: ../data/str.xml.in.h:177
 msgid "Trophy"
-msgstr ""
+msgstr "Pokal"
 
 #: ../data/str.xml.in.h:178
 msgid "Horse Racing"
-msgstr ""
+msgstr "Pferderennen"
 
 #: ../data/str.xml.in.h:179
 msgid "American Football"
-msgstr ""
+msgstr "American Football"
 
 #: ../data/str.xml.in.h:180
 msgid "Rugby"
-msgstr ""
+msgstr "Rugby"
 
 #: ../data/str.xml.in.h:181
 msgid "Swimmer"
-msgstr ""
+msgstr "Schwimmer"
 
 #: ../data/str.xml.in.h:182
 msgid "Weight Lifting"
-msgstr ""
+msgstr "Gewichtheben"
 
 #: ../data/str.xml.in.h:183
 msgid "Golf"
-msgstr ""
+msgstr "Golf"
 
 #: ../data/str.xml.in.h:184
 msgid "Motorcycle"
-msgstr ""
+msgstr "Motorrad"
 
 #: ../data/str.xml.in.h:185
 msgid "Race"
-msgstr ""
+msgstr "Rennauto"
 
 #: ../data/str.xml.in.h:186
 msgid "House"
-msgstr ""
+msgstr "Haus"
 
 #: ../data/str.xml.in.h:187
 msgid "Office"
-msgstr ""
+msgstr "Bürogebäude"
 
 #: ../data/str.xml.in.h:188
 msgid "Hospital"
-msgstr ""
+msgstr "Krankenhaus"
 
 #: ../data/str.xml.in.h:189
 msgid "Bank"
-msgstr ""
+msgstr "Bank"
 
 #: ../data/str.xml.in.h:190
 msgid "Hotel"
-msgstr ""
+msgstr "Hotel"
 
 #: ../data/str.xml.in.h:191
 msgid "School"
-msgstr ""
+msgstr "Schule"
 
 #: ../data/str.xml.in.h:192
 msgid "Factory"
-msgstr ""
+msgstr "Fabrik"
 
 #: ../data/str.xml.in.h:193
 msgid "Rat"
-msgstr ""
+msgstr "Ratte"
 
 #: ../data/str.xml.in.h:194
 msgid "Mouse"
-msgstr ""
+msgstr "Maus"
 
 #: ../data/str.xml.in.h:195
 msgid "Cow"
-msgstr ""
+msgstr "Kuh"
 
 #: ../data/str.xml.in.h:196
 msgid "Tiger"
-msgstr ""
+msgstr "Tiger"
 
 #: ../data/str.xml.in.h:197
 msgid "Leopard"
-msgstr ""
+msgstr "Leopard"
 
 #: ../data/str.xml.in.h:198
 msgid "Rabbit"
-msgstr ""
+msgstr "Kaninchen"
 
 #: ../data/str.xml.in.h:199
 msgid "Cat"
-msgstr ""
+msgstr "Katze"
 
 #: ../data/str.xml.in.h:200
 msgid "Dragon"
-msgstr ""
+msgstr "Drache"
 
 #: ../data/str.xml.in.h:201
 msgid "Crocodile"
-msgstr ""
+msgstr "Krokodil"
 
 #: ../data/str.xml.in.h:202
 msgid "Whale"
-msgstr ""
+msgstr "Wal"
 
 #: ../data/str.xml.in.h:203
 msgid "Snail"
-msgstr ""
+msgstr "Schnecke"
 
 #: ../data/str.xml.in.h:204
 msgid "Snake"
-msgstr ""
+msgstr "Schlange"
 
 #: ../data/str.xml.in.h:205
 msgid "Horse"
-msgstr ""
+msgstr "Pferd"
 
 #: ../data/str.xml.in.h:206
 msgid "Sheep"
-msgstr ""
+msgstr "Schaf"
 
 #: ../data/str.xml.in.h:207
 msgid "Goat"
-msgstr ""
+msgstr "Ziege"
 
 #: ../data/str.xml.in.h:208
 msgid "Monkey"
-msgstr ""
+msgstr "Affe"
 
 #: ../data/str.xml.in.h:209
 msgid "Chicken"
-msgstr ""
+msgstr "Huhn"
 
 #: ../data/str.xml.in.h:210
 msgid "Dog"
-msgstr ""
+msgstr "Hund"
 
 #: ../data/str.xml.in.h:211
 msgid "Pig"
-msgstr ""
+msgstr "Schwein"
 
 #: ../data/str.xml.in.h:212
 msgid "Elephant"
-msgstr ""
+msgstr "Elefant"
 
 #: ../data/str.xml.in.h:213
 msgid "Octopus"
-msgstr ""
+msgstr "Krake"
 
 #: ../data/str.xml.in.h:214
 msgid "Spiral Shell"
-msgstr ""
+msgstr "Spiralförmige Muschel"
 
 #: ../data/str.xml.in.h:215
 msgid "Bug"
-msgstr ""
+msgstr "Insekt"
 
 #: ../data/str.xml.in.h:216
 msgid "Ant"
-msgstr ""
+msgstr "Ameise"
 
 #: ../data/str.xml.in.h:217
 msgid "Lady Beetle"
-msgstr ""
+msgstr "Marienkäfer"
 
 #: ../data/str.xml.in.h:218
 msgid "Fish"
-msgstr ""
+msgstr "Fisch"
 
 #: ../data/str.xml.in.h:219
 msgid "Tropical Fish"
-msgstr ""
+msgstr "Tropenfisch"
 
 #: ../data/str.xml.in.h:220
 msgid "Blowfish"
-msgstr ""
+msgstr "Kugelfisch"
 
 #: ../data/str.xml.in.h:221
 msgid "Bird"
-msgstr ""
+msgstr "Vogel"
 
 #: ../data/str.xml.in.h:222
 msgid "Penguin"
-msgstr ""
+msgstr "Pinguin"
 
 #: ../data/str.xml.in.h:223
 msgid "Koala"
-msgstr ""
+msgstr "Koalabär"
 
 #: ../data/str.xml.in.h:224
 msgid "Poodle"
-msgstr ""
+msgstr "Pudel"
 
 #: ../data/str.xml.in.h:225
 msgid "Camel"
-msgstr ""
+msgstr "Kamel"
 
 #: ../data/str.xml.in.h:226
 msgid "Dolphin"
-msgstr ""
+msgstr "Delphin"
 
 #: ../data/str.xml.in.h:227
 msgid "Frog"
-msgstr ""
+msgstr "Frosch"
 
 #: ../data/str.xml.in.h:228
 msgid "Hamster"
-msgstr ""
+msgstr "Hamster"
 
 #: ../data/str.xml.in.h:229
 msgid "Wolf"
-msgstr ""
+msgstr "Wolf"
 
 #: ../data/str.xml.in.h:230
 msgid "Bear"
-msgstr ""
+msgstr "Bär"
 
 #: ../data/str.xml.in.h:231
 msgid "Panda"
-msgstr ""
+msgstr "Pandabär"
 
 #: ../data/str.xml.in.h:232
 msgid "Eye"
-msgstr ""
+msgstr "Auge"
 
 #: ../data/str.xml.in.h:233
 msgid "Ear"
-msgstr ""
+msgstr "Ohr"
 
 #: ../data/str.xml.in.h:234
 msgid "Nose"
-msgstr ""
+msgstr "Nase"
 
 #: ../data/str.xml.in.h:235
 msgid "Mouth"
-msgstr ""
+msgstr "Mund"
 
 #: ../data/str.xml.in.h:236
 msgid "Tongue"
-msgstr ""
+msgstr "Zunge"
 
 #: ../data/str.xml.in.h:237
 msgid "Crown"
-msgstr ""
+msgstr "Krone"
 
 #: ../data/str.xml.in.h:238
 msgid "Glasses"
-msgstr ""
+msgstr "Brille"
 
 #: ../data/str.xml.in.h:239
 msgid "Necktie"
-msgstr ""
+msgstr "Kravatte"
 
 #: ../data/str.xml.in.h:240
 msgid "T-Shirt"
-msgstr ""
+msgstr "T-Shirt"
 
 #: ../data/str.xml.in.h:241
 msgid "Jeans"
-msgstr ""
+msgstr "Jeans"
 
 #: ../data/str.xml.in.h:242
 msgid "Dress"
-msgstr ""
+msgstr "Kleid"
 
 #: ../data/str.xml.in.h:243
 msgid "Kimono"
-msgstr ""
+msgstr "Kimono"
 
 #: ../data/str.xml.in.h:244
 msgid "Bikini"
-msgstr ""
+msgstr "Bikini"
 
 #: ../data/str.xml.in.h:245
 msgid "Clothes"
-msgstr ""
+msgstr "Damenkleidung"
 
 #: ../data/str.xml.in.h:246
 msgid "Purse"
-msgstr ""
+msgstr "Geldbörse"
 
 #: ../data/str.xml.in.h:247
 msgid "Handbag"
-msgstr ""
+msgstr "Handtasche"
 
 #: ../data/str.xml.in.h:248
 msgid "Pouch"
-msgstr ""
+msgstr "Clutch"
 
 #: ../data/str.xml.in.h:249
 msgid "Shoe"
-msgstr ""
+msgstr "Schuh"
 
 #: ../data/str.xml.in.h:250
 msgid "Footprint"
-msgstr ""
+msgstr "Fußabdruck"
 
 #: ../data/str.xml.in.h:251
 msgid "Account"
-msgstr ""
+msgstr "Silhouette einer Büste"
 
 #: ../data/str.xml.in.h:252
 msgid "Boy"
-msgstr ""
+msgstr "Junge"
 
 #: ../data/str.xml.in.h:253
 msgid "Girl"
-msgstr ""
+msgstr "Mädchen"
 
 #: ../data/str.xml.in.h:254
 msgid "Man"
-msgstr ""
+msgstr "Mann"
 
 #: ../data/str.xml.in.h:255
 msgid "Woman"
-msgstr ""
+msgstr "Frau"
 
 #: ../data/str.xml.in.h:256
 msgid "Family"
-msgstr ""
+msgstr "Familie"
 
 #: ../data/str.xml.in.h:257
 msgid "Restroom"
-msgstr ""
+msgstr "Toiletten"
 
 #: ../data/str.xml.in.h:258
 msgid "Men"
-msgstr ""
+msgstr "Männer"
 
 #: ../data/str.xml.in.h:259
 msgid "Women"
-msgstr ""
+msgstr "Frauen"
 
 #: ../data/str.xml.in.h:260
 msgid "Princess"
-msgstr ""
+msgstr "Prinzessin"
 
 #: ../data/str.xml.in.h:261
 msgid "Japanese Ogre"
-msgstr ""
+msgstr "Japanisches Monster"
 
 #: ../data/str.xml.in.h:262
 msgid "Japanese Goblin"
-msgstr ""
+msgstr "Japanischer Kobold (Tengu)"
 
 #: ../data/str.xml.in.h:263
 msgid "Ghost"
-msgstr ""
+msgstr "Gespenst"
 
 #: ../data/str.xml.in.h:264
 msgid "Baby Angel"
-msgstr ""
+msgstr "Putte"
 
 #: ../data/str.xml.in.h:265
 msgid "Extraterrestrial Alien"
-msgstr ""
+msgstr "Außerirdischer"
 
 #: ../data/str.xml.in.h:266
 msgid "Alien Monster"
-msgstr ""
+msgstr "Computerspiel-Monster"
 
 #: ../data/str.xml.in.h:267
 msgid "IMP"
-msgstr ""
+msgstr "Wütendes Gesicht mit Hörnern"
 
 #: ../data/str.xml.in.h:268
 msgid "Skull"
-msgstr ""
+msgstr "Totenkopf"
 
 #: ../data/str.xml.in.h:269
 msgid "Information Desk Person"
-msgstr ""
+msgstr "Infoschalter Mitarbeiter(in)"
 
 #: ../data/str.xml.in.h:270
 msgid "Guardsman"
-msgstr ""
+msgstr "Wachmann"
 
 #: ../data/str.xml.in.h:271
 msgid "Dancer"
-msgstr ""
+msgstr "Tänzer"
 
 #: ../data/str.xml.in.h:272
 msgid "Lipstick"
-msgstr ""
+msgstr "Lippenstift"
 
 #: ../data/str.xml.in.h:273
 msgid "Nail"
-msgstr ""
+msgstr "Nagellack"
 
 #: ../data/str.xml.in.h:274
 msgid "Face"
-msgstr ""
+msgstr "Gesicht"
 
 #: ../data/str.xml.in.h:275
 msgid "Haircut"
-msgstr ""
+msgstr "Haarschnitt"
 
 #: ../data/str.xml.in.h:276
 msgid "Syringe"
-msgstr ""
+msgstr "Spritze"
 
 #: ../data/str.xml.in.h:277
 msgid "Medicine"
-msgstr ""
+msgstr "Medizin"
 
 #: ../data/str.xml.in.h:278
 msgid "Kiss"
-msgstr ""
+msgstr "Kuss"
 
 #: ../data/str.xml.in.h:279
 msgid "Love Letter"
-msgstr ""
+msgstr "Liebesbrief"
 
 #: ../data/str.xml.in.h:280
 msgid "Ring"
-msgstr ""
+msgstr "Ring"
 
 #: ../data/str.xml.in.h:281
 msgid "Gem Stone"
-msgstr ""
+msgstr "Edelstein"
 
 #: ../data/str.xml.in.h:282
 msgid "Wedding"
-msgstr ""
+msgstr "Hochzeit"
 
 #: ../data/str.xml.in.h:283
 msgid "Heart"
-msgstr ""
+msgstr "Herz"
 
 #: ../data/str.xml.in.h:284
 msgid "Idea"
-msgstr ""
+msgstr "Idee"
 
 #: ../data/str.xml.in.h:285
 msgid "Anger"
-msgstr ""
+msgstr "Wut"
 
 #: ../data/str.xml.in.h:286
 msgid "Bomb"
-msgstr ""
+msgstr "Bombe"
 
 #: ../data/str.xml.in.h:287
 msgid "Sleeping"
-msgstr ""
+msgstr "Schlafen"
 
 #: ../data/str.xml.in.h:288
 msgid "Collision"
-msgstr ""
+msgstr "Zusammenstoß"
 
 #: ../data/str.xml.in.h:289
 msgid "Sweat"
-msgstr ""
+msgstr "Schweiß"
 
 #: ../data/str.xml.in.h:290
 msgid "Droplet"
-msgstr ""
+msgstr "Tropfen"
 
 #: ../data/str.xml.in.h:291
 msgid "Dash"
-msgstr ""
+msgstr "Staubwolke"
 
 #: ../data/str.xml.in.h:292
 msgid "Poo"
-msgstr ""
+msgstr "Kothaufen"
 
 #: ../data/str.xml.in.h:293
 msgid "Muscle"
-msgstr ""
+msgstr "Muskel"
 
 #: ../data/str.xml.in.h:294
 msgid "Dizzy"
-msgstr ""
+msgstr "Schwindlig"
 
 #: ../data/str.xml.in.h:295
 msgid "Speech"
-msgstr ""
+msgstr "Sprechblase mit 3 Punkten"
 
 #: ../data/str.xml.in.h:296
 msgid "Thought"
-msgstr ""
+msgstr "Gedankenblase"
 
 #: ../data/str.xml.in.h:297
 msgid "Perfect Score"
-msgstr ""
+msgstr "Volle Punktzahl"
 
 #: ../data/str.xml.in.h:298
 msgid "Pushpin"
-msgstr ""
+msgstr "Reißzwecke"
 
 #: ../data/str.xml.in.h:299
 msgid "Clip"
-msgstr ""
+msgstr "Büroklammer"
 
 #: ../data/str.xml.in.h:300
 msgid "Speaker"
-msgstr ""
+msgstr "Lautsprecher"
 
 #: ../data/str.xml.in.h:301
 msgid "Battery"
-msgstr ""
+msgstr "Batterie"
 
 #: ../data/str.xml.in.h:302
 msgid "Plug"
-msgstr ""
+msgstr "Stromstecker"
 
 #: ../data/str.xml.in.h:303
 msgid "Search"
-msgstr ""
+msgstr "Suche"
 
 #: ../data/str.xml.in.h:304
 msgid "Bookmark"
-msgstr ""
+msgstr "Lesezeichen"
 
 #: ../data/str.xml.in.h:305
 msgid "Book"
-msgstr ""
+msgstr "Buch"
 
 #: ../data/str.xml.in.h:306
 msgid "Memo"
-msgstr ""
+msgstr "Papier und Bleistift"
 
 #: ../data/str.xml.in.h:307
 msgid "Mail"
-msgstr ""
+msgstr "Post"
 
 #: ../data/str.xml.in.h:308
 msgid "Mobile Phone"
-msgstr ""
+msgstr "Mobiltelefon"
 
 #: ../data/str.xml.in.h:309
 msgid "Camera"
-msgstr ""
+msgstr "Kamera"
 
 #: ../data/str.xml.in.h:310
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: ../data/str.xml.in.h:311
 msgid "Television"
-msgstr ""
+msgstr "Fernsehen"
 
 #: ../data/str.xml.in.h:312
 msgid "Radio"
-msgstr ""
+msgstr "Radio"
 
 #: ../data/str.xml.in.h:313
 msgid "Key"
-msgstr ""
+msgstr "Schlüssel"
 
 #: ../data/str.xml.in.h:314
 msgid "Lock"
-msgstr ""
+msgstr "Schloss"
 
 #: ../data/str.xml.in.h:315
 msgid "Fire"
-msgstr ""
+msgstr "Feuer"
 
 #: ../data/str.xml.in.h:316
 msgid "Wrench"
-msgstr ""
+msgstr "Schraubenschlüssel"
 
 #: ../data/str.xml.in.h:317
 msgid "Hammer"
-msgstr ""
+msgstr "Hammer"
 
 #: ../data/str.xml.in.h:318
 msgid "Bolt"
-msgstr ""
+msgstr "Mutter und Schraube"
 
 #: ../data/str.xml.in.h:319
 msgid "Hocho"
-msgstr ""
+msgstr "Küchenmesser"
 
 #: ../data/str.xml.in.h:320
 msgid "Pistol"
-msgstr ""
+msgstr "Pistole"
 
 #: ../data/str.xml.in.h:321
 msgid "Microscope"
-msgstr ""
+msgstr "Mikroskop"
 
 #: ../data/str.xml.in.h:322
 msgid "Telescope"
-msgstr ""
+msgstr "Fernrohr"
 
 #: ../data/str.xml.in.h:323
 msgid "Crystal"
-msgstr ""
+msgstr "Kristall"
 
 #: ../data/str.xml.in.h:324
 msgid "David Star"
-msgstr ""
+msgstr "Davidstern"
 
 #: ../data/str.xml.in.h:325
 msgid "Beginner"
-msgstr ""
+msgstr "Anfänger"
 
 #: ../data/str.xml.in.h:326
 msgid "Candle"
-msgstr ""
+msgstr "Kerze"
 
 #: ../data/str.xml.in.h:327
 msgid "Hole"
-msgstr ""
+msgstr "Loch"
 
 #: ../data/str.xml.in.h:328
 msgid "Personal Computer"
-msgstr ""
+msgstr "Computer"
 
 #: ../data/str.xml.in.h:329
 msgid "keyboard"
-msgstr ""
+msgstr "Tastatur"
 
 #: ../data/str.xml.in.h:330
 msgid "Printer"
-msgstr ""
+msgstr "Drucker"
 
 #: ../data/str.xml.in.h:331
 msgid "Calculator"
-msgstr ""
+msgstr "Taschenrechner"
 
 #: ../data/str.xml.in.h:332
 msgid "Minimize"
-msgstr ""
+msgstr "Minimieren"
 
 #: ../data/str.xml.in.h:333
 msgid "Maximize"
-msgstr ""
+msgstr "Maximieren"
 
 #: ../data/str.xml.in.h:334
 msgid "Refresh"
-msgstr ""
+msgstr "Auffrischen"
 
 #: ../data/str.xml.in.h:335
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 #: ../data/str.xml.in.h:336
 msgid "World"
-msgstr ""
+msgstr "Welt"
 
 #: ../data/str.xml.in.h:337
 msgid "Mt. Fuji"
-msgstr ""
+msgstr "Fujiyama"
 
 #: ../data/str.xml.in.h:338
 msgid "Tokyo Tower"
-msgstr ""
+msgstr "Tokyo Tower"
 
 #: ../data/str.xml.in.h:339
 msgid "Japan"
-msgstr ""
+msgstr "Japan"
 
 #: ../data/str.xml.in.h:340
 msgid "Anguish"
-msgstr ""
+msgstr "Düsteres Gesicht"
 
 #: ../data/str.xml.in.h:341
 msgid "Smile"
-msgstr ""
+msgstr "Lächeln"
 
 #: ../data/str.xml.in.h:342
 msgid "Smirk"
-msgstr ""
+msgstr "Selbstgefällig grinsendes Gesicht"
 
 #: ../data/str.xml.in.h:343
 msgid "Neutral"
-msgstr ""
+msgstr "Neutral"
 
 #: ../data/str.xml.in.h:344
 msgid "Expressionless"
-msgstr ""
+msgstr "Ausdruckslos"
 
 #: ../data/str.xml.in.h:345
 msgid "Unamused"
-msgstr ""
+msgstr "Verstimmtes Gesicht"
 
 #: ../data/str.xml.in.h:346
 msgid "Pensive"
-msgstr ""
+msgstr "Nachdenklich"
 
 #: ../data/str.xml.in.h:347
 msgid "Confused"
-msgstr ""
+msgstr "Verwundertes Gesicht"
 
 #: ../data/str.xml.in.h:348
 msgid "Confounded"
-msgstr ""
+msgstr "Verwirrtes Gesicht"
 
 #: ../data/str.xml.in.h:349
 msgid "Disappointed"
-msgstr ""
+msgstr "Enttäuscht"
 
 #: ../data/str.xml.in.h:350
 msgid "Angry"
-msgstr ""
+msgstr "Ärgerlich"
 
 #: ../data/str.xml.in.h:351
 msgid "Cry"
-msgstr ""
+msgstr "Weinen"
 
 #: ../data/str.xml.in.h:352
 msgid "Sleeply"
-msgstr ""
+msgstr "Schläfrig"
 
 #: ../data/str.xml.in.h:353
 msgid "Tired"
-msgstr ""
+msgstr "Müde"
 
 #: ../data/str.xml.in.h:354
 msgid "Surprise"
-msgstr ""
+msgstr "Überrascht"
 
 #: ../data/str.xml.in.h:355
 msgid "Scream"
-msgstr ""
+msgstr "Vor Angst schreiendes Gesicht"
 
 #: ../data/str.xml.in.h:356
 msgid "Flushed"
-msgstr ""
+msgstr "Errötetes Gesicht mit großen Augen"
 
 #: ../data/str.xml.in.h:357
 msgid "Medical Mask"
-msgstr ""
+msgstr "Gesicht mit Atemschutzmaske"
 
 #: ../data/str.xml.in.h:358
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../data/str.xml.in.h:359
 msgid "Bow"
-msgstr ""
+msgstr "Sich verbeugende Person"
 
 #: ../data/str.xml.in.h:360
 msgid "See-No-Evil"
-msgstr ""
+msgstr "Sich die Augen zuhaltendes Affengesicht"
 
 #: ../data/str.xml.in.h:361
 msgid "Hear-No-Evil"
-msgstr ""
+msgstr "Sich die Ohren zuhaltendes Affengesicht"
 
 #: ../data/str.xml.in.h:362
 msgid "Speak-No-Evil"
-msgstr ""
+msgstr "Sich den Mund zuhaltendes Affengesicht"
 
 #: ../data/str.xml.in.h:363
 msgid "Banzai"
-msgstr ""
+msgstr "Zwei erhobene Handflächen"
 
 #: ../data/str.xml.in.h:364
 msgid "Pleading"
-msgstr ""
+msgstr "Betende Hände"
 
 #: ../data/str.xml.in.h:365
 msgid "Smileys"
-msgstr ""
+msgstr "Smileys"
 
 #: ../data/str.xml.in.h:366
 msgid "Smile Big"
-msgstr ""
+msgstr "Großes Lächeln"
 
 #: ../data/str.xml.in.h:367
 msgid "Sad"
-msgstr ""
+msgstr "Traurig"
 
 #: ../data/str.xml.in.h:368
 msgid "Wink"
-msgstr ""
+msgstr "Zwinkern"
 
 #: ../data/str.xml.in.h:369
 msgid "Shock"
-msgstr ""
+msgstr "Schockiert"
 
 #: ../data/str.xml.in.h:370
 msgid "Kiss | Secret"
-msgstr ""
+msgstr "Kuss | Geheim"
 
 #: ../data/str.xml.in.h:371
 msgid "Glasses Cool | Eyeroll"
-msgstr ""
+msgstr "Sonnenbrille | Augenrollen"
 
 #: ../data/str.xml.in.h:372
 msgid "Glasses Cool"
-msgstr ""
+msgstr "Sonnenbrille"
 
 #: ../data/str.xml.in.h:373
 msgid "Embarrassed"
-msgstr ""
+msgstr "Verlegen"
 
 #: ../data/str.xml.in.h:374
 msgid "Crying"
-msgstr ""
+msgstr "Weinend"
 
 #: ../data/str.xml.in.h:375
 msgid "Thinking"
-msgstr ""
+msgstr "Denkend"
 
 #: ../data/str.xml.in.h:376
 msgid "Don't Know"
-msgstr ""
+msgstr "Weiß nicht"
 
 #: ../data/str.xml.in.h:377
 msgid "Party"
-msgstr ""
+msgstr "Party"
 
 #: ../data/str.xml.in.h:378
 msgid "Yawn"
-msgstr ""
+msgstr "Gähnen"
 
 #: ../data/str.xml.in.h:379
 msgid "Bunny"
-msgstr ""
+msgstr "Häschen"
 
 #: ../data/str.xml.in.h:380
 msgid "Sick"
-msgstr ""
+msgstr "Krank"
 
 #: ../data/str.xml.in.h:381
 msgid "Devil"
-msgstr ""
+msgstr "Teufel"
 
 #: ../data/str.xml.in.h:382
 msgid "Angel"
-msgstr ""
+msgstr "Engel"
 
 #: ../data/str.xml.in.h:383
 msgid "Love"
-msgstr ""
+msgstr "Liebe"
 
 #: ../data/str.xml.in.h:384
 msgid "Love Over"
-msgstr ""
+msgstr "Liebe vorbei"
 
 #: ../data/str.xml.in.h:385
 msgid "Film"
-msgstr ""
+msgstr "Film"
 
 #: ../data/str.xml.in.h:386
 msgid "Clock"
-msgstr ""
+msgstr "Uhr"
 
 #: ../data/str.xml.in.h:387
 msgid "Coffee"
-msgstr ""
+msgstr "Kaffee"
 
 #: ../data/str.xml.in.h:388
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 #: ../data/str.xml.in.h:389
 msgid "Hug Left"
-msgstr ""
+msgstr "Umarmung links"
 
 #: ../data/str.xml.in.h:390
 msgid "Hug Right"
-msgstr ""
+msgstr "Umarmung rechts"
 
 #: ../data/str.xml.in.h:391
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: ../data/str.xml.in.h:392
 msgid "No"
-msgstr ""
+msgstr "Nein"
 
 #: ../data/str.xml.in.h:393
 msgid "Shut Mouth"
-msgstr ""
+msgstr "Geschlossener Mund"
 
 #: ../data/str.xml.in.h:394
 msgid "Money Mouth"
-msgstr ""
+msgstr "Geldmund"
 
 #: ../data/str.xml.in.h:395
 msgid "Foot in Mouth"
-msgstr ""
+msgstr "Fuß im Mund"
 
 #: ../data/str.xml.in.h:396
 msgid "Shout"
-msgstr ""
+msgstr "Schreien"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in.h:398
 msgid "Smileys (Japanese)"
-msgstr ""
+msgstr "Japanische Smileys"
 
 #: ../data/str.xml.in.h:399
 msgid "Smoking"
-msgstr ""
+msgstr "Rauchen"
 
 #: ../data/str.xml.in.h:400
 msgid "Sorry"
-msgstr ""
+msgstr "Tut mir leid"
 
 #: ../data/str.xml.in.h:401
 msgid "Hug"
-msgstr ""
+msgstr "Umarmung"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in.h:403
 msgid "Smileys (Japanese 2ch)"
-msgstr ""
+msgstr "Japanische Smileys, Gruppe 2"
 
 #: ../data/str.xml.in.h:404
 msgid "Hey"
-msgstr ""
+msgstr "Hallo"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in.h:406
 msgid "Smileys (Chinese)"
-msgstr ""
+msgstr "Chinesische Smileys"
 
 #: ../data/str.xml.in.h:407
 msgid "Crow"
-msgstr ""
+msgstr "Krähe"
 
 #. http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0
 #: ../data/str.xml.in.h:409
 msgid "Acronym"
-msgstr ""
+msgstr "Akronym"
 
 #: ../data/str.xml.in.h:410
 msgid "Acronym (Computer)"
-msgstr ""
+msgstr "Akronyme (Computer)"
 
 #. http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0
 #: ../data/str.xml.in.h:412
 msgid "Acronym (Japanese)"
-msgstr ""
+msgstr "Japanische Acronyme"
 
 #: ../data/str.xml.in.h:413
 msgid "Do not want to read between lines (Aete Kuuki Wo Yomanai)"
-msgstr ""
+msgstr "Nicht zwischen den Zeilen lesen wollen (Aete Kuuki Wo Yomanai)"
 
 #: ../data/str.xml.in.h:414
 msgid "Can't get together (Guda Guda)"
-msgstr ""
+msgstr "Kann nicht zusammenkommen (Guda Guda)"
 
 #: ../data/str.xml.in.h:415
 msgid "Say whatever one feels (Iitaidake)"
-msgstr ""
+msgstr "Sagen was auch immer einem in den Sinn kommt (Iitaidake)"
 
 #: ../data/str.xml.in.h:416
 msgid "Excited (Kitakore)"
-msgstr ""
+msgstr "Aufgeregt (Kitakore)"
 
 #: ../data/str.xml.in.h:417
 msgid "Detail (Kuwashiku)"
-msgstr ""
+msgstr "Detail (Kuwashiku)"
 
 #: ../data/str.xml.in.h:418
 msgid "Cannot read between lines (Kuuki Ga Yomenai)"
-msgstr ""
+msgstr "Kann nicht zwischen den Zeilen lesen (Kuuki Ga Yomenai)"
 
 #: ../data/str.xml.in.h:419
 msgid "Omission (Shouryaku)"
-msgstr ""
+msgstr "Auslassung (Shouryaku)"
 
 #: ../data/str.xml.in.h:420
 msgid "Excited (Waku Waku Teka Teka)"
-msgstr ""
+msgstr "Aufgeregt sein (Waku Waku Teka Teka)"
 
 #: ../data/str.xml.in.h:421
 msgid "Laugh"
-msgstr ""
+msgstr "Lachen"
 
 #: ../data/str.xml.in.h:422
 msgid "Dude (Oi!)"
-msgstr ""
+msgstr "Eindringen (Oi!)"
 
 #: ../data/str.xml.in.h:423
 msgid "Good job (Otsukare)"
-msgstr ""
+msgstr "Gute Arbeit! (Otsukare)"
 
 #: ../data/str.xml.in.h:424
 msgid "Want (Kure, E.g. pics クレメンス)"
-msgstr ""
+msgstr "Begehren (Zum Beispiel Bilder aus dem Internet, Eisou kuremens)"
 
 #: ../data/str.xml.in.h:425
 msgid "ASCII art of a hand (✊, E.g. つAttention)"
-msgstr ""
+msgstr "ASCII Graphik einer Hand (✊, Zum Beispiel つAchtung)"
 
 #: ../data/str.xml.in.h:426
 msgid "In The Meantime (Toriaezu, Maa)"
-msgstr ""
+msgstr "Für’s Erste (Toriaezu, Maa)"
 
 #: ../data/str.xml.in.h:427
 msgid "Self-confidence (Aniki, E.g. tennis ニキ)"
-msgstr ""
+msgstr "Selbstvertrauen (Aniki, Zum Beispiel Tennis ニキ)"
 
 #: ../data/str.xml.in.h:428
 msgid "Bye"
-msgstr ""
+msgstr "Tschüß"
 
 #: ../data/str.xml.in.h:429
 msgid "Want (Hattekure, E.g. pics ハラデイ)"
-msgstr ""
+msgstr "Begehren (Hattekure, Zum Beispiel Bilder aus dem Internet)"
 
 #: ../data/str.xml.in.h:430
 msgid "Exist as microparticles (Biryushi Level De Sonzaisuru)"
-msgstr ""
+msgstr "Als Mikropartikel existieren (Biryushi Level De Sonzaisuru)"
 
 #: ../data/str.xml.in.h:431
 msgid "False Start (Flying Get)"
 msgstr ""
+"Etwas früher als zum offiziellen Erscheinungstermin erlangen (Flying Get, "
+"japanischer Slang)"
 
 #: ../data/str.xml.in.h:432
 msgid "Fulfilling Life (Real life is Zyujitsu)"
-msgstr ""
+msgstr "Erfülltes Leben (Real life is Zyujitsu)"
 
 #: ../data/str.xml.in.h:433
 msgid "Laugh (Warau)"
-msgstr ""
+msgstr "Lachen (Warau)"
 
 #: ../data/str.xml.in.h:434
 msgid "He (Yatsu &lt;- Yashi)"
-msgstr ""
+msgstr "Straßenkünstler (Yatsu &lt;- Yashi, japanischer Slang)"
 
 #: ../data/w3c.xml.in.h:1
 msgid "Char References"
-msgstr ""
+msgstr "Zeichenreferenz"
 
 #: ../data/zh.xml.in.h:1
 msgid "Chinese"
-msgstr ""
+msgstr "Chinesisch"
 
 #: ../data/zh.xml.in.h:4 ../input-pad/unicode_block.h:138
 msgid "Bopomofo"
-msgstr ""
+msgstr "Bopomofo"
 
 #: ../input-pad/app-menu.ui.h:1
 msgid "_File"
-msgstr ""
+msgstr "_Datei"
 
 #: ../input-pad/app-menu.ui.h:2 ../input-pad/dialog.ui.h:21
 msgid "_Close"
-msgstr ""
+msgstr "_Schließen"
 
 #: ../input-pad/app-menu.ui.h:3
 msgid "Close the program"
-msgstr ""
+msgstr "Das Programm beenden"
 
 #: ../input-pad/app-menu.ui.h:4
 msgid "_Pad"
-msgstr ""
+msgstr "_Tastatur"
 
 #: ../input-pad/app-menu.ui.h:5
 msgid "_Code Point"
-msgstr ""
+msgstr "_Codepoint"
 
 #: ../input-pad/app-menu.ui.h:6
 msgid "_Show Pad"
-msgstr ""
+msgstr "Ta_statur anzeigen"
 
 #: ../input-pad/app-menu.ui.h:7
 msgid "Show _All Characters"
-msgstr ""
+msgstr "_Alle Zeichen anzeigen"
 
 #: ../input-pad/app-menu.ui.h:8
 msgid "Show _Custom Characters"
-msgstr ""
+msgstr "Benutzerdefinierte Zei_chen anzeigen"
 
 #: ../input-pad/app-menu.ui.h:9
 msgid "Show _Nothing"
-msgstr ""
+msgstr "_Nichts anzeigen"
 
 #: ../input-pad/app-menu.ui.h:10
 msgid "Show _Keyboard Layout"
-msgstr ""
+msgstr "_Tastaturbelegung anzeigen"
 
 #: ../input-pad/app-menu.ui.h:11
 msgid "_Help"
-msgstr ""
+msgstr "_Hilfe"
 
 #: ../input-pad/app-menu.ui.h:12
 msgid "_Troubleshoot"
-msgstr ""
+msgstr "_Fehler suchen"
 
 #: ../input-pad/app-menu.ui.h:13
 msgid "_About"
-msgstr ""
+msgstr "_Info"
 
 #: ../input-pad/dialog.ui.h:1
 msgid "Code Point Dialog"
-msgstr ""
+msgstr "Codepoint Dialog"
 
 #: ../input-pad/dialog.ui.h:2
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: ../input-pad/dialog.ui.h:3
 msgid "You can choose encoding type"
-msgstr ""
+msgstr "Man kann den Kodierungstyp wählen"
 
 #: ../input-pad/dialog.ui.h:4
 msgid "Current Encoding"
-msgstr ""
+msgstr "Aktuelle Kodierung"
 
 #: ../input-pad/dialog.ui.h:5
 msgid "Copy Buffer"
-msgstr ""
+msgstr "Kopierpuffer"
 
 #: ../input-pad/dialog.ui.h:6
 msgid ""
 "Base 16\n"
 "Hex"
 msgstr ""
+"Basis 16\n"
+"Hexadezimal"
 
 #: ../input-pad/dialog.ui.h:8
 msgid "Set number case to hexadecimal"
-msgstr ""
+msgstr "Zahlensystem auf Hexadeximal setzen"
 
 #: ../input-pad/dialog.ui.h:9
 msgid ""
 "Base 10\n"
 "Dec"
 msgstr ""
+"Basis 10\n"
+"Dezimal"
 
 #: ../input-pad/dialog.ui.h:11
 msgid "Set number case to decimal"
-msgstr ""
+msgstr "Zahlensystem auf dezimal setzen"
 
 #: ../input-pad/dialog.ui.h:12
 msgid ""
 "Base 8\n"
 "Oct"
 msgstr ""
+"Basis 8\n"
+"Oktal"
 
 #: ../input-pad/dialog.ui.h:14
 msgid "Set number case to octal"
-msgstr ""
+msgstr "Zahlensystem auf Oktal setzen"
 
 #: ../input-pad/dialog.ui.h:15
 msgid ""
 "Base 2\n"
 "Bin"
 msgstr ""
+"Basis 2\n"
+"Binär"
 
 #: ../input-pad/dialog.ui.h:17
 msgid "Set number case to binary"
-msgstr ""
+msgstr "Zahlensystem auf binär setzen"
 
 #: ../input-pad/dialog.ui.h:18
 msgid "Code Point:"
-msgstr ""
+msgstr "Codepoint:"
 
 #: ../input-pad/dialog.ui.h:19
 msgid "Character:"
-msgstr ""
+msgstr "Zeichen:"
 
 #: ../input-pad/dialog.ui.h:20
 msgid "_Send"
-msgstr ""
+msgstr "_Senden"
 
 #: ../input-pad/dialog.ui.h:22
 msgid "Input Pad Troubleshoot"
-msgstr ""
+msgstr "Input Pad Fehlersuche"
 
 #: ../input-pad/dialog.ui.h:24
 #, no-c-format
@@ -3328,865 +3341,878 @@ msgid ""
 "You also can copy pad files from /usr/share/input-pad/pad to $HOME/.config/"
 "pad to customize those in \"Custom Character\" pane."
 msgstr ""
+"\n"
+"Dieses Programm kann als eigenständiges Programm laufen oder unter  einem  "
+"Inputmethodenprogramm. \n"
+"Wenn multi-byte-Zeichen gesendet werden können sollen, dann muss dieses "
+"Programm unter einem Inputmethodenprogramm laufen.\n"
+"Wenn  Zeichen an X11 Programme gesendet werden können sollen,  dann müssen "
+"diese X11 Programme das Senden von Events erlauben. Zum Beispiel:\n"
+"% xterm -xrm \"XTerm*allowSendEvents: true\"\n"
+"\n"
+"Man kann auch Dateien aus /usr/share/input-pad/pad nach $HOME/.config/pad "
+"kopieren um die „Benutzerdefinierte Zeichen\" Seite individuell anzupassen."
 
 #: ../input-pad/dialog.ui.h:31
 msgid "_OK"
-msgstr ""
+msgstr "_OK"
 
 #: ../input-pad/dialog.ui.h:32
 msgid "Configure Keyboard Layouts"
-msgstr ""
+msgstr "Tastaturbelegungen konfigurieren"
 
 #: ../input-pad/dialog.ui.h:33
 msgid "A_vailable layouts:"
-msgstr ""
+msgstr "_Verfügbare Tastaturbelegungen:"
 
 #: ../input-pad/dialog.ui.h:34
 msgid "_Add"
-msgstr ""
+msgstr "_Addieren"
 
 #: ../input-pad/dialog.ui.h:35
 msgid "_Layouts shown in the list:"
-msgstr ""
+msgstr "_Tastaturbelegungen in  Liste:"
 
 #: ../input-pad/dialog.ui.h:36
 msgid "_Remove"
-msgstr ""
+msgstr "Entfe_rnen"
 
 #: ../input-pad/dialog.ui.h:37
 msgid "_Options"
-msgstr ""
+msgstr "_Optionen"
 
 #: ../input-pad/dialog.ui.h:38
 msgid "Configure Keyboard Options"
-msgstr ""
+msgstr "Tastaturoptionen konfigurieren"
 
 #: ../input-pad/dialog.ui.h:39
 msgid "_Use the default keyboard option"
-msgstr ""
+msgstr "Voreingestellte Tastaturoption ben_utzen"
 
 #: ../input-pad/dialog.ui.h:40
 msgid "Use the defualt XKB option"
-msgstr ""
+msgstr "Voreingestellte XKB Option benutzen"
 
 #: ../input-pad/dialog.ui.h:41
 msgid "<b>Keyboard Option</b>"
-msgstr ""
+msgstr "<b>Tastatur Option</b>"
 
 #: ../input-pad/dialog.ui.h:43
 msgid "The input pad is a tool to send a character on button."
 msgstr ""
+"Input Pad ist ein Werkzeug um ein Zeichen durch Klicken einer virtuellen "
+"Taste zu senden."
 
 #: ../input-pad/dialog.ui.h:44
 msgid "translator_credits"
-msgstr ""
+msgstr "Mike FABIAN <mfabian@redhat.com>"
 
 #: ../input-pad/eek-gtk.c:65
 msgid "Use libeek to draw keyboard"
-msgstr ""
+msgstr "libeek benutzen um Tastatur zu zeichnen"
 
 #: ../input-pad/eek-gtk.c:237
 msgid "eekboard layout"
-msgstr ""
+msgstr "eekboard Belegung"
 
 #: ../input-pad/eek-gtk.c:249
 msgid "eekboard Options"
-msgstr ""
+msgstr "eekboard Optionen"
 
 #: ../input-pad/eek-gtk.c:249
 msgid "Show eekboard Options"
-msgstr ""
+msgstr "eekboard  Optionen anzeigen"
 
 #: ../input-pad/unicode_block.h:37
 msgid "Basic Latin"
-msgstr ""
+msgstr "Basis-Lateinisch"
 
 #: ../input-pad/unicode_block.h:40
 msgid "Latin Extended-B"
-msgstr ""
+msgstr "Lateinisch, erweitert-B"
 
 #: ../input-pad/unicode_block.h:41
 msgid "IPA Extensions"
-msgstr ""
+msgstr "IPA Erweiterungen"
 
 #: ../input-pad/unicode_block.h:42
 msgid "Spacing Modifier Letters"
-msgstr ""
+msgstr "Nichtkombinierende Zusatzzeichen"
 
 #: ../input-pad/unicode_block.h:43
 msgid "Combining Diacritical Marks"
-msgstr ""
+msgstr "Kombinierende diakritische Zeichen"
 
 #: ../input-pad/unicode_block.h:44
 msgid "Greek and Coptic"
-msgstr ""
+msgstr "Griechisch und koptisch"
 
 #: ../input-pad/unicode_block.h:45
 msgid "Cyrillic"
-msgstr ""
+msgstr "Kyrillisch"
 
 #: ../input-pad/unicode_block.h:46
 msgid "Cyrillic Supplement"
-msgstr ""
+msgstr "Kyrillisch, Ergänzung"
 
 #: ../input-pad/unicode_block.h:47
 msgid "Armenian"
-msgstr ""
+msgstr "Armenisch"
 
 #: ../input-pad/unicode_block.h:48
 msgid "Hebrew"
-msgstr ""
+msgstr "Hebräisch"
 
 #: ../input-pad/unicode_block.h:49
 msgid "Arabic"
-msgstr ""
+msgstr "Arabisch"
 
 #: ../input-pad/unicode_block.h:50
 msgid "Syriac"
-msgstr ""
+msgstr "Syrisch"
 
 #: ../input-pad/unicode_block.h:51
 msgid "Arabic Supplement"
-msgstr ""
+msgstr "Arabisch, Ergänzung"
 
 #: ../input-pad/unicode_block.h:52
 msgid "Thaana"
-msgstr ""
+msgstr "Thaana"
 
 #: ../input-pad/unicode_block.h:53
 msgid "NKo"
-msgstr ""
+msgstr "N’Ko"
 
 #: ../input-pad/unicode_block.h:54
 msgid "Samaritan"
-msgstr ""
+msgstr "Samaritanisch"
 
 #: ../input-pad/unicode_block.h:55
 msgid "Devanagari"
-msgstr ""
+msgstr "Devanagari"
 
 #: ../input-pad/unicode_block.h:56
 msgid "Bengali"
-msgstr ""
+msgstr "Bengalisch"
 
 #: ../input-pad/unicode_block.h:57
 msgid "Gurmukhi"
-msgstr ""
+msgstr "Gurmukhi"
 
 #: ../input-pad/unicode_block.h:58
 msgid "Gujarati"
-msgstr ""
+msgstr "Gujarati"
 
 #: ../input-pad/unicode_block.h:59
 msgid "Oriya"
-msgstr ""
+msgstr "Oriya"
 
 #: ../input-pad/unicode_block.h:60
 msgid "Tamil"
-msgstr ""
+msgstr "Tamilisch"
 
 #: ../input-pad/unicode_block.h:61
 msgid "Telugu"
-msgstr ""
+msgstr "Telugu"
 
 #: ../input-pad/unicode_block.h:62
 msgid "Kannada"
-msgstr ""
+msgstr "Kannada"
 
 #: ../input-pad/unicode_block.h:63
 msgid "Malayalam"
-msgstr ""
+msgstr "Malayalam"
 
 #: ../input-pad/unicode_block.h:64
 msgid "Sinhala"
-msgstr ""
+msgstr "Singhalesisch"
 
 #: ../input-pad/unicode_block.h:65
 msgid "Thai"
-msgstr ""
+msgstr "Thailändisch"
 
 #: ../input-pad/unicode_block.h:66
 msgid "Lao"
-msgstr ""
+msgstr "Laotisch"
 
 #: ../input-pad/unicode_block.h:67
 msgid "Tibetan"
-msgstr ""
+msgstr "Tibetisch"
 
 #: ../input-pad/unicode_block.h:68
 msgid "Myanmar"
-msgstr ""
+msgstr "Birmanisch"
 
 #: ../input-pad/unicode_block.h:69
 msgid "Georgian"
-msgstr ""
+msgstr "Georgisch"
 
 #: ../input-pad/unicode_block.h:70
 msgid "Hangul Jamo"
-msgstr ""
+msgstr "Hangul Jamo"
 
 #: ../input-pad/unicode_block.h:71
 msgid "Ethiopic"
-msgstr ""
+msgstr "Äthiopisch"
 
 #: ../input-pad/unicode_block.h:72
 msgid "Ethiopic Supplement"
-msgstr ""
+msgstr "Äthiopisch, Zusatz"
 
 #: ../input-pad/unicode_block.h:73
 msgid "Cherokee"
-msgstr ""
+msgstr "Cherokee"
 
 #: ../input-pad/unicode_block.h:74
 msgid "Unified Canadian Aboriginal Syllabics"
-msgstr ""
+msgstr "Vereinheitlichte Silbenzeichen kanadischer Ureinwohner"
 
 #: ../input-pad/unicode_block.h:75
 msgid "Ogham"
-msgstr ""
+msgstr "Ogam"
 
 #: ../input-pad/unicode_block.h:76
 msgid "Runic"
-msgstr ""
+msgstr "Runen"
 
 #: ../input-pad/unicode_block.h:77
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: ../input-pad/unicode_block.h:78
 msgid "Hanunoo"
-msgstr ""
+msgstr "Hanunóo"
 
 #: ../input-pad/unicode_block.h:79
 msgid "Buhid"
-msgstr ""
+msgstr "Buid"
 
 #: ../input-pad/unicode_block.h:80
 msgid "Tagbanwa"
-msgstr ""
+msgstr "Tagbanuwa"
 
 #: ../input-pad/unicode_block.h:81
 msgid "Khmer"
-msgstr ""
+msgstr "Khmer"
 
 #: ../input-pad/unicode_block.h:82
 msgid "Mongolian"
-msgstr ""
+msgstr "Mongolisch"
 
 #: ../input-pad/unicode_block.h:83
 msgid "Unified Canadian Aboriginal Syllabics Extended"
-msgstr ""
+msgstr "Vereinheitlichte Silbenzeichen kanadischer Ureinwohner, erweitert"
 
 #: ../input-pad/unicode_block.h:84
 msgid "Limbu"
-msgstr ""
+msgstr "Limbu"
 
 #: ../input-pad/unicode_block.h:85
 msgid "Tai Le"
-msgstr ""
+msgstr "Tai Le"
 
 #: ../input-pad/unicode_block.h:86
 msgid "New Tai Lue"
-msgstr ""
+msgstr "Neu-Tai-Lue"
 
 #: ../input-pad/unicode_block.h:87
 msgid "Khmer Symbols"
-msgstr ""
+msgstr "Khmer-Symbole"
 
 #: ../input-pad/unicode_block.h:88
 msgid "Buginese"
-msgstr ""
+msgstr "Buginesisch"
 
 #: ../input-pad/unicode_block.h:89
 msgid "Tai Tham"
-msgstr ""
+msgstr "Tai Tham"
 
 #: ../input-pad/unicode_block.h:90
 msgid "Balinese"
-msgstr ""
+msgstr "Balinesisch"
 
 #: ../input-pad/unicode_block.h:91
 msgid "Sundanese"
-msgstr ""
+msgstr "Sundanesisch"
 
 #: ../input-pad/unicode_block.h:92
 msgid "Lepcha"
-msgstr ""
+msgstr "Lepcha"
 
 #: ../input-pad/unicode_block.h:93
 msgid "Ol Chiki"
-msgstr ""
+msgstr "Ol Chiki"
 
 #: ../input-pad/unicode_block.h:94
 msgid "Vedic Extensions"
-msgstr ""
+msgstr "Vedische Erweiterungen"
 
 #: ../input-pad/unicode_block.h:95
 msgid "Phonetic Extensions"
-msgstr ""
+msgstr "Phonetische Erweiterungen"
 
 #: ../input-pad/unicode_block.h:96
 msgid "Phonetic Extensions Supplement"
-msgstr ""
+msgstr "Phonetische Erweiterungen, Ergänzung"
 
 #: ../input-pad/unicode_block.h:97
 msgid "Combining Diacritical Marks Supplement"
-msgstr ""
+msgstr "Kombinierende diakritische Zeichen, Ergänzung"
 
 #: ../input-pad/unicode_block.h:98
 msgid "Latin Extended Additional"
-msgstr ""
+msgstr "Lateinisch, weiterer Zusatz"
 
 #: ../input-pad/unicode_block.h:99
 msgid "Greek Extended"
-msgstr ""
+msgstr "Griechisch, Zusatz"
 
 #: ../input-pad/unicode_block.h:100
 msgid "General Punctuation"
-msgstr ""
+msgstr "Allgemeine Interpunktion"
 
 #: ../input-pad/unicode_block.h:101
 msgid "Superscripts and Subscripts"
-msgstr ""
+msgstr "Hoch- und tiefgestellte Zeichen"
 
 #: ../input-pad/unicode_block.h:102
 msgid "Currency Symbols"
-msgstr ""
+msgstr "Währungszeichen"
 
 #: ../input-pad/unicode_block.h:103
 msgid "Combining Diacritical Marks for Symbols"
-msgstr ""
+msgstr "Kombinierende diakritische Zeichen für Symbole"
 
 #: ../input-pad/unicode_block.h:104
 msgid "Letterlike Symbols"
-msgstr ""
+msgstr "Buchstabenähnliche Symbole"
 
 #: ../input-pad/unicode_block.h:105
 msgid "Number Forms"
-msgstr ""
+msgstr "Zahlzeichen"
 
 #: ../input-pad/unicode_block.h:106
 msgid "Arrows"
-msgstr ""
+msgstr "Pfeile"
 
 #: ../input-pad/unicode_block.h:107
 msgid "Mathematical Operators"
-msgstr ""
+msgstr "Mathematische Operatoren"
 
 #: ../input-pad/unicode_block.h:108
 msgid "Miscellaneous Technical"
-msgstr ""
+msgstr "Verschiedene technische Zeichen"
 
 #: ../input-pad/unicode_block.h:109
 msgid "Control Pictures"
-msgstr ""
+msgstr "Symbole für Steuerzeichen"
 
 #: ../input-pad/unicode_block.h:110
 msgid "Optical Character Recognition"
-msgstr ""
+msgstr "Optische Zeichenerkennung"
 
 #: ../input-pad/unicode_block.h:111
 msgid "Enclosed Alphanumerics"
-msgstr ""
+msgstr "Umschlossene alphanumerische Zeichen"
 
 #: ../input-pad/unicode_block.h:113
 msgid "Block Elements"
-msgstr ""
+msgstr "Blockelemente"
 
 #: ../input-pad/unicode_block.h:114
 msgid "Geometric Shapes"
-msgstr ""
+msgstr "Geometrische Formen"
 
 #: ../input-pad/unicode_block.h:115
 msgid "Miscellaneous Symbols"
-msgstr ""
+msgstr "Verschiedene Symbole"
 
 #: ../input-pad/unicode_block.h:117
 msgid "Miscellaneous Mathematical Symbols-A"
-msgstr ""
+msgstr "Verschiedene mathematische Symbole-A"
 
 #: ../input-pad/unicode_block.h:118
 msgid "Supplemental Arrows-A"
-msgstr ""
+msgstr "Zusätzliche Pfeile-A"
 
 #: ../input-pad/unicode_block.h:119
 msgid "Braille Patterns"
-msgstr ""
+msgstr "Braille-Zeichen"
 
 #: ../input-pad/unicode_block.h:120
 msgid "Supplemental Arrows-B"
-msgstr ""
+msgstr "Zusätzliche Pfeile-B"
 
 #: ../input-pad/unicode_block.h:121
 msgid "Miscellaneous Mathematical Symbols-B"
-msgstr ""
+msgstr "Verschiedene mathematische Symbole-B"
 
 #: ../input-pad/unicode_block.h:122
 msgid "Supplemental Mathematical Operators"
-msgstr ""
+msgstr "Zusätzliche Mathematische Operatoren"
 
 #: ../input-pad/unicode_block.h:123
 msgid "Miscellaneous Symbols and Arrows"
-msgstr ""
+msgstr "Verschiedene Symbole und Pfeile"
 
 #: ../input-pad/unicode_block.h:124
 msgid "Glagolitic"
-msgstr ""
+msgstr "Glagolitisch"
 
 #: ../input-pad/unicode_block.h:125
 msgid "Latin Extended-C"
-msgstr ""
+msgstr "Lateinisch, erweitert-C"
 
 #: ../input-pad/unicode_block.h:126
 msgid "Coptic"
-msgstr ""
+msgstr "Koptisch"
 
 #: ../input-pad/unicode_block.h:127
 msgid "Georgian Supplement"
-msgstr ""
+msgstr "Georgisch, Ergänzung"
 
 #: ../input-pad/unicode_block.h:128
 msgid "Tifinagh"
-msgstr ""
+msgstr "Tifinagh"
 
 #: ../input-pad/unicode_block.h:129
 msgid "Ethiopic Extended"
-msgstr ""
+msgstr "Äthiopisch, erweitert"
 
 #: ../input-pad/unicode_block.h:130
 msgid "Cyrillic Extended-A"
-msgstr ""
+msgstr "Kyrillisch, erweitert-A"
 
 #: ../input-pad/unicode_block.h:131
 msgid "Supplemental Punctuation"
-msgstr ""
+msgstr "Zusätzliche Interpunktion"
 
 #: ../input-pad/unicode_block.h:133
 msgid "Kangxi Radicals"
-msgstr ""
+msgstr "Kangxi-Radikale"
 
 #: ../input-pad/unicode_block.h:134
 msgid "Ideographic Description Characters"
-msgstr ""
+msgstr "Ideographische Beschreibungszeichen"
 
 #: ../input-pad/unicode_block.h:135
 msgid "CJK Symbols and Punctuation"
-msgstr ""
+msgstr "CJK-Symbole und -Interpunktion"
 
 #: ../input-pad/unicode_block.h:139
 msgid "Hangul Compatibility Jamo"
-msgstr ""
+msgstr "Hangeul-Jamo, Kompatibilität"
 
 #: ../input-pad/unicode_block.h:140
 msgid "Kanbun"
-msgstr ""
+msgstr "Kanbun"
 
 #: ../input-pad/unicode_block.h:141
 msgid "Bopomofo Extended"
-msgstr ""
+msgstr "Bopomofo, erweitert"
 
 #: ../input-pad/unicode_block.h:142
 msgid "CJK Strokes"
-msgstr ""
+msgstr "CJK-Striche"
 
 #: ../input-pad/unicode_block.h:143
 msgid "Katakana Phonetic Extensions"
-msgstr ""
+msgstr "Katakana, Phonetische Erweiterungen"
 
 #: ../input-pad/unicode_block.h:144
 msgid "Enclosed CJK Letters and Months"
-msgstr ""
+msgstr "Umschlossene CJK-Zeichen und -Monate"
 
 #: ../input-pad/unicode_block.h:146
 msgid "CJK Unified Ideographs Extension A"
-msgstr ""
+msgstr "Vereinheitlichte CJK-Ideogramme, Erweiterung A"
 
 #: ../input-pad/unicode_block.h:147
 msgid "Yijing Hexagram Symbols"
-msgstr ""
+msgstr "I-Ging-Hexagramme"
 
 #: ../input-pad/unicode_block.h:148
 msgid "CJK Unified Ideographs"
-msgstr ""
+msgstr "Vereinheitlichte CJK-Ideogramme"
 
 #: ../input-pad/unicode_block.h:149
 msgid "Yi Syllables"
-msgstr ""
+msgstr "Yi-Silbenzeichen"
 
 #: ../input-pad/unicode_block.h:150
 msgid "Yi Radicals"
-msgstr ""
+msgstr "Yi-Radikale"
 
 #: ../input-pad/unicode_block.h:151
 msgid "Lisu"
-msgstr ""
+msgstr "Lisu"
 
 #: ../input-pad/unicode_block.h:152
 msgid "Vai"
-msgstr ""
+msgstr "Vai"
 
 #: ../input-pad/unicode_block.h:153
 msgid "Cyrillic Extended-B"
-msgstr ""
+msgstr "Kyrillisch, erweitert-B"
 
 #: ../input-pad/unicode_block.h:154
 msgid "Bamum"
-msgstr ""
+msgstr "Bamum"
 
 #: ../input-pad/unicode_block.h:155
 msgid "Modifier Tone Letters"
-msgstr ""
+msgstr "Modifizierende Tonzeichen"
 
 #: ../input-pad/unicode_block.h:156
 msgid "Latin Extended-D"
-msgstr ""
+msgstr "Lateinisch, erweitert-D"
 
 #: ../input-pad/unicode_block.h:157
 msgid "Syloti Nagri"
-msgstr ""
+msgstr "Syloti Nagri"
 
 #: ../input-pad/unicode_block.h:158
 msgid "Common Indic Number Forms"
-msgstr ""
+msgstr "Allgemeine indische Ziffern"
 
 #: ../input-pad/unicode_block.h:159
 msgid "Phags-pa"
-msgstr ""
+msgstr "Phagspa"
 
 #: ../input-pad/unicode_block.h:160
 msgid "Saurashtra"
-msgstr ""
+msgstr "Saurashtra"
 
 #: ../input-pad/unicode_block.h:161
 msgid "Devanagari Extended"
-msgstr ""
+msgstr "Devanagari, erweitert"
 
 #: ../input-pad/unicode_block.h:162
 msgid "Kayah Li"
-msgstr ""
+msgstr "Kayah Li"
 
 #: ../input-pad/unicode_block.h:163
 msgid "Rejang"
-msgstr ""
+msgstr "Rejang"
 
 #: ../input-pad/unicode_block.h:164
 msgid "Hangul Jamo Extended-A"
-msgstr ""
+msgstr "Hangeul-Jamo, erweitert-A"
 
 #: ../input-pad/unicode_block.h:165
 msgid "Javanese"
-msgstr ""
+msgstr "Javanisch"
 
 #: ../input-pad/unicode_block.h:166
 msgid "Cham"
-msgstr ""
+msgstr "Cham"
 
 #: ../input-pad/unicode_block.h:167
 msgid "Myanmar Extended-A"
-msgstr ""
+msgstr "Birmanisch, erweitert-A"
 
 #: ../input-pad/unicode_block.h:168
 msgid "Tai Viet"
-msgstr ""
+msgstr "Tai Viet"
 
 #: ../input-pad/unicode_block.h:169
 msgid "Meetei Mayek"
-msgstr ""
+msgstr "Meitei-Mayek"
 
 #: ../input-pad/unicode_block.h:170
 msgid "Hangul Syllables"
-msgstr ""
+msgstr "Hangeul-Silbenzeichen"
 
 #: ../input-pad/unicode_block.h:171
 msgid "Hangul Jamo Extended-B"
-msgstr ""
+msgstr "Hangeul-Jamo, erweitert-B"
 
 #: ../input-pad/unicode_block.h:172
 msgid "High Surrogates"
-msgstr ""
+msgstr "High Surrogates"
 
 #: ../input-pad/unicode_block.h:173
 msgid "High Private Use Surrogates"
-msgstr ""
+msgstr "High Surrogates (privater Bereich)"
 
 #: ../input-pad/unicode_block.h:174
 msgid "Low Surrogates"
-msgstr ""
+msgstr "Low Surrogates"
 
 #: ../input-pad/unicode_block.h:175
 msgid "Private Use Area"
-msgstr ""
+msgstr "Private Use Zone"
 
 #: ../input-pad/unicode_block.h:176
 msgid "CJK Compatibility Ideographs"
-msgstr ""
+msgstr "CJK-Ideogramme, Kompatibilität"
 
 #: ../input-pad/unicode_block.h:177
 msgid "Alphabetic Presentation Forms"
-msgstr ""
+msgstr "Alphabetische Präsentationsformen"
 
 #: ../input-pad/unicode_block.h:178
 msgid "Arabic Presentation Forms-A"
-msgstr ""
+msgstr "Arabische Präsentationsformen-A"
 
 #: ../input-pad/unicode_block.h:179
 msgid "Variation Selectors"
-msgstr ""
+msgstr "Variantenselektoren"
 
 #: ../input-pad/unicode_block.h:180
 msgid "Vertical Forms"
-msgstr ""
+msgstr "Vertikale Formen"
 
 #: ../input-pad/unicode_block.h:181
 msgid "Combining Half Marks"
-msgstr ""
+msgstr "Kombinierende halbe diakritische Zeichen"
 
 #: ../input-pad/unicode_block.h:182
 msgid "CJK Compatibility Forms"
-msgstr ""
+msgstr "CJK-Kompatibilitätsformen"
 
 #: ../input-pad/unicode_block.h:183
 msgid "Small Form Variants"
-msgstr ""
+msgstr "Kleine Formvarianten"
 
 #: ../input-pad/unicode_block.h:184
 msgid "Arabic Presentation Forms-B"
-msgstr ""
+msgstr "Arabische Präsentationsformen-B"
 
 #: ../input-pad/unicode_block.h:185
 msgid "Halfwidth and Fullwidth Forms"
-msgstr ""
+msgstr "Halbbreite und vollbreite Formen"
 
 #: ../input-pad/unicode_block.h:186
 msgid "Specials"
-msgstr ""
+msgstr "Spezielles"
 
 #: ../input-pad/unicode_block.h:187
 msgid "Linear B Syllabary"
-msgstr ""
+msgstr "Linear-B-Silbenzeichen"
 
 #: ../input-pad/unicode_block.h:188
 msgid "Linear B Ideograms"
-msgstr ""
+msgstr "Linear-B-Ideogramme"
 
 #: ../input-pad/unicode_block.h:189
 msgid "Aegean Numbers"
-msgstr ""
+msgstr "Ägäische Zahlzeichen"
 
 #: ../input-pad/unicode_block.h:190
 msgid "Ancient Greek Numbers"
-msgstr ""
+msgstr "Altgriechische Zahlzeichen"
 
 #: ../input-pad/unicode_block.h:191
 msgid "Ancient Symbols"
-msgstr ""
+msgstr "Alte Symbole"
 
 #: ../input-pad/unicode_block.h:192
 msgid "Phaistos Disc"
-msgstr ""
+msgstr "Diskos von Phaistos"
 
 #: ../input-pad/unicode_block.h:193
 msgid "Lycian"
-msgstr ""
+msgstr "Lykisch"
 
 #: ../input-pad/unicode_block.h:194
 msgid "Carian"
-msgstr ""
+msgstr "Karisch"
 
 #: ../input-pad/unicode_block.h:195
 msgid "Old Italic"
-msgstr ""
+msgstr "Altitalisch"
 
 #: ../input-pad/unicode_block.h:197
 msgid "Ugaritic"
-msgstr ""
+msgstr "Ugaritisch"
 
 #: ../input-pad/unicode_block.h:198
 msgid "Old Persian"
-msgstr ""
+msgstr "Altpersisch"
 
 #: ../input-pad/unicode_block.h:199
 msgid "Deseret"
-msgstr ""
+msgstr "Mormonenalphabet"
 
 #: ../input-pad/unicode_block.h:201
 msgid "Osmanya"
-msgstr ""
+msgstr "Osmaniya"
 
 #: ../input-pad/unicode_block.h:202
 msgid "Cypriot Syllabary"
-msgstr ""
+msgstr "Kyprische Schrift"
 
 #: ../input-pad/unicode_block.h:203
 msgid "Imperial Aramaic"
-msgstr ""
+msgstr "Aramäisch"
 
 #: ../input-pad/unicode_block.h:204
 msgid "Phoenician"
-msgstr ""
+msgstr "Phönizisch"
 
 #: ../input-pad/unicode_block.h:205
 msgid "Lydian"
-msgstr ""
+msgstr "Lydisch"
 
 #: ../input-pad/unicode_block.h:206
 msgid "Kharoshthi"
-msgstr ""
+msgstr "Kharoshthi"
 
 #: ../input-pad/unicode_block.h:207
 msgid "Old South Arabian"
-msgstr ""
+msgstr "Altsüdarabisch"
 
 #: ../input-pad/unicode_block.h:208
 msgid "Avestan"
-msgstr ""
+msgstr "Avestisch"
 
 #: ../input-pad/unicode_block.h:209
 msgid "Inscriptional Parthian"
-msgstr ""
+msgstr "Parthisch"
 
 #: ../input-pad/unicode_block.h:210
 msgid "Inscriptional Pahlavi"
-msgstr ""
+msgstr "Inschriften-Pahlavi"
 
 #: ../input-pad/unicode_block.h:211
 msgid "Old Turkic"
-msgstr ""
+msgstr "Alttürkisch (Orchon-Runen)"
 
 #: ../input-pad/unicode_block.h:212
 msgid "Rumi Numeral Symbols"
-msgstr ""
+msgstr "Rumi-Ziffern"
 
 #: ../input-pad/unicode_block.h:213
 msgid "Kaithi"
-msgstr ""
+msgstr "Kaithi"
 
 #: ../input-pad/unicode_block.h:214
 msgid "Cuneiform"
-msgstr ""
+msgstr "Keilschrift"
 
 #: ../input-pad/unicode_block.h:215
 msgid "Cuneiform Numbers and Punctuation"
-msgstr ""
+msgstr "Keilschrift-Zahlzeichen und -Interpunktion"
 
 #: ../input-pad/unicode_block.h:216
 msgid "Egyptian Hieroglyphs"
-msgstr ""
+msgstr "Ägyptische Hieroglyphen"
 
 #: ../input-pad/unicode_block.h:217
 msgid "Byzantine Musical Symbols"
-msgstr ""
+msgstr "Byzantinische Notenschriftzeichen"
 
 #: ../input-pad/unicode_block.h:218
 msgid "Musical Symbols"
-msgstr ""
+msgstr "Notenschriftzeichen"
 
 #: ../input-pad/unicode_block.h:219
 msgid "Ancient Greek Musical Notation"
-msgstr ""
+msgstr "Altgriechische Notenschriftzeichen"
 
 #: ../input-pad/unicode_block.h:220
 msgid "Tai Xuan Jing Symbols"
-msgstr ""
+msgstr "Tai-Xuan-Jing-Symbole"
 
 #: ../input-pad/unicode_block.h:221
 msgid "Counting Rod Numerals"
-msgstr ""
+msgstr "Zählstabziffern"
 
 #: ../input-pad/unicode_block.h:222
 msgid "Mathematical Alphanumeric Symbols"
-msgstr ""
+msgstr "Mathematische alphanumerische Symbole"
 
 #: ../input-pad/unicode_block.h:223
 msgid "Mahjong Tiles"
-msgstr ""
+msgstr "Mahjonggsteine"
 
 #: ../input-pad/unicode_block.h:224
 msgid "Domino Tiles"
-msgstr ""
+msgstr "Dominosteine"
 
 #: ../input-pad/unicode_block.h:225
 msgid "Enclosed Alphanumeric Supplement"
-msgstr ""
+msgstr "Zusätzliche umschlossene alphanumerische Zeichen"
 
 #: ../input-pad/unicode_block.h:226
 msgid "Enclosed Ideographic Supplement"
-msgstr ""
+msgstr "Zusätzliche umschlossene CJK-Zeichen"
 
 #: ../input-pad/unicode_block.h:227
 msgid "CJK Unified Ideographs Extension B"
-msgstr ""
+msgstr "Vereinheitlichte CJK-Ideogramme, Erweiterung B"
 
 #: ../input-pad/unicode_block.h:228
 msgid "CJK Unified Ideographs Extension C"
-msgstr ""
+msgstr "Vereinheitlichte CJK-Ideogramme, Erweiterung C"
 
 #: ../input-pad/unicode_block.h:229
 msgid "CJK Compatibility Ideographs Supplement"
-msgstr ""
+msgstr "CJK-Ideogramme, Kompatibilität, Ergänzung"
 
 #: ../input-pad/unicode_block.h:230
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 #: ../input-pad/unicode_block.h:231
 msgid "Variation Selectors Supplement"
-msgstr ""
+msgstr "Variantenselektoren, Ergänzung"
 
 #: ../input-pad/unicode_block.h:232
 msgid "Supplementary Private Use Area-A"
-msgstr ""
+msgstr "Supplementary Private Use Area-A"
 
 #: ../input-pad/unicode_block.h:233
 msgid "Supplementary Private Use Area-B"
-msgstr ""
+msgstr "Supplementary Private Use Area-B"
 
 #: ../input-pad/window-gtk.c:203
 msgid "Display version"
-msgstr ""
+msgstr "Anzeigeversion"
 
 #. Translators: the word 'KBDUI' is not translated.
 #: ../input-pad/window-gtk.c:206
 msgid "Use KBDUI to draw keyboard"
-msgstr ""
+msgstr "KBDUI benutzen um Tastatur zu zeichnen"
 
 #. Translators: the word 'TYPE' is not translated.
 #: ../input-pad/window-gtk.c:209
 msgid "Use TYPE of char table. The available TYPE=0, 1, 2"
-msgstr ""
+msgstr "Zeichentabelle TYPE benutzen. Verfügbar sind TYPE=0, 1, 2"
 
 #. Translators: the word 'TYPE' is not translated.
 #: ../input-pad/window-gtk.c:212
 msgid "Use TYPE of keyboard layout. The available TYPE=0, 1"
-msgstr ""
+msgstr "Benutze die Tastaturbelegung TYPE. Verfügbar sind TYPE=0, 1"
 
 #: ../input-pad/window-gtk.c:219
 msgid "Use XTEST module to send key events"
-msgstr ""
+msgstr "XTEST Modul benutzen um Tastaturereignisse zu senden"
 
 #: ../input-pad/window-gtk.c:224
 msgid "Use XSendEvent to send key events"
-msgstr ""
+msgstr "XSendEvent benutzen um Tastenereignisse zu senden"
 
 #: ../input-pad/window-gtk.c:1172
 msgid "Fold layout"
-msgstr ""
+msgstr "Tastaturbelegung einklappen"
 
 #: ../input-pad/window-gtk.c:1177 ../input-pad/window-gtk.c:2610
 msgid "Extend layout"
-msgstr ""
+msgstr "Erweiterte Tastaturbelegung ausklappen"
 
 #: ../input-pad/window-gtk.c:2824
 msgid "Layout"
-msgstr ""
+msgstr "Tastaturbelegung"
 
 #: ../input-pad/window-gtk.c:3095
 msgid "_Layout:"
-msgstr ""
+msgstr "Tastaturbe_legung:"
 
 #: ../input-pad/window-gtk.c:3125
 msgid "_Configure Layouts"
-msgstr ""
+msgstr "_Tastaturbelegungen konfigurieren"
 
 #. No longer used in gtk 2.20
 #. gchar *license1, *license2, *license3;
@@ -4215,12 +4241,12 @@ msgstr ""
 #: ../input-pad/window-gtk.c:3164
 #, c-format
 msgid "This program comes with ABSOLUTELY NO WARRANTY; for details, visit %s"
-msgstr ""
+msgstr "Dieses Programm kommt OHNE JEDE GARANTIE; Für Details siehe %s"
 
 #: ../input-pad/window-gtk.c:3446
 msgid "Group"
-msgstr ""
+msgstr "Gruppe"
 
 #: ../input-pad/window-gtk.c:3454
 msgid "Subgroup"
-msgstr ""
+msgstr "Untergruppe"
