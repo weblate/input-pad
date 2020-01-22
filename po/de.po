@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2020-01-15 19:08+0900\n"
-"PO-Revision-Date: 2020-01-15 10:40+0000\n"
+"PO-Revision-Date: 2020-01-23 12:16+0000\n"
 "Last-Translator: Mike FABIAN <mfabian@redhat.com>\n"
-"Language-Team: German <https://translate.stg.fedoraproject.org/projects/"
+"Language-Team: German <https://translate.fedoraproject.org/projects/"
 "input-pad/master/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../data/alphabet.xml.in.in.h:1
 msgid "Alphabets"
@@ -276,7 +276,7 @@ msgstr "Stimmhafte palatal-alveolare Affrikate"
 
 #: ../data/ipa-obsolete.xml.in.h:11
 msgid "Palatalized voiceless labiodental fricative"
-msgstr "Palatalisierter stimmloser  labiodentaler  Frikativ"
+msgstr "Palatalisierter stimmloser labiodentaler Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:12
 msgid "Palatalized voiced velar plosive"
@@ -292,7 +292,7 @@ msgstr "Stimmloser velarer Implosiv"
 
 #: ../data/ipa-obsolete.xml.in.h:15
 msgid "Palatalized alveolar lateral approximant"
-msgstr "Palatalisierter  alveolarer lateraler Approximant"
+msgstr "Palatalisierter alveolarer lateraler Approximant"
 
 #: ../data/ipa-obsolete.xml.in.h:16
 msgid "Palatalized bilabial nasal"
@@ -320,7 +320,7 @@ msgstr "Palatalisierter alveolarer Vibrant"
 
 #: ../data/ipa-obsolete.xml.in.h:22
 msgid "Voiced strident apico-alveolar trill"
-msgstr "Stimmhafter stridenter  apico-alveolarer  Vibrant"
+msgstr "Stimmhafter stridenter apico-alveolarer Vibrant"
 
 #: ../data/ipa-obsolete.xml.in.h:23
 msgid "Palatalized voiceless alveolar fricative"
@@ -396,7 +396,7 @@ msgstr "Labialisierter stimmloser alveolarer oder dentaler Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:41
 msgid "Labialized voiced alveolar or dental fricative"
-msgstr "Labialisierter stimmhafter alveolarer oder  dentaler Frikativ"
+msgstr "Labialisierter stimmhafter alveolarer oder dentaler Frikativ"
 
 #: ../data/ipa-obsolete.xml.in.h:42
 msgid "Combining labialization mark"
@@ -471,7 +471,7 @@ msgstr "Stimmlose retroflex-laterale Affrikate (PUA)"
 
 #: ../data/ipa-unofficial.xml.in.h:19
 msgid "Combining stridency mark"
-msgstr "Kombinierendes  Strident-Zeichen"
+msgstr "Kombinierendes Strident-Zeichen"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in.h:21
@@ -545,7 +545,7 @@ msgstr "Stimmhafter alveolarer Plosiv"
 
 #: ../data/ipa.xml.in.h:21
 msgid "Voiced alveolar implosive"
-msgstr "Stimmhafter  alveolarer Implosiv"
+msgstr "Stimmhafter alveolarer Implosiv"
 
 #: ../data/ipa.xml.in.h:22
 msgid "Voiced retroflex plosive"
@@ -573,7 +573,7 @@ msgstr "Ungerundeter halbgeschlossener Zentralvokal"
 
 #: ../data/ipa.xml.in.h:31
 msgid "Mid-central vowel"
-msgstr "Mittlerer Zentralvokal  (Schwa)"
+msgstr "Mittlerer Zentralvokal (Schwa)"
 
 #: ../data/ipa.xml.in.h:32
 msgid "Rhotacized mid-central vowel"
@@ -625,7 +625,7 @@ msgstr "Stimmhafter uvularer Implosiv"
 
 #: ../data/ipa.xml.in.h:44
 msgid "Voiceless glottal fricative"
-msgstr "Stimmloser glottaler  Frikativ"
+msgstr "Stimmloser glottaler Frikativ"
 
 #: ../data/ipa.xml.in.h:45
 msgid "Voiced glottal fricative"
@@ -641,7 +641,7 @@ msgstr "Stimmloser velopalataler Frikativ"
 
 #: ../data/ipa.xml.in.h:48
 msgid "Voiceless epiglottal fricative"
-msgstr "Stimmloser epiglottaler  Frikativ"
+msgstr "Stimmloser epiglottaler Frikativ"
 
 #: ../data/ipa.xml.in.h:49
 msgid "Close front unrounded vowel"
@@ -665,7 +665,7 @@ msgstr "Palataler Approximant"
 
 #: ../data/ipa.xml.in.h:54
 msgid "Voiced palatal fricative"
-msgstr "Stimmhafter palataler  Frikativ"
+msgstr "Stimmhafter palataler Frikativ"
 
 #: ../data/ipa.xml.in.h:55
 msgid "Voiced palatal plosive"
@@ -677,7 +677,7 @@ msgstr "Stimmhafte palatale Affrikate"
 
 #: ../data/ipa.xml.in.h:57
 msgid "Voiced palatal implosive"
-msgstr "Stimmhafter  palataler  Implosiv"
+msgstr "Stimmhafter palataler Implosiv"
 
 #: ../data/ipa.xml.in.h:58
 msgid "Voiceless velar plosive"
@@ -709,7 +709,7 @@ msgstr "Retroflexer lateraler Approximant"
 
 #: ../data/ipa.xml.in.h:66
 msgid "Voiced alveolar lateral fricative"
-msgstr "Stimmhafter alveolarer  lateraler Frikativ"
+msgstr "Stimmhafter alveolarer lateraler Frikativ"
 
 #: ../data/ipa.xml.in.h:67
 msgid "Velar lateral approximant"
@@ -1065,7 +1065,7 @@ msgstr "Kombinierendes Alveolarisierungszeichen"
 
 #: ../data/ipa.xml.in.h:167
 msgid "Combining linguolabialization mark"
-msgstr "Kombinierendes  Linguolabialisierungszeichen"
+msgstr "Kombinierendes Linguolabialisierungszeichen"
 
 #: ../data/ipa.xml.in.h:168
 msgid "Combining apicalization mark"
@@ -1077,7 +1077,7 @@ msgstr "Kombinierendes Laminalisierungszeichen"
 
 #: ../data/ipa.xml.in.h:170
 msgid "Combining centralization mark"
-msgstr "Kombinierendes  Zentralisierungszeichen"
+msgstr "Kombinierendes Zentralisierungszeichen"
 
 #: ../data/ipa.xml.in.h:171
 msgid "Combining mid-centralization mark"
@@ -1633,7 +1633,7 @@ msgstr "Schneemann"
 
 #: ../data/str.xml.in.h:45
 msgid "Shogi"
-msgstr ""
+msgstr "Shogistein"
 
 #: ../data/str.xml.in.h:46
 msgid "Shoji"
@@ -1957,7 +1957,7 @@ msgstr "Brot"
 
 #: ../data/str.xml.in.h:126
 msgid "Fried Potato"
-msgstr "Pommes  Frites"
+msgstr "Pommes Frites"
 
 #: ../data/str.xml.in.h:127
 msgid "Roasted Sweet Potato"
@@ -2116,8 +2116,6 @@ msgid "Saxophone"
 msgstr "Saxofon"
 
 #: ../data/str.xml.in.h:166
-#, fuzzy
-#| msgid "Guiter"
 msgid "Guitar"
 msgstr "Gitarre"
 
@@ -2463,11 +2461,11 @@ msgstr "Fußabdruck"
 
 #: ../data/str.xml.in.h:252
 msgid "Bust in silhouette"
-msgstr ""
+msgstr "Silhouette einer Büste"
 
 #: ../data/str.xml.in.h:253
 msgid "Busts in silhouette"
-msgstr ""
+msgstr "Silhouette mehrerer Büsten"
 
 #: ../data/str.xml.in.h:254
 msgid "Boy"
@@ -2491,27 +2489,23 @@ msgstr "Familie"
 
 #: ../data/str.xml.in.h:259
 msgid "Man and woman holding hands"
-msgstr ""
+msgstr "Mann und Frau halten Hände"
 
 #: ../data/str.xml.in.h:260
 msgid "Men holding hands"
-msgstr ""
+msgstr "Händchenhaltende Männer"
 
 #: ../data/str.xml.in.h:261
 msgid "Women holding hands"
-msgstr ""
+msgstr "Händchenhaltende Frauen"
 
 #: ../data/str.xml.in.h:262
-#, fuzzy
-#| msgid "Mushroom"
 msgid "Men's room"
-msgstr "Pilz"
+msgstr "Herrentoilette"
 
 #: ../data/str.xml.in.h:263
-#, fuzzy
-#| msgid "Restroom"
 msgid "Women's room"
-msgstr "Toiletten"
+msgstr "Damentoilette"
 
 #: ../data/str.xml.in.h:264
 msgid "Restroom"
@@ -2547,7 +2541,7 @@ msgstr "Computerspiel-Monster"
 
 #: ../data/str.xml.in.h:272
 msgid "Imp"
-msgstr ""
+msgstr "Wütendes Gesicht mit Hörnern"
 
 #: ../data/str.xml.in.h:273
 msgid "Skull"
@@ -2571,7 +2565,7 @@ msgstr "Lippenstift"
 
 #: ../data/str.xml.in.h:278
 msgid "Nail polish"
-msgstr ""
+msgstr "Nagellack"
 
 #: ../data/str.xml.in.h:279
 msgid "Face"
@@ -2587,7 +2581,7 @@ msgstr "Spritze"
 
 #: ../data/str.xml.in.h:282
 msgid "Pill"
-msgstr ""
+msgstr "Pille"
 
 #: ../data/str.xml.in.h:283
 msgid "Kiss"
@@ -2675,23 +2669,23 @@ msgstr "Reißzwecke"
 
 #: ../data/str.xml.in.h:304
 msgid "Paperclip"
-msgstr ""
+msgstr "Büroklammer"
 
 #: ../data/str.xml.in.h:305
 msgid "Speaker with cancellation stroke"
-msgstr ""
+msgstr "Durchgestrichener Lautsprecher"
 
 #: ../data/str.xml.in.h:306
 msgid "Speaker low volume"
-msgstr ""
+msgstr "Lautsprecher mit geringer Lautstärke"
 
 #: ../data/str.xml.in.h:307
 msgid "Speaker medium volume"
-msgstr ""
+msgstr "Lautsprecher mit mittlerer Lautstärke"
 
 #: ../data/str.xml.in.h:308
 msgid "Speaker high volume"
-msgstr ""
+msgstr "Lautsprecher mit hoher Lautstärke"
 
 #: ../data/str.xml.in.h:309
 msgid "Battery"
@@ -2703,11 +2697,11 @@ msgstr "Stromstecker"
 
 #: ../data/str.xml.in.h:311
 msgid "Magnifying glass tilted left"
-msgstr ""
+msgstr "Lupe nach links"
 
 #: ../data/str.xml.in.h:312
 msgid "Magnifying glass tilted right"
-msgstr ""
+msgstr "Lupe nach rechts"
 
 #: ../data/str.xml.in.h:313
 msgid "Bookmark"
@@ -2727,11 +2721,11 @@ msgstr "Post"
 
 #: ../data/str.xml.in.h:317
 msgid "Incoming envelope"
-msgstr ""
+msgstr "Eingehender Briefumschlag"
 
 #: ../data/str.xml.in.h:318
 msgid "Postbox"
-msgstr ""
+msgstr "Briefkasten"
 
 #: ../data/str.xml.in.h:319
 msgid "Mobile Phone"
@@ -2739,7 +2733,7 @@ msgstr "Mobiltelefon"
 
 #: ../data/str.xml.in.h:320
 msgid "Antenna with bars"
-msgstr ""
+msgstr "Balkenförmige Signalstärkenanzeige"
 
 #: ../data/str.xml.in.h:321
 msgid "Camera"
@@ -2763,11 +2757,11 @@ msgstr "Schlüssel"
 
 #: ../data/str.xml.in.h:326
 msgid "Lock, locked"
-msgstr ""
+msgstr "Geschlossenes Schloss"
 
 #: ../data/str.xml.in.h:327
 msgid "Lock, unlocked"
-msgstr ""
+msgstr "Offenes Schloss"
 
 #: ../data/str.xml.in.h:328
 msgid "Fire"
@@ -2783,7 +2777,7 @@ msgstr "Hammer"
 
 #: ../data/str.xml.in.h:331
 msgid "Nut and bolt"
-msgstr ""
+msgstr "Mutter und Schraube"
 
 #: ../data/str.xml.in.h:332
 msgid "Hocho"
@@ -2822,16 +2816,12 @@ msgid "Hole"
 msgstr "Loch"
 
 #: ../data/str.xml.in.h:341
-#, fuzzy
-#| msgid "Personal Computer"
 msgid "Laptop Computer"
-msgstr "Computer"
+msgstr "Laptopcomputer"
 
 #: ../data/str.xml.in.h:342
-#, fuzzy
-#| msgid "Personal Computer"
 msgid "Desktop Computer"
-msgstr "Computer"
+msgstr "Desktopcomputer"
 
 #: ../data/str.xml.in.h:343
 msgid "keyboard"
@@ -2926,8 +2916,6 @@ msgid "Cry"
 msgstr "Weinen"
 
 #: ../data/str.xml.in.h:366
-#, fuzzy
-#| msgid "Sleeply"
 msgid "Sleepy"
 msgstr "Schläfrig"
 
@@ -3410,11 +3398,11 @@ msgid ""
 "pad to customize those in \"Custom Character\" pane."
 msgstr ""
 "\n"
-"Dieses Programm kann als eigenständiges Programm laufen oder unter  einem  "
+"Dieses Programm kann als eigenständiges Programm laufen oder unter einem "
 "Inputmethodenprogramm. \n"
 "Wenn multi-byte-Zeichen gesendet werden können sollen, dann muss dieses "
 "Programm unter einem Inputmethodenprogramm laufen.\n"
-"Wenn  Zeichen an X11 Programme gesendet werden können sollen,  dann müssen "
+"Wenn Zeichen an X11 Programme gesendet werden können sollen, dann müssen "
 "diese X11 Programme das Senden von Events erlauben. Zum Beispiel:\n"
 "% xterm -xrm \"XTerm*allowSendEvents: true\"\n"
 "\n"
@@ -3439,7 +3427,7 @@ msgstr "_Addieren"
 
 #: ../input-pad/dialog.ui.h:35
 msgid "_Layouts shown in the list:"
-msgstr "_Tastaturbelegungen in  Liste:"
+msgstr "_Tastaturbelegungen in Liste:"
 
 #: ../input-pad/dialog.ui.h:36
 msgid "_Remove"
@@ -3489,7 +3477,7 @@ msgstr "eekboard Optionen"
 
 #: ../input-pad/eek-gtk.c:249
 msgid "Show eekboard Options"
-msgstr "eekboard  Optionen anzeigen"
+msgstr "eekboard Optionen anzeigen"
 
 #: ../input-pad/unicode_block.h:37
 msgid "Basic Latin"
