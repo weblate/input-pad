@@ -1,26 +1,28 @@
 # French translations for input-pad
 # Copyright (C) 2010-2016 Takao Fujiwara <takao.fujiwara1@gmail.com>
 # This file is distributed under the same license as the input-pad package.
-#
+# 
 # Translators:
 # Jérôme Fenal <jfenal@gmail.com>, 2012-2013
 # Nobuharu Kojima <pythonsnake@fedoraproject.org>, 2012
-#   <pythonsnake98@gmail.com>, 2012
+# <pythonsnake98@gmail.com>, 2012
 # Nobuharu Kojima <pythonsnake@fedoraproject.org>, 2012
+# Julien Humbert <julroy67@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2020-01-15 19:08+0900\n"
-"PO-Revision-Date: 2013-11-20 05:40-0500\n"
-"Last-Translator: Jérôme Fenal <jfenal@gmail.com>\n"
-"Language-Team: French <trans-fr@lists.fedoraproject.org>\n"
+"PO-Revision-Date: 2020-02-16 09:38+0000\n"
+"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
+"Language-Team: French <https://translate.fedoraproject.org/projects/"
+"input-pad/master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Zanata 3.8.2\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.10.3\n"
 
 #: ../data/alphabet.xml.in.in.h:1
 msgid "Alphabets"
@@ -3091,7 +3093,7 @@ msgstr "Fermer la bouche"
 
 #: ../data/str.xml.in.h:408
 msgid "Money Mouth"
-msgstr "Bouche d'argent"
+msgstr "Bouche d’argent"
 
 #: ../data/str.xml.in.h:409
 msgid "Foot in Mouth"
@@ -3160,7 +3162,7 @@ msgstr "Ne pas pouvoir se réunir (Guda Guda)"
 
 #: ../data/str.xml.in.h:429
 msgid "Say whatever one feels (Iitaidake)"
-msgstr "Dire ce que l'on ressent (Iitaidake)"
+msgstr "Dire ce que l’on ressent (Iitaidake)"
 
 #: ../data/str.xml.in.h:430
 msgid "Excited (Kitakore)"
@@ -3312,7 +3314,7 @@ msgstr "Unicode"
 
 #: ../input-pad/dialog.ui.h:3
 msgid "You can choose encoding type"
-msgstr "Vous pouvez choisir le type d'encodage"
+msgstr "Vous pouvez choisir le type d’encodage"
 
 #: ../input-pad/dialog.ui.h:4
 msgid "Current Encoding"
@@ -3403,21 +3405,21 @@ msgid ""
 msgstr ""
 "\n"
 "Cette application peut être exécutée en tant que programme autonome ou en "
-"application d'une demande de méthode de saisie.\n"
+"application d’une demande de méthode de saisie.\n"
 "Si vous souhaitez envoyer des caractères multi-octets, cette application "
-"doit être exécutée en application d'une méthode de saisie.\n"
+"doit être exécutée en application d’une méthode de saisie.\n"
 "\n"
 "Si vous souhaitez envoyer des caractères à des applications X11, ces "
-"applications doivent permettre l'envoi d'événements. Par exemple :\n"
+"applications doivent permettre l’envoi d’événements. Par exemple :\n"
 "% xterm -xrm \"XTerm*allowSendEvents: true\"\n"
 "\n"
 "Vous pouvez également copier des fichiers tampons à partir de /usr/share/"
-"input-pad/pad à $HOME/.config/pad afin de les personnaliser dans le volet "
-"« Caractères personnalisés »."
+"input-pad/pad à $HOME/.config/pad afin de les personnaliser dans le volet « "
+"Caractères personnalisés »."
 
 #: ../input-pad/dialog.ui.h:31
 msgid "_OK"
-msgstr ""
+msgstr "_OK"
 
 #: ../input-pad/dialog.ui.h:32
 msgid "Configure Keyboard Layouts"
@@ -3449,11 +3451,11 @@ msgstr "Configurer les options du clavier"
 
 #: ../input-pad/dialog.ui.h:39
 msgid "_Use the default keyboard option"
-msgstr "_Utiliser l'option par défaut du clavier"
+msgstr "_Utiliser l’option par défaut du clavier"
 
 #: ../input-pad/dialog.ui.h:40
 msgid "Use the defualt XKB option"
-msgstr "Utiliser l'option XKB par défaut"
+msgstr "Utiliser l’option XKB par défaut"
 
 #: ../input-pad/dialog.ui.h:41
 msgid "<b>Keyboard Option</b>"
@@ -3477,11 +3479,11 @@ msgstr "Disposition eekboard"
 
 #: ../input-pad/eek-gtk.c:249
 msgid "eekboard Options"
-msgstr "Options d'eekboard"
+msgstr "Options d’eekboard"
 
 #: ../input-pad/eek-gtk.c:249
 msgid "Show eekboard Options"
-msgstr "Afficher les options d'eekboard"
+msgstr "Afficher les options d’eekboard"
 
 #: ../input-pad/unicode_block.h:37
 msgid "Basic Latin"
@@ -3493,7 +3495,7 @@ msgstr "Latin étendu-B"
 
 #: ../input-pad/unicode_block.h:41
 msgid "IPA Extensions"
-msgstr "Extensions à l'API"
+msgstr "Extensions à l’API"
 
 #: ../input-pad/unicode_block.h:42
 msgid "Spacing Modifier Letters"
@@ -3929,7 +3931,7 @@ msgstr "Latin étendu-D"
 
 #: ../input-pad/unicode_block.h:157
 msgid "Syloti Nagri"
-msgstr "Afficher les options d'eekboard"
+msgstr "Afficher les options d’eekboard"
 
 #: ../input-pad/unicode_block.h:158
 msgid "Common Indic Number Forms"
