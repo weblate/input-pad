@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2020-01-15 19:08+0900\n"
-"PO-Revision-Date: 2020-03-25 06:32+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2020-03-26 09:38+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "input-pad/master/tr/>\n"
 "Language: tr\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../data/alphabet.xml.in.in.h:1
 msgid "Alphabets"
-msgstr ""
+msgstr "Alfabeler"
 
 #: ../data/base.xml.in.h:1
 msgid "Symbols"
@@ -29,11 +29,11 @@ msgstr "Semboller"
 
 #: ../data/base.xml.in.h:2
 msgid "Currency"
-msgstr ""
+msgstr "Para birimi"
 
 #: ../data/base.xml.in.h:3
 msgid "Letterlike"
-msgstr ""
+msgstr "Harf benzeri"
 
 #: ../data/base.xml.in.h:4
 msgid "Miscellaneous"
@@ -46,15 +46,15 @@ msgstr "Dingbat'ler"
 #. Translators: Superscripts and Subscripts
 #: ../data/base.xml.in.h:7
 msgid "Super and Sub"
-msgstr ""
+msgstr "Üst ve Alt Simgeler"
 
 #: ../data/base.xml.in.h:8
 msgid "Bold"
-msgstr ""
+msgstr "Kalın"
 
 #: ../data/base.xml.in.h:9
 msgid "Italic"
-msgstr ""
+msgstr "İtalik"
 
 #: ../data/base.xml.in.h:10
 msgid "Script"
@@ -62,7 +62,7 @@ msgstr "Komut dosyası"
 
 #: ../data/base.xml.in.h:11
 msgid "Double Struck"
-msgstr ""
+msgstr "Çift Çizgi"
 
 #: ../data/base.xml.in.h:12
 msgid "All"
@@ -70,43 +70,43 @@ msgstr "Hepsi"
 
 #: ../data/base.xml.in.h:13 ../data/zh.xml.in.h:2
 msgid "Numbers"
-msgstr ""
+msgstr "Sayılar"
 
 #: ../data/base.xml.in.h:14
 msgid "Roman"
-msgstr ""
+msgstr "Roma"
 
 #: ../data/base.xml.in.h:15
 msgid "Enclosed"
-msgstr ""
+msgstr "Kapalı"
 
 #: ../data/base.xml.in.h:16
 msgid "Fraction"
-msgstr ""
+msgstr "Kesir"
 
 #: ../data/base.xml.in.h:17
 msgid "Technical"
-msgstr ""
+msgstr "Teknik"
 
 #: ../data/base.xml.in.h:18
 msgid "Unit"
-msgstr ""
+msgstr "Birim"
 
 #: ../data/base.xml.in.h:19
 msgid "Mathematical"
-msgstr ""
+msgstr "Matematiksel"
 
 #: ../data/base.xml.in.h:20
 msgid "Controls"
-msgstr ""
+msgstr "Kontrol karakterleri"
 
 #: ../data/base.xml.in.h:21
 msgid "OCR"
-msgstr ""
+msgstr "OKT"
 
 #: ../data/base.xml.in.h:22
 msgid "Graphics"
-msgstr ""
+msgstr "Şekiller"
 
 #: ../data/base.xml.in.h:23
 msgid "Arrow"
@@ -118,19 +118,19 @@ msgstr "Kutu Çizimi"
 
 #: ../data/base.xml.in.h:25 ../input-pad/window-gtk.c:3694
 msgid "Block"
-msgstr ""
+msgstr "Blok"
 
 #: ../data/base.xml.in.h:26
 msgid "Geometric"
-msgstr ""
+msgstr "Geometrik"
 
 #: ../data/base.xml.in.h:27
 msgid "Braille"
-msgstr ""
+msgstr "Braille"
 
 #: ../data/base.xml.in.h:28
 msgid "Punctuations"
-msgstr ""
+msgstr "Noktalama işaretleri"
 
 #: ../data/base.xml.in.h:29
 msgid "General"
@@ -138,7 +138,7 @@ msgstr "Genel"
 
 #: ../data/base.xml.in.h:30
 msgid "CJK"
-msgstr ""
+msgstr "CJK"
 
 #: ../data/base.xml.in.h:31 ../input-pad/unicode_block.h:145
 msgid "CJK Compatibility"
@@ -146,7 +146,7 @@ msgstr "CJK Uyumluluğu"
 
 #: ../data/base.xml.in.h:32
 msgid "Small Form"
-msgstr ""
+msgstr "Küçük Biçimli"
 
 #: ../data/cmd.xml.in.h:1
 msgid "Command"
@@ -154,31 +154,31 @@ msgstr "Komut"
 
 #: ../data/cmd.xml.in.h:2
 msgid "Date"
-msgstr ""
+msgstr "Tarih"
 
 #: ../data/cmd.xml.in.h:3
 msgid "Normal Date"
-msgstr ""
+msgstr "Normal Tarih"
 
 #: ../data/cmd.xml.in.h:4
 msgid "Date and Time"
-msgstr ""
+msgstr "Tarih ve Saat"
 
 #: ../data/cmd.xml.in.h:5
 msgid "ChangeLog date"
-msgstr ""
+msgstr "Değişiklik günlüğü tarihi"
 
 #: ../data/cmd.xml.in.h:6
 msgid "USA English date"
-msgstr ""
+msgstr "Tarih (ABD İngilizcesi)"
 
 #: ../data/cmd.xml.in.h:7
 msgid "UK English date"
-msgstr ""
+msgstr "Tarih (Birleşik Krallık İngilizcesi)"
 
 #: ../data/cmd.xml.in.h:8
 msgid "ISO 8601 date"
-msgstr ""
+msgstr "Tarih (ISO 8601)"
 
 #: ../data/cmd.xml.in.h:9
 msgid "Era"
@@ -186,47 +186,47 @@ msgstr "Dönem"
 
 #: ../data/cmd.xml.in.h:10
 msgid "Century Year"
-msgstr ""
+msgstr "Yüzyıl Senesi"
 
 #: ../data/cmd.xml.in.h:11
 msgid "Normal Time"
-msgstr ""
+msgstr "Normal Saat"
 
 #: ../data/cmd.xml.in.h:12
 msgid "English Time"
-msgstr ""
+msgstr "Saat (İngilizce)"
 
 #: ../data/cmd.xml.in.h:13
 msgid "Month"
-msgstr ""
+msgstr "Ay"
 
 #: ../data/cmd.xml.in.h:14
 msgid "English Month"
-msgstr ""
+msgstr "Ay (İngilizce)"
 
 #: ../data/cmd.xml.in.h:15
 msgid "Short Month"
-msgstr ""
+msgstr "Ay (Kısa)"
 
 #: ../data/cmd.xml.in.h:16
 msgid "English Short Month"
-msgstr ""
+msgstr "Ay (İngilizce Kısa)"
 
 #: ../data/cmd.xml.in.h:17
 msgid "Weekday"
-msgstr ""
+msgstr "Haftanın Günü"
 
 #: ../data/cmd.xml.in.h:18
 msgid "English Weekday"
-msgstr ""
+msgstr "Haftanın Günü (İngilizce)"
 
 #: ../data/cmd.xml.in.h:19
 msgid "Short Weekday"
-msgstr ""
+msgstr "Haftanın Günü (Kısa)"
 
 #: ../data/cmd.xml.in.h:20
 msgid "English Short Weekday"
-msgstr ""
+msgstr "Haftanın Günü (İngilizce Kısa)"
 
 #: ../data/goth.xml.in.h:1 ../input-pad/unicode_block.h:196
 msgid "Gothic"
@@ -241,7 +241,7 @@ msgstr "İnput Pad"
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-obsolete.xml.in.h:2
 msgid "IPA (Obsolete)"
-msgstr ""
+msgstr "IPA (Artık Kullanılmıyor)"
 
 #: ../data/ipa-obsolete.xml.in.h:3 ../data/ipa.xml.in.h:6
 msgid "Open back unrounded vowel"
@@ -4007,7 +4007,7 @@ msgstr "CJK Uyumluluk Biçimleri"
 
 #: ../input-pad/unicode_block.h:183
 msgid "Small Form Variants"
-msgstr "Küçük Biçim Çeşitleri"
+msgstr "Küçük Biçimli Çeşitleri"
 
 #: ../input-pad/unicode_block.h:184
 msgid "Arabic Presentation Forms-B"
@@ -4135,11 +4135,11 @@ msgstr "Mısır Hiyeroglifleri"
 
 #: ../input-pad/unicode_block.h:217
 msgid "Byzantine Musical Symbols"
-msgstr "Bizans Müzikal Semboller"
+msgstr "Bizans Müzik Sembolleri"
 
 #: ../input-pad/unicode_block.h:218
 msgid "Musical Symbols"
-msgstr "Müzikal Semboller"
+msgstr "Müzik Sembolleri"
 
 #: ../input-pad/unicode_block.h:219
 msgid "Ancient Greek Musical Notation"
@@ -4159,7 +4159,7 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:223
 msgid "Mahjong Tiles"
-msgstr ""
+msgstr "Mahjong Taşları"
 
 #: ../input-pad/unicode_block.h:224
 msgid "Domino Tiles"
@@ -4279,7 +4279,7 @@ msgstr ""
 
 #: ../input-pad/window-gtk.c:3455
 msgid "Group"
-msgstr ""
+msgstr "Grup"
 
 #: ../input-pad/window-gtk.c:3463
 msgid "Subgroup"
