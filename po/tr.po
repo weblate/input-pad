@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2020-01-15 19:08+0900\n"
 "PO-Revision-Date: 2020-03-25 05:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "input-pad/master/tr/>\n"
 "Language: tr\n"
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #: ../data/ja.xml.in.h:1
 msgid "Japanese"
-msgstr ""
+msgstr "Japonca"
 
 #: ../data/ja.xml.in.h:2 ../input-pad/unicode_block.h:136
 msgid "Hiragana"
@@ -1530,7 +1530,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:19
 msgid "Cancer"
-msgstr ""
+msgstr "Yengeç"
 
 #: ../data/str.xml.in.h:20
 msgid "Leo"
@@ -1738,7 +1738,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:71
 msgid "Star"
-msgstr ""
+msgstr "Yıldız"
 
 #: ../data/str.xml.in.h:72
 msgid "Typhoon"
@@ -1802,7 +1802,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:87
 msgid "Cloud"
-msgstr ""
+msgstr "Bulut"
 
 #: ../data/str.xml.in.h:88
 msgid "Palm"
@@ -2146,7 +2146,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:173
 msgid "Flag"
-msgstr ""
+msgstr "Bayrak"
 
 #: ../data/str.xml.in.h:174
 msgid "Show Board"
@@ -2154,7 +2154,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:175
 msgid "Running"
-msgstr ""
+msgstr "Koşmak"
 
 #: ../data/str.xml.in.h:176
 msgid "Surfer"
@@ -3439,7 +3439,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:44
 msgid "translator_credits"
-msgstr ""
+msgstr "Oğuz Ersen <oguzersen@protonmail.com>"
 
 #: ../input-pad/eek-gtk.c:65
 msgid "Use libeek to draw keyboard"
@@ -3563,7 +3563,7 @@ msgstr "Sinhala"
 
 #: ../input-pad/unicode_block.h:65
 msgid "Thai"
-msgstr ""
+msgstr "Tayland"
 
 #: ../input-pad/unicode_block.h:66
 msgid "Lao"
@@ -3587,7 +3587,7 @@ msgstr "Hangul Jamo"
 
 #: ../input-pad/unicode_block.h:71
 msgid "Ethiopic"
-msgstr ""
+msgstr "Etiyopya"
 
 #: ../input-pad/unicode_block.h:72
 msgid "Ethiopic Supplement"
@@ -3663,7 +3663,7 @@ msgstr "Tai Tham"
 
 #: ../input-pad/unicode_block.h:90
 msgid "Balinese"
-msgstr ""
+msgstr "Bali"
 
 #: ../input-pad/unicode_block.h:91
 msgid "Sundanese"
@@ -3679,11 +3679,11 @@ msgstr "Ol Chiki"
 
 #: ../input-pad/unicode_block.h:94
 msgid "Vedic Extensions"
-msgstr ""
+msgstr "Vedik Uzantılar"
 
 #: ../input-pad/unicode_block.h:95
 msgid "Phonetic Extensions"
-msgstr ""
+msgstr "Fonetik Uzantılar"
 
 #: ../input-pad/unicode_block.h:96
 msgid "Phonetic Extensions Supplement"
@@ -3691,7 +3691,7 @@ msgstr "Fonetik Uzantılar İlave"
 
 #: ../input-pad/unicode_block.h:97
 msgid "Combining Diacritical Marks Supplement"
-msgstr ""
+msgstr "Birleşik Aksan İşaretleri İlave"
 
 #: ../input-pad/unicode_block.h:98
 msgid "Latin Extended Additional"
