@@ -2,21 +2,22 @@
 # Copyright (C) 2010-2016 Takao Fujiwara <takao.fujiwara1@gmail.com>
 # This file is distributed under the same license as the input-pad package.
 # Oğuz Ersen <oguzersen@protonmail.com>, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2020-01-15 19:08+0900\n"
-"PO-Revision-Date: 2020-01-12 18:15+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
-"Language-Team: Turkish <https://translate.stg.fedoraproject.org/projects/"
+"PO-Revision-Date: 2020-03-25 05:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "input-pad/master/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10.1\n"
+"X-Generator: Weblate 3.11.3\n"
 
 #: ../data/alphabet.xml.in.in.h:1
 msgid "Alphabets"
@@ -36,7 +37,7 @@ msgstr ""
 
 #: ../data/base.xml.in.h:4
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Çeşitli"
 
 #: ../data/base.xml.in.h:5 ../input-pad/unicode_block.h:116
 msgid "Dingbats"
@@ -1457,7 +1458,7 @@ msgstr "Shavian"
 
 #: ../data/str.xml.in.h:1
 msgid "Chat"
-msgstr ""
+msgstr "Sohbet"
 
 #: ../data/str.xml.in.h:2
 msgid "Emoji"
@@ -2485,7 +2486,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:258
 msgid "Family"
-msgstr ""
+msgstr "Aile"
 
 #: ../data/str.xml.in.h:259
 msgid "Man and woman holding hands"
@@ -2753,7 +2754,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:325
 msgid "Key"
-msgstr ""
+msgstr "Anahtar"
 
 #: ../data/str.xml.in.h:326
 msgid "Lock, locked"
@@ -2849,7 +2850,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:349
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: ../data/str.xml.in.h:350
 msgid "World"
@@ -2941,7 +2942,7 @@ msgstr ""
 
 #: ../data/str.xml.in.h:372
 msgid "OK"
-msgstr ""
+msgstr "Tamam"
 
 #: ../data/str.xml.in.h:373
 msgid "Bow"
@@ -3073,11 +3074,11 @@ msgstr ""
 
 #: ../data/str.xml.in.h:405
 msgid "Yes"
-msgstr ""
+msgstr "Evet"
 
 #: ../data/str.xml.in.h:406
 msgid "No"
-msgstr ""
+msgstr "Hayır"
 
 #: ../data/str.xml.in.h:407
 msgid "Shut Mouth"
@@ -3238,19 +3239,19 @@ msgstr ""
 
 #: ../data/zh.xml.in.h:1
 msgid "Chinese"
-msgstr ""
+msgstr "Çince"
 
 #: ../data/zh.xml.in.h:4 ../input-pad/unicode_block.h:138
 msgid "Bopomofo"
-msgstr ""
+msgstr "Bopomofo"
 
 #: ../input-pad/app-menu.ui.h:1
 msgid "_File"
-msgstr ""
+msgstr "_Dosya"
 
 #: ../input-pad/app-menu.ui.h:2 ../input-pad/dialog.ui.h:21
 msgid "_Close"
-msgstr ""
+msgstr "_Kapat"
 
 #: ../input-pad/app-menu.ui.h:3
 msgid "Close the program"
@@ -3286,7 +3287,7 @@ msgstr ""
 
 #: ../input-pad/app-menu.ui.h:11
 msgid "_Help"
-msgstr ""
+msgstr "_Yardım"
 
 #: ../input-pad/app-menu.ui.h:12
 msgid "_Troubleshoot"
@@ -3294,7 +3295,7 @@ msgstr ""
 
 #: ../input-pad/app-menu.ui.h:13
 msgid "_About"
-msgstr ""
+msgstr "_Hakkında"
 
 #: ../input-pad/dialog.ui.h:1
 msgid "Code Point Dialog"
@@ -3390,7 +3391,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:31
 msgid "_OK"
-msgstr ""
+msgstr "_Tamam"
 
 #: ../input-pad/dialog.ui.h:32
 msgid "Configure Keyboard Layouts"
@@ -3402,7 +3403,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:34
 msgid "_Add"
-msgstr ""
+msgstr "_Ekle"
 
 #: ../input-pad/dialog.ui.h:35
 msgid "_Layouts shown in the list:"
@@ -3410,7 +3411,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:36
 msgid "_Remove"
-msgstr ""
+msgstr "_Kaldır"
 
 #: ../input-pad/dialog.ui.h:37
 msgid "_Options"
@@ -3458,107 +3459,107 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:37
 msgid "Basic Latin"
-msgstr ""
+msgstr "Temel Latin"
 
 #: ../input-pad/unicode_block.h:40
 msgid "Latin Extended-B"
-msgstr ""
+msgstr "Latin Genişletilmiş-B"
 
 #: ../input-pad/unicode_block.h:41
 msgid "IPA Extensions"
-msgstr ""
+msgstr "IPA Uzantıları"
 
 #: ../input-pad/unicode_block.h:42
 msgid "Spacing Modifier Letters"
-msgstr ""
+msgstr "Boşluk Değiştirici Harfler"
 
 #: ../input-pad/unicode_block.h:43
 msgid "Combining Diacritical Marks"
-msgstr ""
+msgstr "Birleşik Aksan İşaretleri"
 
 #: ../input-pad/unicode_block.h:44
 msgid "Greek and Coptic"
-msgstr ""
+msgstr "Yunan ve Kıpti"
 
 #: ../input-pad/unicode_block.h:45
 msgid "Cyrillic"
-msgstr ""
+msgstr "Kiril"
 
 #: ../input-pad/unicode_block.h:46
 msgid "Cyrillic Supplement"
-msgstr ""
+msgstr "Kiril İlave"
 
 #: ../input-pad/unicode_block.h:47
 msgid "Armenian"
-msgstr ""
+msgstr "Ermeni"
 
 #: ../input-pad/unicode_block.h:48
 msgid "Hebrew"
-msgstr ""
+msgstr "İbrani"
 
 #: ../input-pad/unicode_block.h:49
 msgid "Arabic"
-msgstr ""
+msgstr "Arap"
 
 #: ../input-pad/unicode_block.h:50
 msgid "Syriac"
-msgstr ""
+msgstr "Süryani"
 
 #: ../input-pad/unicode_block.h:51
 msgid "Arabic Supplement"
-msgstr ""
+msgstr "Arap İlave"
 
 #: ../input-pad/unicode_block.h:52
 msgid "Thaana"
-msgstr ""
+msgstr "Thaana"
 
 #: ../input-pad/unicode_block.h:53
 msgid "NKo"
-msgstr ""
+msgstr "NKo"
 
 #: ../input-pad/unicode_block.h:54
 msgid "Samaritan"
-msgstr ""
+msgstr "Samiriyeli"
 
 #: ../input-pad/unicode_block.h:55
 msgid "Devanagari"
-msgstr ""
+msgstr "Devanagari"
 
 #: ../input-pad/unicode_block.h:56
 msgid "Bengali"
-msgstr ""
+msgstr "Bengal"
 
 #: ../input-pad/unicode_block.h:57
 msgid "Gurmukhi"
-msgstr ""
+msgstr "Gurmuki"
 
 #: ../input-pad/unicode_block.h:58
 msgid "Gujarati"
-msgstr ""
+msgstr "Gujarati"
 
 #: ../input-pad/unicode_block.h:59
 msgid "Oriya"
-msgstr ""
+msgstr "Oriya"
 
 #: ../input-pad/unicode_block.h:60
 msgid "Tamil"
-msgstr ""
+msgstr "Tamil"
 
 #: ../input-pad/unicode_block.h:61
 msgid "Telugu"
-msgstr ""
+msgstr "Telugu"
 
 #: ../input-pad/unicode_block.h:62
 msgid "Kannada"
-msgstr ""
+msgstr "Kannada"
 
 #: ../input-pad/unicode_block.h:63
 msgid "Malayalam"
-msgstr ""
+msgstr "Malayalam"
 
 #: ../input-pad/unicode_block.h:64
 msgid "Sinhala"
-msgstr ""
+msgstr "Sinhala"
 
 #: ../input-pad/unicode_block.h:65
 msgid "Thai"
@@ -3566,23 +3567,23 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:66
 msgid "Lao"
-msgstr ""
+msgstr "Lao"
 
 #: ../input-pad/unicode_block.h:67
 msgid "Tibetan"
-msgstr ""
+msgstr "Tibet"
 
 #: ../input-pad/unicode_block.h:68
 msgid "Myanmar"
-msgstr ""
+msgstr "Myanmar"
 
 #: ../input-pad/unicode_block.h:69
 msgid "Georgian"
-msgstr ""
+msgstr "Gürcü"
 
 #: ../input-pad/unicode_block.h:70
 msgid "Hangul Jamo"
-msgstr ""
+msgstr "Hangul Jamo"
 
 #: ../input-pad/unicode_block.h:71
 msgid "Ethiopic"
@@ -3590,55 +3591,55 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:72
 msgid "Ethiopic Supplement"
-msgstr ""
+msgstr "Etiyopya İlave"
 
 #: ../input-pad/unicode_block.h:73
 msgid "Cherokee"
-msgstr ""
+msgstr "Cherokee"
 
 #: ../input-pad/unicode_block.h:74
 msgid "Unified Canadian Aboriginal Syllabics"
-msgstr ""
+msgstr "Birleşik Kanada Yerli Heceleri"
 
 #: ../input-pad/unicode_block.h:75
 msgid "Ogham"
-msgstr ""
+msgstr "Ogham"
 
 #: ../input-pad/unicode_block.h:76
 msgid "Runic"
-msgstr ""
+msgstr "Runik"
 
 #: ../input-pad/unicode_block.h:77
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: ../input-pad/unicode_block.h:78
 msgid "Hanunoo"
-msgstr ""
+msgstr "Hanunoo"
 
 #: ../input-pad/unicode_block.h:79
 msgid "Buhid"
-msgstr ""
+msgstr "Buhid"
 
 #: ../input-pad/unicode_block.h:80
 msgid "Tagbanwa"
-msgstr ""
+msgstr "Tagbanwa"
 
 #: ../input-pad/unicode_block.h:81
 msgid "Khmer"
-msgstr ""
+msgstr "Kmer"
 
 #: ../input-pad/unicode_block.h:82
 msgid "Mongolian"
-msgstr ""
+msgstr "Moğol"
 
 #: ../input-pad/unicode_block.h:83
 msgid "Unified Canadian Aboriginal Syllabics Extended"
-msgstr ""
+msgstr "Birleşik Kanada Yerli Heceleri Genişletilmiş"
 
 #: ../input-pad/unicode_block.h:84
 msgid "Limbu"
-msgstr ""
+msgstr "Limbu"
 
 #: ../input-pad/unicode_block.h:85
 msgid "Tai Le"
@@ -3646,19 +3647,19 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:86
 msgid "New Tai Lue"
-msgstr ""
+msgstr "Yeni Tai Lue"
 
 #: ../input-pad/unicode_block.h:87
 msgid "Khmer Symbols"
-msgstr ""
+msgstr "Kmer Sembolleri"
 
 #: ../input-pad/unicode_block.h:88
 msgid "Buginese"
-msgstr ""
+msgstr "Bugis"
 
 #: ../input-pad/unicode_block.h:89
 msgid "Tai Tham"
-msgstr ""
+msgstr "Tai Tham"
 
 #: ../input-pad/unicode_block.h:90
 msgid "Balinese"
@@ -3666,15 +3667,15 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:91
 msgid "Sundanese"
-msgstr ""
+msgstr "Sunda"
 
 #: ../input-pad/unicode_block.h:92
 msgid "Lepcha"
-msgstr ""
+msgstr "Lepcha"
 
 #: ../input-pad/unicode_block.h:93
 msgid "Ol Chiki"
-msgstr ""
+msgstr "Ol Chiki"
 
 #: ../input-pad/unicode_block.h:94
 msgid "Vedic Extensions"
@@ -3686,7 +3687,7 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:96
 msgid "Phonetic Extensions Supplement"
-msgstr ""
+msgstr "Fonetik Uzantılar İlave"
 
 #: ../input-pad/unicode_block.h:97
 msgid "Combining Diacritical Marks Supplement"
@@ -3694,35 +3695,35 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:98
 msgid "Latin Extended Additional"
-msgstr ""
+msgstr "Latin Genişletilmiş Ek"
 
 #: ../input-pad/unicode_block.h:99
 msgid "Greek Extended"
-msgstr ""
+msgstr "Yunan Genişletilmiş"
 
 #: ../input-pad/unicode_block.h:100
 msgid "General Punctuation"
-msgstr ""
+msgstr "Genel Noktalama İşaretleri"
 
 #: ../input-pad/unicode_block.h:101
 msgid "Superscripts and Subscripts"
-msgstr ""
+msgstr "Üst simgeler ve Alt simgeler"
 
 #: ../input-pad/unicode_block.h:102
 msgid "Currency Symbols"
-msgstr ""
+msgstr "Para Birimi Sembolleri"
 
 #: ../input-pad/unicode_block.h:103
 msgid "Combining Diacritical Marks for Symbols"
-msgstr ""
+msgstr "Semboller için Birleşik Aksan İşaretleri"
 
 #: ../input-pad/unicode_block.h:104
 msgid "Letterlike Symbols"
-msgstr ""
+msgstr "Harf Benzeri Semboller"
 
 #: ../input-pad/unicode_block.h:105
 msgid "Number Forms"
-msgstr ""
+msgstr "Sayı Formları"
 
 #: ../input-pad/unicode_block.h:106
 msgid "Arrows"
