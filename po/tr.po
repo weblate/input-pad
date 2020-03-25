@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2020-01-15 19:08+0900\n"
 "PO-Revision-Date: 2020-03-26 09:38+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "input-pad/master/tr/>\n"
 "Language: tr\n"
@@ -4143,19 +4143,19 @@ msgstr "Müzik Sembolleri"
 
 #: ../input-pad/unicode_block.h:219
 msgid "Ancient Greek Musical Notation"
-msgstr ""
+msgstr "Antik Yunan Müzik Notaları"
 
 #: ../input-pad/unicode_block.h:220
 msgid "Tai Xuan Jing Symbols"
-msgstr ""
+msgstr "Tai Xuan Jing Sembolleri"
 
 #: ../input-pad/unicode_block.h:221
 msgid "Counting Rod Numerals"
-msgstr ""
+msgstr "Sayma Çubuğu Sayıları"
 
 #: ../input-pad/unicode_block.h:222
 msgid "Mathematical Alphanumeric Symbols"
-msgstr ""
+msgstr "Matematiksel Alfanumerik Semboller"
 
 #: ../input-pad/unicode_block.h:223
 msgid "Mahjong Tiles"
@@ -4163,43 +4163,43 @@ msgstr "Mahjong Taşları"
 
 #: ../input-pad/unicode_block.h:224
 msgid "Domino Tiles"
-msgstr ""
+msgstr "Domino Taşları"
 
 #: ../input-pad/unicode_block.h:225
 msgid "Enclosed Alphanumeric Supplement"
-msgstr ""
+msgstr "Kapalı Alfanumerik İlave"
 
 #: ../input-pad/unicode_block.h:226
 msgid "Enclosed Ideographic Supplement"
-msgstr ""
+msgstr "Kapalı İdeografik İlave"
 
 #: ../input-pad/unicode_block.h:227
 msgid "CJK Unified Ideographs Extension B"
-msgstr ""
+msgstr "CJK Birleşik İdeograflar Uzantı B"
 
 #: ../input-pad/unicode_block.h:228
 msgid "CJK Unified Ideographs Extension C"
-msgstr ""
+msgstr "CJK Birleşik İdeograflar Uzantı C"
 
 #: ../input-pad/unicode_block.h:229
 msgid "CJK Compatibility Ideographs Supplement"
-msgstr ""
+msgstr "CJK Uyumluluk İdeografları İlave"
 
 #: ../input-pad/unicode_block.h:230
 msgid "Tags"
-msgstr ""
+msgstr "Etiketler"
 
 #: ../input-pad/unicode_block.h:231
 msgid "Variation Selectors Supplement"
-msgstr ""
+msgstr "Varyasyon Seçiciler İlave"
 
 #: ../input-pad/unicode_block.h:232
 msgid "Supplementary Private Use Area-A"
-msgstr ""
+msgstr "İlave Özel Kullanım Alanı-A"
 
 #: ../input-pad/unicode_block.h:233
 msgid "Supplementary Private Use Area-B"
-msgstr ""
+msgstr "İlave Özel Kullanım Alanı-B"
 
 #: ../input-pad/window-gtk.c:247
 msgid "Display version"
