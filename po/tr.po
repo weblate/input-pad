@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2020-01-15 19:08+0900\n"
-"PO-Revision-Date: 2020-03-25 06:16+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2020-03-25 06:32+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "input-pad/master/tr/>\n"
 "Language: tr\n"
@@ -3963,15 +3963,15 @@ msgstr "Hangul Jamo Genişletilmiş-B"
 
 #: ../input-pad/unicode_block.h:172
 msgid "High Surrogates"
-msgstr "Yüksek Yedekler"
+msgstr "Yüksek Temsilciler"
 
 #: ../input-pad/unicode_block.h:173
 msgid "High Private Use Surrogates"
-msgstr ""
+msgstr "Yüksek Özel Kullanımlı Temsilciler"
 
 #: ../input-pad/unicode_block.h:174
 msgid "Low Surrogates"
-msgstr ""
+msgstr "Düşük Temsilciler"
 
 #: ../input-pad/unicode_block.h:175
 msgid "Private Use Area"
@@ -3983,11 +3983,11 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:177
 msgid "Alphabetic Presentation Forms"
-msgstr ""
+msgstr "Alfabetik Sunum Biçimleri"
 
 #: ../input-pad/unicode_block.h:178
 msgid "Arabic Presentation Forms-A"
-msgstr ""
+msgstr "Arapça Sunum Biçimleri-A"
 
 #: ../input-pad/unicode_block.h:179
 msgid "Variation Selectors"
@@ -3995,7 +3995,7 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:180
 msgid "Vertical Forms"
-msgstr ""
+msgstr "Dikey Biçimler"
 
 #: ../input-pad/unicode_block.h:181
 msgid "Combining Half Marks"
@@ -4003,19 +4003,19 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:182
 msgid "CJK Compatibility Forms"
-msgstr ""
+msgstr "CJK Uyumluluk Biçimleri"
 
 #: ../input-pad/unicode_block.h:183
 msgid "Small Form Variants"
-msgstr ""
+msgstr "Küçük Biçim Çeşitleri"
 
 #: ../input-pad/unicode_block.h:184
 msgid "Arabic Presentation Forms-B"
-msgstr ""
+msgstr "Arapça Sunum Biçimleri-B"
 
 #: ../input-pad/unicode_block.h:185
 msgid "Halfwidth and Fullwidth Forms"
-msgstr ""
+msgstr "Yarım ve Tam Genişlik Biçimleri"
 
 #: ../input-pad/unicode_block.h:186
 msgid "Specials"
@@ -4023,7 +4023,7 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:187
 msgid "Linear B Syllabary"
-msgstr ""
+msgstr "Doğrusal B Heceler"
 
 #: ../input-pad/unicode_block.h:188
 msgid "Linear B Ideograms"
@@ -4103,11 +4103,11 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:209
 msgid "Inscriptional Parthian"
-msgstr ""
+msgstr "Kitabe Parthia"
 
 #: ../input-pad/unicode_block.h:210
 msgid "Inscriptional Pahlavi"
-msgstr ""
+msgstr "Kitabe Pehlevi"
 
 #: ../input-pad/unicode_block.h:211
 msgid "Old Turkic"
