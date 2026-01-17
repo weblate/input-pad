@@ -2,7 +2,7 @@
 # Copyright (C) 2010-2025 Takao Fujiwara <takao.fujiwara1@gmail.com>
 # This file is distributed under the same license as the input-pad package.
 #
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2024, 2025.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2024, 2025, 2026.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2024, 2026.
 msgid ""
 msgstr ""
@@ -10,8 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
 "PO-Revision-Date: 2026-01-18 09:58+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/input-"
 "pad/master/ka/>\n"
 "Language: ka\n"
@@ -204,7 +203,7 @@ msgstr "თვე"
 
 #: ../data/cmd.xml.in:14
 msgid "English Month"
-msgstr "ინგლისური რეჟიმი"
+msgstr "ინგლისური თვე"
 
 #: ../data/cmd.xml.in:15
 msgid "Short Month"
@@ -1404,7 +1403,7 @@ msgstr "კატაკანა"
 
 #: ../data/ja.xml.in:4 ../data/zh.xml.in.h:3
 msgid "Radicals"
-msgstr ""
+msgstr "რადიკალები"
 
 #: ../data/ja.xml.in:5 ../input-pad/unicode_block.h:132
 msgid "CJK Radicals Supplement"
@@ -1416,7 +1415,7 @@ msgstr "კლავიატურა"
 
 #: ../data/keyboard.xml.in:2
 msgid "Function Key"
-msgstr ""
+msgstr "ფუნქციის ღილაკი"
 
 #: ../data/keyboard.xml.in:3
 msgid "Key Pad"
@@ -1628,7 +1627,7 @@ msgstr "სოკერი"
 
 #: ../data/str.xml.in:43
 msgid "Baseball"
-msgstr ""
+msgstr "ბეისბოლი"
 
 #: ../data/str.xml.in:44
 msgid "Snowman"
@@ -1672,7 +1671,7 @@ msgstr "სასახლე"
 
 #: ../data/str.xml.in:54
 msgid "Historic site"
-msgstr ""
+msgstr "ისტორიული ადგილი"
 
 #: ../data/str.xml.in:55
 msgid "Power station"
@@ -1844,7 +1843,7 @@ msgstr ""
 
 #: ../data/str.xml.in:97
 msgid "Clover"
-msgstr ""
+msgstr "სამყურა"
 
 #: ../data/str.xml.in:98
 msgid "Maple"
@@ -1908,7 +1907,7 @@ msgstr ""
 
 #: ../data/str.xml.in:113
 msgid "Peach"
-msgstr ""
+msgstr "ატამი"
 
 #: ../data/str.xml.in:114
 msgid "Strawberry"
@@ -2048,7 +2047,7 @@ msgstr "ჭიქა"
 
 #: ../data/str.xml.in:148
 msgid "Sake"
-msgstr ""
+msgstr "საკე"
 
 #: ../data/str.xml.in:149
 msgid "Wine"
@@ -2356,7 +2355,7 @@ msgstr "კოალა"
 
 #: ../data/str.xml.in:225
 msgid "Poodle"
-msgstr ""
+msgstr "პუდელი"
 
 #: ../data/str.xml.in:226
 msgid "Camel"
@@ -2400,7 +2399,7 @@ msgstr ""
 
 #: ../data/str.xml.in:236
 msgid "Mouth"
-msgstr ""
+msgstr "პირი"
 
 #: ../data/str.xml.in:237
 msgid "Tongue"
@@ -2444,7 +2443,7 @@ msgstr "ტანსაცმელი"
 
 #: ../data/str.xml.in:247
 msgid "Purse"
-msgstr ""
+msgstr "ქალის საფულე"
 
 #: ../data/str.xml.in:248
 msgid "Handbag"
@@ -2484,7 +2483,7 @@ msgstr ""
 
 #: ../data/str.xml.in:257
 msgid "Woman"
-msgstr ""
+msgstr "ქალი"
 
 #: ../data/str.xml.in:258
 msgid "Family"
@@ -2528,7 +2527,7 @@ msgstr ""
 
 #: ../data/str.xml.in:268
 msgid "Ghost"
-msgstr ""
+msgstr "მოჩვენება"
 
 #: ../data/str.xml.in:269
 msgid "Baby Angel"
@@ -2560,7 +2559,7 @@ msgstr ""
 
 #: ../data/str.xml.in:276
 msgid "Dancer"
-msgstr ""
+msgstr "მოცეკვავე"
 
 #: ../data/str.xml.in:277
 msgid "Lipstick"
@@ -2616,7 +2615,7 @@ msgstr "იდეა"
 
 #: ../data/str.xml.in:290
 msgid "Anger"
-msgstr ""
+msgstr "ბრაზი"
 
 #: ../data/str.xml.in:291
 msgid "Bomb"
@@ -2708,7 +2707,7 @@ msgstr ""
 
 #: ../data/str.xml.in:313
 msgid "Bookmark"
-msgstr ""
+msgstr "სანიშნე"
 
 #: ../data/str.xml.in:314
 msgid "Book"
@@ -2888,11 +2887,11 @@ msgstr "ნეიტრალური"
 
 #: ../data/str.xml.in:358
 msgid "Expressionless"
-msgstr ""
+msgstr "არაფრისმთქმელი"
 
 #: ../data/str.xml.in:359
 msgid "Unamused"
-msgstr ""
+msgstr "უკმაყოფილო"
 
 #: ../data/str.xml.in:360
 msgid "Pensive"
@@ -2928,7 +2927,7 @@ msgstr ""
 
 #: ../data/str.xml.in:368
 msgid "Surprise"
-msgstr ""
+msgstr "სიურპრიზი"
 
 #: ../data/str.xml.in:369
 msgid "Scream"
@@ -2968,7 +2967,7 @@ msgstr ""
 
 #: ../data/str.xml.in:378
 msgid "Pleading"
-msgstr ""
+msgstr "სასამართლო"
 
 #: ../data/str.xml.in:379
 msgid "Smileys"
@@ -3285,7 +3284,7 @@ msgstr ""
 
 #: ../input-pad/app-menu.ui.h:10
 msgid "Show _Keyboard Layout"
-msgstr ""
+msgstr "_კლავიატურის განლაგების ჩვენება"
 
 #: ../input-pad/app-menu.ui.h:11
 msgid "_Help"
@@ -3401,7 +3400,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:33
 msgid "A_vailable layouts:"
-msgstr ""
+msgstr "ხელმისაწ_ვდომი განლაგებები:"
 
 #: ../input-pad/dialog.ui.h:34
 msgid "_Add"
