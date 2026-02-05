@@ -10,8 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
 "PO-Revision-Date: 2026-02-06 06:58+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/input-"
 "pad/master/ka/>\n"
 "Language: ka\n"
@@ -212,7 +211,7 @@ msgstr ""
 
 #: ../data/cmd.xml.in:16
 msgid "English Short Month"
-msgstr "ინგლისური თვე"
+msgstr "ინგლისური მოკლე თვე"
 
 #: ../data/cmd.xml.in:17
 msgid "Weekday"
@@ -3040,7 +3039,7 @@ msgstr ""
 
 #: ../data/str.xml.in:396
 msgid "Angel"
-msgstr ""
+msgstr "ანგელოზი"
 
 #: ../data/str.xml.in:397
 msgid "Love"
