@@ -4,13 +4,14 @@
 #
 # Languages add-on <noreply-addon-languages@weblate.org>, 2026.
 # Salvatore Cocuzza <info@salvatorecocuzza.it>, 2026.
+# Ali Ciloqlu <ali.ciloqlu@murena.io>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
-"PO-Revision-Date: 2026-02-01 20:58+0000\n"
-"Last-Translator: Salvatore Cocuzza <info@salvatorecocuzza.it>\n"
+"PO-Revision-Date: 2026-04-09 18:59+0000\n"
+"Last-Translator: Ali Ciloqlu <ali.ciloqlu@murena.io>\n"
 "Language-Team: Italian <https://translate.fedoraproject.org/projects/input-"
 "pad/master/it/>\n"
 "Language: it\n"
@@ -18,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: ../data/alphabet.xml.in.in:1
 msgid "Alphabets"
@@ -3459,7 +3460,7 @@ msgstr "Input Pad è uno strumento per inviare un carattere tramite un pulsante.
 
 #: ../input-pad/dialog.ui.h:44
 msgid "translator_credits"
-msgstr "Salvatore COCUZZA <info@salvatorecocuzza.it>"
+msgstr "Crediti traduzione"
 
 #: ../input-pad/eek-gtk.c:65
 msgid "Use libeek to draw keyboard"
