@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
-"PO-Revision-Date: 2026-04-04 10:58+0000\n"
+"PO-Revision-Date: 2026-04-28 15:59+0000\n"
 "Last-Translator: ButterflyOfFire "
 "<butterflyoffire@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Kabyle <https://translate.fedoraproject.org/projects/input-"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 5.17\n"
 
 #: ../data/alphabet.xml.in.in:1
 msgid "Alphabets"
@@ -215,7 +215,7 @@ msgstr ""
 
 #: ../data/cmd.xml.in:17
 msgid "Weekday"
-msgstr ""
+msgstr "Ass n ddurt"
 
 #: ../data/cmd.xml.in:18
 msgid "English Weekday"
@@ -1391,7 +1391,7 @@ msgstr ""
 
 #: ../data/ja.xml.in:1
 msgid "Japanese"
-msgstr ""
+msgstr "Ajapuni"
 
 #: ../data/ja.xml.in:2 ../input-pad/unicode_block.h:136
 msgid "Hiragana"
@@ -1467,11 +1467,11 @@ msgstr ""
 
 #: ../data/str.xml.in:3
 msgid "Rain"
-msgstr ""
+msgstr "Anẓar"
 
 #: ../data/str.xml.in:4
 msgid "Comet"
-msgstr ""
+msgstr "Asmil"
 
 #: ../data/str.xml.in:5
 msgid "Cross"
@@ -1479,43 +1479,43 @@ msgstr ""
 
 #: ../data/str.xml.in:6
 msgid "Solar"
-msgstr ""
+msgstr "Afukan"
 
 #: ../data/str.xml.in:7
 msgid "Mercury"
-msgstr ""
+msgstr "Merkur"
 
 #: ../data/str.xml.in:8
 msgid "Venus"
-msgstr ""
+msgstr "Wines"
 
 #: ../data/str.xml.in:9
 msgid "Earth"
-msgstr ""
+msgstr "Akal"
 
 #: ../data/str.xml.in:10
 msgid "Mars"
-msgstr ""
+msgstr "Meɣres"
 
 #: ../data/str.xml.in:11
 msgid "Jupiter"
-msgstr ""
+msgstr "Yebṭer"
 
 #: ../data/str.xml.in:12
 msgid "Saturn"
-msgstr ""
+msgstr "Asturn"
 
 #: ../data/str.xml.in:13
 msgid "Uranus"
-msgstr ""
+msgstr "Wṛanes"
 
 #: ../data/str.xml.in:14
 msgid "Neptune"
-msgstr ""
+msgstr "Neftun"
 
 #: ../data/str.xml.in:15
 msgid "Pluto"
-msgstr ""
+msgstr "Flutu"
 
 #: ../data/str.xml.in:16
 msgid "Aries"
@@ -1543,11 +1543,11 @@ msgstr ""
 
 #: ../data/str.xml.in:22
 msgid "Libra"
-msgstr ""
+msgstr "Libra"
 
 #: ../data/str.xml.in:23
 msgid "Scorpius"
-msgstr ""
+msgstr "Tiɣirdemt"
 
 #: ../data/str.xml.in:24
 msgid "Sagittarius"
@@ -1619,7 +1619,7 @@ msgstr ""
 
 #: ../data/str.xml.in:41
 msgid "Gender"
-msgstr ""
+msgstr "Uzuf"
 
 #: ../data/str.xml.in:42
 msgid "Soccer"
@@ -1663,11 +1663,11 @@ msgstr ""
 
 #: ../data/str.xml.in:52
 msgid "Church"
-msgstr ""
+msgstr "Taklizt"
 
 #: ../data/str.xml.in:53
 msgid "Castle"
-msgstr ""
+msgstr "Tiɣremt"
 
 #: ../data/str.xml.in:54
 msgid "Historic site"
@@ -1719,7 +1719,7 @@ msgstr ""
 
 #: ../data/str.xml.in:66
 msgid "Hand"
-msgstr ""
+msgstr "Afus"
 
 #: ../data/str.xml.in:67
 msgid "V Sign"
@@ -1727,15 +1727,15 @@ msgstr ""
 
 #: ../data/str.xml.in:68
 msgid "Writing"
-msgstr ""
+msgstr "Tira"
 
 #: ../data/str.xml.in:69
 msgid "Pencil"
-msgstr ""
+msgstr "Imru"
 
 #: ../data/str.xml.in:70
 msgid "Pen"
-msgstr ""
+msgstr "Akeryun"
 
 #: ../data/str.xml.in:71
 msgid "Star"
@@ -1759,19 +1759,19 @@ msgstr ""
 
 #: ../data/str.xml.in:76
 msgid "Sunrise"
-msgstr ""
+msgstr "Alluy n yiṭij"
 
 #: ../data/str.xml.in:77
 msgid "Sunset"
-msgstr ""
+msgstr "Aɣelluy n yiṭij"
 
 #: ../data/str.xml.in:78
 msgid "Bridge"
-msgstr ""
+msgstr "Tiqenṭert"
 
 #: ../data/str.xml.in:79
 msgid "Wave"
-msgstr ""
+msgstr "Tayyugt"
 
 #: ../data/str.xml.in:80
 msgid "New Moon"
@@ -1795,19 +1795,19 @@ msgstr ""
 
 #: ../data/str.xml.in:85
 msgid "Moon"
-msgstr ""
+msgstr "Ayyur"
 
 #: ../data/str.xml.in:86
 msgid "Sun"
-msgstr ""
+msgstr "Iṭij"
 
 #: ../data/str.xml.in:87
 msgid "Cloud"
-msgstr ""
+msgstr "Asigna"
 
 #: ../data/str.xml.in:88
 msgid "Palm"
-msgstr ""
+msgstr "Tazdayt"
 
 #: ../data/str.xml.in:89
 msgid "Hot Pepper"
@@ -1815,7 +1815,7 @@ msgstr ""
 
 #: ../data/str.xml.in:90
 msgid "Flower"
-msgstr ""
+msgstr "Tajeǧǧigt"
 
 #: ../data/str.xml.in:91
 msgid "Tulip"
@@ -1879,19 +1879,19 @@ msgstr ""
 
 #: ../data/str.xml.in:106
 msgid "Watermelon"
-msgstr ""
+msgstr "Ddellaɛ"
 
 #: ../data/str.xml.in:107
 msgid "Tangerine"
-msgstr ""
+msgstr "Tanklimantint"
 
 #: ../data/str.xml.in:108
 msgid "Lemon"
-msgstr ""
+msgstr "Taqaṛest"
 
 #: ../data/str.xml.in:109
 msgid "Banana"
-msgstr ""
+msgstr "Tabanant"
 
 #: ../data/str.xml.in:110
 msgid "Pineapple"
@@ -1919,11 +1919,11 @@ msgstr ""
 
 #: ../data/str.xml.in:116
 msgid "Pizza"
-msgstr ""
+msgstr "Tapizza"
 
 #: ../data/str.xml.in:117
 msgid "Meat"
-msgstr ""
+msgstr "Aksum"
 
 #: ../data/str.xml.in:118
 msgid "Poultry"
@@ -2083,7 +2083,7 @@ msgstr ""
 
 #: ../data/str.xml.in:157
 msgid "Cake"
-msgstr ""
+msgstr "Tamẓidt"
 
 #: ../data/str.xml.in:158
 msgid "Hallowe'en"
@@ -2359,11 +2359,11 @@ msgstr ""
 
 #: ../data/str.xml.in:226
 msgid "Camel"
-msgstr ""
+msgstr "Alɣem"
 
 #: ../data/str.xml.in:227
 msgid "Dolphin"
-msgstr ""
+msgstr "Azyam"
 
 #: ../data/str.xml.in:228
 msgid "Frog"
@@ -2867,7 +2867,7 @@ msgstr ""
 
 #: ../data/str.xml.in:353
 msgid "Japan"
-msgstr ""
+msgstr "Japun"
 
 #: ../data/str.xml.in:354
 msgid "Anguish"
@@ -3043,7 +3043,7 @@ msgstr ""
 
 #: ../data/str.xml.in:397
 msgid "Love"
-msgstr ""
+msgstr "Tayri"
 
 #: ../data/str.xml.in:398
 msgid "Love Over"
@@ -3051,11 +3051,11 @@ msgstr ""
 
 #: ../data/str.xml.in:399
 msgid "Film"
-msgstr ""
+msgstr "Asaru"
 
 #: ../data/str.xml.in:400
 msgid "Clock"
-msgstr ""
+msgstr "Tamrint"
 
 #: ../data/str.xml.in:401
 msgid "Coffee"
@@ -3075,11 +3075,11 @@ msgstr ""
 
 #: ../data/str.xml.in:405
 msgid "Yes"
-msgstr ""
+msgstr "Ih"
 
 #: ../data/str.xml.in:406
 msgid "No"
-msgstr ""
+msgstr "Uhu"
 
 #: ../data/str.xml.in:407
 msgid "Shut Mouth"
@@ -3248,11 +3248,11 @@ msgstr ""
 
 #: ../input-pad/app-menu.ui.h:1
 msgid "_File"
-msgstr ""
+msgstr "A_faylu"
 
 #: ../input-pad/app-menu.ui.h:2 ../input-pad/dialog.ui.h:21
 msgid "_Close"
-msgstr ""
+msgstr "_Mdel"
 
 #: ../input-pad/app-menu.ui.h:3
 msgid "Close the program"
@@ -3288,7 +3288,7 @@ msgstr ""
 
 #: ../input-pad/app-menu.ui.h:11
 msgid "_Help"
-msgstr ""
+msgstr "Ta_llalt"
 
 #: ../input-pad/app-menu.ui.h:12
 msgid "_Troubleshoot"
@@ -3296,7 +3296,7 @@ msgstr ""
 
 #: ../input-pad/app-menu.ui.h:13
 msgid "_About"
-msgstr ""
+msgstr "Ɣ_ef"
 
 #: ../input-pad/dialog.ui.h:1
 msgid "Code Point Dialog"
@@ -3304,7 +3304,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:2
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: ../input-pad/dialog.ui.h:3
 msgid "You can choose encoding type"
@@ -3364,11 +3364,11 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:19
 msgid "Character:"
-msgstr ""
+msgstr "Asekkil:"
 
 #: ../input-pad/dialog.ui.h:20
 msgid "_Send"
-msgstr ""
+msgstr "A_zen"
 
 #: ../input-pad/dialog.ui.h:22
 msgid "Input Pad Troubleshoot"
@@ -3392,7 +3392,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:31
 msgid "_OK"
-msgstr ""
+msgstr "_Ih"
 
 #: ../input-pad/dialog.ui.h:32
 msgid "Configure Keyboard Layouts"
@@ -3404,7 +3404,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:34
 msgid "_Add"
-msgstr ""
+msgstr "_Rnu"
 
 #: ../input-pad/dialog.ui.h:35
 msgid "_Layouts shown in the list:"
@@ -3412,11 +3412,11 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:36
 msgid "_Remove"
-msgstr ""
+msgstr "_Kkes"
 
 #: ../input-pad/dialog.ui.h:37
 msgid "_Options"
-msgstr ""
+msgstr "Ti_xtiṛiyin"
 
 #: ../input-pad/dialog.ui.h:38
 msgid "Configure Keyboard Options"
@@ -3432,7 +3432,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:41
 msgid "<b>Keyboard Option</b>"
-msgstr ""
+msgstr "<b>Tixtiṛiyin n unasiw</b>"
 
 #: ../input-pad/dialog.ui.h:43
 msgid "The input pad is a tool to send a character on button."
@@ -3440,7 +3440,7 @@ msgstr ""
 
 #: ../input-pad/dialog.ui.h:44
 msgid "translator_credits"
-msgstr ""
+msgstr "Athmane MOKRAOUI"
 
 #: ../input-pad/eek-gtk.c:65
 msgid "Use libeek to draw keyboard"
@@ -3484,7 +3484,7 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:45
 msgid "Cyrillic"
-msgstr ""
+msgstr "Asirilik"
 
 #: ../input-pad/unicode_block.h:46
 msgid "Cyrillic Supplement"
@@ -3492,15 +3492,15 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:47
 msgid "Armenian"
-msgstr ""
+msgstr "Aṛmini"
 
 #: ../input-pad/unicode_block.h:48
 msgid "Hebrew"
-msgstr ""
+msgstr "Aɛebrani"
 
 #: ../input-pad/unicode_block.h:49
 msgid "Arabic"
-msgstr ""
+msgstr "Aɛrab"
 
 #: ../input-pad/unicode_block.h:50
 msgid "Syriac"
@@ -3808,7 +3808,7 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:128
 msgid "Tifinagh"
-msgstr ""
+msgstr "Tifinaɣ"
 
 #: ../input-pad/unicode_block.h:129
 msgid "Ethiopic Extended"
@@ -4239,7 +4239,7 @@ msgstr ""
 
 #: ../input-pad/window-gtk.c:2833
 msgid "Layout"
-msgstr ""
+msgstr "Taneɣruft"
 
 #: ../input-pad/window-gtk.c:3104
 msgid "_Layout:"
