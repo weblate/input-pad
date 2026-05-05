@@ -8,3368 +8,3378 @@ msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
-"PO-Revision-Date: 2025-03-20 17:50+0900\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-06 12:01+0000\n"
+"Last-Translator: Bone NI <bounkirdni@gmail.com>\n"
+"Language-Team: Lao <https://translate.fedoraproject.org/projects/input-pad/"
+"master/lo/>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: ../data/alphabet.xml.in.in:1
 msgid "Alphabets"
-msgstr ""
+msgstr "ຕົວອັກສອນ"
 
 #: ../data/base.xml.in:1
 msgid "Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກ"
 
 #: ../data/base.xml.in:2
 msgid "Currency"
-msgstr ""
+msgstr "ສະກຸນເງິນ"
 
 #: ../data/base.xml.in:3
 msgid "Letterlike"
-msgstr ""
+msgstr "ຄ້າຍຄືຕົວອັກສອນ"
 
 #: ../data/base.xml.in:4
 msgid "Miscellaneous"
-msgstr ""
+msgstr "ອື່ນໆ"
 
 #: ../data/base.xml.in:5 ../input-pad/unicode_block.h:116
 msgid "Dingbats"
-msgstr ""
+msgstr "ສັນຍາລັກຮູບພາບ (Dingbats)"
 
 #. Translators: Superscripts and Subscripts
 #: ../data/base.xml.in:7
 msgid "Super and Sub"
-msgstr ""
+msgstr "ຕົວຍົກ ແລະ ຕົວຫ້ອຍ"
 
 #: ../data/base.xml.in:8
 msgid "Bold"
-msgstr ""
+msgstr "ຕົວເຂັ້ມ"
 
 #: ../data/base.xml.in:9
 msgid "Italic"
-msgstr ""
+msgstr "ຕົວອຽງ"
 
 #: ../data/base.xml.in:10
 msgid "Script"
-msgstr ""
+msgstr "ຕົວຂຽນ"
 
 #: ../data/base.xml.in:11
 msgid "Double Struck"
-msgstr ""
+msgstr "ຕົວຂີດທັບສອງເສັ້ນ"
 
 #: ../data/base.xml.in:12
 msgid "All"
-msgstr ""
+msgstr "ທັງໝົດ"
 
 #: ../data/base.xml.in:13 ../data/zh.xml.in.h:2
 msgid "Numbers"
-msgstr ""
+msgstr "ຕົວເລກ"
 
 #: ../data/base.xml.in:14
 msgid "Roman"
-msgstr ""
+msgstr "ໂຣມັນ"
 
 #: ../data/base.xml.in:15
 msgid "Enclosed"
-msgstr ""
+msgstr "ໃນວົງລ້ອມ"
 
 #: ../data/base.xml.in:16
 msgid "Fraction"
-msgstr ""
+msgstr "ເລກສ່ວນ"
 
 #: ../data/base.xml.in:17
 msgid "Technical"
-msgstr ""
+msgstr "ເຕັກນິກ"
 
 #: ../data/base.xml.in:18
 msgid "Unit"
-msgstr ""
+msgstr "ຫົວໜ່ວຍ"
 
 #: ../data/base.xml.in:19
 msgid "Mathematical"
-msgstr ""
+msgstr "ຄະນິດສາດ"
 
 #: ../data/base.xml.in:20
 msgid "Controls"
-msgstr ""
+msgstr "ການຄວບຄຸມ"
 
 #: ../data/base.xml.in:21
 msgid "OCR"
-msgstr ""
+msgstr "OCR"
 
 #: ../data/base.xml.in:22
 msgid "Graphics"
-msgstr ""
+msgstr "ກຣາຟິກ"
 
 #: ../data/base.xml.in:23
 msgid "Arrow"
-msgstr ""
+msgstr "ລູກສອນ"
 
 #: ../data/base.xml.in:24 ../input-pad/unicode_block.h:112
 msgid "Box Drawing"
-msgstr ""
+msgstr "ແຕ້ມກ່ອງ"
 
 #: ../data/base.xml.in:25 ../input-pad/window-gtk.c:3694
 msgid "Block"
-msgstr ""
+msgstr "ບຼັອກ"
 
 #: ../data/base.xml.in:26
 msgid "Geometric"
-msgstr ""
+msgstr "ເລຂາຄະນິດ"
 
 #: ../data/base.xml.in:27
 msgid "Braille"
-msgstr ""
+msgstr "ອັກສອນເບຼວ"
 
 #: ../data/base.xml.in:28
 msgid "Punctuations"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັກຕອນ"
 
 #: ../data/base.xml.in:29
 msgid "General"
-msgstr ""
+msgstr "ທົ່ວໄປ"
 
 #: ../data/base.xml.in:30
 msgid "CJK"
-msgstr ""
+msgstr "CJK"
 
 #: ../data/base.xml.in:31 ../input-pad/unicode_block.h:145
 msgid "CJK Compatibility"
-msgstr ""
+msgstr "ຄວາມເຂົ້າກັນໄດ້ຂອງ CJK"
 
 #: ../data/base.xml.in:32
 msgid "Small Form"
-msgstr ""
+msgstr "ຮູບແບບນ້ອຍ"
 
 #: ../data/cmd.xml.in:1
 msgid "Command"
-msgstr ""
+msgstr "ຄຳສັ່ງ"
 
 #: ../data/cmd.xml.in:2
 msgid "Date"
-msgstr ""
+msgstr "ວັນທີ"
 
 #: ../data/cmd.xml.in:3
 msgid "Normal Date"
-msgstr ""
+msgstr "ວັນທີປົກກະຕິ"
 
 #: ../data/cmd.xml.in:4
 msgid "Date and Time"
-msgstr ""
+msgstr "ວັນທີ ແລະ ເວລາ"
 
 #: ../data/cmd.xml.in:5
 msgid "ChangeLog date"
-msgstr ""
+msgstr "ວັນທີ ChangeLog"
 
 #: ../data/cmd.xml.in:6
 msgid "USA English date"
-msgstr ""
+msgstr "ວັນທີແບບອັງກິດ (ສະຫະລັດ)"
 
 #: ../data/cmd.xml.in:7
 msgid "UK English date"
-msgstr ""
+msgstr "ວັນທີແບບອັງກິດ (ອັງກິດ)"
 
 #: ../data/cmd.xml.in:8
 msgid "ISO 8601 date"
-msgstr ""
+msgstr "ວັນທີມາດຕະຖານ ISO 8601"
 
 #: ../data/cmd.xml.in:9
 msgid "Era"
-msgstr ""
+msgstr "ຍຸກສະໄໝ"
 
 #: ../data/cmd.xml.in:10
 msgid "Century Year"
-msgstr ""
+msgstr "ປີສັດຕະວັດ"
 
 #: ../data/cmd.xml.in:11
 msgid "Normal Time"
-msgstr ""
+msgstr "ເວລາປົກກະຕິ"
 
 #: ../data/cmd.xml.in:12
 msgid "English Time"
-msgstr ""
+msgstr "ເວລາແບບອັງກິດ"
 
 #: ../data/cmd.xml.in:13
 msgid "Month"
-msgstr ""
+msgstr "ເດືອນ"
 
 #: ../data/cmd.xml.in:14
 msgid "English Month"
-msgstr ""
+msgstr "ເດືອນພາສາອັງກິດ"
 
 #: ../data/cmd.xml.in:15
 msgid "Short Month"
-msgstr ""
+msgstr "ເດືອນແບບຫຍໍ້"
 
 #: ../data/cmd.xml.in:16
 msgid "English Short Month"
-msgstr ""
+msgstr "ເດືອນແບບຫຍໍ້ພາສາອັງກິດ"
 
 #: ../data/cmd.xml.in:17
 msgid "Weekday"
-msgstr ""
+msgstr "ມື້ໃນອາທິດ"
 
 #: ../data/cmd.xml.in:18
 msgid "English Weekday"
-msgstr ""
+msgstr "ມື້ໃນອາທິດພາສາອັງກິດ"
 
 #: ../data/cmd.xml.in:19
 msgid "Short Weekday"
-msgstr ""
+msgstr "ມື້ໃນອາທິດແບບຫຍໍ້"
 
 #: ../data/cmd.xml.in:20
 msgid "English Short Weekday"
-msgstr ""
+msgstr "ມື້ໃນອາທິດແບບຫຍໍ້ພາສາອັງກິດ"
 
 #: ../data/goth.xml.in:1 ../input-pad/unicode_block.h:196
 msgid "Gothic"
-msgstr ""
+msgstr "ກໍທິກ"
 
 #: ../data/input-pad.desktop.in:1 ../input-pad/dialog.ui.h:42
 #: ../input-pad/window-gtk.c:5093 ../input-pad/window-gtk.c:5094
 #: ../input-pad/window-gtk.ui.h:1
 msgid "Input Pad"
-msgstr ""
+msgstr "ແປ້ນປ້ອນຂໍ້ມູນ"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-obsolete.xml.in:2
 msgid "IPA (Obsolete)"
-msgstr ""
+msgstr "ສັດທະອັກສອນສາກົນ (ລ້າສະໄໝ)"
 
 #: ../data/ipa-obsolete.xml.in:3 ../data/ipa.xml.in.h:6
 msgid "Open back unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເປີດຫຼັງບໍ່ມົນ"
 
 #: ../data/ipa-obsolete.xml.in:4
 msgid "Palatalized voiced bilabial plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດຮິມສົບສອງເບື້ອງສຽງກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:5
 msgid "Voiceless palatal implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າເພດານແຂງບໍ່ກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:6 ../data/ipa.xml.in.h:138
 msgid "Alveolar click"
-msgstr ""
+msgstr "ສຽງເດາະປຸ່ມເຫືອກ"
 
 #: ../data/ipa-obsolete.xml.in:7
 msgid "Palatalized voiced alveolar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດປຸ່ມເຫືອກສຽງກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:8 ../data/ipa.xml.in.h:25
 msgid "Voiced alveolar affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກປຸ່ມເຫືອກສຽງກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:9 ../data/ipa.xml.in.h:27
 msgid "Voiced alveopalatal affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກປຸ່ມເຫືອກ-ເພດານແຂງສຽງກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:10 ../data/ipa.xml.in.h:26
 msgid "Voiced palato-alveolar affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກເພດານແຂງ-ປຸ່ມເຫືອກສຽງກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:11
 msgid "Palatalized voiceless labiodental fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຮິມສົບລຸ່ມແຂ້ວເທິງບໍ່ກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:12
 msgid "Palatalized voiced velar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດເພດານອ່ອນສຽງກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:13
 msgid "Palatalized voiceless velar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດເພດານອ່ອນບໍ່ກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:14
 msgid "Voiceless velar implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າເພດານອ່ອນບໍ່ກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:15
 msgid "Palatalized alveolar lateral approximant"
-msgstr ""
+msgstr "ສຽງເປີດຂ້າງປຸ່ມເຫືອກທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:16
 msgid "Palatalized bilabial nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງຮິມສົບສອງເບື້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:17
 msgid "Palatalized alveolar nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງປຸ່ມເຫືອກທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:18
 msgid "Syllabic alveolar nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງປຸ່ມເຫືອກທີ່ເປັນພະຍາງ"
 
 #: ../data/ipa-obsolete.xml.in:19
 msgid "Palatalized voiceless bilabial plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດຮິມສົບສອງເບື້ອງບໍ່ກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:20
 msgid "Voiceless bilabial implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າຮິມສົບສອງເບື້ອງບໍ່ກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:21
 msgid "Palatalized alveolar trill"
-msgstr ""
+msgstr "ສຽງລົວປຸ່ມເຫືອກທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:22
 msgid "Voiced strident apico-alveolar trill"
-msgstr ""
+msgstr "ສຽງລົວປາຍລີ້ນ-ປຸ່ມເຫືອກສຽງກ້ອງແບບສຽດແຊກ"
 
 #: ../data/ipa-obsolete.xml.in:23
 msgid "Palatalized voiceless alveolar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກປຸ່ມເຫືອກບໍ່ກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:24 ../data/ipa.xml.in.h:19
 msgid "Voiceless alveopalatal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກປຸ່ມເຫືອກ-ເພດານແຂງບໍ່ກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:25
 msgid "Labialized voiceless palato-alveolar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານແຂງ-ປຸ່ມເຫືອກບໍ່ກ້ອງທີ່ມີລັກສະນະຮິມສົບ"
 
 #: ../data/ipa-obsolete.xml.in:26 ../data/ipa.xml.in.h:103
 msgid "Voiceless alveopalatal affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກປຸ່ມເຫືອກ-ເພດານແຂງບໍ່ກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:27 ../data/ipa.xml.in.h:101
 msgid "Voiceless alveolar affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກປຸ່ມເຫືອກບໍ່ກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:28 ../data/ipa.xml.in.h:102
 msgid "Voiceless palato-alveolar affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກເພດານແຂງ-ປຸ່ມເຫືອກບໍ່ກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:29
 msgid "Palatalized voiceless alveolar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດປຸ່ມເຫືອກບໍ່ກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:30
 msgid "Voiceless alveolar implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າປຸ່ມເຫືອກບໍ່ກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:31 ../data/ipa.xml.in.h:137
 msgid "Dental click"
-msgstr ""
+msgstr "ສຽງເດາະແຂ້ວ"
 
 #: ../data/ipa-obsolete.xml.in:32
 msgid "Voiceless uvular implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າລີ້ນໄກ່ບໍ່ກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:33
 msgid "Palatalized voiced labiodental fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຮິມສົບລຸ່ມແຂ້ວເທິງສຽງກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:34
 msgid "Palatalized voiceless velar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານອ່ອນບໍ່ກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:35
 msgid "Palatalized voiced alveolar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກປຸ່ມເຫືອກສຽງກ້ອງທີ່ມີລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa-obsolete.xml.in:36
 msgid "Labialized voiced palato-alveolar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານແຂງ-ປຸ່ມເຫືອກສຽງກ້ອງທີ່ມີລັກສະນະຮິມສົບ"
 
 #: ../data/ipa-obsolete.xml.in:37 ../data/ipa.xml.in.h:128
 msgid "Voiced alveopalatal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກປຸ່ມເຫືອກ-ເພດານແຂງສຽງກ້ອງ"
 
 #: ../data/ipa-obsolete.xml.in:38 ../data/ipa.xml.in.h:106
 msgid "Near-close near-back vowel"
-msgstr ""
+msgstr "ສະຫຼະເກືອບປິດເກືອບຫຼັງ"
 
 #: ../data/ipa-obsolete.xml.in:39 ../data/ipa.xml.in.h:140
 msgid "Alveolar lateral click"
-msgstr ""
+msgstr "ສຽງເດາະຂ້າງປຸ່ມເຫືອກ"
 
 #: ../data/ipa-obsolete.xml.in:40
 msgid "Labialized voiceless alveolar or dental fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກປຸ່ມເຫືອກ ຫຼື ແຂ້ວບໍ່ກ້ອງທີ່ມີລັກສະນະຮິມສົບ"
 
 #: ../data/ipa-obsolete.xml.in:41
 msgid "Labialized voiced alveolar or dental fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກປຸ່ມເຫືອກ ຫຼື ແຂ້ວສຽງກ້ອງທີ່ມີລັກສະນະຮິມສົບ"
 
 #: ../data/ipa-obsolete.xml.in:42
 msgid "Combining labialization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະຮິມສົບ"
 
 #: ../data/ipa-obsolete.xml.in:43
 msgid "Combining palatalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະເພດານແຂງ"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-unofficial.xml.in:2
 msgid "IPA (Unofficial)"
-msgstr ""
+msgstr "ສັດທະອັກສອນສາກົນ (ບໍ່ເປັນທາງການ)"
 
 #: ../data/ipa-unofficial.xml.in:3
 msgid "Voiced labiodental plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດຮິມສົບລຸ່ມແຂ້ວເທິງສຽງກ້ອງ"
 
 #: ../data/ipa-unofficial.xml.in:4 ../data/ipa.xml.in.h:18
 msgid "Voiceless palatal lateral affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຂ້າງເພດານແຂງບໍ່ກ້ອງ"
 
 #: ../data/ipa-unofficial.xml.in:5
 msgid "Voiced retroflex implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າມ້ວນລີ້ນສຽງກ້ອງ"
 
 #: ../data/ipa-unofficial.xml.in:6 ../data/ipa.xml.in.h:88
 msgid "Alveolar flap"
-msgstr ""
+msgstr "ສຽງກະທົບປຸ່ມເຫືອກ"
 
 #: ../data/ipa-unofficial.xml.in:7 ../data/ipa.xml.in.h:125
 msgid "Voiceless palatal lateral fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຂ້າງເພດານແຂງບໍ່ກ້ອງ"
 
 #: ../data/ipa-unofficial.xml.in:8 ../data/ipa.xml.in.h:91
 msgid "Retroflex flap"
-msgstr ""
+msgstr "ສຽງກະທົບມ້ວນລີ້ນ"
 
 #: ../data/ipa-unofficial.xml.in:9
 msgid "Voiceless retroflex lateral fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຂ້າງມ້ວນລີ້ນບໍ່ກ້ອງ"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in:11
 msgid "Voiceless retroflex lateral fricative (PUA)"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຂ້າງມ້ວນລີ້ນບໍ່ກ້ອງ (PUA)"
 
 #: ../data/ipa-unofficial.xml.in:12 ../data/ipa.xml.in.h:59
 msgid "Voiceless velar lateral affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຂ້າງເພດານອ່ອນບໍ່ກ້ອງ"
 
 #: ../data/ipa-unofficial.xml.in:13 ../data/ipa.xml.in.h:68
 msgid "Voiceless velar lateral fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຂ້າງເພດານອ່ອນບໍ່ກ້ອງ"
 
 #: ../data/ipa-unofficial.xml.in:14
 msgid "Epiglottal trill"
-msgstr ""
+msgstr "ສຽງລົວຝາປິດກ່ອງສຽງ"
 
 #: ../data/ipa-unofficial.xml.in:15
 msgid "Voiceless labiodental plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດຮິມສົບລຸ່ມແຂ້ວເທິງບໍ່ກ້ອງ"
 
 #: ../data/ipa-unofficial.xml.in:16
 msgid "Voiceless retroflex lateral affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຂ້າງມ້ວນລີ້ນບໍ່ກ້ອງ"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in:18
 msgid "Voiceless retroflex lateral affricate (PUA)"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຂ້າງມ້ວນລີ້ນບໍ່ກ້ອງ (PUA)"
 
 #: ../data/ipa-unofficial.xml.in:19
 msgid "Combining stridency mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງຮຸນແຮງ"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in:21
 msgid "Combining stridency mark (PUA)"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງຮຸນແຮງ (PUA)"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa.xml.in:2
 msgid "IPA"
-msgstr ""
+msgstr "ສັດທະອັກສອນສາກົນ"
 
 #: ../data/ipa.xml.in:3
 msgid "Open front unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເປີດໜ້າບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:4
 msgid "Open central unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເປີດກາງບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:5
 msgid "Near-open central vowel"
-msgstr ""
+msgstr "ສະຫຼະເກືອບເປີດກາງ"
 
 #: ../data/ipa.xml.in:7
 msgid "Open back rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເປີດຫຼັງມົນ"
 
 #: ../data/ipa.xml.in:8
 msgid "Open-mid back unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງເປີດຫຼັງບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:9
 msgid "Near-open front unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເກືອບເປີດໜ້າບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:10
 msgid "Voiced bilabial plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດຮິມສົບສອງເບື້ອງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:11
 msgid "Voiced labiodental affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຮິມສົບລຸ່ມແຂ້ວເທິງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:12
 msgid "Voiced bilabial implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າຮິມສົບສອງເບື້ອງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:13
 msgid "Bilabial trill"
-msgstr ""
+msgstr "ສຽງລົວຮິມສົບສອງເບື້ອງ"
 
 #: ../data/ipa.xml.in:14
 msgid "Voiced bilabial fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຮິມສົບສອງເບື້ອງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:15
 msgid "Voiceless palatal plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດເພດານແຂງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:16
 msgid "Voiceless palatal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານແຂງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:17
 msgid "Voiceless palatal affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກເພດານແຂງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:20
 msgid "Voiced alveolar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດປຸ່ມເຫືອກສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:21
 msgid "Voiced alveolar implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າປຸ່ມເຫືອກສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:22
 msgid "Voiced retroflex plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດມ້ວນລີ້ນສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:23
 msgid "Voiced dental fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກແຂ້ວສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:24
 msgid "Voiced alveolar lateral affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຂ້າງປຸ່ມເຫືອກສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:28
 msgid "Voiced retroflex affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກມ້ວນລີ້ນສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:29
 msgid "Close-mid front unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງປິດໜ້າບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:30
 msgid "Close-mid central unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງປິດກາງບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:31
 msgid "Mid-central vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງກາງ"
 
 #: ../data/ipa.xml.in:32
 msgid "Rhotacized mid-central vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງກາງມ້ວນລີ້ນ"
 
 #: ../data/ipa.xml.in:33
 msgid "Open-mid front unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງເປີດໜ້າບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:34
 msgid "Open-mid central rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງເປີດກາງມົນ"
 
 #: ../data/ipa.xml.in:35
 msgid "Open-mid central unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງເປີດກາງບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:36
 msgid "Rhotacized open-mid central unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງເປີດກາງບໍ່ມົນມ້ວນລີ້ນ"
 
 #: ../data/ipa.xml.in:37
 msgid "Voiceless labiodental fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຮິມສົບລຸ່ມແຂ້ວເທິງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:38
 msgid "Velopharyngeal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານອ່ອນ-ຄໍຫອຍ"
 
 #: ../data/ipa.xml.in:39
 msgid "Voiced velar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດເພດານອ່ອນສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:40
 msgid "Voiced labial-velar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດຮິມສົບ-ເພດານອ່ອນສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:41
 msgid "Voiced velar implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າເພດານອ່ອນສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:42
 msgid "Voiced uvular plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດລີ້ນໄກ່ສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:43
 msgid "Voiced uvular implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າລີ້ນໄກ່ສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:44
 msgid "Voiceless glottal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເສັ້ນສຽງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:45
 msgid "Voiced glottal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເສັ້ນສຽງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:46
 msgid "Voiceless pharyngeal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຄໍຫອຍບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:47
 msgid "Voiceless coarticulated velar and palato-alveolar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານອ່ອນ ແລະ ເພດານແຂງ-ປຸ່ມເຫືອກຮ່ວມກັນບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:48
 msgid "Voiceless epiglottal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຝາປິດກ່ອງສຽງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:49
 msgid "Close front unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະປິດໜ້າບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:50
 msgid "Near-close near-front unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເກືອບປິດເກືອບໜ້າບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:51
 msgid "Near-close central unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເກືອບປິດກາງບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:52
 msgid "Close central unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະປິດກາງບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:53
 msgid "Palatal approximant"
-msgstr ""
+msgstr "ສຽງເປີດເພດານແຂງ"
 
 #: ../data/ipa.xml.in:54
 msgid "Voiced palatal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານແຂງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:55
 msgid "Voiced palatal plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດເພດານແຂງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:56
 msgid "Voiced palatal affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກເພດານແຂງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:57
 msgid "Voiced palatal implosive"
-msgstr ""
+msgstr "ສຽງດູດເຂົ້າເພດານແຂງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:58
 msgid "Voiceless velar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດເພດານອ່ອນບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:60
 msgid "Voiceless labial-velar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດຮິມສົບ-ເພດານອ່ອນບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:61
 msgid "Voiceless velar affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກເພດານອ່ອນບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:62
 msgid "Alveolar lateral approximant"
-msgstr ""
+msgstr "ສຽງເປີດຂ້າງປຸ່ມເຫືອກ"
 
 #: ../data/ipa.xml.in:63
 msgid "Velarized alveolar lateral approximant"
-msgstr ""
+msgstr "ສຽງເປີດຂ້າງປຸ່ມເຫືອກທີ່ມີລັກສະນະເພດານອ່ອນ"
 
 #: ../data/ipa.xml.in:64
 msgid "Voiceless alveolar lateral fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຂ້າງປຸ່ມເຫືອກບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:65
 msgid "Retroflex lateral approximant"
-msgstr ""
+msgstr "ສຽງເປີດຂ້າງມ້ວນລີ້ນ"
 
 #: ../data/ipa.xml.in:66
 msgid "Voiced alveolar lateral fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຂ້າງປຸ່ມເຫືອກສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:67
 msgid "Velar lateral approximant"
-msgstr ""
+msgstr "ສຽງເປີດຂ້າງເພດານອ່ອນ"
 
 #: ../data/ipa.xml.in:69
 msgid "Bilabial nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງຮິມສົບສອງເບື້ອງ"
 
 #: ../data/ipa.xml.in:70
 msgid "Labiodental nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງຮິມສົບລຸ່ມແຂ້ວເທິງ"
 
 #: ../data/ipa.xml.in:71
 msgid "Alveolar nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງປຸ່ມເຫືອກ"
 
 #: ../data/ipa.xml.in:72
 msgid "Velar nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງເພດານອ່ອນ"
 
 #: ../data/ipa.xml.in:73
 msgid "Labial-velar nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງຮິມສົບ-ເພດານອ່ອນ"
 
 #: ../data/ipa.xml.in:74
 msgid "Palatal nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງເພດານແຂງ"
 
 #: ../data/ipa.xml.in:75
 msgid "Retroflex nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງມ້ວນລີ້ນ"
 
 #: ../data/ipa.xml.in:76
 msgid "Uvular nasal"
-msgstr ""
+msgstr "ສຽງຂຶ້ນດັງລີ້ນໄກ່"
 
 #: ../data/ipa.xml.in:77
 msgid "Close-mid back rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງປິດຫຼັງມົນ"
 
 #: ../data/ipa.xml.in:78
 msgid "Close-mid front rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງປິດໜ້າມົນ"
 
 #: ../data/ipa.xml.in:79
 msgid "Close-mid central rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງປິດກາງມົນ"
 
 #: ../data/ipa.xml.in:80
 msgid "Open-mid front rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງເປີດໜ້າມົນ"
 
 #: ../data/ipa.xml.in:81
 msgid "Open front rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເປີດໜ້າມົນ"
 
 #: ../data/ipa.xml.in:82
 msgid "Voiceless bilabial plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດຮິມສົບສອງເບື້ອງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:83
 msgid "Voiceless bilabial-labiodental affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຮິມສົບສອງເບື້ອງ-ຮິມສົບລຸ່ມແຂ້ວເທິງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:84
 msgid "Voiceless bilabial affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຮິມສົບສອງເບື້ອງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:85
 msgid "Voiceless labiodental affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຮິມສົບລຸ່ມແຂ້ວເທິງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:86
 msgid "Voiceless uvular plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດລີ້ນໄກ່ບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:87
 msgid "Alveolar trill"
-msgstr ""
+msgstr "ສຽງລົວປຸ່ມເຫືອກ"
 
 #: ../data/ipa.xml.in:89
 msgid "Alveolar lateral flap"
-msgstr ""
+msgstr "ສຽງກະທົບຂ້າງປຸ່ມເຫືອກ"
 
 #: ../data/ipa.xml.in:90
 msgid "Uvular trill"
-msgstr ""
+msgstr "ສຽງລົວລີ້ນໄກ່"
 
 #: ../data/ipa.xml.in:92
 msgid "Alveolar approximant"
-msgstr ""
+msgstr "ສຽງເປີດປຸ່ມເຫືອກ"
 
 #: ../data/ipa.xml.in:93
 msgid "Retroflex approximant"
-msgstr ""
+msgstr "ສຽງເປີດມ້ວນລີ້ນ"
 
 #: ../data/ipa.xml.in:94
 msgid "Voiced uvular fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກລີ້ນໄກ່ສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:95
 msgid "Voiceless alveolar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກປຸ່ມເຫືອກບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:96
 msgid "Voiceless palato-alveolar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານແຂງ-ປຸ່ມເຫືອກບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:97
 msgid "Voiceless retroflex fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກມ້ວນລີ້ນບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:98
 msgid "Voiceless alveolar plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດປຸ່ມເຫືອກບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:99
 msgid "Voiceless retroflex plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດມ້ວນລີ້ນບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:100
 msgid "Voiceless alveolar lateral affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກຂ້າງປຸ່ມເຫືອກບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:104
 msgid "Voiceless retroflex affricate"
-msgstr ""
+msgstr "ສຽງກັກສຽດແຊກມ້ວນລີ້ນບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:105
 msgid "Close back rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະປິດຫຼັງມົນ"
 
 #: ../data/ipa.xml.in:107
 msgid "Near-close central vowel"
-msgstr ""
+msgstr "ສະຫຼະເກືອບປິດກາງ"
 
 #: ../data/ipa.xml.in:108
 msgid "Close central rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະປິດກາງມົນ"
 
 #: ../data/ipa.xml.in:109
 msgid "Labial-palatal approximant"
-msgstr ""
+msgstr "ສຽງເປີດຮິມສົບ-ເພດານແຂງ"
 
 #: ../data/ipa.xml.in:110
 msgid "Close back unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະປິດຫຼັງບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:111
 msgid "Voiced labiodental fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຮິມສົບລຸ່ມແຂ້ວເທິງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:112
 msgid "Labiodental flap"
-msgstr ""
+msgstr "ສຽງກະທົບຮິມສົບລຸ່ມແຂ້ວເທິງ"
 
 #: ../data/ipa.xml.in:113
 msgid "Labiodental approximant"
-msgstr ""
+msgstr "ສຽງເປີດຮິມສົບລຸ່ມແຂ້ວເທິງ"
 
 #: ../data/ipa.xml.in:114
 msgid "Voiced velar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານອ່ອນສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:115
 msgid "Close-mid back unrounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເຄິ່ງປິດຫຼັງບໍ່ມົນ"
 
 #: ../data/ipa.xml.in:116
 msgid "Voiced labiovelar approximant"
-msgstr ""
+msgstr "ສຽງເປີດຮິມສົບ-ເພດານອ່ອນສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:117
 msgid "Voiceless labiovelar approximant"
-msgstr ""
+msgstr "ສຽງເປີດຮິມສົບ-ເພດານອ່ອນບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:118
 msgid "Velar approximant"
-msgstr ""
+msgstr "ສຽງເປີດເພດານອ່ອນ"
 
 #: ../data/ipa.xml.in:119
 msgid "Bilabial percussive"
-msgstr ""
+msgstr "ສຽງກະທົບຮິມສົບສອງເບື້ອງ"
 
 #: ../data/ipa.xml.in:120
 msgid "Voiceless velar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານອ່ອນບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:121
 msgid "Voiceless uvular fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກລີ້ນໄກ່ບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:122
 msgid "Close front rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະປິດໜ້າມົນ"
 
 #: ../data/ipa.xml.in:123
 msgid "Near-close near-front rounded vowel"
-msgstr ""
+msgstr "ສະຫຼະເກືອບປິດເກືອບໜ້າມົນ"
 
 #: ../data/ipa.xml.in:124
 msgid "Palatal lateral approximant"
-msgstr ""
+msgstr "ສຽງເປີດຂ້າງເພດານແຂງ"
 
 #: ../data/ipa.xml.in:126
 msgid "Voiced alveolar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກປຸ່ມເຫືອກສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:127
 msgid "Voiced palato-alveolar fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກເພດານແຂງ-ປຸ່ມເຫືອກສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:129
 msgid "Voiced retroflex fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກມ້ວນລີ້ນສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:130
 msgid "Voiceless dental fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກແຂ້ວບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:131
 msgid "Voiceless bilabial fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຮິມສົບສອງເບື້ອງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:132
 msgid "Glottal stop"
-msgstr ""
+msgstr "ສຽງຢຸດເສັ້ນສຽງ"
 
 #: ../data/ipa.xml.in:133
 msgid "Epiglottal plosive"
-msgstr ""
+msgstr "ສຽງລະເບີດຝາປິດກ່ອງສຽງ"
 
 #: ../data/ipa.xml.in:134
 msgid "Voiced pharyngeal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຄໍຫອຍສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:135
 msgid "Voiced epiglottal fricative"
-msgstr ""
+msgstr "ສຽງສຽດແຊກຝາປິດກ່ອງສຽງສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:136
 msgid "Bilabial click"
-msgstr ""
+msgstr "ສຽງເດາະຮິມສົບສອງເບື້ອງ"
 
 #: ../data/ipa.xml.in:139
 msgid "Palatal click"
-msgstr ""
+msgstr "ສຽງເດາະເພດານແຂງ"
 
 #: ../data/ipa.xml.in:141
 msgid "Bidental percussive"
-msgstr ""
+msgstr "ສຽງກະທົບແຂ້ວ"
 
 #: ../data/ipa.xml.in:142
 msgid "Aspiration mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງພົ່ນລົມ"
 
 #: ../data/ipa.xml.in:143
 msgid "Non-aspiration mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງບໍ່ພົ່ນລົມ"
 
 #: ../data/ipa.xml.in:144
 msgid "Breathy voice mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງລົມແຊກ"
 
 #: ../data/ipa.xml.in:145
 msgid "Palatalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະເພດານແຂງ"
 
 #: ../data/ipa.xml.in:146
 msgid "Lateral release mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການປ່ອຍສຽງຂ້າງ"
 
 #: ../data/ipa.xml.in:147
 msgid "Bilabial nasal release mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການປ່ອຍສຽງຂຶ້ນດັງຮິມສົບສອງເບື້ອງ"
 
 #: ../data/ipa.xml.in:148
 msgid "Labiodental nasal release mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການປ່ອຍສຽງຂຶ້ນດັງຮິມສົບລຸ່ມແຂ້ວເທິງ"
 
 #: ../data/ipa.xml.in:149
 msgid "Alveolar nasal release mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການປ່ອຍສຽງຂຶ້ນດັງປຸ່ມເຫືອກ"
 
 #: ../data/ipa.xml.in:150
 msgid "Palatal nasal release mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການປ່ອຍສຽງຂຶ້ນດັງເພດານແຂງ"
 
 #: ../data/ipa.xml.in:151
 msgid "Retroflex nasal release mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການປ່ອຍສຽງຂຶ້ນດັງມ້ວນລີ້ນ"
 
 #: ../data/ipa.xml.in:152
 msgid "Uvular nasal release mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການປ່ອຍສຽງຂຶ້ນດັງລີ້ນໄກ່"
 
 #: ../data/ipa.xml.in:153
 msgid "Labio-palatalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະຮິມສົບ-ເພດານແຂງ"
 
 #: ../data/ipa.xml.in:154
 msgid "Labiodentalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະຮິມສົບລຸ່ມແຂ້ວເທິງ"
 
 #: ../data/ipa.xml.in:155
 msgid "Labialization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະຮິມສົບ"
 
 #: ../data/ipa.xml.in:156
 msgid "Velarization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະເພດານອ່ອນ"
 
 #: ../data/ipa.xml.in:157
 msgid "Glottalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະເສັ້ນສຽງ"
 
 #: ../data/ipa.xml.in:158
 msgid "Pharyngealization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະຄໍຫອຍ"
 
 #: ../data/ipa.xml.in:159
 msgid "Combining velarization/pharyngealization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະເພດານອ່ອນ/ຄໍຫອຍ"
 
 #: ../data/ipa.xml.in:160
 msgid "Combining laryngealization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະກ່ອງສຽງ"
 
 #: ../data/ipa.xml.in:161
 msgid "Combining retroflexion mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະມ້ວນລີ້ນ"
 
 #: ../data/ipa.xml.in:162
 msgid "Ejection mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງດັນອອກ"
 
 #: ../data/ipa.xml.in:163
 msgid "Rhotacization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະສຽງ r"
 
 #: ../data/ipa.xml.in:164
 msgid "Combining dentalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະແຂ້ວ"
 
 #: ../data/ipa.xml.in:165
 msgid "Combining dentolabialization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະແຂ້ວ-ຮິມສົບ"
 
 #: ../data/ipa.xml.in:166
 msgid "Combining alveolarization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະປຸ່ມເຫືອກ"
 
 #: ../data/ipa.xml.in:167
 msgid "Combining linguolabialization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະລີ້ນ-ຮິມສົບ"
 
 #: ../data/ipa.xml.in:168
 msgid "Combining apicalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະປາຍລີ້ນ"
 
 #: ../data/ipa.xml.in:169
 msgid "Combining laminalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະໜ້າລີ້ນ"
 
 #: ../data/ipa.xml.in:170
 msgid "Combining centralization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະເຄິ່ງກາງ"
 
 #: ../data/ipa.xml.in:171
 msgid "Combining mid-centralization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະກາງ-ເຄິ່ງກາງ"
 
 #: ../data/ipa.xml.in:172
 msgid "Combining nasalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະຂຶ້ນດັງ"
 
 #: ../data/ipa.xml.in:173
 msgid "Combining nasalization mark below"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະຂຶ້ນດັງດ້ານລຸ່ມ"
 
 #: ../data/ipa.xml.in:174
 msgid "Combining denasalization mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລັກສະນະຫຼຸດສຽງດັງ"
 
 #: ../data/ipa.xml.in:175
 msgid "Combining nasal friction mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງສຽດແຊກຂຶ້ນດັງ"
 
 #: ../data/ipa.xml.in:176
 msgid "Combining velopharyngeal friction mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງສຽດແຊກເພດານອ່ອນ-ຄໍຫອຍ"
 
 #: ../data/ipa.xml.in:177
 msgid "Combining voiced mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງກ້ອງ"
 
 #: ../data/ipa.xml.in:178
 msgid "Combining voiceless mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງບໍ່ກ້ອງ"
 
 #: ../data/ipa.xml.in:179
 msgid "Combining voiceless mark above"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງບໍ່ກ້ອງດ້ານເທິງ"
 
 #: ../data/ipa.xml.in:180
 msgid "Pre-voicing/post-voicing mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງກ້ອງກ່ອນ/ຫຼັງ"
 
 #: ../data/ipa.xml.in:181
 msgid "Combining breathy voice mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງລົມແຊກ"
 
 #: ../data/ipa.xml.in:182
 msgid "Combining unreleased stop mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງຢຸດບໍ່ປ່ອຍ"
 
 #: ../data/ipa.xml.in:183
 msgid "Combining more rounded mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງມົນຫຼາຍຂຶ້ນ"
 
 #: ../data/ipa.xml.in:184
 msgid "Combining less rounded mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍສຽງມົນໜ້ອຍລົງ"
 
 #: ../data/ipa.xml.in:185
 msgid "Combining labial spreading mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍຮິມສົບເປີດກວ້າງ"
 
 #: ../data/ipa.xml.in:186
 msgid "Combining syllabic mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍຄວາມເປັນພະຍາງ"
 
 #: ../data/ipa.xml.in:187
 msgid "Combining syllabic mark above"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍຄວາມເປັນພະຍາງດ້ານເທິງ"
 
 #: ../data/ipa.xml.in:188
 msgid "Combining non-syllabic mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍບໍ່ເປັນພະຍາງ"
 
 #: ../data/ipa.xml.in:189
 msgid "Combining non-syllabic mark above"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍບໍ່ເປັນພະຍາງດ້ານເທິງ"
 
 #: ../data/ipa.xml.in:190
 msgid "Combining top tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດລະດັບສູງສຸດ"
 
 #: ../data/ipa.xml.in:191
 msgid "Combining high tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງສູງ"
 
 #: ../data/ipa.xml.in:192
 msgid "Combining mid tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງກາງ"
 
 #: ../data/ipa.xml.in:193
 msgid "Combining low tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງຕ່ຳ"
 
 #: ../data/ipa.xml.in:194
 msgid "Combining bottom tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດລະດັບຕ່ຳສຸດ"
 
 #: ../data/ipa.xml.in:195
 msgid "Combining falling tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງຕົກ"
 
 #: ../data/ipa.xml.in:196
 msgid "Combining high falling tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງສູງຕົກ"
 
 #: ../data/ipa.xml.in:197
 msgid "Combining low falling tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງຕ່ຳຕົກ"
 
 #: ../data/ipa.xml.in:198
 msgid "Combining rising tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງຂຶ້ນ"
 
 #: ../data/ipa.xml.in:199
 msgid "Combining high rising tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງສູງຂຶ້ນ"
 
 #: ../data/ipa.xml.in:200
 msgid "Combining low rising tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງຕ່ຳຂຶ້ນ"
 
 #: ../data/ipa.xml.in:201
 msgid "Combining dipping tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງລົງແລ້ວຂຶ້ນ"
 
 #: ../data/ipa.xml.in:202
 msgid "Combining peaking tone mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັນນະຍຸດສຽງຂຶ້ນແລ້ວລົງ"
 
 #: ../data/ipa.xml.in:203
 msgid "Top tone letter"
-msgstr ""
+msgstr "ຕົວອັກສອນວັນນະຍຸດລະດັບສູງສຸດ"
 
 #: ../data/ipa.xml.in:204
 msgid "High tone letter"
-msgstr ""
+msgstr "ຕົວອັກສອນວັນນະຍຸດສຽງສູງ"
 
 #: ../data/ipa.xml.in:205
 msgid "Mid tone letter"
-msgstr ""
+msgstr "ຕົວອັກສອນວັນນະຍຸດສຽງກາງ"
 
 #: ../data/ipa.xml.in:206
 msgid "Low tone letter"
-msgstr ""
+msgstr "ຕົວອັກສອນວັນນະຍຸດສຽງຕ່ຳ"
 
 #: ../data/ipa.xml.in:207
 msgid "Bottom tone letter"
-msgstr ""
+msgstr "ຕົວອັກສອນວັນນະຍຸດລະດັບຕ່ຳສຸດ"
 
 #: ../data/ipa.xml.in:208
 msgid "Falling tone digraph"
-msgstr ""
+msgstr "ວັນນະຍຸດສຽງຕົກແບບສອງຕົວອັກສອນ"
 
 #: ../data/ipa.xml.in:209
 msgid "High falling tone digraph"
-msgstr ""
+msgstr "ວັນນະຍຸດສຽງສູງຕົກແບບສອງຕົວອັກສອນ"
 
 #: ../data/ipa.xml.in:210
 msgid "Rising tone digraph"
-msgstr ""
+msgstr "ວັນນະຍຸດສຽງຂຶ້ນແບບສອງຕົວອັກສອນ"
 
 #: ../data/ipa.xml.in:211
 msgid "High rising tone digraph"
-msgstr ""
+msgstr "ວັນນະຍຸດສຽງສູງຂຶ້ນແບບສອງຕົວອັກສອນ"
 
 #: ../data/ipa.xml.in:212
 msgid "Low rising tone digraph"
-msgstr ""
+msgstr "ວັນນະຍຸດສຽງຕ່ຳຂຶ້ນແບບສອງຕົວອັກສອນ"
 
 #: ../data/ipa.xml.in:213
 msgid "Dipping tone trigraph"
-msgstr ""
+msgstr "ວັນນະຍຸດສຽງລົງແລ້ວຂຶ້ນແບບສາມຕົວອັກສອນ"
 
 #: ../data/ipa.xml.in:214
 msgid "Peaking tone trigraph"
-msgstr ""
+msgstr "ວັນນະຍຸດສຽງຂຶ້ນແລ້ວລົງແບບສາມຕົວອັກສອນ"
 
 #: ../data/ipa.xml.in:215
 msgid "Upstep mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍຂະຫຍາຍສຽງຂຶ້ນ"
 
 #: ../data/ipa.xml.in:216
 msgid "Downstep mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລຸດສຽງລົງ"
 
 #: ../data/ipa.xml.in:217
 msgid "Minor break"
-msgstr ""
+msgstr "ການຢຸດພັກຍ່ອຍ"
 
 #: ../data/ipa.xml.in:218
 msgid "Major break"
-msgstr ""
+msgstr "ການຢຸດພັກຫຼັກ"
 
 #: ../data/ipa.xml.in:219
 msgid "Rising intonation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍທຳນອງສຽງຂຶ້ນ"
 
 #: ../data/ipa.xml.in:220
 msgid "Falling intonation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍທຳນອງສຽງຕົກ"
 
 #: ../data/ipa.xml.in:221
 msgid "Advanced articulation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການອອກສຽງເລື່ອນໄປທາງໜ້າ"
 
 #: ../data/ipa.xml.in:222
 msgid "Retracted articulation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການອອກສຽງເລື່ອນໄປທາງຫຼັງ"
 
 #: ../data/ipa.xml.in:223
 msgid "Combining advanced articulation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການອອກສຽງເລື່ອນໄປທາງໜ້າ"
 
 #: ../data/ipa.xml.in:224
 msgid "Combining retracted articulation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການອອກສຽງເລື່ອນໄປທາງຫຼັງ"
 
 #: ../data/ipa.xml.in:225
 msgid "Raised sound mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍຍົກສຽງສູງຂຶ້ນ"
 
 #: ../data/ipa.xml.in:226
 msgid "Lowered sound mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລຸດສຽງຕ່ຳລົງ"
 
 #: ../data/ipa.xml.in:227
 msgid "Combining raised sound mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການຍົກສຽງສູງຂຶ້ນ"
 
 #: ../data/ipa.xml.in:228
 msgid "Combining lowered sound mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການລຸດສຽງຕ່ຳລົງ"
 
 #: ../data/ipa.xml.in:229
 msgid "Combining tongue root advancement mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການເລື່ອນກົກລີ້ນໄປທາງໜ້າ"
 
 #: ../data/ipa.xml.in:230
 msgid "Combining tongue root retraction mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການເລື່ອນກົກລີ້ນໄປທາງຫຼັງ"
 
 #: ../data/ipa.xml.in:231
 msgid "Combining strong articulation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການອອກສຽງແຮງ"
 
 #: ../data/ipa.xml.in:232
 msgid "Combining weak articulation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການອອກສຽງເບົາ"
 
 #: ../data/ipa.xml.in:233
 msgid "Combining whistled articulation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການອອກສຽງຜິວປາກ"
 
 #: ../data/ipa.xml.in:234
 msgid "Combining sliding articulation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມການອອກສຽງລາກ"
 
 #: ../data/ipa.xml.in:235
 msgid "Egression mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລົມອອກ"
 
 #: ../data/ipa.xml.in:236
 msgid "Ingression mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລົມເຂົ້າ"
 
 #: ../data/ipa.xml.in:237
 msgid "Combining ligature tie"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍເຊື່ອມສຽງ"
 
 #: ../data/ipa.xml.in:238
 msgid "Combining ligature undertie"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍເຊື່ອມສຽງດ້ານລຸ່ມ"
 
 #: ../data/ipa.xml.in:239
 msgid "Elongation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລາກສຽງຍາວ"
 
 #: ../data/ipa.xml.in:240
 msgid "Weak elongation mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍລາກສຽງຍາວເຄິ່ງໜຶ່ງ"
 
 #: ../data/ipa.xml.in:241
 msgid "Combining extra-short duration mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມສຽງສັ້ນພິເສດ"
 
 #: ../data/ipa.xml.in:242
 msgid "Liaison mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍການເຊື່ອມຄຳ"
 
 #: ../data/ipa.xml.in:243
 msgid "Stress mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍເນັ້ນສຽງ"
 
 #: ../data/ipa.xml.in:244
 msgid "Weak stress mark"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍເນັ້ນສຽງຮອງ"
 
 #: ../data/ipa.xml.in:245
 msgid "Syllable break"
-msgstr ""
+msgstr "ການແບ່ງພະຍາງ"
 
 #: ../data/ipa.xml.in:246
 msgid "Opening orthographic bracket"
-msgstr ""
+msgstr "ວົງເລັບເປີດສຳລັບການຂຽນ"
 
 #: ../data/ipa.xml.in:247
 msgid "Closing orthographic bracket"
-msgstr ""
+msgstr "ວົງເລັບປິດສຳລັບການຂຽນ"
 
 #: ../data/ja.xml.in:1
 msgid "Japanese"
-msgstr ""
+msgstr "ພາສາຍີ່ປຸ່ນ"
 
 #: ../data/ja.xml.in:2 ../input-pad/unicode_block.h:136
 msgid "Hiragana"
-msgstr ""
+msgstr "ຮິຣະງະນະ"
 
 #: ../data/ja.xml.in:3 ../input-pad/unicode_block.h:137
 msgid "Katakana"
-msgstr ""
+msgstr "ຄະຕະກະນະ"
 
 #: ../data/ja.xml.in:4 ../data/zh.xml.in.h:3
 msgid "Radicals"
-msgstr ""
+msgstr "ໝວດຄຳ"
 
 #: ../data/ja.xml.in:5 ../input-pad/unicode_block.h:132
 msgid "CJK Radicals Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມໝວດຄຳ CJK"
 
 #: ../data/keyboard.xml.in:1
 msgid "Keyboard"
-msgstr ""
+msgstr "ແປ້ນພິມ"
 
 #: ../data/keyboard.xml.in:2
 msgid "Function Key"
-msgstr ""
+msgstr "ປຸ່ມຟັງຊັນ"
 
 #: ../data/keyboard.xml.in:3
 msgid "Key Pad"
-msgstr ""
+msgstr "ແປ້ນຕົວເລກ"
 
 #: ../data/latin.xml.in:1
 msgid "ASCII"
-msgstr ""
+msgstr "ASCII"
 
 #: ../data/latin.xml.in:2 ../input-pad/unicode_block.h:38
 msgid "Latin-1 Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມລາຕິນ-1"
 
 #: ../data/latin.xml.in:3 ../input-pad/unicode_block.h:39
 msgid "Latin Extended-A"
-msgstr ""
+msgstr "ລາຕິນຂະຫຍາຍ-A"
 
 #: ../data/latin.xml.in:4
 msgid "Old and Middle English"
-msgstr ""
+msgstr "ພາສາອັງກິດບູຮານ ແລະ ຍຸກກາງ"
 
 #: ../data/runr.xml.in:1
 msgid "Runes (Unicode Block)"
-msgstr ""
+msgstr "ຣູນ (ບຼັອກ Unicode)"
 
 #: ../data/runr.xml.in:2
 msgid "Runes (Elder Fuþark)"
-msgstr ""
+msgstr "ຣູນ (Elder Fuþark)"
 
 #: ../data/runr.xml.in:3
 msgid "Runes (Younger Fuþark)"
-msgstr ""
+msgstr "ຣູນ (Younger Fuþark)"
 
 #: ../data/runr.xml.in:4
 msgid "Runes (Fuþorc)"
-msgstr ""
+msgstr "ຣູນ (Fuþorc)"
 
 #: ../data/shaw.xml.in:1 ../input-pad/unicode_block.h:200
 msgid "Shavian"
-msgstr ""
+msgstr "ເຊວຽນ"
 
 #: ../data/str.xml.in:1
 msgid "Chat"
-msgstr ""
+msgstr "ສົນທະນາ"
 
 #: ../data/str.xml.in:2
 msgid "Emoji"
-msgstr ""
+msgstr "ອີໂມຈິ"
 
 #: ../data/str.xml.in:3
 msgid "Rain"
-msgstr ""
+msgstr "ຝົນຕົກ"
 
 #: ../data/str.xml.in:4
 msgid "Comet"
-msgstr ""
+msgstr "ດາວຫາງ"
 
 #: ../data/str.xml.in:5
 msgid "Cross"
-msgstr ""
+msgstr "ໄມ້ກາງແຂນ"
 
 #: ../data/str.xml.in:6
 msgid "Solar"
-msgstr ""
+msgstr "ລະບົບສຸລິຍະ"
 
 #: ../data/str.xml.in:7
 msgid "Mercury"
-msgstr ""
+msgstr "ດາວພຸດ"
 
 #: ../data/str.xml.in:8
 msgid "Venus"
-msgstr ""
+msgstr "ດາວສຸກ"
 
 #: ../data/str.xml.in:9
 msgid "Earth"
-msgstr ""
+msgstr "ໂລກ"
 
 #: ../data/str.xml.in:10
 msgid "Mars"
-msgstr ""
+msgstr "ດາວອັງຄານ"
 
 #: ../data/str.xml.in:11
 msgid "Jupiter"
-msgstr ""
+msgstr "ດາວພະຫັດ"
 
 #: ../data/str.xml.in:12
 msgid "Saturn"
-msgstr ""
+msgstr "ດາວເສົາ"
 
 #: ../data/str.xml.in:13
 msgid "Uranus"
-msgstr ""
+msgstr "ດາວມະລຶດຕະຍູ"
 
 #: ../data/str.xml.in:14
 msgid "Neptune"
-msgstr ""
+msgstr "ດາວເກດ"
 
 #: ../data/str.xml.in:15
 msgid "Pluto"
-msgstr ""
+msgstr "ດາວພລູໂຕ"
 
 #: ../data/str.xml.in:16
 msgid "Aries"
-msgstr ""
+msgstr "ລາສີເມດ"
 
 #: ../data/str.xml.in:17
 msgid "Taurus"
-msgstr ""
+msgstr "ລາສີພຶດສົບ"
 
 #: ../data/str.xml.in:18
 msgid "Gemini"
-msgstr ""
+msgstr "ລາສີເມຖຸນ"
 
 #: ../data/str.xml.in:19
 msgid "Cancer"
-msgstr ""
+msgstr "ລາສີກໍລະກົດ"
 
 #: ../data/str.xml.in:20
 msgid "Leo"
-msgstr ""
+msgstr "ລາສີສິງ"
 
 #: ../data/str.xml.in:21
 msgid "Virgo"
-msgstr ""
+msgstr "ລາສີກັນ"
 
 #: ../data/str.xml.in:22
 msgid "Libra"
-msgstr ""
+msgstr "ລາສີຕຸນ"
 
 #: ../data/str.xml.in:23
 msgid "Scorpius"
-msgstr ""
+msgstr "ລາສີພິຈິກ"
 
 #: ../data/str.xml.in:24
 msgid "Sagittarius"
-msgstr ""
+msgstr "ລາສີທະນູ"
 
 #: ../data/str.xml.in:25
 msgid "Capricorn"
-msgstr ""
+msgstr "ລາສີມັງກອນ"
 
 #: ../data/str.xml.in:26
 msgid "Aquarius"
-msgstr ""
+msgstr "ລາສີກຸມ"
 
 #: ../data/str.xml.in:27
 msgid "Pisces"
-msgstr ""
+msgstr "ລາສີມີນ"
 
 #: ../data/str.xml.in:28
 msgid "Dice 1"
-msgstr ""
+msgstr "ລູກເຕົ໋າ 1"
 
 #: ../data/str.xml.in:29
 msgid "Dice 2"
-msgstr ""
+msgstr "ລູກເຕົ໋າ 2"
 
 #: ../data/str.xml.in:30
 msgid "Dice 3"
-msgstr ""
+msgstr "ລູກເຕົ໋າ 3"
 
 #: ../data/str.xml.in:31
 msgid "Dice 4"
-msgstr ""
+msgstr "ລູກເຕົ໋າ 4"
 
 #: ../data/str.xml.in:32
 msgid "Dice 5"
-msgstr ""
+msgstr "ລູກເຕົ໋າ 5"
 
 #: ../data/str.xml.in:33
 msgid "Dice 6"
-msgstr ""
+msgstr "ລູກເຕົ໋າ 6"
 
 #: ../data/str.xml.in:34
 msgid "Anchor"
-msgstr ""
+msgstr "ສະໝໍເຮືອ"
 
 #: ../data/str.xml.in:35
 msgid "Sword"
-msgstr ""
+msgstr "ດາບ"
 
 #: ../data/str.xml.in:36
 msgid "Scales"
-msgstr ""
+msgstr "ຊິງຊັ່ງ"
 
 #: ../data/str.xml.in:37
 msgid "Conversation"
-msgstr ""
+msgstr "ການສົນທະນາ"
 
 #: ../data/str.xml.in:38
 msgid "Warning"
-msgstr ""
+msgstr "ຄຳເຕືອນ"
 
 #: ../data/str.xml.in:39
 msgid "Thunder"
-msgstr ""
+msgstr "ຟ້າຜ່າ"
 
 #: ../data/str.xml.in:40
 msgid "Coffin"
-msgstr ""
+msgstr "ໂລງສົບ"
 
 #: ../data/str.xml.in:41
 msgid "Gender"
-msgstr ""
+msgstr "ເພດ"
 
 #: ../data/str.xml.in:42
 msgid "Soccer"
-msgstr ""
+msgstr "ບານເຕະ"
 
 #: ../data/str.xml.in:43
 msgid "Baseball"
-msgstr ""
+msgstr "ເບສບອນ"
 
 #: ../data/str.xml.in:44
 msgid "Snowman"
-msgstr ""
+msgstr "ຕຸກກະຕາຫິມະ"
 
 #: ../data/str.xml.in:45
 msgid "Shogi"
-msgstr ""
+msgstr "ໂຊງິ"
 
 #: ../data/str.xml.in:46
 msgid "Shoji"
-msgstr ""
+msgstr "ໂຊຈິ"
 
 #: ../data/str.xml.in:47
 msgid "Maintenance"
-msgstr ""
+msgstr "ການບຳລຸງຮັກສາ"
 
 #: ../data/str.xml.in:48
 msgid "Roadblock"
-msgstr ""
+msgstr "ປິດຖະໜົນ"
 
 #: ../data/str.xml.in:49
 msgid "No entry"
-msgstr ""
+msgstr "ຫ້າມເຂົ້າ"
 
 #: ../data/str.xml.in:50
 msgid "Truck"
-msgstr ""
+msgstr "ລົດບັນທຸກ"
 
 #: ../data/str.xml.in:51
 msgid "Torii"
-msgstr ""
+msgstr "ໂທຣິອິ"
 
 #: ../data/str.xml.in:52
 msgid "Church"
-msgstr ""
+msgstr "ໂບດ"
 
 #: ../data/str.xml.in:53
 msgid "Castle"
-msgstr ""
+msgstr "ປາສາດ"
 
 #: ../data/str.xml.in:54
 msgid "Historic site"
-msgstr ""
+msgstr "ສະຖານທີ່ປະຫວັດສາດ"
 
 #: ../data/str.xml.in:55
 msgid "Power station"
-msgstr ""
+msgstr "ສະຖານີໄຟຟ້າ"
 
 #: ../data/str.xml.in:56
 msgid "Lighthouse"
-msgstr ""
+msgstr "ປະພາຄານ"
 
 #: ../data/str.xml.in:57
 msgid "Mountain"
-msgstr ""
+msgstr "ພູເຂົາ"
 
 #: ../data/str.xml.in:58
 msgid "Beach"
-msgstr ""
+msgstr "ຫາດຊາຍ"
 
 #: ../data/str.xml.in:59
 msgid "Park"
-msgstr ""
+msgstr "ສວນສາທາລະນະ"
 
 #: ../data/str.xml.in:60
 msgid "Ferry"
-msgstr ""
+msgstr "ເຮືອບັກ"
 
 #: ../data/str.xml.in:61
 msgid "Sailboat"
-msgstr ""
+msgstr "ເຮືອໃບ"
 
 #: ../data/str.xml.in:62
 msgid "Ice rink"
-msgstr ""
+msgstr "ລານສະເກັດນ້ຳແຂງ"
 
 #: ../data/str.xml.in:63
 msgid "Scissors"
-msgstr ""
+msgstr "ມີດຕັດ"
 
 #: ../data/str.xml.in:64
 msgid "Airplane"
-msgstr ""
+msgstr "ຍົນ"
 
 #: ../data/str.xml.in:65
 msgid "Clenched Fist"
-msgstr ""
+msgstr "ກຳປັ້ນ"
 
 #: ../data/str.xml.in:66
 msgid "Hand"
-msgstr ""
+msgstr "ມື"
 
 #: ../data/str.xml.in:67
 msgid "V Sign"
-msgstr ""
+msgstr "ສູ້ໆ (ສັນຍາລັກໂຕ V)"
 
 #: ../data/str.xml.in:68
 msgid "Writing"
-msgstr ""
+msgstr "ກຳລັງຂຽນ"
 
 #: ../data/str.xml.in:69
 msgid "Pencil"
-msgstr ""
+msgstr "ສໍດຳ"
 
 #: ../data/str.xml.in:70
 msgid "Pen"
-msgstr ""
+msgstr "ບິກ"
 
 #: ../data/str.xml.in:71
 msgid "Star"
-msgstr ""
+msgstr "ດາວ"
 
 #: ../data/str.xml.in:72
 msgid "Typhoon"
-msgstr ""
+msgstr "ພາຍຸໄຕ້ຝຸ່ນ"
 
 #: ../data/str.xml.in:73
 msgid "Fog"
-msgstr ""
+msgstr "ໝອກ"
 
 #: ../data/str.xml.in:74
 msgid "Umbrella"
-msgstr ""
+msgstr "ຄັນຮົ່ມ"
 
 #: ../data/str.xml.in:75
 msgid "Night sky"
-msgstr ""
+msgstr "ທ້ອງຟ້າກາງຄືນ"
 
 #: ../data/str.xml.in:76
 msgid "Sunrise"
-msgstr ""
+msgstr "ຕາເວັນຂຶ້ນ"
 
 #: ../data/str.xml.in:77
 msgid "Sunset"
-msgstr ""
+msgstr "ຕາເວັນຕົກ"
 
 #: ../data/str.xml.in:78
 msgid "Bridge"
-msgstr ""
+msgstr "ຂົວ"
 
 #: ../data/str.xml.in:79
 msgid "Wave"
-msgstr ""
+msgstr "ຄື້ນ"
 
 #: ../data/str.xml.in:80
 msgid "New Moon"
-msgstr ""
+msgstr "ເດືອນດັບ"
 
 #: ../data/str.xml.in:81
 msgid "Crescent Moon"
-msgstr ""
+msgstr "ເດືອນສ້ຽວ"
 
 #: ../data/str.xml.in:82
 msgid "Quarter Moon"
-msgstr ""
+msgstr "ເດືອນເຄິ່ງດວງ"
 
 #: ../data/str.xml.in:83
 msgid "Gibbous Moon"
-msgstr ""
+msgstr "ເດືອນຂ້ອນດວງ"
 
 #: ../data/str.xml.in:84
 msgid "Full Moon"
-msgstr ""
+msgstr "ເດືອນເພັງ"
 
 #: ../data/str.xml.in:85
 msgid "Moon"
-msgstr ""
+msgstr "ດວງຈັນ"
 
 #: ../data/str.xml.in:86
 msgid "Sun"
-msgstr ""
+msgstr "ຕາເວັນ"
 
 #: ../data/str.xml.in:87
 msgid "Cloud"
-msgstr ""
+msgstr "ເມກ"
 
 #: ../data/str.xml.in:88
 msgid "Palm"
-msgstr ""
+msgstr "ຕົ້ນປາມ"
 
 #: ../data/str.xml.in:89
 msgid "Hot Pepper"
-msgstr ""
+msgstr "ໝາກເຜັດ"
 
 #: ../data/str.xml.in:90
 msgid "Flower"
-msgstr ""
+msgstr "ດອກໄມ້"
 
 #: ../data/str.xml.in:91
 msgid "Tulip"
-msgstr ""
+msgstr "ດອກທິວລິບ"
 
 #: ../data/str.xml.in:92
 msgid "Cherry"
-msgstr ""
+msgstr "ເຊີຣີ"
 
 #: ../data/str.xml.in:93
 msgid "Rose"
-msgstr ""
+msgstr "ດອກກຸຫຼາບ"
 
 #: ../data/str.xml.in:94
 msgid "Hibiscus"
-msgstr ""
+msgstr "ດອກຊະບາ"
 
 #: ../data/str.xml.in:95
 msgid "Sunflower"
-msgstr ""
+msgstr "ດອກຕາເວັນ"
 
 #: ../data/str.xml.in:96
 msgid "Blossom"
-msgstr ""
+msgstr "ດອກໄມ້ບານ"
 
 #: ../data/str.xml.in:97
 msgid "Clover"
-msgstr ""
+msgstr "ໃບໂຄເວີ"
 
 #: ../data/str.xml.in:98
 msgid "Maple"
-msgstr ""
+msgstr "ໃບເມເປິລ"
 
 #: ../data/str.xml.in:99
 msgid "Fallen Leaf"
-msgstr ""
+msgstr "ໃບໄມ້ຫຼົ່ນ"
 
 #: ../data/str.xml.in:100
 msgid "Leaf"
-msgstr ""
+msgstr "ໃບໄມ້"
 
 #: ../data/str.xml.in:101
 msgid "Mushroom"
-msgstr ""
+msgstr "ເຫັດ"
 
 #: ../data/str.xml.in:102
 msgid "Tomato"
-msgstr ""
+msgstr "ໝາກເລັ່ນ"
 
 #: ../data/str.xml.in:103
 msgid "Eggplant"
-msgstr ""
+msgstr "ໝາກເຂືອ"
 
 #: ../data/str.xml.in:104
 msgid "Grape"
-msgstr ""
+msgstr "ໝາກອະງຸ່ນ"
 
 #: ../data/str.xml.in:105
 msgid "Melon"
-msgstr ""
+msgstr "ໝາກແຕງ"
 
 #: ../data/str.xml.in:106
 msgid "Watermelon"
-msgstr ""
+msgstr "ໝາກໂມ"
 
 #: ../data/str.xml.in:107
 msgid "Tangerine"
-msgstr ""
+msgstr "ໝາກກ້ຽງ"
 
 #: ../data/str.xml.in:108
 msgid "Lemon"
-msgstr ""
+msgstr "ໝາກນາວ"
 
 #: ../data/str.xml.in:109
 msgid "Banana"
-msgstr ""
+msgstr "ໝາກກ້ວຍ"
 
 #: ../data/str.xml.in:110
 msgid "Pineapple"
-msgstr ""
+msgstr "ໝາກນັດ"
 
 #: ../data/str.xml.in:111
 msgid "Apple"
-msgstr ""
+msgstr "ໝາກແອັບເປິ້ນ"
 
 #: ../data/str.xml.in:112
 msgid "Pear"
-msgstr ""
+msgstr "ໝາກແພ"
 
 #: ../data/str.xml.in:113
 msgid "Peach"
-msgstr ""
+msgstr "ໝາກພີຊ"
 
 #: ../data/str.xml.in:114
 msgid "Strawberry"
-msgstr ""
+msgstr "ສະຕໍເບີຣີ"
 
 #: ../data/str.xml.in:115
 msgid "Hamburger"
-msgstr ""
+msgstr "ແຮມເບີເກີ"
 
 #: ../data/str.xml.in:116
 msgid "Pizza"
-msgstr ""
+msgstr "ພິດຊາ"
 
 #: ../data/str.xml.in:117
 msgid "Meat"
-msgstr ""
+msgstr "ຊີ້ນ"
 
 #: ../data/str.xml.in:118
 msgid "Poultry"
-msgstr ""
+msgstr "ຊີ້ນສັດປີກ"
 
 #: ../data/str.xml.in:119
 msgid "Rice Cracker"
-msgstr ""
+msgstr "ເຂົ້າໜົມເຂົ້າກຽບ"
 
 #: ../data/str.xml.in:120
 msgid "Rice Ball"
-msgstr ""
+msgstr "ເຂົ້າປັ້ນ"
 
 #: ../data/str.xml.in:121
 msgid "Rice"
-msgstr ""
+msgstr "ເຂົ້າ"
 
 #: ../data/str.xml.in:122
 msgid "Curry"
-msgstr ""
+msgstr "ແກງກະຫຼີ່"
 
 #: ../data/str.xml.in:123
 msgid "Ramen"
-msgstr ""
+msgstr "ຣາເມັງ"
 
 #: ../data/str.xml.in:124
 msgid "Spaghetti"
-msgstr ""
+msgstr "ສະປາເກັດຕີ"
 
 #: ../data/str.xml.in:125
 msgid "Bread"
-msgstr ""
+msgstr "ເຂົ້າຈີ່"
 
 #: ../data/str.xml.in:126
 msgid "Fried Potato"
-msgstr ""
+msgstr "ມັນຝະລັ່ງຈືນ"
 
 #: ../data/str.xml.in:127
 msgid "Roasted Sweet Potato"
-msgstr ""
+msgstr "ມັນດ້າງຈີ່"
 
 #: ../data/str.xml.in:128
 msgid "Dango"
-msgstr ""
+msgstr "ດັງໂງະ"
 
 #: ../data/str.xml.in:129
 msgid "Oden"
-msgstr ""
+msgstr "ໂອເດັງ"
 
 #: ../data/str.xml.in:130
 msgid "Sushi"
-msgstr ""
+msgstr "ຊູຊິ"
 
 #: ../data/str.xml.in:131
 msgid "Fried Shrimp"
-msgstr ""
+msgstr "ກຸ້ງຊຸບແປ້ງທອດ"
 
 #: ../data/str.xml.in:132
 msgid "Fish Cake"
-msgstr ""
+msgstr "ລູກຊີ້ນປາ"
 
 #: ../data/str.xml.in:133
 msgid "Soft Ice Cream"
-msgstr ""
+msgstr "ຊອຟກະແລັມ"
 
 #: ../data/str.xml.in:134
 msgid "Shaved Ice"
-msgstr ""
+msgstr "ນ້ຳກ້ອນໃສ"
 
 #: ../data/str.xml.in:135
 msgid "Ice Cream"
-msgstr ""
+msgstr "ກະແລັມ"
 
 #: ../data/str.xml.in:136
 msgid "Doughnut"
-msgstr ""
+msgstr "ໂດນັດ"
 
 #: ../data/str.xml.in:137
 msgid "Cookie"
-msgstr ""
+msgstr "ຄຸກກີ້"
 
 #: ../data/str.xml.in:138
 msgid "Chocolate"
-msgstr ""
+msgstr "ຊັອກໂກແລັດ"
 
 #: ../data/str.xml.in:139
 msgid "Candy"
-msgstr ""
+msgstr "ເຂົ້າໜົມອົມ"
 
 #: ../data/str.xml.in:140
 msgid "Custard"
-msgstr ""
+msgstr "ຄັສຕາດ"
 
 #: ../data/str.xml.in:141
 msgid "Honey"
-msgstr ""
+msgstr "ນ້ຳເຜິ້ງ"
 
 #: ../data/str.xml.in:142
 msgid "Shortcake"
-msgstr ""
+msgstr "ຊອດເຄັກ"
 
 #: ../data/str.xml.in:143
 msgid "Bento"
-msgstr ""
+msgstr "ເບັນໂຕະ"
 
 #: ../data/str.xml.in:144
 msgid "Pot of Food"
-msgstr ""
+msgstr "ໝໍ້ອາຫານ"
 
 #: ../data/str.xml.in:145
 msgid "Cooking"
-msgstr ""
+msgstr "ແຕ່ງກິນ"
 
 #: ../data/str.xml.in:146
 msgid "Meal"
-msgstr ""
+msgstr "ຄາບເຂົ້າ"
 
 #: ../data/str.xml.in:147
 msgid "Cup"
-msgstr ""
+msgstr "ຈອກ"
 
 #: ../data/str.xml.in:148
 msgid "Sake"
-msgstr ""
+msgstr "ສາເກ"
 
 #: ../data/str.xml.in:149
 msgid "Wine"
-msgstr ""
+msgstr "ວາຍ"
 
 #: ../data/str.xml.in:150
 msgid "Cocktail"
-msgstr ""
+msgstr "ຄັອກເທວ"
 
 #: ../data/str.xml.in:151
 msgid "Drink"
-msgstr ""
+msgstr "ເຄື່ອງດື່ມ"
 
 #: ../data/str.xml.in:152
 msgid "Beer"
-msgstr ""
+msgstr "ເບຍ"
 
 #: ../data/str.xml.in:153
 msgid "Cheers"
-msgstr ""
+msgstr "ຕຳຈອກ"
 
 #: ../data/str.xml.in:154
 msgid "Baby Bottle"
-msgstr ""
+msgstr "ຕຸກນ້ຳນົມ"
 
 #: ../data/str.xml.in:155
 msgid "Ribbon"
-msgstr ""
+msgstr "ໂບ"
 
 #: ../data/str.xml.in:156
 msgid "Present"
-msgstr ""
+msgstr "ຂອງຂວັນ"
 
 #: ../data/str.xml.in:157
 msgid "Cake"
-msgstr ""
+msgstr "ເຄັກ"
 
 #: ../data/str.xml.in:158
 msgid "Hallowe'en"
-msgstr ""
+msgstr "ຮາໂລວີນ"
 
 #: ../data/str.xml.in:159
 msgid "Christmas"
-msgstr ""
+msgstr "ຄຣິດສະມາດ"
 
 #: ../data/str.xml.in:160
 msgid "Piano"
-msgstr ""
+msgstr "ເປຍໂນ"
 
 #: ../data/str.xml.in:161
 msgid "Microphone"
-msgstr ""
+msgstr "ໄມໂຄຣໂຟນ"
 
 #: ../data/str.xml.in:162
 msgid "Headphone"
-msgstr ""
+msgstr "ຫູຟັງ"
 
 #: ../data/str.xml.in:163
 msgid "Hat"
-msgstr ""
+msgstr "ໝວກ"
 
 #: ../data/str.xml.in:164
 msgid "Musical Note"
-msgstr ""
+msgstr "ໂນດດົນຕີ"
 
 #: ../data/str.xml.in:165
 msgid "Saxophone"
-msgstr ""
+msgstr "ແຊັກໂຊໂຟນ"
 
 #: ../data/str.xml.in:166
 msgid "Guitar"
-msgstr ""
+msgstr "ກີຕາ"
 
 #: ../data/str.xml.in:167
 msgid "Trumpet"
-msgstr ""
+msgstr "ທຣຳເປັດ"
 
 #: ../data/str.xml.in:168
 msgid "Violin"
-msgstr ""
+msgstr "ໄວໂອລິນ"
 
 #: ../data/str.xml.in:169
 msgid "Musical Score"
-msgstr ""
+msgstr "ໂນດເພງ"
 
 #: ../data/str.xml.in:170
 msgid "Tennis"
-msgstr ""
+msgstr "ເທັນນິດ"
 
 #: ../data/str.xml.in:171
 msgid "Ski"
-msgstr ""
+msgstr "ສະກີ"
 
 #: ../data/str.xml.in:172
 msgid "Basketball"
-msgstr ""
+msgstr "ບານບ້ວງ"
 
 #: ../data/str.xml.in:173
 msgid "Flag"
-msgstr ""
+msgstr "ທຸງ"
 
 #: ../data/str.xml.in:174
 msgid "Show Board"
-msgstr ""
+msgstr "ກະດານໂຊ"
 
 #: ../data/str.xml.in:175
 msgid "Running"
-msgstr ""
+msgstr "ແລ່ນ"
 
 #: ../data/str.xml.in:176
 msgid "Surfer"
-msgstr ""
+msgstr "ໂຕ້ຄື້ນ"
 
 #: ../data/str.xml.in:177
 msgid "Medal"
-msgstr ""
+msgstr "ຫຼຽນລາງວັນ"
 
 #: ../data/str.xml.in:178
 msgid "Trophy"
-msgstr ""
+msgstr "ຂັນລາງວັນ"
 
 #: ../data/str.xml.in:179
 msgid "Horse Racing"
-msgstr ""
+msgstr "ແຂ່ງມ້າ"
 
 #: ../data/str.xml.in:180
 msgid "American Football"
-msgstr ""
+msgstr "ອາເມຣິກັນຟຸດບອນ"
 
 #: ../data/str.xml.in:181
 msgid "Rugby"
-msgstr ""
+msgstr "ຣັກບີ້"
 
 #: ../data/str.xml.in:182
 msgid "Swimmer"
-msgstr ""
+msgstr "ລອຍນ້ຳ"
 
 #: ../data/str.xml.in:183
 msgid "Weight Lifting"
-msgstr ""
+msgstr "ຍົກນ້ຳໜັກ"
 
 #: ../data/str.xml.in:184
 msgid "Golf"
-msgstr ""
+msgstr "ກ໊ອຟ"
 
 #: ../data/str.xml.in:185
 msgid "Motorcycle"
-msgstr ""
+msgstr "ລົດຈັກ"
 
 #: ../data/str.xml.in:186
 msgid "Race"
-msgstr ""
+msgstr "ການແຂ່ງຂັນ"
 
 #: ../data/str.xml.in:187
 msgid "House"
-msgstr ""
+msgstr "ບ້ານ"
 
 #: ../data/str.xml.in:188
 msgid "Office"
-msgstr ""
+msgstr "ຫ້ອງການ"
 
 #: ../data/str.xml.in:189
 msgid "Hospital"
-msgstr ""
+msgstr "ໂຮງໝໍ"
 
 #: ../data/str.xml.in:190
 msgid "Bank"
-msgstr ""
+msgstr "ທະນາຄານ"
 
 #: ../data/str.xml.in:191
 msgid "Hotel"
-msgstr ""
+msgstr "ໂຮງແຮມ"
 
 #: ../data/str.xml.in:192
 msgid "School"
-msgstr ""
+msgstr "ໂຮງຮຽນ"
 
 #: ../data/str.xml.in:193
 msgid "Factory"
-msgstr ""
+msgstr "ໂຮງງານ"
 
 #: ../data/str.xml.in:194
 msgid "Rat"
-msgstr ""
+msgstr "ໜູ"
 
 #: ../data/str.xml.in:195
 msgid "Mouse"
-msgstr ""
+msgstr "ເມົາສ໌"
 
 #: ../data/str.xml.in:196
 msgid "Cow"
-msgstr ""
+msgstr "ງົວ"
 
 #: ../data/str.xml.in:197
 msgid "Tiger"
-msgstr ""
+msgstr "ເສືອ"
 
 #: ../data/str.xml.in:198
 msgid "Leopard"
-msgstr ""
+msgstr "ເສືອດາວ"
 
 #: ../data/str.xml.in:199
 msgid "Rabbit"
-msgstr ""
+msgstr "ກະຕ່າຍ"
 
 #: ../data/str.xml.in:200
 msgid "Cat"
-msgstr ""
+msgstr "ແມວ"
 
 #: ../data/str.xml.in:201
 msgid "Dragon"
-msgstr ""
+msgstr "ມັງກອນ"
 
 #: ../data/str.xml.in:202
 msgid "Crocodile"
-msgstr ""
+msgstr "ແຂ້"
 
 #: ../data/str.xml.in:203
 msgid "Whale"
-msgstr ""
+msgstr "ປາວານ"
 
 #: ../data/str.xml.in:204
 msgid "Snail"
-msgstr ""
+msgstr "ຫອຍກີ"
 
 #: ../data/str.xml.in:205
 msgid "Snake"
-msgstr ""
+msgstr "ງູ"
 
 #: ../data/str.xml.in:206
 msgid "Horse"
-msgstr ""
+msgstr "ມ້າ"
 
 #: ../data/str.xml.in:207
 msgid "Sheep"
-msgstr ""
+msgstr "ແກະ"
 
 #: ../data/str.xml.in:208
 msgid "Goat"
-msgstr ""
+msgstr "ແບ້"
 
 #: ../data/str.xml.in:209
 msgid "Monkey"
-msgstr ""
+msgstr "ລີງ"
 
 #: ../data/str.xml.in:210
 msgid "Chicken"
-msgstr ""
+msgstr "ໄກ່"
 
 #: ../data/str.xml.in:211
 msgid "Dog"
-msgstr ""
+msgstr "ໝາ"
 
 #: ../data/str.xml.in:212
 msgid "Pig"
-msgstr ""
+msgstr "ໝູ"
 
 #: ../data/str.xml.in:213
 msgid "Elephant"
-msgstr ""
+msgstr "ຊ້າງ"
 
 #: ../data/str.xml.in:214
 msgid "Octopus"
-msgstr ""
+msgstr "ປາມຶກ"
 
 #: ../data/str.xml.in:215
 msgid "Spiral Shell"
-msgstr ""
+msgstr "ເປືອກຫອຍກ້ຽວ"
 
 #: ../data/str.xml.in:216
 msgid "Bug"
-msgstr ""
+msgstr "ແມງໄມ້"
 
 #: ../data/str.xml.in:217
 msgid "Ant"
-msgstr ""
+msgstr "ມົດ"
 
 #: ../data/str.xml.in:218
 msgid "Lady Beetle"
-msgstr ""
+msgstr "ແມງເຕົ່າທອງ"
 
 #: ../data/str.xml.in:219
 msgid "Fish"
-msgstr ""
+msgstr "ປາ"
 
 #: ../data/str.xml.in:220
 msgid "Tropical Fish"
-msgstr ""
+msgstr "ປາເຂດຮ້ອນ"
 
 #: ../data/str.xml.in:221
 msgid "Blowfish"
-msgstr ""
+msgstr "ປາເປົ້າ"
 
 #: ../data/str.xml.in:222
 msgid "Bird"
-msgstr ""
+msgstr "ນົກ"
 
 #: ../data/str.xml.in:223
 msgid "Penguin"
-msgstr ""
+msgstr "ນົກເພນກວິນ"
 
 #: ../data/str.xml.in:224
 msgid "Koala"
-msgstr ""
+msgstr "ໂຄອາລາ"
 
 #: ../data/str.xml.in:225
 msgid "Poodle"
-msgstr ""
+msgstr "ໝາພູເດິລ"
 
 #: ../data/str.xml.in:226
 msgid "Camel"
-msgstr ""
+msgstr "ອູດ"
 
 #: ../data/str.xml.in:227
 msgid "Dolphin"
-msgstr ""
+msgstr "ປາໂລມາ"
 
 #: ../data/str.xml.in:228
 msgid "Frog"
-msgstr ""
+msgstr "ກົບ"
 
 #: ../data/str.xml.in:229
 msgid "Hamster"
-msgstr ""
+msgstr "ໜູແຮມສະເຕີ"
 
 #: ../data/str.xml.in:230
 msgid "Wolf"
-msgstr ""
+msgstr "ໝາປ່າ"
 
 #: ../data/str.xml.in:231
 msgid "Bear"
-msgstr ""
+msgstr "ໝີ"
 
 #: ../data/str.xml.in:232
 msgid "Panda"
-msgstr ""
+msgstr "ໝີແພນດ້າ"
 
 #: ../data/str.xml.in:233
 msgid "Eye"
-msgstr ""
+msgstr "ຕາ"
 
 #: ../data/str.xml.in:234
 msgid "Ear"
-msgstr ""
+msgstr "ຫູ"
 
 #: ../data/str.xml.in:235
 msgid "Nose"
-msgstr ""
+msgstr "ດັງ"
 
 #: ../data/str.xml.in:236
 msgid "Mouth"
-msgstr ""
+msgstr "ປາກ"
 
 #: ../data/str.xml.in:237
 msgid "Tongue"
-msgstr ""
+msgstr "ລີ້ນ"
 
 #: ../data/str.xml.in:238
 msgid "Crown"
-msgstr ""
+msgstr "ມົງກຸດ"
 
 #: ../data/str.xml.in:239
 msgid "Glasses"
-msgstr ""
+msgstr "ແວ່ນຕາ"
 
 #: ../data/str.xml.in:240
 msgid "Necktie"
-msgstr ""
+msgstr "ກາລະວັດ"
 
 #: ../data/str.xml.in:241
 msgid "T-Shirt"
-msgstr ""
+msgstr "ເສື້ອຍືດ"
 
 #: ../data/str.xml.in:242
 msgid "Jeans"
-msgstr ""
+msgstr "ໂສ້ງຢີນ"
 
 #: ../data/str.xml.in:243
 msgid "Dress"
-msgstr ""
+msgstr "ຊຸດກະໂປງ"
 
 #: ../data/str.xml.in:244
 msgid "Kimono"
-msgstr ""
+msgstr "ຊຸດກິໂມໂນ"
 
 #: ../data/str.xml.in:245
 msgid "Bikini"
-msgstr ""
+msgstr "ຊຸດບິກິນີ"
 
 #: ../data/str.xml.in:246
 msgid "Clothes"
-msgstr ""
+msgstr "ເຄື່ອງນຸ່ງ"
 
 #: ../data/str.xml.in:247
 msgid "Purse"
-msgstr ""
+msgstr "ກະເປົາເງິນ"
 
 #: ../data/str.xml.in:248
 msgid "Handbag"
-msgstr ""
+msgstr "ກະເປົາຖື"
 
 #: ../data/str.xml.in:249
 msgid "Pouch"
-msgstr ""
+msgstr "ຖົງນ້ອຍ"
 
 #: ../data/str.xml.in:250
 msgid "Shoe"
-msgstr ""
+msgstr "ເກີບ"
 
 #: ../data/str.xml.in:251
 msgid "Footprint"
-msgstr ""
+msgstr "ຮອຍຕີນ"
 
 #: ../data/str.xml.in:252
 msgid "Bust in silhouette"
-msgstr ""
+msgstr "ເງົາຄົນ"
 
 #: ../data/str.xml.in:253
 msgid "Busts in silhouette"
-msgstr ""
+msgstr "ເງົາຄົນຫຼາຍຄົນ"
 
 #: ../data/str.xml.in:254
 msgid "Boy"
-msgstr ""
+msgstr "ເດັກຊາຍ"
 
 #: ../data/str.xml.in:255
 msgid "Girl"
-msgstr ""
+msgstr "ເດັກຍິງ"
 
 #: ../data/str.xml.in:256
 msgid "Man"
-msgstr ""
+msgstr "ຜູ້ຊາຍ"
 
 #: ../data/str.xml.in:257
 msgid "Woman"
-msgstr ""
+msgstr "ຜູ້ຍິງ"
 
 #: ../data/str.xml.in:258
 msgid "Family"
-msgstr ""
+msgstr "ຄອບຄົວ"
 
 #: ../data/str.xml.in:259
 msgid "Man and woman holding hands"
-msgstr ""
+msgstr "ຊາຍຍິງຈັບມືກັນ"
 
 #: ../data/str.xml.in:260
 msgid "Men holding hands"
-msgstr ""
+msgstr "ຜູ້ຊາຍຈັບມືກັນ"
 
 #: ../data/str.xml.in:261
 msgid "Women holding hands"
-msgstr ""
+msgstr "ຜູ້ຍິງຈັບມືກັນ"
 
 #: ../data/str.xml.in:262
 msgid "Men's room"
-msgstr ""
+msgstr "ຫ້ອງນ້ຳຊາຍ"
 
 #: ../data/str.xml.in:263
 msgid "Women's room"
-msgstr ""
+msgstr "ຫ້ອງນ້ຳຍິງ"
 
 #: ../data/str.xml.in:264
 msgid "Restroom"
-msgstr ""
+msgstr "ຫ້ອງນ້ຳ"
 
 #: ../data/str.xml.in:265
 msgid "Princess"
-msgstr ""
+msgstr "ເຈົ້າຍິງ"
 
 #: ../data/str.xml.in:266
 msgid "Japanese Ogre"
-msgstr ""
+msgstr "ຍັກຍີ່ປຸ່ນ"
 
 #: ../data/str.xml.in:267
 msgid "Japanese Goblin"
-msgstr ""
+msgstr "ຜີຍີ່ປຸ່ນ"
 
 #: ../data/str.xml.in:268
 msgid "Ghost"
-msgstr ""
+msgstr "ຜີ"
 
 #: ../data/str.xml.in:269
 msgid "Baby Angel"
-msgstr ""
+msgstr "ເທວະດານ້ອຍ"
 
 #: ../data/str.xml.in:270
 msgid "Extraterrestrial Alien"
-msgstr ""
+msgstr "ມະນຸດຕ່າງດາວ"
 
 #: ../data/str.xml.in:271
 msgid "Alien Monster"
-msgstr ""
+msgstr "ສັດປະຫຼາດຕ່າງດາວ"
 
 #: ../data/str.xml.in:272
 msgid "Imp"
-msgstr ""
+msgstr "ປີສາດນ້ອຍ"
 
 #: ../data/str.xml.in:273
 msgid "Skull"
-msgstr ""
+msgstr "ກະໂຫຼກຫົວ"
 
 #: ../data/str.xml.in:274
 msgid "Information Desk Person"
-msgstr ""
+msgstr "ພະນັກງານປະຊາສຳພັນ"
 
 #: ../data/str.xml.in:275
 msgid "Guardsman"
-msgstr ""
+msgstr "ທະຫານຍາມ"
 
 #: ../data/str.xml.in:276
 msgid "Dancer"
-msgstr ""
+msgstr "ນັກເຕັ້ນ"
 
 #: ../data/str.xml.in:277
 msgid "Lipstick"
-msgstr ""
+msgstr "ລິບສະຕິກ"
 
 #: ../data/str.xml.in:278
 msgid "Nail polish"
-msgstr ""
+msgstr "ຢາທາເລັບ"
 
 #: ../data/str.xml.in:279
 msgid "Face"
-msgstr ""
+msgstr "ໃບໜ້າ"
 
 #: ../data/str.xml.in:280
 msgid "Haircut"
-msgstr ""
+msgstr "ຕັດຜົມ"
 
 #: ../data/str.xml.in:281
 msgid "Syringe"
-msgstr ""
+msgstr "ເຂັມສັກຢາ"
 
 #: ../data/str.xml.in:282
 msgid "Pill"
-msgstr ""
+msgstr "ຢາເມັດ"
 
 #: ../data/str.xml.in:283
 msgid "Kiss"
-msgstr ""
+msgstr "ຈູບ"
 
 #: ../data/str.xml.in:284
 msgid "Love Letter"
-msgstr ""
+msgstr "ຈົດໝາຍຮັກ"
 
 #: ../data/str.xml.in:285
 msgid "Ring"
-msgstr ""
+msgstr "ແຫວນ"
 
 #: ../data/str.xml.in:286
 msgid "Gem Stone"
-msgstr ""
+msgstr "ເພັດພອຍ"
 
 #: ../data/str.xml.in:287
 msgid "Wedding"
-msgstr ""
+msgstr "ງານແຕ່ງດອງ"
 
 #: ../data/str.xml.in:288
 msgid "Heart"
-msgstr ""
+msgstr "ຫົວໃຈ"
 
 #: ../data/str.xml.in:289
 msgid "Idea"
-msgstr ""
+msgstr "ໄອເດຍ"
 
 #: ../data/str.xml.in:290
 msgid "Anger"
-msgstr ""
+msgstr "ຄວາມໂມໂຫ"
 
 #: ../data/str.xml.in:291
 msgid "Bomb"
-msgstr ""
+msgstr "ລະເບີດ"
 
 #: ../data/str.xml.in:292
 msgid "Sleeping"
-msgstr ""
+msgstr "ກຳລັງນອນ"
 
 #: ../data/str.xml.in:293
 msgid "Collision"
-msgstr ""
+msgstr "ຕຳກັນ"
 
 #: ../data/str.xml.in:294
 msgid "Sweat"
-msgstr ""
+msgstr "ເຫື່ອ"
 
 #: ../data/str.xml.in:295
 msgid "Droplet"
-msgstr ""
+msgstr "ຢົດນ້ຳ"
 
 #: ../data/str.xml.in:296
 msgid "Dash"
-msgstr ""
+msgstr "ແລ່ນໄວ"
 
 #: ../data/str.xml.in:297
 msgid "Poo"
-msgstr ""
+msgstr "ຂີ້"
 
 #: ../data/str.xml.in:298
 msgid "Muscle"
-msgstr ""
+msgstr "ກ້າມຊີ້ນ"
 
 #: ../data/str.xml.in:299
 msgid "Dizzy"
-msgstr ""
+msgstr "ວິນຫົວ"
 
 #: ../data/str.xml.in:300
 msgid "Speech"
-msgstr ""
+msgstr "ເວົ້າ"
 
 #: ../data/str.xml.in:301
 msgid "Thought"
-msgstr ""
+msgstr "ຄວາມຄິດ"
 
 #: ../data/str.xml.in:302
 msgid "Perfect Score"
-msgstr ""
+msgstr "ຄະແນນເຕັມ"
 
 #: ../data/str.xml.in:303
 msgid "Pushpin"
-msgstr ""
+msgstr "ເຂັມປັກໝຸດ"
 
 #: ../data/str.xml.in:304
 msgid "Paperclip"
-msgstr ""
+msgstr "ຄລິບໜີບເຈ້ຍ"
 
 #: ../data/str.xml.in:305
 msgid "Speaker with cancellation stroke"
-msgstr ""
+msgstr "ປິດສຽງ"
 
 #: ../data/str.xml.in:306
 msgid "Speaker low volume"
-msgstr ""
+msgstr "ສຽງຄ່ອຍ"
 
 #: ../data/str.xml.in:307
 msgid "Speaker medium volume"
-msgstr ""
+msgstr "ສຽງປານກາງ"
 
 #: ../data/str.xml.in:308
 msgid "Speaker high volume"
-msgstr ""
+msgstr "ສຽງດັງ"
 
 #: ../data/str.xml.in:309
 msgid "Battery"
-msgstr ""
+msgstr "ແບັດເຕີຣີ"
 
 #: ../data/str.xml.in:310
 msgid "Plug"
-msgstr ""
+msgstr "ປລັກສຽບ"
 
 #: ../data/str.xml.in:311
 msgid "Magnifying glass tilted left"
-msgstr ""
+msgstr "ແວ່ນຂະຫຍາຍອຽງຊ້າຍ"
 
 #: ../data/str.xml.in:312
 msgid "Magnifying glass tilted right"
-msgstr ""
+msgstr "ແວ່ນຂະຫຍາຍອຽງຂວາ"
 
 #: ../data/str.xml.in:313
 msgid "Bookmark"
-msgstr ""
+msgstr "ບຸກມາກ"
 
 #: ../data/str.xml.in:314
 msgid "Book"
-msgstr ""
+msgstr "ປຶ້ມ"
 
 #: ../data/str.xml.in:315
 msgid "Memo"
-msgstr ""
+msgstr "ບັນທຶກຂໍ້ຄວາມ"
 
 #: ../data/str.xml.in:316
 msgid "Mail"
-msgstr ""
+msgstr "ຈົດໝາຍ"
 
 #: ../data/str.xml.in:317
 msgid "Incoming envelope"
-msgstr ""
+msgstr "ຊອງຈົດໝາຍເຂົ້າ"
 
 #: ../data/str.xml.in:318
 msgid "Postbox"
-msgstr ""
+msgstr "ຕູ້ໄປສະນີ"
 
 #: ../data/str.xml.in:319
 msgid "Mobile Phone"
-msgstr ""
+msgstr "ໂທລະສັບມືຖື"
 
 #: ../data/str.xml.in:320
 msgid "Antenna with bars"
-msgstr ""
+msgstr "ສັນຍານໂທລະສັບ"
 
 #: ../data/str.xml.in:321
 msgid "Camera"
-msgstr ""
+msgstr "ກ້ອງຖ່າຍຮູບ"
 
 #: ../data/str.xml.in:322
 msgid "Video"
-msgstr ""
+msgstr "ວິດີໂອ"
 
 #: ../data/str.xml.in:323
 msgid "Television"
-msgstr ""
+msgstr "ໂທລະພາບ"
 
 #: ../data/str.xml.in:324
 msgid "Radio"
-msgstr ""
+msgstr "ວິທະຍຸ"
 
 #: ../data/str.xml.in:325
 msgid "Key"
-msgstr ""
+msgstr "ກະແຈ"
 
 #: ../data/str.xml.in:326
 msgid "Lock, locked"
-msgstr ""
+msgstr "ລັອກ"
 
 #: ../data/str.xml.in:327
 msgid "Lock, unlocked"
-msgstr ""
+msgstr "ປົດລັອກ"
 
 #: ../data/str.xml.in:328
 msgid "Fire"
-msgstr ""
+msgstr "ໄຟ"
 
 #: ../data/str.xml.in:329
 msgid "Wrench"
-msgstr ""
+msgstr "ປະແຈ"
 
 #: ../data/str.xml.in:330
 msgid "Hammer"
-msgstr ""
+msgstr "ຄ້ອນຕີ"
 
 #: ../data/str.xml.in:331
 msgid "Nut and bolt"
-msgstr ""
+msgstr "ນັອດ"
 
 #: ../data/str.xml.in:332
 msgid "Hocho"
-msgstr ""
+msgstr "ມີດເຮັດຄົວ"
 
 #: ../data/str.xml.in:333
 msgid "Pistol"
-msgstr ""
+msgstr "ປືນສັ້ນ"
 
 #: ../data/str.xml.in:334
 msgid "Microscope"
-msgstr ""
+msgstr "ກ້ອງຈຸລະທັດ"
 
 #: ../data/str.xml.in:335
 msgid "Telescope"
-msgstr ""
+msgstr "ກ້ອງໂທລະທັດ"
 
 #: ../data/str.xml.in:336
 msgid "Crystal"
-msgstr ""
+msgstr "ຄຣິສຕັລ"
 
 #: ../data/str.xml.in:337
 msgid "David Star"
-msgstr ""
+msgstr "ດາວເດວິດ"
 
 #: ../data/str.xml.in:338
 msgid "Beginner"
-msgstr ""
+msgstr "ຜູ້ເລີ່ມຕົ້ນ"
 
 #: ../data/str.xml.in:339
 msgid "Candle"
-msgstr ""
+msgstr "ທຽນ"
 
 #: ../data/str.xml.in:340
 msgid "Hole"
-msgstr ""
+msgstr "ຂຸມ"
 
 #: ../data/str.xml.in:341
 msgid "Laptop Computer"
-msgstr ""
+msgstr "ຄອມພິວເຕີແລັບທັອບ"
 
 #: ../data/str.xml.in:342
 msgid "Desktop Computer"
-msgstr ""
+msgstr "ຄອມພິວເຕີຕັ້ງໂຕະ"
 
 #: ../data/str.xml.in:343
 msgid "keyboard"
-msgstr ""
+msgstr "ແປ້ນພິມ"
 
 #: ../data/str.xml.in:344
 msgid "Printer"
-msgstr ""
+msgstr "ເຄື່ອງພິມ"
 
 #: ../data/str.xml.in:345
 msgid "Calculator"
-msgstr ""
+msgstr "ຈັກຄິດໄລ່"
 
 #: ../data/str.xml.in:346
 msgid "Minimize"
-msgstr ""
+msgstr "ຫຍໍ້ລົງ"
 
 #: ../data/str.xml.in:347
 msgid "Maximize"
-msgstr ""
+msgstr "ຂະຫຍາຍໃຫຍ່"
 
 #: ../data/str.xml.in:348
 msgid "Refresh"
-msgstr ""
+msgstr "ໂຫຼດໃໝ່"
 
 #: ../data/str.xml.in:349
 msgid "Close"
-msgstr ""
+msgstr "ປິດ"
 
 #: ../data/str.xml.in:350
 msgid "World"
-msgstr ""
+msgstr "ໂລກ"
 
 #: ../data/str.xml.in:351
 msgid "Mt. Fuji"
-msgstr ""
+msgstr "ພູເຂົາໄຟຟູຈິ"
 
 #: ../data/str.xml.in:352
 msgid "Tokyo Tower"
-msgstr ""
+msgstr "ຫໍຄອຍໂຕກຽວ"
 
 #: ../data/str.xml.in:353
 msgid "Japan"
-msgstr ""
+msgstr "ປະເທດຍີ່ປຸ່ນ"
 
 #: ../data/str.xml.in:354
 msgid "Anguish"
-msgstr ""
+msgstr "ເຈັບປວດ"
 
 #: ../data/str.xml.in:355
 msgid "Smile"
-msgstr ""
+msgstr "ຍິ້ມ"
 
 #: ../data/str.xml.in:356
 msgid "Smirk"
-msgstr ""
+msgstr "ຍິ້ມເຍາະ"
 
 #: ../data/str.xml.in:357
 msgid "Neutral"
-msgstr ""
+msgstr "ເສີຍໆ"
 
 #: ../data/str.xml.in:358
 msgid "Expressionless"
-msgstr ""
+msgstr "ບໍ່ສະແດງອາລົມ"
 
 #: ../data/str.xml.in:359
 msgid "Unamused"
-msgstr ""
+msgstr "ບໍ່ພໍໃຈ"
 
 #: ../data/str.xml.in:360
 msgid "Pensive"
-msgstr ""
+msgstr "ຄິດໜັກ"
 
 #: ../data/str.xml.in:361
 msgid "Confused"
-msgstr ""
+msgstr "ສັບສົນ"
 
 #: ../data/str.xml.in:362
 msgid "Confounded"
-msgstr ""
+msgstr "ວຸ່ນວາຍໃຈ"
 
 #: ../data/str.xml.in:363
 msgid "Disappointed"
-msgstr ""
+msgstr "ຜິດຫວັງ"
 
 #: ../data/str.xml.in:364
 msgid "Angry"
-msgstr ""
+msgstr "ໃຈຮ້າຍ"
 
 #: ../data/str.xml.in:365
 msgid "Cry"
-msgstr ""
+msgstr "ຮ້ອງໄຫ້"
 
 #: ../data/str.xml.in:366
 msgid "Sleepy"
-msgstr ""
+msgstr "ງ່ວງນອນ"
 
 #: ../data/str.xml.in:367
 msgid "Tired"
-msgstr ""
+msgstr "ອິດເມື່ອຍ"
 
 #: ../data/str.xml.in:368
 msgid "Surprise"
-msgstr ""
+msgstr "ແປກໃຈ"
 
 #: ../data/str.xml.in:369
 msgid "Scream"
-msgstr ""
+msgstr "ຮ້ອງກຣີດ"
 
 #: ../data/str.xml.in:370
 msgid "Flushed"
-msgstr ""
+msgstr "ໜ້າແດງ"
 
 #: ../data/str.xml.in:371
 msgid "Medical Mask"
-msgstr ""
+msgstr "ຜ້າອັດປາກ"
 
 #: ../data/str.xml.in:372
 msgid "OK"
-msgstr ""
+msgstr "ຕົກລົງ"
 
 #: ../data/str.xml.in:373
 msgid "Bow"
-msgstr ""
+msgstr "ກົ້ມຫົວ"
 
 #: ../data/str.xml.in:374
 msgid "See-No-Evil"
-msgstr ""
+msgstr "ປິດຕາ"
 
 #: ../data/str.xml.in:375
 msgid "Hear-No-Evil"
-msgstr ""
+msgstr "ປິດຫູ"
 
 #: ../data/str.xml.in:376
 msgid "Speak-No-Evil"
-msgstr ""
+msgstr "ປິດປາກ"
 
 #: ../data/str.xml.in:377
 msgid "Banzai"
-msgstr ""
+msgstr "ບັນໄຊ"
 
 #: ../data/str.xml.in:378
 msgid "Pleading"
-msgstr ""
+msgstr "ອ້ອນວອນ"
 
 #: ../data/str.xml.in:379
 msgid "Smileys"
-msgstr ""
+msgstr "ໜ້າຍິ້ມ"
 
 #: ../data/str.xml.in:380
 msgid "Smile Big"
-msgstr ""
+msgstr "ຍິ້ມກວ້າງ"
 
 #: ../data/str.xml.in:381
 msgid "Sad"
-msgstr ""
+msgstr "ໂສກເສົ້າ"
 
 #: ../data/str.xml.in:382
 msgid "Wink"
-msgstr ""
+msgstr "ຍິບຕາ"
 
 #: ../data/str.xml.in:383
 msgid "Shock"
-msgstr ""
+msgstr "ຕົກໃຈ"
 
 #: ../data/str.xml.in:384
 msgid "Kiss | Secret"
-msgstr ""
+msgstr "ຈູບ | ຄວາມລັບ"
 
 #: ../data/str.xml.in:385
 msgid "Glasses Cool | Eyeroll"
-msgstr ""
+msgstr "ໃສ່ແວ່ນຕາ | ມອງບົນ"
 
 #: ../data/str.xml.in:386
 msgid "Glasses Cool"
-msgstr ""
+msgstr "ໃສ່ແວ່ນຕາ"
 
 #: ../data/str.xml.in:387
 msgid "Embarrassed"
-msgstr ""
+msgstr "ອາຍ"
 
 #: ../data/str.xml.in:388
 msgid "Crying"
-msgstr ""
+msgstr "ກຳລັງຮ້ອງໄຫ້"
 
 #: ../data/str.xml.in:389
 msgid "Thinking"
-msgstr ""
+msgstr "ກຳລັງຄິດ"
 
 #: ../data/str.xml.in:390
 msgid "Don't Know"
-msgstr ""
+msgstr "ບໍ່ຮູ້"
 
 #: ../data/str.xml.in:391
 msgid "Party"
-msgstr ""
+msgstr "ງານລ້ຽງ"
 
 #: ../data/str.xml.in:392
 msgid "Yawn"
-msgstr ""
+msgstr "ຫາວນອນ"
 
 #: ../data/str.xml.in:393
 msgid "Bunny"
-msgstr ""
+msgstr "ກະຕ່າຍນ້ອຍ"
 
 #: ../data/str.xml.in:394
 msgid "Sick"
-msgstr ""
+msgstr "ປ່ວຍ"
 
 #: ../data/str.xml.in:395
 msgid "Devil"
-msgstr ""
+msgstr "ປີສາດ"
 
 #: ../data/str.xml.in:396
 msgid "Angel"
-msgstr ""
+msgstr "ເທວະດາ"
 
 #: ../data/str.xml.in:397
 msgid "Love"
-msgstr ""
+msgstr "ຮັກ"
 
 #: ../data/str.xml.in:398
 msgid "Love Over"
-msgstr ""
+msgstr "ໝົດຮັກ"
 
 #: ../data/str.xml.in:399
 msgid "Film"
-msgstr ""
+msgstr "ຮູບເງົາ"
 
 #: ../data/str.xml.in:400
 msgid "Clock"
-msgstr ""
+msgstr "ໂມງ"
 
 #: ../data/str.xml.in:401
 msgid "Coffee"
-msgstr ""
+msgstr "ກາເຟ"
 
 #: ../data/str.xml.in:402
 msgid "Phone"
-msgstr ""
+msgstr "ໂທລະສັບ"
 
 #: ../data/str.xml.in:403
 msgid "Hug Left"
-msgstr ""
+msgstr "ກອດຊ້າຍ"
 
 #: ../data/str.xml.in:404
 msgid "Hug Right"
-msgstr ""
+msgstr "ກອດຂວາ"
 
 #: ../data/str.xml.in:405
 msgid "Yes"
-msgstr ""
+msgstr "ແມ່ນ"
 
 #: ../data/str.xml.in:406
 msgid "No"
-msgstr ""
+msgstr "ບໍ່"
 
 #: ../data/str.xml.in:407
 msgid "Shut Mouth"
-msgstr ""
+msgstr "ຫຸບປາກ"
 
 #: ../data/str.xml.in:408
 msgid "Money Mouth"
-msgstr ""
+msgstr "ໜ້າເງິນ"
 
 #: ../data/str.xml.in:409
 msgid "Foot in Mouth"
-msgstr ""
+msgstr "ເວົ້າຜິດພາດ"
 
 #: ../data/str.xml.in:410
 msgid "Shout"
-msgstr ""
+msgstr "ຮ້ອງສຽງດັງ"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in:412
 msgid "Smileys (Japanese)"
-msgstr ""
+msgstr "ໜ້າຍິ້ມ (ພາສາຍີ່ປຸ່ນ)"
 
 #: ../data/str.xml.in:413
 msgid "Smoking"
-msgstr ""
+msgstr "ສູບຢາ"
 
 #: ../data/str.xml.in:414
 msgid "Sorry"
-msgstr ""
+msgstr "ຂໍໂທດ"
 
 #: ../data/str.xml.in:415
 msgid "Hug"
-msgstr ""
+msgstr "ກອດ"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in:417
 msgid "Smileys (Japanese 2ch)"
-msgstr ""
+msgstr "ໜ້າຍິ້ມ (ຍີ່ປຸ່ນ 2ch)"
 
 #: ../data/str.xml.in:418
 msgid "Hey"
-msgstr ""
+msgstr "ເຮີ້ຍ"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in:420
 msgid "Smileys (Chinese)"
-msgstr ""
+msgstr "ໜ້າຍິ້ມ (ພາສາຈີນ)"
 
 #: ../data/str.xml.in:421
 msgid "Crow"
-msgstr ""
+msgstr "ກາ"
 
 #. http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0
 #: ../data/str.xml.in:423
 msgid "Acronym"
-msgstr ""
+msgstr "ຄຳຫຍໍ້"
 
 #: ../data/str.xml.in:424
 msgid "Acronym (Computer)"
-msgstr ""
+msgstr "ຄຳຫຍໍ້ (ຄອມພິວເຕີ)"
 
 #. http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0
 #: ../data/str.xml.in:426
 msgid "Acronym (Japanese)"
-msgstr ""
+msgstr "ຄຳຫຍໍ້ (ພາສາຍີ່ປຸ່ນ)"
 
 #: ../data/str.xml.in:427
 msgid "Do not want to read between lines (Aete Kuuki Wo Yomanai)"
-msgstr ""
+msgstr "ບໍ່ຢາກຄິດຫຼາຍໄປເອງ"
 
 #: ../data/str.xml.in:428
 msgid "Can't get together (Guda Guda)"
-msgstr ""
+msgstr "ເຂົ້າກັນບໍ່ໄດ້"
 
 #: ../data/str.xml.in:429
 msgid "Say whatever one feels (Iitaidake)"
-msgstr ""
+msgstr "ຢາກເວົ້າຫຍັງກໍເວົ້າ"
 
 #: ../data/str.xml.in:430
 msgid "Excited (Kitakore)"
-msgstr ""
+msgstr "ຕື່ນເຕັ້ນ (ມາແລ້ວ)"
 
 #: ../data/str.xml.in:431
 msgid "Detail (Kuwashiku)"
-msgstr ""
+msgstr "ລາຍລະອຽດ"
 
 #: ../data/str.xml.in:432
 msgid "Cannot read between lines (Kuuki Ga Yomenai)"
-msgstr ""
+msgstr "ອ່ານສະຖານະການບໍ່ອອກ"
 
 #: ../data/str.xml.in:433
 msgid "Omission (Shouryaku)"
-msgstr ""
+msgstr "ການລະໄວ້"
 
 #: ../data/str.xml.in:434
 msgid "Excited (Waku Waku Teka Teka)"
-msgstr ""
+msgstr "ຕື່ນເຕັ້ນຫຼາຍ"
 
 #: ../data/str.xml.in:435
 msgid "Laugh"
-msgstr ""
+msgstr "ຫົວເຍາະ"
 
 #: ../data/str.xml.in:436
 msgid "Dude (Oi!)"
-msgstr ""
+msgstr "ນີ້! (Oi!)"
 
 #: ../data/str.xml.in:437
 msgid "Good job (Otsukare)"
-msgstr ""
+msgstr "ເຮັດໄດ້ດີຫຼາຍ"
 
 #: ../data/str.xml.in:438
 msgid "Want (Kure, E.g. pics クレメンス)"
-msgstr ""
+msgstr "ຕ້ອງການ"
 
 #: ../data/str.xml.in:439
 msgid "ASCII art of a hand (✊, E.g. つAttention)"
-msgstr ""
+msgstr "ຮູບມື ASCII (✊)"
 
 #: ../data/str.xml.in:440
 msgid "In The Meantime (Toriaezu, Maa)"
-msgstr ""
+msgstr "ໃນຂະນະດຽວກັນ"
 
 #: ../data/str.xml.in:441
 msgid "Self-confidence (Aniki, E.g. tennis ニキ)"
-msgstr ""
+msgstr "ຄວາມໝັ້ນໃຈໃນຕົວເອງ"
 
 #: ../data/str.xml.in:442
 msgid "Bye"
-msgstr ""
+msgstr "ລາກ່ອນ"
 
 #: ../data/str.xml.in:443
 msgid "Want (Hattekure, E.g. pics ハラデイ)"
-msgstr ""
+msgstr "ຕ້ອງການ (ຮູບພາບ)"
 
 #: ../data/str.xml.in:444
 msgid "Exist as microparticles (Biryushi Level De Sonzaisuru)"
-msgstr ""
+msgstr "ມີຢູ່ພຽງໜ້ອຍດຽວ"
 
 #: ../data/str.xml.in:445
 msgid "False Start (Flying Get)"
-msgstr ""
+msgstr "ເລີ່ມຕົ້ນກ່ອນກຳນົດ"
 
 #: ../data/str.xml.in:446
 msgid "Fulfilling Life (Real life is Zyujitsu)"
-msgstr ""
+msgstr "ຊີວິດທີ່ສົມບູນແບບ"
 
 #: ../data/str.xml.in:447
 msgid "Laugh (Warau)"
-msgstr ""
+msgstr "ຫົວ (Warau)"
 
 #: ../data/str.xml.in:448
 msgid "He (Yatsu &lt;- Yashi)"
-msgstr ""
+msgstr "ລາວ"
 
 #: ../data/w3c.xml.in:1
 msgid "Char References"
-msgstr ""
+msgstr "ການອ້າງອີງຕົວອັກສອນ"
 
 #: ../data/zh.xml.in:1
 msgid "Chinese"
-msgstr ""
+msgstr "ພາສາຈີນ"
 
 #: ../data/zh.xml.in:4 ../input-pad/unicode_block.h:138
 msgid "Bopomofo"
-msgstr ""
+msgstr "ປົວພົວມົວຟົວ"
 
 #: ../input-pad/app-menu.ui.h:1
 msgid "_File"
-msgstr ""
+msgstr "ໄຟລ໌ (_F)"
 
 #: ../input-pad/app-menu.ui.h:2 ../input-pad/dialog.ui.h:21
 msgid "_Close"
-msgstr ""
+msgstr "ປິດ (_C)"
 
 #: ../input-pad/app-menu.ui.h:3
 msgid "Close the program"
-msgstr ""
+msgstr "ປິດໂປຣແກຣມ"
 
 #: ../input-pad/app-menu.ui.h:4
 msgid "_Pad"
-msgstr ""
+msgstr "ແປ້ນ (_P)"
 
 #: ../input-pad/app-menu.ui.h:5
 msgid "_Code Point"
-msgstr ""
+msgstr "ຈຸດລະຫັດ (_C)"
 
 #: ../input-pad/app-menu.ui.h:6
 msgid "_Show Pad"
-msgstr ""
+msgstr "ສະແດງແປ້ນ (_S)"
 
 #: ../input-pad/app-menu.ui.h:7
 msgid "Show _All Characters"
-msgstr ""
+msgstr "ສະແດງຕົວອັກສອນທັງໝົດ (_A)"
 
 #: ../input-pad/app-menu.ui.h:8
 msgid "Show _Custom Characters"
-msgstr ""
+msgstr "ສະແດງຕົວອັກສອນທີ່ກຳນົດເອງ (_C)"
 
 #: ../input-pad/app-menu.ui.h:9
 msgid "Show _Nothing"
-msgstr ""
+msgstr "ບໍ່ສະແດງຫຍັງເລີຍ (_N)"
 
 #: ../input-pad/app-menu.ui.h:10
 msgid "Show _Keyboard Layout"
-msgstr ""
+msgstr "ສະແດງຮູບແບບແປ້ນພິມ (_K)"
 
 #: ../input-pad/app-menu.ui.h:11
 msgid "_Help"
-msgstr ""
+msgstr "ຊ່ວຍເຫຼືອ (_H)"
 
 #: ../input-pad/app-menu.ui.h:12
 msgid "_Troubleshoot"
-msgstr ""
+msgstr "ແກ້ໄຂບັນຫາ (_T)"
 
 #: ../input-pad/app-menu.ui.h:13
 msgid "_About"
-msgstr ""
+msgstr "ກ່ຽວກັບ (_A)"
 
 #: ../input-pad/dialog.ui.h:1
 msgid "Code Point Dialog"
-msgstr ""
+msgstr "ໜ້າຕ່າງຈຸດລະຫັດ"
 
 #: ../input-pad/dialog.ui.h:2
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: ../input-pad/dialog.ui.h:3
 msgid "You can choose encoding type"
-msgstr ""
+msgstr "ທ່ານສາມາດເລືອກປະເພດການເຂົ້າລະຫັດ"
 
 #: ../input-pad/dialog.ui.h:4
 msgid "Current Encoding"
-msgstr ""
+msgstr "ການເຂົ້າລະຫັດປັດຈຸບັນ"
 
 #: ../input-pad/dialog.ui.h:5
 msgid "Copy Buffer"
-msgstr ""
+msgstr "ສຳເນົາບັບເຟີ"
 
 #: ../input-pad/dialog.ui.h:6
 msgid ""
 "Base 16\n"
 "Hex"
 msgstr ""
+"ຖານ 16\n"
+"Hex"
 
 #: ../input-pad/dialog.ui.h:8
 msgid "Set number case to hexadecimal"
-msgstr ""
+msgstr "ຕັ້ງຄ່າຕົວເລກເປັນຖານສິບຫົກ"
 
 #: ../input-pad/dialog.ui.h:9
 msgid ""
 "Base 10\n"
 "Dec"
 msgstr ""
+"ຖານ 10\n"
+"Dec"
 
 #: ../input-pad/dialog.ui.h:11
 msgid "Set number case to decimal"
-msgstr ""
+msgstr "ຕັ້ງຄ່າຕົວເລກເປັນຖານສິບ"
 
 #: ../input-pad/dialog.ui.h:12
 msgid ""
 "Base 8\n"
 "Oct"
 msgstr ""
+"ຖານ 8\n"
+"Oct"
 
 #: ../input-pad/dialog.ui.h:14
 msgid "Set number case to octal"
-msgstr ""
+msgstr "ຕັ້ງຄ່າຕົວເລກເປັນຖານແປດ"
 
 #: ../input-pad/dialog.ui.h:15
 msgid ""
 "Base 2\n"
 "Bin"
 msgstr ""
+"ຖານ 2\n"
+"Bin"
 
 #: ../input-pad/dialog.ui.h:17
 msgid "Set number case to binary"
-msgstr ""
+msgstr "ຕັ້ງຄ່າຕົວເລກເປັນຖານສອງ"
 
 #: ../input-pad/dialog.ui.h:18
 msgid "Code Point:"
-msgstr ""
+msgstr "ຈຸດລະຫັດ:"
 
 #: ../input-pad/dialog.ui.h:19
 msgid "Character:"
-msgstr ""
+msgstr "ຕົວອັກສອນ:"
 
 #: ../input-pad/dialog.ui.h:20
 msgid "_Send"
-msgstr ""
+msgstr "ສົ່ງ (_S)"
 
 #: ../input-pad/dialog.ui.h:22
 msgid "Input Pad Troubleshoot"
-msgstr ""
+msgstr "ແກ້ໄຂບັນຫາແປ້ນປ້ອນຂໍ້ມູນ"
 
 #: ../input-pad/dialog.ui.h:24
 #, no-c-format
@@ -3386,865 +3396,875 @@ msgid ""
 "You also can copy pad files from /usr/share/input-pad/pad to $HOME/.config/"
 "pad to customize those in \"Custom Character\" pane."
 msgstr ""
+"\n"
+"ແອັບພລິເຄຊັນນີ້ສາມາດເຮັດວຽກແບບດ່ຽວ ຫຼື ເຮັດວຽກພາຍໃຕ້ແອັບພລິເຄຊັນປ້ອນຂໍ້ມູນ.\n"
+"ຖ້າທ່ານຕ້ອງການສົ່ງຕົວອັກສອນແບບຫຼາຍໄບຕ໌, ແອັບພລິເຄຊັນນີ້ຈຳເປັນຕ້ອງເຮັດວຽກພາຍໃຕ້ແອັບພລິເຄຊັນປ້ອນຂໍ້ມູ"
+"ນ.\n"
+"ຖ້າທ່ານຕ້ອງການສົ່ງຕົວອັກສອນໄປຍັງແອັບພລິເຄຊັນ X11, ແອັບພລິເຄຊັນເຫຼົ່ານັ້ນຕ້ອງອະນຸຍາດໃຫ້ມີການສົ່ງເຫດການ "
+"(send events). ຕົວຢ່າງ:\n"
+"% xterm -xrm \"XTerm*allowSendEvents: true\"\n"
+"\n"
+"ທ່ານຍັງສາມາດສຳເນົາໄຟລ໌ pad ຈາກ /usr/share/input-pad/pad ໄປຍັງ $HOME/.config/pad ເພື່"
+"ອປັບແຕ່ງໃນແຖບ \"ຕົວອັກສອນທີ່ກຳນົດເອງ\" ໄດ້."
 
 #: ../input-pad/dialog.ui.h:31
 msgid "_OK"
-msgstr ""
+msgstr "ຕົກລົງ (_O)"
 
 #: ../input-pad/dialog.ui.h:32
 msgid "Configure Keyboard Layouts"
-msgstr ""
+msgstr "ຕັ້ງຄ່າຮູບແບບແປ້ນພິມ"
 
 #: ../input-pad/dialog.ui.h:33
 msgid "A_vailable layouts:"
-msgstr ""
+msgstr "ຮູບແບບທີ່ມີໃຫ້ເລືອກ (_V):"
 
 #: ../input-pad/dialog.ui.h:34
 msgid "_Add"
-msgstr ""
+msgstr "ເພີ່ມ (_A)"
 
 #: ../input-pad/dialog.ui.h:35
 msgid "_Layouts shown in the list:"
-msgstr ""
+msgstr "ຮູບແບບທີ່ສະແດງໃນລາຍການ (_L):"
 
 #: ../input-pad/dialog.ui.h:36
 msgid "_Remove"
-msgstr ""
+msgstr "ລຶບອອກ (_R)"
 
 #: ../input-pad/dialog.ui.h:37
 msgid "_Options"
-msgstr ""
+msgstr "ຕົວເລືອກ (_O)"
 
 #: ../input-pad/dialog.ui.h:38
 msgid "Configure Keyboard Options"
-msgstr ""
+msgstr "ຕັ້ງຄ່າຕົວເລືອກແປ້ນພິມ"
 
 #: ../input-pad/dialog.ui.h:39
 msgid "_Use the default keyboard option"
-msgstr ""
+msgstr "ໃຊ້ຕົວເລືອກແປ້ນພິມຄ່າເລີ່ມຕົ້ນ (_U)"
 
 #: ../input-pad/dialog.ui.h:40
 msgid "Use the defualt XKB option"
-msgstr ""
+msgstr "ໃຊ້ຕົວເລືອກ XKB ຄ່າເລີ່ມຕົ້ນ"
 
 #: ../input-pad/dialog.ui.h:41
 msgid "<b>Keyboard Option</b>"
-msgstr ""
+msgstr "<b>ຕົວເລືອກແປ້ນພິມ</b>"
 
 #: ../input-pad/dialog.ui.h:43
 msgid "The input pad is a tool to send a character on button."
-msgstr ""
+msgstr "ແປ້ນປ້ອນຂໍ້ມູນເປັນເຄື່ອງມືສຳລັບການສົ່ງຕົວອັກສອນເທິງປຸ່ມ."
 
 #: ../input-pad/dialog.ui.h:44
 msgid "translator_credits"
-msgstr ""
+msgstr "ລາຍຊື່ຜູ້ແປ"
 
 #: ../input-pad/eek-gtk.c:65
 msgid "Use libeek to draw keyboard"
-msgstr ""
+msgstr "ໃຊ້ libeek ເພື່ອແຕ້ມແປ້ນພິມ"
 
 #: ../input-pad/eek-gtk.c:237
 msgid "eekboard layout"
-msgstr ""
+msgstr "ຮູບແບບ eekboard"
 
 #: ../input-pad/eek-gtk.c:249
 msgid "eekboard Options"
-msgstr ""
+msgstr "ຕົວເລືອກ eekboard"
 
 #: ../input-pad/eek-gtk.c:249
 msgid "Show eekboard Options"
-msgstr ""
+msgstr "ສະແດງຕົວເລືອກ eekboard"
 
 #: ../input-pad/unicode_block.h:37
 msgid "Basic Latin"
-msgstr ""
+msgstr "ລາຕິນພື້ນຖານ"
 
 #: ../input-pad/unicode_block.h:40
 msgid "Latin Extended-B"
-msgstr ""
+msgstr "ລາຕິນຂະຫຍາຍ-B"
 
 #: ../input-pad/unicode_block.h:41
 msgid "IPA Extensions"
-msgstr ""
+msgstr "ສ່ວນຂະຫຍາຍ IPA"
 
 #: ../input-pad/unicode_block.h:42
 msgid "Spacing Modifier Letters"
-msgstr ""
+msgstr "ຕົວອັກສອນດັດແປງຊ່ອງຫວ່າງ"
 
 #: ../input-pad/unicode_block.h:43
 msgid "Combining Diacritical Marks"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍກຳກັບສຽງປະສົມ"
 
 #: ../input-pad/unicode_block.h:44
 msgid "Greek and Coptic"
-msgstr ""
+msgstr "ເກຣັກ ແລະ ຄັອບຕິກ"
 
 #: ../input-pad/unicode_block.h:45
 msgid "Cyrillic"
-msgstr ""
+msgstr "ຊີຣິລລິກ"
 
 #: ../input-pad/unicode_block.h:46
 msgid "Cyrillic Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມຊີຣິລລິກ"
 
 #: ../input-pad/unicode_block.h:47
 msgid "Armenian"
-msgstr ""
+msgstr "ອາເມນຽນ"
 
 #: ../input-pad/unicode_block.h:48
 msgid "Hebrew"
-msgstr ""
+msgstr "ຮີບຣູ"
 
 #: ../input-pad/unicode_block.h:49
 msgid "Arabic"
-msgstr ""
+msgstr "ອາຣັບ"
 
 #: ../input-pad/unicode_block.h:50
 msgid "Syriac"
-msgstr ""
+msgstr "ຊີເຣຍ"
 
 #: ../input-pad/unicode_block.h:51
 msgid "Arabic Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມອາຣັບ"
 
 #: ../input-pad/unicode_block.h:52
 msgid "Thaana"
-msgstr ""
+msgstr "ທານາ"
 
 #: ../input-pad/unicode_block.h:53
 msgid "NKo"
-msgstr ""
+msgstr "ເອັນໂຄ"
 
 #: ../input-pad/unicode_block.h:54
 msgid "Samaritan"
-msgstr ""
+msgstr "ຊາມາຣິຕັນ"
 
 #: ../input-pad/unicode_block.h:55
 msgid "Devanagari"
-msgstr ""
+msgstr "ເທວະນາຄີ"
 
 #: ../input-pad/unicode_block.h:56
 msgid "Bengali"
-msgstr ""
+msgstr "ເບັງກາລີ"
 
 #: ../input-pad/unicode_block.h:57
 msgid "Gurmukhi"
-msgstr ""
+msgstr "ກຸຣມຸຂີ"
 
 #: ../input-pad/unicode_block.h:58
 msgid "Gujarati"
-msgstr ""
+msgstr "ຄຸຊະຣາດ"
 
 #: ../input-pad/unicode_block.h:59
 msgid "Oriya"
-msgstr ""
+msgstr "ໂອຣິຢາ"
 
 #: ../input-pad/unicode_block.h:60
 msgid "Tamil"
-msgstr ""
+msgstr "ທະມິນ"
 
 #: ../input-pad/unicode_block.h:61
 msgid "Telugu"
-msgstr ""
+msgstr "ເຕລູກູ"
 
 #: ../input-pad/unicode_block.h:62
 msgid "Kannada"
-msgstr ""
+msgstr "ກັນນາດາ"
 
 #: ../input-pad/unicode_block.h:63
 msgid "Malayalam"
-msgstr ""
+msgstr "ມາລາຢາລຳ"
 
 #: ../input-pad/unicode_block.h:64
 msgid "Sinhala"
-msgstr ""
+msgstr "ສິງຫົນ"
 
 #: ../input-pad/unicode_block.h:65
 msgid "Thai"
-msgstr ""
+msgstr "ໄທ"
 
 #: ../input-pad/unicode_block.h:66
 msgid "Lao"
-msgstr ""
+msgstr "ລາວ"
 
 #: ../input-pad/unicode_block.h:67
 msgid "Tibetan"
-msgstr ""
+msgstr "ທິເບດ"
 
 #: ../input-pad/unicode_block.h:68
 msgid "Myanmar"
-msgstr ""
+msgstr "ມຽນມາ"
 
 #: ../input-pad/unicode_block.h:69
 msgid "Georgian"
-msgstr ""
+msgstr "ຈໍເຈຍ"
 
 #: ../input-pad/unicode_block.h:70
 msgid "Hangul Jamo"
-msgstr ""
+msgstr "ຮັນກຶລຈາໂມ"
 
 #: ../input-pad/unicode_block.h:71
 msgid "Ethiopic"
-msgstr ""
+msgstr "ເອທິໂອເປຍ"
 
 #: ../input-pad/unicode_block.h:72
 msgid "Ethiopic Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມເອທິໂອເປຍ"
 
 #: ../input-pad/unicode_block.h:73
 msgid "Cherokee"
-msgstr ""
+msgstr "ເຊໂຣກີ"
 
 #: ../input-pad/unicode_block.h:74
 msgid "Unified Canadian Aboriginal Syllabics"
-msgstr ""
+msgstr "ພະຍາງຊົນເຜົ່າການາດາລວມ"
 
 #: ../input-pad/unicode_block.h:75
 msgid "Ogham"
-msgstr ""
+msgstr "ໂອຄຳ"
 
 #: ../input-pad/unicode_block.h:76
 msgid "Runic"
-msgstr ""
+msgstr "ຣູນິກ"
 
 #: ../input-pad/unicode_block.h:77
 msgid "Tagalog"
-msgstr ""
+msgstr "ຕາກາລັອກ"
 
 #: ../input-pad/unicode_block.h:78
 msgid "Hanunoo"
-msgstr ""
+msgstr "ຮານູນູ"
 
 #: ../input-pad/unicode_block.h:79
 msgid "Buhid"
-msgstr ""
+msgstr "ບູຮິດ"
 
 #: ../input-pad/unicode_block.h:80
 msgid "Tagbanwa"
-msgstr ""
+msgstr "ຕັກບັນວາ"
 
 #: ../input-pad/unicode_block.h:81
 msgid "Khmer"
-msgstr ""
+msgstr "ຂະເໝນ"
 
 #: ../input-pad/unicode_block.h:82
 msgid "Mongolian"
-msgstr ""
+msgstr "ມົງໂກລີ"
 
 #: ../input-pad/unicode_block.h:83
 msgid "Unified Canadian Aboriginal Syllabics Extended"
-msgstr ""
+msgstr "ພະຍາງຊົນເຜົ່າການາດາລວມຂະຫຍາຍ"
 
 #: ../input-pad/unicode_block.h:84
 msgid "Limbu"
-msgstr ""
+msgstr "ລິມບູ"
 
 #: ../input-pad/unicode_block.h:85
 msgid "Tai Le"
-msgstr ""
+msgstr "ໄທລື້"
 
 #: ../input-pad/unicode_block.h:86
 msgid "New Tai Lue"
-msgstr ""
+msgstr "ໄທລື້ໃໝ່"
 
 #: ../input-pad/unicode_block.h:87
 msgid "Khmer Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກຂະເໝນ"
 
 #: ../input-pad/unicode_block.h:88
 msgid "Buginese"
-msgstr ""
+msgstr "ບູກິສ"
 
 #: ../input-pad/unicode_block.h:89
 msgid "Tai Tham"
-msgstr ""
+msgstr "ໄທທຳ"
 
 #: ../input-pad/unicode_block.h:90
 msgid "Balinese"
-msgstr ""
+msgstr "ບາລີ"
 
 #: ../input-pad/unicode_block.h:91
 msgid "Sundanese"
-msgstr ""
+msgstr "ຊຸນດາ"
 
 #: ../input-pad/unicode_block.h:92
 msgid "Lepcha"
-msgstr ""
+msgstr "ເລັບຊາ"
 
 #: ../input-pad/unicode_block.h:93
 msgid "Ol Chiki"
-msgstr ""
+msgstr "ໂອລຈິກິ"
 
 #: ../input-pad/unicode_block.h:94
 msgid "Vedic Extensions"
-msgstr ""
+msgstr "ສ່ວນຂະຫຍາຍເວດ"
 
 #: ../input-pad/unicode_block.h:95
 msgid "Phonetic Extensions"
-msgstr ""
+msgstr "ສ່ວນຂະຫຍາຍສັດທະອັກສອນ"
 
 #: ../input-pad/unicode_block.h:96
 msgid "Phonetic Extensions Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມຂະຫຍາຍສັດທະອັກສອນ"
 
 #: ../input-pad/unicode_block.h:97
 msgid "Combining Diacritical Marks Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມເຄື່ອງໝາຍກຳກັບສຽງປະສົມ"
 
 #: ../input-pad/unicode_block.h:98
 msgid "Latin Extended Additional"
-msgstr ""
+msgstr "ລາຕິນຂະຫຍາຍເພີ່ມເຕີມ"
 
 #: ../input-pad/unicode_block.h:99
 msgid "Greek Extended"
-msgstr ""
+msgstr "ເກຣັກຂະຫຍາຍ"
 
 #: ../input-pad/unicode_block.h:100
 msgid "General Punctuation"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັກຕອນທົ່ວໄປ"
 
 #: ../input-pad/unicode_block.h:101
 msgid "Superscripts and Subscripts"
-msgstr ""
+msgstr "ຕົວຍົກ ແລະ ຕົວຫ້ອຍ"
 
 #: ../input-pad/unicode_block.h:102
 msgid "Currency Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກສະກຸນເງິນ"
 
 #: ../input-pad/unicode_block.h:103
 msgid "Combining Diacritical Marks for Symbols"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍກຳກັບສຽງປະສົມສຳລັບສັນຍາລັກ"
 
 #: ../input-pad/unicode_block.h:104
 msgid "Letterlike Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກຄ້າຍຄືຕົວອັກສອນ"
 
 #: ../input-pad/unicode_block.h:105
 msgid "Number Forms"
-msgstr ""
+msgstr "ຮູບແບບຕົວເລກ"
 
 #: ../input-pad/unicode_block.h:106
 msgid "Arrows"
-msgstr ""
+msgstr "ລູກສອນ"
 
 #: ../input-pad/unicode_block.h:107
 msgid "Mathematical Operators"
-msgstr ""
+msgstr "ຕົວດຳເນີນການທາງຄະນິດສາດ"
 
 #: ../input-pad/unicode_block.h:108
 msgid "Miscellaneous Technical"
-msgstr ""
+msgstr "ເຕັກນິກອື່ນໆ"
 
 #: ../input-pad/unicode_block.h:109
 msgid "Control Pictures"
-msgstr ""
+msgstr "ຮູບພາບຄວບຄຸມ"
 
 #: ../input-pad/unicode_block.h:110
 msgid "Optical Character Recognition"
-msgstr ""
+msgstr "ການອ່ານຕົວອັກສອນດ້ວຍແສງ"
 
 #: ../input-pad/unicode_block.h:111
 msgid "Enclosed Alphanumerics"
-msgstr ""
+msgstr "ຕົວເລກ ແລະ ຕົວອັກສອນໃນວົງລ້ອມ"
 
 #: ../input-pad/unicode_block.h:113
 msgid "Block Elements"
-msgstr ""
+msgstr "ອົງປະກອບບຼັອກ"
 
 #: ../input-pad/unicode_block.h:114
 msgid "Geometric Shapes"
-msgstr ""
+msgstr "ຮູບຊົງເລຂາຄະນິດ"
 
 #: ../input-pad/unicode_block.h:115
 msgid "Miscellaneous Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກອື່ນໆ"
 
 #: ../input-pad/unicode_block.h:117
 msgid "Miscellaneous Mathematical Symbols-A"
-msgstr ""
+msgstr "ສັນຍາລັກທາງຄະນິດສາດອື່ນໆ-A"
 
 #: ../input-pad/unicode_block.h:118
 msgid "Supplemental Arrows-A"
-msgstr ""
+msgstr "ລູກສອນເສີມ-A"
 
 #: ../input-pad/unicode_block.h:119
 msgid "Braille Patterns"
-msgstr ""
+msgstr "ຮູບແບບອັກສອນເບຼວ"
 
 #: ../input-pad/unicode_block.h:120
 msgid "Supplemental Arrows-B"
-msgstr ""
+msgstr "ລູກສອນເສີມ-B"
 
 #: ../input-pad/unicode_block.h:121
 msgid "Miscellaneous Mathematical Symbols-B"
-msgstr ""
+msgstr "ສັນຍາລັກທາງຄະນິດສາດອື່ນໆ-B"
 
 #: ../input-pad/unicode_block.h:122
 msgid "Supplemental Mathematical Operators"
-msgstr ""
+msgstr "ຕົວດຳເນີນການທາງຄະນິດສາດເສີມ"
 
 #: ../input-pad/unicode_block.h:123
 msgid "Miscellaneous Symbols and Arrows"
-msgstr ""
+msgstr "ສັນຍາລັກ ແລະ ລູກສອນອື່ນໆ"
 
 #: ../input-pad/unicode_block.h:124
 msgid "Glagolitic"
-msgstr ""
+msgstr "ກລາໂກລິດ"
 
 #: ../input-pad/unicode_block.h:125
 msgid "Latin Extended-C"
-msgstr ""
+msgstr "ລາຕິນຂະຫຍາຍ-C"
 
 #: ../input-pad/unicode_block.h:126
 msgid "Coptic"
-msgstr ""
+msgstr "ຄັອບຕິກ"
 
 #: ../input-pad/unicode_block.h:127
 msgid "Georgian Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມຈໍເຈຍ"
 
 #: ../input-pad/unicode_block.h:128
 msgid "Tifinagh"
-msgstr ""
+msgstr "ທິຟິນາກ"
 
 #: ../input-pad/unicode_block.h:129
 msgid "Ethiopic Extended"
-msgstr ""
+msgstr "ເອທິໂອເປຍຂະຫຍາຍ"
 
 #: ../input-pad/unicode_block.h:130
 msgid "Cyrillic Extended-A"
-msgstr ""
+msgstr "ຊີຣິລລິກຂະຫຍາຍ-A"
 
 #: ../input-pad/unicode_block.h:131
 msgid "Supplemental Punctuation"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍວັກຕອນເສີມ"
 
 #: ../input-pad/unicode_block.h:133
 msgid "Kangxi Radicals"
-msgstr ""
+msgstr "ໝວດຄຳຄັງຊີ"
 
 #: ../input-pad/unicode_block.h:134
 msgid "Ideographic Description Characters"
-msgstr ""
+msgstr "ຕົວອັກສອນອະທິບາຍຄວາມໝາຍຮູບພາບ"
 
 #: ../input-pad/unicode_block.h:135
 msgid "CJK Symbols and Punctuation"
-msgstr ""
+msgstr "ສັນຍາລັກ ແລະ ເຄື່ອງໝາຍວັກຕອນ CJK"
 
 #: ../input-pad/unicode_block.h:139
 msgid "Hangul Compatibility Jamo"
-msgstr ""
+msgstr "ຮັນກຶລຈາໂມທີ່ເຂົ້າກັນໄດ້"
 
 #: ../input-pad/unicode_block.h:140
 msgid "Kanbun"
-msgstr ""
+msgstr "ຄຳບຸນ"
 
 #: ../input-pad/unicode_block.h:141
 msgid "Bopomofo Extended"
-msgstr ""
+msgstr "ປົວພົວມົວຟົວຂະຫຍາຍ"
 
 #: ../input-pad/unicode_block.h:142
 msgid "CJK Strokes"
-msgstr ""
+msgstr "ເສັ້ນຂີດ CJK"
 
 #: ../input-pad/unicode_block.h:143
 msgid "Katakana Phonetic Extensions"
-msgstr ""
+msgstr "ສ່ວນຂະຫຍາຍສຽງຄະຕະກະນະ"
 
 #: ../input-pad/unicode_block.h:144
 msgid "Enclosed CJK Letters and Months"
-msgstr ""
+msgstr "ຕົວອັກສອນ ແລະ ເດືອນ CJK ໃນວົງລ້ອມ"
 
 #: ../input-pad/unicode_block.h:146
 msgid "CJK Unified Ideographs Extension A"
-msgstr ""
+msgstr "ຮູບສັນຍາລັກ CJK ລວມສ່ວນຂະຫຍາຍ A"
 
 #: ../input-pad/unicode_block.h:147
 msgid "Yijing Hexagram Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກຫົກເສັ້ນອີ້ຈິງ"
 
 #: ../input-pad/unicode_block.h:148
 msgid "CJK Unified Ideographs"
-msgstr ""
+msgstr "ຮູບສັນຍາລັກ CJK ລວມ"
 
 #: ../input-pad/unicode_block.h:149
 msgid "Yi Syllables"
-msgstr ""
+msgstr "ພະຍາງຢີ"
 
 #: ../input-pad/unicode_block.h:150
 msgid "Yi Radicals"
-msgstr ""
+msgstr "ໝວດຄຳຢີ"
 
 #: ../input-pad/unicode_block.h:151
 msgid "Lisu"
-msgstr ""
+msgstr "ລີຊູ"
 
 #: ../input-pad/unicode_block.h:152
 msgid "Vai"
-msgstr ""
+msgstr "ໄວ"
 
 #: ../input-pad/unicode_block.h:153
 msgid "Cyrillic Extended-B"
-msgstr ""
+msgstr "ຊີຣິລລິກຂະຫຍາຍ-B"
 
 #: ../input-pad/unicode_block.h:154
 msgid "Bamum"
-msgstr ""
+msgstr "ບາມຸມ"
 
 #: ../input-pad/unicode_block.h:155
 msgid "Modifier Tone Letters"
-msgstr ""
+msgstr "ຕົວອັກສອນດັດແປງວັນນະຍຸດ"
 
 #: ../input-pad/unicode_block.h:156
 msgid "Latin Extended-D"
-msgstr ""
+msgstr "ລາຕິນຂະຫຍາຍ-D"
 
 #: ../input-pad/unicode_block.h:157
 msgid "Syloti Nagri"
-msgstr ""
+msgstr "ຊິໂລຕິນາຄຣີ"
 
 #: ../input-pad/unicode_block.h:158
 msgid "Common Indic Number Forms"
-msgstr ""
+msgstr "ຮູບແບບຕົວເລກອິນເດຍທົ່ວໄປ"
 
 #: ../input-pad/unicode_block.h:159
 msgid "Phags-pa"
-msgstr ""
+msgstr "ຟາກປາ"
 
 #: ../input-pad/unicode_block.h:160
 msgid "Saurashtra"
-msgstr ""
+msgstr "ໂສຣັດສະຕະຣະ"
 
 #: ../input-pad/unicode_block.h:161
 msgid "Devanagari Extended"
-msgstr ""
+msgstr "ເທວະນາຄີຂະຫຍາຍ"
 
 #: ../input-pad/unicode_block.h:162
 msgid "Kayah Li"
-msgstr ""
+msgstr "ກະຢາ"
 
 #: ../input-pad/unicode_block.h:163
 msgid "Rejang"
-msgstr ""
+msgstr "ເຣຈັງ"
 
 #: ../input-pad/unicode_block.h:164
 msgid "Hangul Jamo Extended-A"
-msgstr ""
+msgstr "ຮັນກຶລຈາໂມຂະຫຍາຍ-A"
 
 #: ../input-pad/unicode_block.h:165
 msgid "Javanese"
-msgstr ""
+msgstr "ຊາວາ"
 
 #: ../input-pad/unicode_block.h:166
 msgid "Cham"
-msgstr ""
+msgstr "ຈາມ"
 
 #: ../input-pad/unicode_block.h:167
 msgid "Myanmar Extended-A"
-msgstr ""
+msgstr "ມຽນມາຂະຫຍາຍ-A"
 
 #: ../input-pad/unicode_block.h:168
 msgid "Tai Viet"
-msgstr ""
+msgstr "ໄທດຳ"
 
 #: ../input-pad/unicode_block.h:169
 msgid "Meetei Mayek"
-msgstr ""
+msgstr "ມີຕີມາເຢກ"
 
 #: ../input-pad/unicode_block.h:170
 msgid "Hangul Syllables"
-msgstr ""
+msgstr "ພະຍາງຮັນກຶລ"
 
 #: ../input-pad/unicode_block.h:171
 msgid "Hangul Jamo Extended-B"
-msgstr ""
+msgstr "ຮັນກຶລຈາໂມຂະຫຍາຍ-B"
 
 #: ../input-pad/unicode_block.h:172
 msgid "High Surrogates"
-msgstr ""
+msgstr "ຕົວແທນລະດັບສູງ"
 
 #: ../input-pad/unicode_block.h:173
 msgid "High Private Use Surrogates"
-msgstr ""
+msgstr "ຕົວແທນການນຳໃຊ້ສ່ວນຕົວລະດັບສູງ"
 
 #: ../input-pad/unicode_block.h:174
 msgid "Low Surrogates"
-msgstr ""
+msgstr "ຕົວແທນລະດັບຕ່ຳ"
 
 #: ../input-pad/unicode_block.h:175
 msgid "Private Use Area"
-msgstr ""
+msgstr "ພື້ນທີ່ໃຊ້ງານສ່ວນຕົວ"
 
 #: ../input-pad/unicode_block.h:176
 msgid "CJK Compatibility Ideographs"
-msgstr ""
+msgstr "ຮູບສັນຍາລັກທີ່ເຂົ້າກັນໄດ້ CJK"
 
 #: ../input-pad/unicode_block.h:177
 msgid "Alphabetic Presentation Forms"
-msgstr ""
+msgstr "ຮູບແບບການສະແດງຜົນຕົວອັກສອນ"
 
 #: ../input-pad/unicode_block.h:178
 msgid "Arabic Presentation Forms-A"
-msgstr ""
+msgstr "ຮູບແບບການສະແດງຜົນອາຣັບ-A"
 
 #: ../input-pad/unicode_block.h:179
 msgid "Variation Selectors"
-msgstr ""
+msgstr "ຕົວເລືອກການປ່ຽນແປງ"
 
 #: ../input-pad/unicode_block.h:180
 msgid "Vertical Forms"
-msgstr ""
+msgstr "ຮູບແບບແນວຕັ້ງ"
 
 #: ../input-pad/unicode_block.h:181
 msgid "Combining Half Marks"
-msgstr ""
+msgstr "ເຄື່ອງໝາຍປະສົມເຄິ່ງໜຶ່ງ"
 
 #: ../input-pad/unicode_block.h:182
 msgid "CJK Compatibility Forms"
-msgstr ""
+msgstr "ຮູບແບບທີ່ເຂົ້າກັນໄດ້ CJK"
 
 #: ../input-pad/unicode_block.h:183
 msgid "Small Form Variants"
-msgstr ""
+msgstr "ຮູບແບບນ້ອຍ"
 
 #: ../input-pad/unicode_block.h:184
 msgid "Arabic Presentation Forms-B"
-msgstr ""
+msgstr "ຮູບແບບການສະແດງຜົນອາຣັບ-B"
 
 #: ../input-pad/unicode_block.h:185
 msgid "Halfwidth and Fullwidth Forms"
-msgstr ""
+msgstr "ຮູບແບບເຄິ່ງຄວາມກວ້າງ ແລະ ເຕັມຄວາມກວ້າງ"
 
 #: ../input-pad/unicode_block.h:186
 msgid "Specials"
-msgstr ""
+msgstr "ພິເສດ"
 
 #: ../input-pad/unicode_block.h:187
 msgid "Linear B Syllabary"
-msgstr ""
+msgstr "ລີເນຍ B ຊິລລາບາຣີ"
 
 #: ../input-pad/unicode_block.h:188
 msgid "Linear B Ideograms"
-msgstr ""
+msgstr "ລີເນຍ B ໄອດີໂອແກຣມ"
 
 #: ../input-pad/unicode_block.h:189
 msgid "Aegean Numbers"
-msgstr ""
+msgstr "ຕົວເລກອີຈຽນ"
 
 #: ../input-pad/unicode_block.h:190
 msgid "Ancient Greek Numbers"
-msgstr ""
+msgstr "ຕົວເລກເກຣັກບູຮານ"
 
 #: ../input-pad/unicode_block.h:191
 msgid "Ancient Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກບູຮານ"
 
 #: ../input-pad/unicode_block.h:192
 msgid "Phaistos Disc"
-msgstr ""
+msgstr "ແຜ່ນຈານໄຟສະຕອສ"
 
 #: ../input-pad/unicode_block.h:193
 msgid "Lycian"
-msgstr ""
+msgstr "ໄລຊຽນ"
 
 #: ../input-pad/unicode_block.h:194
 msgid "Carian"
-msgstr ""
+msgstr "ຄາຣຽນ"
 
 #: ../input-pad/unicode_block.h:195
 msgid "Old Italic"
-msgstr ""
+msgstr "ອິຕາລີບູຮານ"
 
 #: ../input-pad/unicode_block.h:197
 msgid "Ugaritic"
-msgstr ""
+msgstr "ອູກາຣິດ"
 
 #: ../input-pad/unicode_block.h:198
 msgid "Old Persian"
-msgstr ""
+msgstr "ເປີເຊຍບູຮານ"
 
 #: ../input-pad/unicode_block.h:199
 msgid "Deseret"
-msgstr ""
+msgstr "ເດເຊເຣັດ"
 
 #: ../input-pad/unicode_block.h:201
 msgid "Osmanya"
-msgstr ""
+msgstr "ອອສມັນຢາ"
 
 #: ../input-pad/unicode_block.h:202
 msgid "Cypriot Syllabary"
-msgstr ""
+msgstr "ຊິບປຣິອດ ຊິລລາບາຣີ"
 
 #: ../input-pad/unicode_block.h:203
 msgid "Imperial Aramaic"
-msgstr ""
+msgstr "ອາຣາເມອິກຈັກກະພັດ"
 
 #: ../input-pad/unicode_block.h:204
 msgid "Phoenician"
-msgstr ""
+msgstr "ຟີນິຊຽນ"
 
 #: ../input-pad/unicode_block.h:205
 msgid "Lydian"
-msgstr ""
+msgstr "ລິເດຍ"
 
 #: ../input-pad/unicode_block.h:206
 msgid "Kharoshthi"
-msgstr ""
+msgstr "ຂະໂຣດຖີ"
 
 #: ../input-pad/unicode_block.h:207
 msgid "Old South Arabian"
-msgstr ""
+msgstr "ອາຣັບໃຕ້ບູຮານ"
 
 #: ../input-pad/unicode_block.h:208
 msgid "Avestan"
-msgstr ""
+msgstr "ອະເວສະຕະ"
 
 #: ../input-pad/unicode_block.h:209
 msgid "Inscriptional Parthian"
-msgstr ""
+msgstr "ພາເທຍຈາລຶກ"
 
 #: ../input-pad/unicode_block.h:210
 msgid "Inscriptional Pahlavi"
-msgstr ""
+msgstr "ປາລີວີຈາລຶກ"
 
 #: ../input-pad/unicode_block.h:211
 msgid "Old Turkic"
-msgstr ""
+msgstr "ເຕີກບູຮານ"
 
 #: ../input-pad/unicode_block.h:212
 msgid "Rumi Numeral Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກຕົວເລກຣູມິ"
 
 #: ../input-pad/unicode_block.h:213
 msgid "Kaithi"
-msgstr ""
+msgstr "ໄກຖີ"
 
 #: ../input-pad/unicode_block.h:214
 msgid "Cuneiform"
-msgstr ""
+msgstr "ຄູນິຟອມ"
 
 #: ../input-pad/unicode_block.h:215
 msgid "Cuneiform Numbers and Punctuation"
-msgstr ""
+msgstr "ຕົວເລກ ແລະ ເຄື່ອງໝາຍວັກຕອນຄູນິຟອມ"
 
 #: ../input-pad/unicode_block.h:216
 msgid "Egyptian Hieroglyphs"
-msgstr ""
+msgstr "ຮຽໂຣກລິຟຟິກອີຢິບ"
 
 #: ../input-pad/unicode_block.h:217
 msgid "Byzantine Musical Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກດົນຕີໄບແຊນໄທນ໌"
 
 #: ../input-pad/unicode_block.h:218
 msgid "Musical Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກດົນຕີ"
 
 #: ../input-pad/unicode_block.h:219
 msgid "Ancient Greek Musical Notation"
-msgstr ""
+msgstr "ໂນດດົນຕີເກຣັກບູຮານ"
 
 #: ../input-pad/unicode_block.h:220
 msgid "Tai Xuan Jing Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກໄທຊວນຈິງ"
 
 #: ../input-pad/unicode_block.h:221
 msgid "Counting Rod Numerals"
-msgstr ""
+msgstr "ຕົວເລກໄມ້ຄິດໄລ່"
 
 #: ../input-pad/unicode_block.h:222
 msgid "Mathematical Alphanumeric Symbols"
-msgstr ""
+msgstr "ສັນຍາລັກຕົວເລກຕົວອັກສອນທາງຄະນິດສາດ"
 
 #: ../input-pad/unicode_block.h:223
 msgid "Mahjong Tiles"
-msgstr ""
+msgstr "ກະເບື້ອງໝາກຈົ່ງ"
 
 #: ../input-pad/unicode_block.h:224
 msgid "Domino Tiles"
-msgstr ""
+msgstr "ກະເບື້ອງໂດມິໂນ"
 
 #: ../input-pad/unicode_block.h:225
 msgid "Enclosed Alphanumeric Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມຕົວເລກຕົວອັກສອນໃນວົງລ້ອມ"
 
 #: ../input-pad/unicode_block.h:226
 msgid "Enclosed Ideographic Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມຮູບສັນຍາລັກໃນວົງລ້ອມ"
 
 #: ../input-pad/unicode_block.h:227
 msgid "CJK Unified Ideographs Extension B"
-msgstr ""
+msgstr "ຮູບສັນຍາລັກ CJK ລວມສ່ວນຂະຫຍາຍ B"
 
 #: ../input-pad/unicode_block.h:228
 msgid "CJK Unified Ideographs Extension C"
-msgstr ""
+msgstr "ຮູບສັນຍາລັກ CJK ລວມສ່ວນຂະຫຍາຍ C"
 
 #: ../input-pad/unicode_block.h:229
 msgid "CJK Compatibility Ideographs Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມຮູບສັນຍາລັກທີ່ເຂົ້າກັນໄດ້ CJK"
 
 #: ../input-pad/unicode_block.h:230
 msgid "Tags"
-msgstr ""
+msgstr "ແທັກ"
 
 #: ../input-pad/unicode_block.h:231
 msgid "Variation Selectors Supplement"
-msgstr ""
+msgstr "ສ່ວນເສີມຕົວເລືອກການປ່ຽນແປງ"
 
 #: ../input-pad/unicode_block.h:232
 msgid "Supplementary Private Use Area-A"
-msgstr ""
+msgstr "ພື້ນທີ່ໃຊ້ງານສ່ວນຕົວເສີມ-A"
 
 #: ../input-pad/unicode_block.h:233
 msgid "Supplementary Private Use Area-B"
-msgstr ""
+msgstr "ພື້ນທີ່ໃຊ້ງານສ່ວນຕົວເສີມ-B"
 
 #: ../input-pad/window-gtk.c:247
 msgid "Display version"
-msgstr ""
+msgstr "ສະແດງເວີຊັນ"
 
 #. Translators: the word 'KBDUI' is not translated.
 #: ../input-pad/window-gtk.c:250
 msgid "Use KBDUI to draw keyboard"
-msgstr ""
+msgstr "ໃຊ້ KBDUI ເພື່ອແຕ້ມແປ້ນພິມ"
 
 #. Translators: the word 'TYPE' is not translated.
 #: ../input-pad/window-gtk.c:253
 msgid "Use TYPE of char table. The available TYPE=0, 1, 2"
-msgstr ""
+msgstr "ໃຊ້ TYPE ຂອງຕາຕະລາງຕົວອັກສອນ. TYPE ທີ່ມີໃຫ້ເລືອກຄື 0, 1, 2"
 
 #. Translators: the word 'TYPE' is not translated.
 #: ../input-pad/window-gtk.c:256
 msgid "Use TYPE of keyboard layout. The available TYPE=0, 1"
-msgstr ""
+msgstr "ໃຊ້ TYPE ຂອງຮູບແບບແປ້ນພິມ. TYPE ທີ່ມີໃຫ້ເລືອກຄື 0, 1"
 
 #: ../input-pad/window-gtk.c:263
 msgid "Use XTEST module to send key events"
-msgstr ""
+msgstr "ໃຊ້ໂມດູນ XTEST ເພື່ອສົ່ງເຫດການການກົດປຸ່ມ"
 
 #: ../input-pad/window-gtk.c:268
 msgid "Use XSendEvent to send key events"
-msgstr ""
+msgstr "ໃຊ້ XSendEvent ເພື່ອສົ່ງເຫດການການກົດປຸ່ມ"
 
 #: ../input-pad/window-gtk.c:1216
 msgid "Fold layout"
-msgstr ""
+msgstr "ພັບຮູບແບບ"
 
 #: ../input-pad/window-gtk.c:1221 ../input-pad/window-gtk.c:2619
 msgid "Extend layout"
-msgstr ""
+msgstr "ຂະຫຍາຍຮູບແບບ"
 
 #: ../input-pad/window-gtk.c:2833
 msgid "Layout"
-msgstr ""
+msgstr "ຮູບແບບ"
 
 #: ../input-pad/window-gtk.c:3104
 msgid "_Layout:"
-msgstr ""
+msgstr "ຮູບແບບ (_L):"
 
 #: ../input-pad/window-gtk.c:3134
 msgid "_Configure Layouts"
-msgstr ""
+msgstr "ຕັ້ງຄ່າຮູບແບບ (_C)"
 
 #. No longer used in gtk 2.20
 #. gchar *license1, *license2, *license3;
@@ -4273,12 +4293,12 @@ msgstr ""
 #: ../input-pad/window-gtk.c:3173
 #, c-format
 msgid "This program comes with ABSOLUTELY NO WARRANTY; for details, visit %s"
-msgstr ""
+msgstr "ໂປຣແກຣມນີ້ບໍ່ມີການຮັບປະກັນໃດໆທັງສິ້ນ; ສຳລັບລາຍລະອຽດ, ເບິ່ງທີ່ %s"
 
 #: ../input-pad/window-gtk.c:3455
 msgid "Group"
-msgstr ""
+msgstr "ກຸ່ມ"
 
 #: ../input-pad/window-gtk.c:3463
 msgid "Subgroup"
-msgstr ""
+msgstr "ກຸ່ມຍ່ອຍ"
