@@ -2388,7 +2388,7 @@ msgstr "Panda"
 
 #: ../data/str.xml.in:233
 msgid "Eye"
-msgstr ""
+msgstr "Auge"
 
 #: ../data/str.xml.in:234
 msgid "Ear"
@@ -2396,15 +2396,15 @@ msgstr ""
 
 #: ../data/str.xml.in:235
 msgid "Nose"
-msgstr ""
+msgstr "Nase"
 
 #: ../data/str.xml.in:236
 msgid "Mouth"
-msgstr ""
+msgstr "Mund"
 
 #: ../data/str.xml.in:237
 msgid "Tongue"
-msgstr ""
+msgstr "Zunge"
 
 #: ../data/str.xml.in:238
 msgid "Crown"
@@ -2420,15 +2420,15 @@ msgstr ""
 
 #: ../data/str.xml.in:241
 msgid "T-Shirt"
-msgstr ""
+msgstr "T-Shirt"
 
 #: ../data/str.xml.in:242
 msgid "Jeans"
-msgstr ""
+msgstr "Jeans"
 
 #: ../data/str.xml.in:243
 msgid "Dress"
-msgstr ""
+msgstr "Kleid"
 
 #: ../data/str.xml.in:244
 msgid "Kimono"
@@ -2436,11 +2436,11 @@ msgstr ""
 
 #: ../data/str.xml.in:245
 msgid "Bikini"
-msgstr ""
+msgstr "Bikini"
 
 #: ../data/str.xml.in:246
 msgid "Clothes"
-msgstr ""
+msgstr "Damenkleidung"
 
 #: ../data/str.xml.in:247
 msgid "Purse"
