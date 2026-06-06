@@ -1460,63 +1460,63 @@ msgstr ""
 
 #: ../data/str.xml.in:1
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: ../data/str.xml.in:2
 msgid "Emoji"
-msgstr ""
+msgstr "Emoji"
 
 #: ../data/str.xml.in:3
 msgid "Rain"
-msgstr ""
+msgstr "Regen"
 
 #: ../data/str.xml.in:4
 msgid "Comet"
-msgstr ""
+msgstr "Komet"
 
 #: ../data/str.xml.in:5
 msgid "Cross"
-msgstr ""
+msgstr "Kreuz"
 
 #: ../data/str.xml.in:6
 msgid "Solar"
-msgstr ""
+msgstr "Solar"
 
 #: ../data/str.xml.in:7
 msgid "Mercury"
-msgstr ""
+msgstr "Merkur"
 
 #: ../data/str.xml.in:8
 msgid "Venus"
-msgstr ""
+msgstr "Venus"
 
 #: ../data/str.xml.in:9
 msgid "Earth"
-msgstr ""
+msgstr "Erde"
 
 #: ../data/str.xml.in:10
 msgid "Mars"
-msgstr ""
+msgstr "Mars"
 
 #: ../data/str.xml.in:11
 msgid "Jupiter"
-msgstr ""
+msgstr "Jupiter"
 
 #: ../data/str.xml.in:12
 msgid "Saturn"
-msgstr ""
+msgstr "Saturn"
 
 #: ../data/str.xml.in:13
 msgid "Uranus"
-msgstr ""
+msgstr "Uranus"
 
 #: ../data/str.xml.in:14
 msgid "Neptune"
-msgstr ""
+msgstr "Neptun"
 
 #: ../data/str.xml.in:15
 msgid "Pluto"
-msgstr ""
+msgstr "Pluto"
 
 #: ../data/str.xml.in:16
 msgid "Aries"
@@ -1532,35 +1532,35 @@ msgstr ""
 
 #: ../data/str.xml.in:19
 msgid "Cancer"
-msgstr ""
+msgstr "Krebs"
 
 #: ../data/str.xml.in:20
 msgid "Leo"
-msgstr ""
+msgstr "Löwe"
 
 #: ../data/str.xml.in:21
 msgid "Virgo"
-msgstr ""
+msgstr "Jungfrau"
 
 #: ../data/str.xml.in:22
 msgid "Libra"
-msgstr ""
+msgstr "Waage"
 
 #: ../data/str.xml.in:23
 msgid "Scorpius"
-msgstr ""
+msgstr "Skorpion"
 
 #: ../data/str.xml.in:24
 msgid "Sagittarius"
-msgstr ""
+msgstr "Schütze"
 
 #: ../data/str.xml.in:25
 msgid "Capricorn"
-msgstr ""
+msgstr "Steinbock"
 
 #: ../data/str.xml.in:26
 msgid "Aquarius"
-msgstr ""
+msgstr "Wassermann"
 
 #: ../data/str.xml.in:27
 msgid "Pisces"
@@ -1568,35 +1568,35 @@ msgstr ""
 
 #: ../data/str.xml.in:28
 msgid "Dice 1"
-msgstr ""
+msgstr "Würfel 1"
 
 #: ../data/str.xml.in:29
 msgid "Dice 2"
-msgstr ""
+msgstr "Würfel 2"
 
 #: ../data/str.xml.in:30
 msgid "Dice 3"
-msgstr ""
+msgstr "Würfel 3"
 
 #: ../data/str.xml.in:31
 msgid "Dice 4"
-msgstr ""
+msgstr "Würfel 4"
 
 #: ../data/str.xml.in:32
 msgid "Dice 5"
-msgstr ""
+msgstr "Würfel 5"
 
 #: ../data/str.xml.in:33
 msgid "Dice 6"
-msgstr ""
+msgstr "Würfel 6"
 
 #: ../data/str.xml.in:34
 msgid "Anchor"
-msgstr ""
+msgstr "Anker"
 
 #: ../data/str.xml.in:35
 msgid "Sword"
-msgstr ""
+msgstr "Schwert"
 
 #: ../data/str.xml.in:36
 msgid "Scales"
@@ -1604,11 +1604,11 @@ msgstr ""
 
 #: ../data/str.xml.in:37
 msgid "Conversation"
-msgstr ""
+msgstr "Unterhaltung"
 
 #: ../data/str.xml.in:38
 msgid "Warning"
-msgstr ""
+msgstr "Warnung"
 
 #: ../data/str.xml.in:39
 msgid "Thunder"
@@ -1676,31 +1676,31 @@ msgstr ""
 
 #: ../data/str.xml.in:55
 msgid "Power station"
-msgstr ""
+msgstr "Kraftwerk"
 
 #: ../data/str.xml.in:56
 msgid "Lighthouse"
-msgstr ""
+msgstr "Leuchtturm"
 
 #: ../data/str.xml.in:57
 msgid "Mountain"
-msgstr ""
+msgstr "Berg"
 
 #: ../data/str.xml.in:58
 msgid "Beach"
-msgstr ""
+msgstr "Strand"
 
 #: ../data/str.xml.in:59
 msgid "Park"
-msgstr ""
+msgstr "Park"
 
 #: ../data/str.xml.in:60
 msgid "Ferry"
-msgstr ""
+msgstr "Fähre"
 
 #: ../data/str.xml.in:61
 msgid "Sailboat"
-msgstr ""
+msgstr "Segelboot"
 
 #: ../data/str.xml.in:62
 msgid "Ice rink"
@@ -1712,7 +1712,7 @@ msgstr ""
 
 #: ../data/str.xml.in:64
 msgid "Airplane"
-msgstr ""
+msgstr "Flugzeug"
 
 #: ../data/str.xml.in:65
 msgid "Clenched Fist"
@@ -1720,7 +1720,7 @@ msgstr ""
 
 #: ../data/str.xml.in:66
 msgid "Hand"
-msgstr ""
+msgstr "Hand"
 
 #: ../data/str.xml.in:67
 msgid "V Sign"
@@ -1732,7 +1732,7 @@ msgstr ""
 
 #: ../data/str.xml.in:69
 msgid "Pencil"
-msgstr ""
+msgstr "Bleistift"
 
 #: ../data/str.xml.in:70
 msgid "Pen"
@@ -1740,19 +1740,19 @@ msgstr ""
 
 #: ../data/str.xml.in:71
 msgid "Star"
-msgstr ""
+msgstr "Stern"
 
 #: ../data/str.xml.in:72
 msgid "Typhoon"
-msgstr ""
+msgstr "Taifun"
 
 #: ../data/str.xml.in:73
 msgid "Fog"
-msgstr ""
+msgstr "Nebel"
 
 #: ../data/str.xml.in:74
 msgid "Umbrella"
-msgstr ""
+msgstr "Regenschirm"
 
 #: ../data/str.xml.in:75
 msgid "Night sky"
@@ -1804,11 +1804,11 @@ msgstr "Sun"
 
 #: ../data/str.xml.in:87
 msgid "Cloud"
-msgstr ""
+msgstr "Wolke"
 
 #: ../data/str.xml.in:88
 msgid "Palm"
-msgstr ""
+msgstr "Palme"
 
 #: ../data/str.xml.in:89
 msgid "Hot Pepper"
@@ -1816,7 +1816,7 @@ msgstr ""
 
 #: ../data/str.xml.in:90
 msgid "Flower"
-msgstr ""
+msgstr "Blume"
 
 #: ../data/str.xml.in:91
 msgid "Tulip"
@@ -1836,11 +1836,11 @@ msgstr ""
 
 #: ../data/str.xml.in:95
 msgid "Sunflower"
-msgstr ""
+msgstr "Sonnenblume"
 
 #: ../data/str.xml.in:96
 msgid "Blossom"
-msgstr ""
+msgstr "Blüte"
 
 #: ../data/str.xml.in:97
 msgid "Clover"
