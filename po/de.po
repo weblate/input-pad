@@ -11,7 +11,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
 "PO-Revision-Date: 2026-06-07 08:02+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/input-"
 "pad/master/de/>\n"
 "Language: de\n"
@@ -2444,11 +2445,11 @@ msgstr "Kleidung"
 
 #: ../data/str.xml.in:247
 msgid "Purse"
-msgstr ""
+msgstr "Geldbörse"
 
 #: ../data/str.xml.in:248
 msgid "Handbag"
-msgstr ""
+msgstr "Handtasche"
 
 #: ../data/str.xml.in:249
 msgid "Pouch"
@@ -2456,11 +2457,11 @@ msgstr ""
 
 #: ../data/str.xml.in:250
 msgid "Shoe"
-msgstr ""
+msgstr "Schuh"
 
 #: ../data/str.xml.in:251
 msgid "Footprint"
-msgstr ""
+msgstr "Fußabdruck"
 
 #: ../data/str.xml.in:252
 msgid "Bust in silhouette"
