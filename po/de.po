@@ -2204,31 +2204,31 @@ msgstr "Rennauto"
 
 #: ../data/str.xml.in:187
 msgid "House"
-msgstr ""
+msgstr "Haus"
 
 #: ../data/str.xml.in:188
 msgid "Office"
-msgstr ""
+msgstr "Büro"
 
 #: ../data/str.xml.in:189
 msgid "Hospital"
-msgstr ""
+msgstr "Krankenhaus"
 
 #: ../data/str.xml.in:190
 msgid "Bank"
-msgstr ""
+msgstr "Bank"
 
 #: ../data/str.xml.in:191
 msgid "Hotel"
-msgstr ""
+msgstr "Hotel"
 
 #: ../data/str.xml.in:192
 msgid "School"
-msgstr ""
+msgstr "Schule"
 
 #: ../data/str.xml.in:193
 msgid "Factory"
-msgstr ""
+msgstr "Fabrik"
 
 #: ../data/str.xml.in:194
 msgid "Rat"
@@ -2236,19 +2236,19 @@ msgstr ""
 
 #: ../data/str.xml.in:195
 msgid "Mouse"
-msgstr ""
+msgstr "Maus"
 
 #: ../data/str.xml.in:196
 msgid "Cow"
-msgstr ""
+msgstr "Kuh"
 
 #: ../data/str.xml.in:197
 msgid "Tiger"
-msgstr ""
+msgstr "Tiger"
 
 #: ../data/str.xml.in:198
 msgid "Leopard"
-msgstr ""
+msgstr "Leopard"
 
 #: ../data/str.xml.in:199
 msgid "Rabbit"
@@ -2260,55 +2260,55 @@ msgstr ""
 
 #: ../data/str.xml.in:201
 msgid "Dragon"
-msgstr ""
+msgstr "Drache"
 
 #: ../data/str.xml.in:202
 msgid "Crocodile"
-msgstr ""
+msgstr "Krokodil"
 
 #: ../data/str.xml.in:203
 msgid "Whale"
-msgstr ""
+msgstr "Wal"
 
 #: ../data/str.xml.in:204
 msgid "Snail"
-msgstr ""
+msgstr "Schnecke"
 
 #: ../data/str.xml.in:205
 msgid "Snake"
-msgstr ""
+msgstr "Schlange"
 
 #: ../data/str.xml.in:206
 msgid "Horse"
-msgstr ""
+msgstr "Pferd"
 
 #: ../data/str.xml.in:207
 msgid "Sheep"
-msgstr ""
+msgstr "Schaf"
 
 #: ../data/str.xml.in:208
 msgid "Goat"
-msgstr ""
+msgstr "Ziege"
 
 #: ../data/str.xml.in:209
 msgid "Monkey"
-msgstr ""
+msgstr "Affe"
 
 #: ../data/str.xml.in:210
 msgid "Chicken"
-msgstr ""
+msgstr "Huhn"
 
 #: ../data/str.xml.in:211
 msgid "Dog"
-msgstr ""
+msgstr "Hund"
 
 #: ../data/str.xml.in:212
 msgid "Pig"
-msgstr ""
+msgstr "Schwein"
 
 #: ../data/str.xml.in:213
 msgid "Elephant"
-msgstr ""
+msgstr "Elefant"
 
 #: ../data/str.xml.in:214
 msgid "Octopus"
@@ -2328,11 +2328,11 @@ msgstr ""
 
 #: ../data/str.xml.in:218
 msgid "Lady Beetle"
-msgstr ""
+msgstr "Marienkäfer"
 
 #: ../data/str.xml.in:219
 msgid "Fish"
-msgstr ""
+msgstr "Fisch"
 
 #: ../data/str.xml.in:220
 msgid "Tropical Fish"
@@ -2340,19 +2340,19 @@ msgstr ""
 
 #: ../data/str.xml.in:221
 msgid "Blowfish"
-msgstr ""
+msgstr "Kugelfisch"
 
 #: ../data/str.xml.in:222
 msgid "Bird"
-msgstr ""
+msgstr "Vogel"
 
 #: ../data/str.xml.in:223
 msgid "Penguin"
-msgstr ""
+msgstr "Pinguin"
 
 #: ../data/str.xml.in:224
 msgid "Koala"
-msgstr ""
+msgstr "Koalabär"
 
 #: ../data/str.xml.in:225
 msgid "Poodle"
@@ -2360,31 +2360,31 @@ msgstr ""
 
 #: ../data/str.xml.in:226
 msgid "Camel"
-msgstr ""
+msgstr "Kamel"
 
 #: ../data/str.xml.in:227
 msgid "Dolphin"
-msgstr ""
+msgstr "Delphin"
 
 #: ../data/str.xml.in:228
 msgid "Frog"
-msgstr ""
+msgstr "Frosch"
 
 #: ../data/str.xml.in:229
 msgid "Hamster"
-msgstr ""
+msgstr "Hamster"
 
 #: ../data/str.xml.in:230
 msgid "Wolf"
-msgstr ""
+msgstr "Wolf"
 
 #: ../data/str.xml.in:231
 msgid "Bear"
-msgstr ""
+msgstr "Bär"
 
 #: ../data/str.xml.in:232
 msgid "Panda"
-msgstr ""
+msgstr "Panda"
 
 #: ../data/str.xml.in:233
 msgid "Eye"
