@@ -2124,7 +2124,7 @@ msgstr "Gitarre"
 
 #: ../data/str.xml.in:167
 msgid "Trumpet"
-msgstr ""
+msgstr "Trompete"
 
 #: ../data/str.xml.in:168
 msgid "Violin"
@@ -2136,19 +2136,19 @@ msgstr ""
 
 #: ../data/str.xml.in:170
 msgid "Tennis"
-msgstr ""
+msgstr "Tennis"
 
 #: ../data/str.xml.in:171
 msgid "Ski"
-msgstr ""
+msgstr "Ski"
 
 #: ../data/str.xml.in:172
 msgid "Basketball"
-msgstr ""
+msgstr "Basketball"
 
 #: ../data/str.xml.in:173
 msgid "Flag"
-msgstr ""
+msgstr "Flaggen"
 
 #: ../data/str.xml.in:174
 msgid "Show Board"
