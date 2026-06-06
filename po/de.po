@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../data/base.xml.in:4
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Verschiedenes"
 
 #: ../data/base.xml.in:5 ../input-pad/unicode_block.h:116
 msgid "Dingbats"
@@ -48,15 +48,15 @@ msgstr ""
 #. Translators: Superscripts and Subscripts
 #: ../data/base.xml.in:7
 msgid "Super and Sub"
-msgstr ""
+msgstr "Hoch- und tiefgestellt"
 
 #: ../data/base.xml.in:8
 msgid "Bold"
-msgstr ""
+msgstr "Fett"
 
 #: ../data/base.xml.in:9
 msgid "Italic"
-msgstr ""
+msgstr "Kursiv"
 
 #: ../data/base.xml.in:10
 msgid "Script"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: ../data/base.xml.in:14
 msgid "Roman"
-msgstr ""
+msgstr "Römische Zahlen"
 
 #: ../data/base.xml.in:15
 msgid "Enclosed"
