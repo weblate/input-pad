@@ -1612,11 +1612,11 @@ msgstr "Warnung"
 
 #: ../data/str.xml.in:39
 msgid "Thunder"
-msgstr ""
+msgstr "Donner"
 
 #: ../data/str.xml.in:40
 msgid "Coffin"
-msgstr ""
+msgstr "Sarg"
 
 #: ../data/str.xml.in:41
 msgid "Gender"
@@ -1624,15 +1624,15 @@ msgstr ""
 
 #: ../data/str.xml.in:42
 msgid "Soccer"
-msgstr ""
+msgstr "Fußball"
 
 #: ../data/str.xml.in:43
 msgid "Baseball"
-msgstr ""
+msgstr "Baseball"
 
 #: ../data/str.xml.in:44
 msgid "Snowman"
-msgstr ""
+msgstr "Schneemann"
 
 #: ../data/str.xml.in:45
 msgid "Shogi"
@@ -1644,11 +1644,11 @@ msgstr ""
 
 #: ../data/str.xml.in:47
 msgid "Maintenance"
-msgstr ""
+msgstr "Wartung"
 
 #: ../data/str.xml.in:48
 msgid "Roadblock"
-msgstr ""
+msgstr "Straßensperre"
 
 #: ../data/str.xml.in:49
 msgid "No entry"
@@ -1656,7 +1656,7 @@ msgstr ""
 
 #: ../data/str.xml.in:50
 msgid "Truck"
-msgstr ""
+msgstr "Lastwagen"
 
 #: ../data/str.xml.in:51
 msgid "Torii"
@@ -1664,15 +1664,15 @@ msgstr ""
 
 #: ../data/str.xml.in:52
 msgid "Church"
-msgstr ""
+msgstr "Kirche"
 
 #: ../data/str.xml.in:53
 msgid "Castle"
-msgstr ""
+msgstr "Burg"
 
 #: ../data/str.xml.in:54
 msgid "Historic site"
-msgstr ""
+msgstr "Historischer Ort"
 
 #: ../data/str.xml.in:55
 msgid "Power station"
@@ -2052,11 +2052,11 @@ msgstr ""
 
 #: ../data/str.xml.in:149
 msgid "Wine"
-msgstr ""
+msgstr "Wein"
 
 #: ../data/str.xml.in:150
 msgid "Cocktail"
-msgstr ""
+msgstr "Cocktail"
 
 #: ../data/str.xml.in:151
 msgid "Drink"
@@ -2064,15 +2064,15 @@ msgstr ""
 
 #: ../data/str.xml.in:152
 msgid "Beer"
-msgstr ""
+msgstr "Bier"
 
 #: ../data/str.xml.in:153
 msgid "Cheers"
-msgstr ""
+msgstr "Prost"
 
 #: ../data/str.xml.in:154
 msgid "Baby Bottle"
-msgstr ""
+msgstr "Babyflasche"
 
 #: ../data/str.xml.in:155
 msgid "Ribbon"
@@ -2084,15 +2084,15 @@ msgstr ""
 
 #: ../data/str.xml.in:157
 msgid "Cake"
-msgstr ""
+msgstr "Kuchen"
 
 #: ../data/str.xml.in:158
 msgid "Hallowe'en"
-msgstr ""
+msgstr "Halloween"
 
 #: ../data/str.xml.in:159
 msgid "Christmas"
-msgstr ""
+msgstr "Weihnachten"
 
 #: ../data/str.xml.in:160
 msgid "Piano"
@@ -2100,11 +2100,11 @@ msgstr ""
 
 #: ../data/str.xml.in:161
 msgid "Microphone"
-msgstr ""
+msgstr "Mikrofon"
 
 #: ../data/str.xml.in:162
 msgid "Headphone"
-msgstr ""
+msgstr "Kopfhörer"
 
 #: ../data/str.xml.in:163
 msgid "Hat"
@@ -2116,11 +2116,11 @@ msgstr ""
 
 #: ../data/str.xml.in:165
 msgid "Saxophone"
-msgstr ""
+msgstr "Saxofon"
 
 #: ../data/str.xml.in:166
 msgid "Guitar"
-msgstr ""
+msgstr "Gitarre"
 
 #: ../data/str.xml.in:167
 msgid "Trumpet"
