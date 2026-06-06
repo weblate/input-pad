@@ -2156,11 +2156,11 @@ msgstr ""
 
 #: ../data/str.xml.in:175
 msgid "Running"
-msgstr ""
+msgstr "Läuft"
 
 #: ../data/str.xml.in:176
 msgid "Surfer"
-msgstr ""
+msgstr "Surfer"
 
 #: ../data/str.xml.in:177
 msgid "Medal"
