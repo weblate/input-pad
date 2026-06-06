@@ -2168,39 +2168,39 @@ msgstr ""
 
 #: ../data/str.xml.in:178
 msgid "Trophy"
-msgstr ""
+msgstr "Pokal"
 
 #: ../data/str.xml.in:179
 msgid "Horse Racing"
-msgstr ""
+msgstr "Pferderennen"
 
 #: ../data/str.xml.in:180
 msgid "American Football"
-msgstr ""
+msgstr "American Football"
 
 #: ../data/str.xml.in:181
 msgid "Rugby"
-msgstr ""
+msgstr "Rugby"
 
 #: ../data/str.xml.in:182
 msgid "Swimmer"
-msgstr ""
+msgstr "Schwimmer"
 
 #: ../data/str.xml.in:183
 msgid "Weight Lifting"
-msgstr ""
+msgstr "Gewichtheben"
 
 #: ../data/str.xml.in:184
 msgid "Golf"
-msgstr ""
+msgstr "Golf"
 
 #: ../data/str.xml.in:185
 msgid "Motorcycle"
-msgstr ""
+msgstr "Motorrad"
 
 #: ../data/str.xml.in:186
 msgid "Race"
-msgstr ""
+msgstr "Rennauto"
 
 #: ../data/str.xml.in:187
 msgid "House"
