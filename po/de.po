@@ -4,14 +4,14 @@
 #
 # Languages add-on <noreply-addon-languages@weblate.org>, 2026.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2026.
+# Ettore Atalan <atalanttore@googlemail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
 "PO-Revision-Date: 2026-06-07 08:02+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/input-"
 "pad/master/de/>\n"
 "Language: de\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../data/alphabet.xml.in.in:1
 msgid "Alphabets"
-msgstr ""
+msgstr "Alphabete"
 
 #: ../data/base.xml.in:1
 msgid "Symbols"
@@ -31,7 +31,7 @@ msgstr "Symbole"
 
 #: ../data/base.xml.in:2
 msgid "Currency"
-msgstr "Währungen"
+msgstr "Währung"
 
 #: ../data/base.xml.in:3
 msgid "Letterlike"
@@ -60,7 +60,7 @@ msgstr "Kursiv"
 
 #: ../data/base.xml.in:10
 msgid "Script"
-msgstr ""
+msgstr "Skript"
 
 #: ../data/base.xml.in:11
 msgid "Double Struck"
@@ -68,15 +68,15 @@ msgstr ""
 
 #: ../data/base.xml.in:12
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 #: ../data/base.xml.in:13 ../data/zh.xml.in.h:2
 msgid "Numbers"
-msgstr ""
+msgstr "Zahlen"
 
 #: ../data/base.xml.in:14
 msgid "Roman"
-msgstr "Römische Zahlen"
+msgstr "Römisch"
 
 #: ../data/base.xml.in:15
 msgid "Enclosed"
@@ -112,7 +112,7 @@ msgstr ""
 
 #: ../data/base.xml.in:23
 msgid "Arrow"
-msgstr "Pfeile"
+msgstr "Pfeil"
 
 #: ../data/base.xml.in:24 ../input-pad/unicode_block.h:112
 msgid "Box Drawing"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: ../data/cmd.xml.in:1
 msgid "Command"
-msgstr "Kommando"
+msgstr "Befehl"
 
 #: ../data/cmd.xml.in:2
 msgid "Date"
@@ -1604,7 +1604,7 @@ msgstr ""
 
 #: ../data/str.xml.in:37
 msgid "Conversation"
-msgstr "Unterhaltung"
+msgstr "Konversation"
 
 #: ../data/str.xml.in:38
 msgid "Warning"
@@ -1736,7 +1736,7 @@ msgstr "Bleistift"
 
 #: ../data/str.xml.in:70
 msgid "Pen"
-msgstr ""
+msgstr "Stift"
 
 #: ../data/str.xml.in:71
 msgid "Star"
@@ -1768,7 +1768,7 @@ msgstr "Sonnenuntergang"
 
 #: ../data/str.xml.in:78
 msgid "Bridge"
-msgstr "Bridge"
+msgstr "Brücke"
 
 #: ../data/str.xml.in:79
 msgid "Wave"
@@ -1800,7 +1800,7 @@ msgstr "Mond"
 
 #: ../data/str.xml.in:86
 msgid "Sun"
-msgstr "Sun"
+msgstr "Sonne"
 
 #: ../data/str.xml.in:87
 msgid "Cloud"
@@ -2108,7 +2108,7 @@ msgstr "Kopfhörer"
 
 #: ../data/str.xml.in:163
 msgid "Hat"
-msgstr ""
+msgstr "Hut"
 
 #: ../data/str.xml.in:164
 msgid "Musical Note"
@@ -2116,7 +2116,7 @@ msgstr ""
 
 #: ../data/str.xml.in:165
 msgid "Saxophone"
-msgstr "Saxofon"
+msgstr "Saxophon"
 
 #: ../data/str.xml.in:166
 msgid "Guitar"
@@ -2148,7 +2148,7 @@ msgstr "Basketball"
 
 #: ../data/str.xml.in:173
 msgid "Flag"
-msgstr "Flaggen"
+msgstr "Flagge"
 
 #: ../data/str.xml.in:174
 msgid "Show Board"
@@ -2156,7 +2156,7 @@ msgstr ""
 
 #: ../data/str.xml.in:175
 msgid "Running"
-msgstr "Läuft"
+msgstr "Laufen"
 
 #: ../data/str.xml.in:176
 msgid "Surfer"
@@ -2200,7 +2200,7 @@ msgstr "Motorrad"
 
 #: ../data/str.xml.in:186
 msgid "Race"
-msgstr "Rennauto"
+msgstr "Rennen"
 
 #: ../data/str.xml.in:187
 msgid "House"
@@ -2232,7 +2232,7 @@ msgstr "Fabrik"
 
 #: ../data/str.xml.in:194
 msgid "Rat"
-msgstr ""
+msgstr "Ratte"
 
 #: ../data/str.xml.in:195
 msgid "Mouse"
@@ -2256,7 +2256,7 @@ msgstr ""
 
 #: ../data/str.xml.in:200
 msgid "Cat"
-msgstr ""
+msgstr "Katze"
 
 #: ../data/str.xml.in:201
 msgid "Dragon"
@@ -2352,7 +2352,7 @@ msgstr "Pinguin"
 
 #: ../data/str.xml.in:224
 msgid "Koala"
-msgstr "Koalabär"
+msgstr "Koala"
 
 #: ../data/str.xml.in:225
 msgid "Poodle"
@@ -2392,7 +2392,7 @@ msgstr "Auge"
 
 #: ../data/str.xml.in:234
 msgid "Ear"
-msgstr ""
+msgstr "Ohr"
 
 #: ../data/str.xml.in:235
 msgid "Nose"
@@ -2440,7 +2440,7 @@ msgstr "Bikini"
 
 #: ../data/str.xml.in:246
 msgid "Clothes"
-msgstr "Damenkleidung"
+msgstr "Kleidung"
 
 #: ../data/str.xml.in:247
 msgid "Purse"
