@@ -120,7 +120,7 @@ msgstr ""
 
 #: ../data/base.xml.in:25 ../input-pad/window-gtk.c:3694
 msgid "Block"
-msgstr ""
+msgstr "Block"
 
 #: ../data/base.xml.in:26
 msgid "Geometric"
@@ -128,7 +128,7 @@ msgstr ""
 
 #: ../data/base.xml.in:27
 msgid "Braille"
-msgstr ""
+msgstr "Blindenschrift"
 
 #: ../data/base.xml.in:28
 msgid "Punctuations"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: ../data/base.xml.in:29
 msgid "General"
-msgstr ""
+msgstr "Allgemein"
 
 #: ../data/base.xml.in:30
 msgid "CJK"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: ../data/cmd.xml.in:1
 msgid "Command"
-msgstr ""
+msgstr "Kommando"
 
 #: ../data/cmd.xml.in:2
 msgid "Date"
