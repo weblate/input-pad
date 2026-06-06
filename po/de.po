@@ -88,23 +88,23 @@ msgstr ""
 
 #: ../data/base.xml.in:17
 msgid "Technical"
-msgstr ""
+msgstr "Technisch"
 
 #: ../data/base.xml.in:18
 msgid "Unit"
-msgstr ""
+msgstr "Einheit"
 
 #: ../data/base.xml.in:19
 msgid "Mathematical"
-msgstr ""
+msgstr "Mathematisch"
 
 #: ../data/base.xml.in:20
 msgid "Controls"
-msgstr ""
+msgstr "Steuerungszeichen"
 
 #: ../data/base.xml.in:21
 msgid "OCR"
-msgstr ""
+msgstr "Texterkennung"
 
 #: ../data/base.xml.in:22
 msgid "Graphics"
@@ -112,7 +112,7 @@ msgstr ""
 
 #: ../data/base.xml.in:23
 msgid "Arrow"
-msgstr ""
+msgstr "Pfeile"
 
 #: ../data/base.xml.in:24 ../input-pad/unicode_block.h:112
 msgid "Box Drawing"
