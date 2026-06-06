@@ -1772,11 +1772,11 @@ msgstr "Bridge"
 
 #: ../data/str.xml.in:79
 msgid "Wave"
-msgstr ""
+msgstr "Welle"
 
 #: ../data/str.xml.in:80
 msgid "New Moon"
-msgstr ""
+msgstr "Neumond"
 
 #: ../data/str.xml.in:81
 msgid "Crescent Moon"
@@ -1792,15 +1792,15 @@ msgstr ""
 
 #: ../data/str.xml.in:84
 msgid "Full Moon"
-msgstr ""
+msgstr "Vollmond"
 
 #: ../data/str.xml.in:85
 msgid "Moon"
-msgstr ""
+msgstr "Mond"
 
 #: ../data/str.xml.in:86
 msgid "Sun"
-msgstr ""
+msgstr "Sun"
 
 #: ../data/str.xml.in:87
 msgid "Cloud"
