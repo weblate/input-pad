@@ -156,7 +156,7 @@ msgstr "Kommando"
 
 #: ../data/cmd.xml.in:2
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: ../data/cmd.xml.in:3
 msgid "Normal Date"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: ../data/cmd.xml.in:4
 msgid "Date and Time"
-msgstr ""
+msgstr "Datum und Uhrzeit"
 
 #: ../data/cmd.xml.in:5
 msgid "ChangeLog date"
@@ -200,39 +200,39 @@ msgstr ""
 
 #: ../data/cmd.xml.in:13
 msgid "Month"
-msgstr ""
+msgstr "Monat"
 
 #: ../data/cmd.xml.in:14
 msgid "English Month"
-msgstr ""
+msgstr "Englischer Monat"
 
 #: ../data/cmd.xml.in:15
 msgid "Short Month"
-msgstr ""
+msgstr "Abgekürzter Monat"
 
 #: ../data/cmd.xml.in:16
 msgid "English Short Month"
-msgstr ""
+msgstr "Englischer abgekürzter Monat"
 
 #: ../data/cmd.xml.in:17
 msgid "Weekday"
-msgstr ""
+msgstr "Wochentag"
 
 #: ../data/cmd.xml.in:18
 msgid "English Weekday"
-msgstr ""
+msgstr "Englischer Wochentag"
 
 #: ../data/cmd.xml.in:19
 msgid "Short Weekday"
-msgstr ""
+msgstr "Abgekürzter Wochentag"
 
 #: ../data/cmd.xml.in:20
 msgid "English Short Weekday"
-msgstr ""
+msgstr "Englischer abgekürzter Wochentag"
 
 #: ../data/goth.xml.in:1 ../input-pad/unicode_block.h:196
 msgid "Gothic"
-msgstr ""
+msgstr "Gotisch"
 
 #: ../data/input-pad.desktop.in:1 ../input-pad/dialog.ui.h:42
 #: ../input-pad/window-gtk.c:5093 ../input-pad/window-gtk.c:5094
@@ -243,7 +243,7 @@ msgstr ""
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-obsolete.xml.in:2
 msgid "IPA (Obsolete)"
-msgstr ""
+msgstr "IPA (Veraltet)"
 
 #: ../data/ipa-obsolete.xml.in:3 ../data/ipa.xml.in.h:6
 msgid "Open back unrounded vowel"
@@ -1756,19 +1756,19 @@ msgstr ""
 
 #: ../data/str.xml.in:75
 msgid "Night sky"
-msgstr ""
+msgstr "Nachthimmel"
 
 #: ../data/str.xml.in:76
 msgid "Sunrise"
-msgstr ""
+msgstr "Sonnenaufgang"
 
 #: ../data/str.xml.in:77
 msgid "Sunset"
-msgstr ""
+msgstr "Sonnenuntergang"
 
 #: ../data/str.xml.in:78
 msgid "Bridge"
-msgstr ""
+msgstr "Bridge"
 
 #: ../data/str.xml.in:79
 msgid "Wave"
