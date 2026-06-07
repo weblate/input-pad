@@ -11,8 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
 "PO-Revision-Date: 2026-06-08 15:01+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/input-"
 "pad/master/de/>\n"
 "Language: de\n"
@@ -3081,7 +3080,7 @@ msgstr "Ja"
 
 #: ../data/str.xml.in:406
 msgid "No"
-msgstr ""
+msgstr "Nein"
 
 #: ../data/str.xml.in:407
 msgid "Shut Mouth"
@@ -3141,7 +3140,7 @@ msgstr "Akronym"
 
 #: ../data/str.xml.in:424
 msgid "Acronym (Computer)"
-msgstr "Akronyme (Computer)"
+msgstr "Akronym (Computer)"
 
 #. http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0
 #: ../data/str.xml.in:426
@@ -3210,7 +3209,7 @@ msgstr ""
 
 #: ../data/str.xml.in:442
 msgid "Bye"
-msgstr "Tschüß"
+msgstr "Tschüss"
 
 #: ../data/str.xml.in:443
 msgid "Want (Hattekure, E.g. pics ハラデイ)"
