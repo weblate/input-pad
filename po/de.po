@@ -11,7 +11,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
 "PO-Revision-Date: 2026-06-08 15:01+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/input-"
 "pad/master/de/>\n"
 "Language: de\n"
@@ -1856,15 +1857,15 @@ msgstr ""
 
 #: ../data/str.xml.in:100
 msgid "Leaf"
-msgstr ""
+msgstr "Blatt"
 
 #: ../data/str.xml.in:101
 msgid "Mushroom"
-msgstr ""
+msgstr "Pilz"
 
 #: ../data/str.xml.in:102
 msgid "Tomato"
-msgstr ""
+msgstr "Tomate"
 
 #: ../data/str.xml.in:103
 msgid "Eggplant"
@@ -1876,11 +1877,11 @@ msgstr ""
 
 #: ../data/str.xml.in:105
 msgid "Melon"
-msgstr ""
+msgstr "Melone"
 
 #: ../data/str.xml.in:106
 msgid "Watermelon"
-msgstr ""
+msgstr "Wassermelone"
 
 #: ../data/str.xml.in:107
 msgid "Tangerine"
@@ -1888,47 +1889,47 @@ msgstr ""
 
 #: ../data/str.xml.in:108
 msgid "Lemon"
-msgstr ""
+msgstr "Zitrone"
 
 #: ../data/str.xml.in:109
 msgid "Banana"
-msgstr ""
+msgstr "Banane"
 
 #: ../data/str.xml.in:110
 msgid "Pineapple"
-msgstr ""
+msgstr "Ananas"
 
 #: ../data/str.xml.in:111
 msgid "Apple"
-msgstr ""
+msgstr "Apfel"
 
 #: ../data/str.xml.in:112
 msgid "Pear"
-msgstr ""
+msgstr "Birne"
 
 #: ../data/str.xml.in:113
 msgid "Peach"
-msgstr ""
+msgstr "Pfirsich"
 
 #: ../data/str.xml.in:114
 msgid "Strawberry"
-msgstr ""
+msgstr "Erdbeere"
 
 #: ../data/str.xml.in:115
 msgid "Hamburger"
-msgstr ""
+msgstr "Hamburger"
 
 #: ../data/str.xml.in:116
 msgid "Pizza"
-msgstr ""
+msgstr "Pizza"
 
 #: ../data/str.xml.in:117
 msgid "Meat"
-msgstr ""
+msgstr "Fleisch"
 
 #: ../data/str.xml.in:118
 msgid "Poultry"
-msgstr ""
+msgstr "Geflügel"
 
 #: ../data/str.xml.in:119
 msgid "Rice Cracker"
@@ -1940,23 +1941,23 @@ msgstr ""
 
 #: ../data/str.xml.in:121
 msgid "Rice"
-msgstr ""
+msgstr "Reis"
 
 #: ../data/str.xml.in:122
 msgid "Curry"
-msgstr ""
+msgstr "Curry"
 
 #: ../data/str.xml.in:123
 msgid "Ramen"
-msgstr ""
+msgstr "Ramen"
 
 #: ../data/str.xml.in:124
 msgid "Spaghetti"
-msgstr ""
+msgstr "Spaghetti"
 
 #: ../data/str.xml.in:125
 msgid "Bread"
-msgstr ""
+msgstr "Brot"
 
 #: ../data/str.xml.in:126
 msgid "Fried Potato"
@@ -2580,39 +2581,39 @@ msgstr ""
 
 #: ../data/str.xml.in:281
 msgid "Syringe"
-msgstr ""
+msgstr "Spritze"
 
 #: ../data/str.xml.in:282
 msgid "Pill"
-msgstr ""
+msgstr "Pille"
 
 #: ../data/str.xml.in:283
 msgid "Kiss"
-msgstr ""
+msgstr "Kuss"
 
 #: ../data/str.xml.in:284
 msgid "Love Letter"
-msgstr ""
+msgstr "Liebesbrief"
 
 #: ../data/str.xml.in:285
 msgid "Ring"
-msgstr ""
+msgstr "Ring"
 
 #: ../data/str.xml.in:286
 msgid "Gem Stone"
-msgstr ""
+msgstr "Edelstein"
 
 #: ../data/str.xml.in:287
 msgid "Wedding"
-msgstr ""
+msgstr "Hochzeit"
 
 #: ../data/str.xml.in:288
 msgid "Heart"
-msgstr ""
+msgstr "Herz"
 
 #: ../data/str.xml.in:289
 msgid "Idea"
-msgstr ""
+msgstr "Idee"
 
 #: ../data/str.xml.in:290
 msgid "Anger"
@@ -2620,7 +2621,7 @@ msgstr ""
 
 #: ../data/str.xml.in:291
 msgid "Bomb"
-msgstr ""
+msgstr "Bombe"
 
 #: ../data/str.xml.in:292
 msgid "Sleeping"
@@ -2632,7 +2633,7 @@ msgstr ""
 
 #: ../data/str.xml.in:294
 msgid "Sweat"
-msgstr ""
+msgstr "Schweiß"
 
 #: ../data/str.xml.in:295
 msgid "Droplet"
@@ -2644,15 +2645,15 @@ msgstr ""
 
 #: ../data/str.xml.in:297
 msgid "Poo"
-msgstr ""
+msgstr "Kothaufen"
 
 #: ../data/str.xml.in:298
 msgid "Muscle"
-msgstr ""
+msgstr "Muskel"
 
 #: ../data/str.xml.in:299
 msgid "Dizzy"
-msgstr ""
+msgstr "Schwindlig"
 
 #: ../data/str.xml.in:300
 msgid "Speech"
@@ -2668,11 +2669,11 @@ msgstr ""
 
 #: ../data/str.xml.in:303
 msgid "Pushpin"
-msgstr ""
+msgstr "Reißzwecke"
 
 #: ../data/str.xml.in:304
 msgid "Paperclip"
-msgstr ""
+msgstr "Büroklammer"
 
 #: ../data/str.xml.in:305
 msgid "Speaker with cancellation stroke"
@@ -3613,7 +3614,7 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:77
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: ../input-pad/unicode_block.h:78
 msgid "Hanunoo"
@@ -4133,7 +4134,7 @@ msgstr ""
 
 #: ../input-pad/unicode_block.h:216
 msgid "Egyptian Hieroglyphs"
-msgstr ""
+msgstr "Ägyptische Hieroglyphen"
 
 #: ../input-pad/unicode_block.h:217
 msgid "Byzantine Musical Symbols"
