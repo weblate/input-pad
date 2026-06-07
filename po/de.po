@@ -3182,7 +3182,7 @@ msgstr ""
 
 #: ../data/str.xml.in:435
 msgid "Laugh"
-msgstr ""
+msgstr "Lachen"
 
 #: ../data/str.xml.in:436
 msgid "Dude (Oi!)"
@@ -3210,7 +3210,7 @@ msgstr ""
 
 #: ../data/str.xml.in:442
 msgid "Bye"
-msgstr ""
+msgstr "Tschüß"
 
 #: ../data/str.xml.in:443
 msgid "Want (Hattekure, E.g. pics ハラデイ)"
