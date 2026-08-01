@@ -5,13 +5,14 @@
 # Translators:
 # Walter Cheuk <wwycheuk@gmail.com>, 2012.
 # hsu zangmen <chzang55@gmail.com>, 2025.
+# Alang Hsu <alang.hsu@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
-"PO-Revision-Date: 2025-04-07 01:53+0000\n"
-"Last-Translator: hsu zangmen <chzang55@gmail.com>\n"
+"PO-Revision-Date: 2026-08-02 14:18+0000\n"
+"Last-Translator: Alang Hsu <alang.hsu@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://translate.fedoraproject.org/"
 "projects/input-pad/master/zh_TW/>\n"
 "Language: zh_TW\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 #: ../data/alphabet.xml.in.in:1
 msgid "Alphabets"
@@ -35,7 +36,7 @@ msgstr "貨幣"
 
 #: ../data/base.xml.in:3
 msgid "Letterlike"
-msgstr ""
+msgstr "類字母"
 
 #: ../data/base.xml.in:4
 msgid "Miscellaneous"
@@ -43,7 +44,7 @@ msgstr "雜項"
 
 #: ../data/base.xml.in:5 ../input-pad/unicode_block.h:116
 msgid "Dingbats"
-msgstr "Dingbats"
+msgstr "裝飾符號"
 
 #. Translators: Superscripts and Subscripts
 #: ../data/base.xml.in:7
@@ -52,19 +53,19 @@ msgstr "上標與下標"
 
 #: ../data/base.xml.in:8
 msgid "Bold"
-msgstr ""
+msgstr "粗體"
 
 #: ../data/base.xml.in:9
 msgid "Italic"
-msgstr ""
+msgstr "斜體"
 
 #: ../data/base.xml.in:10
 msgid "Script"
-msgstr ""
+msgstr "草書體"
 
 #: ../data/base.xml.in:11
 msgid "Double Struck"
-msgstr ""
+msgstr "雙線體"
 
 #: ../data/base.xml.in:12
 msgid "All"
@@ -76,11 +77,11 @@ msgstr "數字"
 
 #: ../data/base.xml.in:14
 msgid "Roman"
-msgstr ""
+msgstr "羅馬數字"
 
 #: ../data/base.xml.in:15
 msgid "Enclosed"
-msgstr "包起來的符號"
+msgstr "圈框字元"
 
 #: ../data/base.xml.in:16
 msgid "Fraction"
@@ -104,7 +105,7 @@ msgstr "控制"
 
 #: ../data/base.xml.in:21
 msgid "OCR"
-msgstr ""
+msgstr "光學字元辨識"
 
 #: ../data/base.xml.in:22
 msgid "Graphics"
@@ -124,11 +125,11 @@ msgstr "方塊"
 
 #: ../data/base.xml.in:26
 msgid "Geometric"
-msgstr ""
+msgstr "幾何"
 
 #: ../data/base.xml.in:27
 msgid "Braille"
-msgstr "盲人點字"
+msgstr "點字"
 
 #: ../data/base.xml.in:28
 msgid "Punctuations"
@@ -148,7 +149,7 @@ msgstr "中日韓相容"
 
 #: ../data/base.xml.in:32
 msgid "Small Form"
-msgstr "小寫"
+msgstr "小寫形式"
 
 #: ../data/cmd.xml.in:1
 msgid "Command"
@@ -160,7 +161,7 @@ msgstr "日期"
 
 #: ../data/cmd.xml.in:3
 msgid "Normal Date"
-msgstr "正常日期"
+msgstr "一般日期"
 
 #: ../data/cmd.xml.in:4
 msgid "Date and Time"
@@ -188,11 +189,11 @@ msgstr "年代"
 
 #: ../data/cmd.xml.in:10
 msgid "Century Year"
-msgstr ""
+msgstr "世紀年份"
 
 #: ../data/cmd.xml.in:11
 msgid "Normal Time"
-msgstr "正常時間"
+msgstr "一般時間"
 
 #: ../data/cmd.xml.in:12
 msgid "English Time"
@@ -216,23 +217,23 @@ msgstr "英文簡短月份"
 
 #: ../data/cmd.xml.in:17
 msgid "Weekday"
-msgstr "週日"
+msgstr "星期"
 
 #: ../data/cmd.xml.in:18
 msgid "English Weekday"
-msgstr "英文週日"
+msgstr "英文星期"
 
 #: ../data/cmd.xml.in:19
 msgid "Short Weekday"
-msgstr "簡短週日"
+msgstr "簡短星期"
 
 #: ../data/cmd.xml.in:20
 msgid "English Short Weekday"
-msgstr "英文簡短週日"
+msgstr "英文簡短星期"
 
 #: ../data/goth.xml.in:1 ../input-pad/unicode_block.h:196
 msgid "Gothic"
-msgstr "歌德文"
+msgstr "哥德文"
 
 #: ../data/input-pad.desktop.in:1 ../input-pad/dialog.ui.h:42
 #: ../input-pad/window-gtk.c:5093 ../input-pad/window-gtk.c:5094
@@ -243,1133 +244,1132 @@ msgstr "輸入板"
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-obsolete.xml.in:2
 msgid "IPA (Obsolete)"
-msgstr ""
+msgstr "國際音標（已廢棄）"
 
 #: ../data/ipa-obsolete.xml.in:3 ../data/ipa.xml.in.h:6
 msgid "Open back unrounded vowel"
-msgstr ""
+msgstr "開後不圓唇母音"
 
 #: ../data/ipa-obsolete.xml.in:4
 msgid "Palatalized voiced bilabial plosive"
-msgstr ""
+msgstr "顎化濁雙唇塞音"
 
 #: ../data/ipa-obsolete.xml.in:5
 msgid "Voiceless palatal implosive"
-msgstr ""
+msgstr "清硬顎內爆音"
 
 #: ../data/ipa-obsolete.xml.in:6 ../data/ipa.xml.in.h:138
 msgid "Alveolar click"
-msgstr ""
+msgstr "齒齦搭嘴音"
 
 #: ../data/ipa-obsolete.xml.in:7
 msgid "Palatalized voiced alveolar plosive"
-msgstr ""
+msgstr "顎化濁齒齦塞音"
 
 #: ../data/ipa-obsolete.xml.in:8 ../data/ipa.xml.in.h:25
 msgid "Voiced alveolar affricate"
-msgstr ""
+msgstr "濁齒齦塞擦音"
 
 #: ../data/ipa-obsolete.xml.in:9 ../data/ipa.xml.in.h:27
 msgid "Voiced alveopalatal affricate"
-msgstr ""
+msgstr "濁齦顎塞擦音"
 
 #: ../data/ipa-obsolete.xml.in:10 ../data/ipa.xml.in.h:26
 msgid "Voiced palato-alveolar affricate"
-msgstr ""
+msgstr "濁顎齦塞擦音"
 
 #: ../data/ipa-obsolete.xml.in:11
 msgid "Palatalized voiceless labiodental fricative"
-msgstr ""
+msgstr "顎化清唇齒擦音"
 
 #: ../data/ipa-obsolete.xml.in:12
 msgid "Palatalized voiced velar plosive"
-msgstr ""
+msgstr "顎化濁軟顎塞音"
 
 #: ../data/ipa-obsolete.xml.in:13
 msgid "Palatalized voiceless velar plosive"
-msgstr ""
+msgstr "顎化清軟顎塞音"
 
 #: ../data/ipa-obsolete.xml.in:14
 msgid "Voiceless velar implosive"
-msgstr ""
+msgstr "清軟顎內爆音"
 
 #: ../data/ipa-obsolete.xml.in:15
 msgid "Palatalized alveolar lateral approximant"
-msgstr ""
+msgstr "顎化齒齦邊近音"
 
 #: ../data/ipa-obsolete.xml.in:16
 msgid "Palatalized bilabial nasal"
-msgstr ""
+msgstr "顎化雙唇鼻音"
 
 #: ../data/ipa-obsolete.xml.in:17
 msgid "Palatalized alveolar nasal"
-msgstr ""
+msgstr "顎化齒齦鼻音"
 
 #: ../data/ipa-obsolete.xml.in:18
 msgid "Syllabic alveolar nasal"
-msgstr ""
+msgstr "音節性齒齦鼻音"
 
 #: ../data/ipa-obsolete.xml.in:19
 msgid "Palatalized voiceless bilabial plosive"
-msgstr ""
+msgstr "顎化清雙唇塞音"
 
 #: ../data/ipa-obsolete.xml.in:20
 msgid "Voiceless bilabial implosive"
-msgstr ""
+msgstr "清雙唇內爆音"
 
 #: ../data/ipa-obsolete.xml.in:21
 msgid "Palatalized alveolar trill"
-msgstr ""
+msgstr "顎化齒齦顫音"
 
 #: ../data/ipa-obsolete.xml.in:22
 msgid "Voiced strident apico-alveolar trill"
-msgstr ""
+msgstr "濁噝擦舌尖齒齦顫音"
 
 #: ../data/ipa-obsolete.xml.in:23
 msgid "Palatalized voiceless alveolar fricative"
-msgstr ""
+msgstr "顎化清齒齦擦音"
 
 #: ../data/ipa-obsolete.xml.in:24 ../data/ipa.xml.in.h:19
 msgid "Voiceless alveopalatal fricative"
-msgstr ""
+msgstr "清齦顎擦音"
 
 #: ../data/ipa-obsolete.xml.in:25
 msgid "Labialized voiceless palato-alveolar fricative"
-msgstr ""
+msgstr "唇化清顎齦擦音"
 
 #: ../data/ipa-obsolete.xml.in:26 ../data/ipa.xml.in.h:103
 msgid "Voiceless alveopalatal affricate"
-msgstr ""
+msgstr "清齦顎塞擦音"
 
 #: ../data/ipa-obsolete.xml.in:27 ../data/ipa.xml.in.h:101
 msgid "Voiceless alveolar affricate"
-msgstr ""
+msgstr "清齒齦塞擦音"
 
 #: ../data/ipa-obsolete.xml.in:28 ../data/ipa.xml.in.h:102
 msgid "Voiceless palato-alveolar affricate"
-msgstr ""
+msgstr "清顎齦塞擦音"
 
 #: ../data/ipa-obsolete.xml.in:29
 msgid "Palatalized voiceless alveolar plosive"
-msgstr ""
+msgstr "顎化清齒齦塞音"
 
 #: ../data/ipa-obsolete.xml.in:30
 msgid "Voiceless alveolar implosive"
-msgstr ""
+msgstr "清齒齦內爆音"
 
 #: ../data/ipa-obsolete.xml.in:31 ../data/ipa.xml.in.h:137
 msgid "Dental click"
-msgstr ""
+msgstr "齒搭嘴音"
 
 #: ../data/ipa-obsolete.xml.in:32
 msgid "Voiceless uvular implosive"
-msgstr ""
+msgstr "清小舌內爆音"
 
 #: ../data/ipa-obsolete.xml.in:33
 msgid "Palatalized voiced labiodental fricative"
-msgstr ""
+msgstr "顎化濁唇齒擦音"
 
 #: ../data/ipa-obsolete.xml.in:34
 msgid "Palatalized voiceless velar fricative"
-msgstr ""
+msgstr "顎化清軟顎擦音"
 
 #: ../data/ipa-obsolete.xml.in:35
 msgid "Palatalized voiced alveolar fricative"
-msgstr ""
+msgstr "顎化濁齒齦擦音"
 
 #: ../data/ipa-obsolete.xml.in:36
 msgid "Labialized voiced palato-alveolar fricative"
-msgstr ""
+msgstr "唇化濁顎齦擦音"
 
 #: ../data/ipa-obsolete.xml.in:37 ../data/ipa.xml.in.h:128
 msgid "Voiced alveopalatal fricative"
-msgstr ""
+msgstr "濁齦顎擦音"
 
 #: ../data/ipa-obsolete.xml.in:38 ../data/ipa.xml.in.h:106
 msgid "Near-close near-back vowel"
-msgstr ""
+msgstr "次閉次後母音"
 
 #: ../data/ipa-obsolete.xml.in:39 ../data/ipa.xml.in.h:140
 msgid "Alveolar lateral click"
-msgstr ""
+msgstr "齒齦邊搭嘴音"
 
 #: ../data/ipa-obsolete.xml.in:40
 msgid "Labialized voiceless alveolar or dental fricative"
-msgstr ""
+msgstr "唇化清齒齦或齒擦音"
 
 #: ../data/ipa-obsolete.xml.in:41
 msgid "Labialized voiced alveolar or dental fricative"
-msgstr ""
+msgstr "唇化濁齒齦或齒擦音"
 
 #: ../data/ipa-obsolete.xml.in:42
 msgid "Combining labialization mark"
-msgstr ""
+msgstr "結合唇化標記"
 
 #: ../data/ipa-obsolete.xml.in:43
 msgid "Combining palatalization mark"
-msgstr ""
+msgstr "結合顎化標記"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-unofficial.xml.in:2
 msgid "IPA (Unofficial)"
-msgstr ""
+msgstr "國際音標（非官方）"
 
 #: ../data/ipa-unofficial.xml.in:3
 msgid "Voiced labiodental plosive"
-msgstr ""
+msgstr "濁唇齒塞音"
 
 #: ../data/ipa-unofficial.xml.in:4 ../data/ipa.xml.in.h:18
 msgid "Voiceless palatal lateral affricate"
-msgstr ""
+msgstr "清硬顎邊塞擦音"
 
 #: ../data/ipa-unofficial.xml.in:5
 msgid "Voiced retroflex implosive"
-msgstr ""
+msgstr "濁捲舌內爆音"
 
 #: ../data/ipa-unofficial.xml.in:6 ../data/ipa.xml.in.h:88
 msgid "Alveolar flap"
-msgstr ""
+msgstr "齒齦閃音"
 
 #: ../data/ipa-unofficial.xml.in:7 ../data/ipa.xml.in.h:125
 msgid "Voiceless palatal lateral fricative"
-msgstr ""
+msgstr "清硬顎邊擦音"
 
 #: ../data/ipa-unofficial.xml.in:8 ../data/ipa.xml.in.h:91
 msgid "Retroflex flap"
-msgstr ""
+msgstr "捲舌閃音"
 
 #: ../data/ipa-unofficial.xml.in:9
 msgid "Voiceless retroflex lateral fricative"
-msgstr ""
+msgstr "清捲舌邊擦音"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in:11
 msgid "Voiceless retroflex lateral fricative (PUA)"
-msgstr ""
+msgstr "清捲舌邊擦音（PUA）"
 
 #: ../data/ipa-unofficial.xml.in:12 ../data/ipa.xml.in.h:59
 msgid "Voiceless velar lateral affricate"
-msgstr ""
+msgstr "清軟顎邊塞擦音"
 
 #: ../data/ipa-unofficial.xml.in:13 ../data/ipa.xml.in.h:68
 msgid "Voiceless velar lateral fricative"
-msgstr ""
+msgstr "清軟顎邊擦音"
 
 #: ../data/ipa-unofficial.xml.in:14
 msgid "Epiglottal trill"
-msgstr ""
+msgstr "會厭顫音"
 
 #: ../data/ipa-unofficial.xml.in:15
 msgid "Voiceless labiodental plosive"
-msgstr ""
+msgstr "清唇齒塞音"
 
 #: ../data/ipa-unofficial.xml.in:16
 msgid "Voiceless retroflex lateral affricate"
-msgstr ""
+msgstr "清捲舌邊塞擦音"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in:18
 msgid "Voiceless retroflex lateral affricate (PUA)"
-msgstr ""
+msgstr "清捲舌邊塞擦音（PUA）"
 
 #: ../data/ipa-unofficial.xml.in:19
 msgid "Combining stridency mark"
-msgstr ""
+msgstr "結合噝擦音標記"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in:21
 msgid "Combining stridency mark (PUA)"
-msgstr ""
+msgstr "結合噝擦音標記（PUA）"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa.xml.in:2
 msgid "IPA"
-msgstr ""
+msgstr "國際音標"
 
 #: ../data/ipa.xml.in:3
 msgid "Open front unrounded vowel"
-msgstr ""
+msgstr "開前不圓唇母音"
 
 #: ../data/ipa.xml.in:4
 msgid "Open central unrounded vowel"
-msgstr ""
+msgstr "開央不圓唇母音"
 
 #: ../data/ipa.xml.in:5
 msgid "Near-open central vowel"
-msgstr ""
+msgstr "次開央母音"
 
 #: ../data/ipa.xml.in:7
 msgid "Open back rounded vowel"
-msgstr ""
+msgstr "開後圓唇母音"
 
 #: ../data/ipa.xml.in:8
 msgid "Open-mid back unrounded vowel"
-msgstr ""
+msgstr "半開後不圓唇母音"
 
 #: ../data/ipa.xml.in:9
 msgid "Near-open front unrounded vowel"
-msgstr ""
+msgstr "次開前不圓唇母音"
 
 #: ../data/ipa.xml.in:10
 msgid "Voiced bilabial plosive"
-msgstr ""
+msgstr "濁雙唇塞音"
 
 #: ../data/ipa.xml.in:11
 msgid "Voiced labiodental affricate"
-msgstr ""
+msgstr "濁唇齒塞擦音"
 
 #: ../data/ipa.xml.in:12
 msgid "Voiced bilabial implosive"
-msgstr ""
+msgstr "濁雙唇內爆音"
 
 #: ../data/ipa.xml.in:13
 msgid "Bilabial trill"
-msgstr ""
+msgstr "雙唇顫音"
 
 #: ../data/ipa.xml.in:14
 msgid "Voiced bilabial fricative"
-msgstr ""
+msgstr "濁雙唇擦音"
 
 #: ../data/ipa.xml.in:15
 msgid "Voiceless palatal plosive"
-msgstr ""
+msgstr "清硬顎塞音"
 
 #: ../data/ipa.xml.in:16
 msgid "Voiceless palatal fricative"
-msgstr ""
+msgstr "清硬顎擦音"
 
 #: ../data/ipa.xml.in:17
 msgid "Voiceless palatal affricate"
-msgstr ""
+msgstr "清硬顎塞擦音"
 
 #: ../data/ipa.xml.in:20
 msgid "Voiced alveolar plosive"
-msgstr ""
+msgstr "濁齒齦塞音"
 
 #: ../data/ipa.xml.in:21
 msgid "Voiced alveolar implosive"
-msgstr ""
+msgstr "濁齒齦內爆音"
 
 #: ../data/ipa.xml.in:22
 msgid "Voiced retroflex plosive"
-msgstr ""
+msgstr "濁捲舌塞音"
 
 #: ../data/ipa.xml.in:23
 msgid "Voiced dental fricative"
-msgstr ""
+msgstr "濁齒擦音"
 
 #: ../data/ipa.xml.in:24
 msgid "Voiced alveolar lateral affricate"
-msgstr ""
+msgstr "濁齒齦邊塞擦音"
 
 #: ../data/ipa.xml.in:28
 msgid "Voiced retroflex affricate"
-msgstr ""
+msgstr "濁捲舌塞擦音"
 
 #: ../data/ipa.xml.in:29
 msgid "Close-mid front unrounded vowel"
-msgstr ""
+msgstr "半閉前不圓唇母音"
 
 #: ../data/ipa.xml.in:30
 msgid "Close-mid central unrounded vowel"
-msgstr ""
+msgstr "半閉央不圓唇母音"
 
 #: ../data/ipa.xml.in:31
 msgid "Mid-central vowel"
-msgstr ""
+msgstr "中央母音"
 
 #: ../data/ipa.xml.in:32
 msgid "Rhotacized mid-central vowel"
-msgstr ""
+msgstr "r 音化中央母音"
 
 #: ../data/ipa.xml.in:33
 msgid "Open-mid front unrounded vowel"
-msgstr ""
+msgstr "半開前不圓唇母音"
 
 #: ../data/ipa.xml.in:34
 msgid "Open-mid central rounded vowel"
-msgstr ""
+msgstr "半開央圓唇母音"
 
 #: ../data/ipa.xml.in:35
 msgid "Open-mid central unrounded vowel"
-msgstr ""
+msgstr "半開央不圓唇母音"
 
 #: ../data/ipa.xml.in:36
 msgid "Rhotacized open-mid central unrounded vowel"
-msgstr ""
+msgstr "r 音化半開央不圓唇母音"
 
 #: ../data/ipa.xml.in:37
 msgid "Voiceless labiodental fricative"
-msgstr ""
+msgstr "清唇齒擦音"
 
 #: ../data/ipa.xml.in:38
 msgid "Velopharyngeal fricative"
-msgstr ""
+msgstr "顎咽擦音"
 
 #: ../data/ipa.xml.in:39
 msgid "Voiced velar plosive"
-msgstr ""
+msgstr "濁軟顎塞音"
 
 #: ../data/ipa.xml.in:40
 msgid "Voiced labial-velar plosive"
-msgstr ""
+msgstr "濁唇軟顎塞音"
 
 #: ../data/ipa.xml.in:41
 msgid "Voiced velar implosive"
-msgstr ""
+msgstr "濁軟顎內爆音"
 
 #: ../data/ipa.xml.in:42
 msgid "Voiced uvular plosive"
-msgstr ""
+msgstr "濁小舌塞音"
 
 #: ../data/ipa.xml.in:43
 msgid "Voiced uvular implosive"
-msgstr ""
+msgstr "濁小舌內爆音"
 
 #: ../data/ipa.xml.in:44
 msgid "Voiceless glottal fricative"
-msgstr ""
+msgstr "清聲門擦音"
 
 #: ../data/ipa.xml.in:45
 msgid "Voiced glottal fricative"
-msgstr ""
+msgstr "濁聲門擦音"
 
 #: ../data/ipa.xml.in:46
 msgid "Voiceless pharyngeal fricative"
-msgstr ""
+msgstr "清咽擦音"
 
 #: ../data/ipa.xml.in:47
 msgid "Voiceless coarticulated velar and palato-alveolar fricative"
-msgstr ""
+msgstr "清協同調音軟顎與顎齦擦音"
 
 #: ../data/ipa.xml.in:48
 msgid "Voiceless epiglottal fricative"
-msgstr ""
+msgstr "清會厭擦音"
 
 #: ../data/ipa.xml.in:49
 msgid "Close front unrounded vowel"
-msgstr ""
+msgstr "閉前不圓唇母音"
 
 #: ../data/ipa.xml.in:50
 msgid "Near-close near-front unrounded vowel"
-msgstr ""
+msgstr "次閉次前不圓唇母音"
 
 #: ../data/ipa.xml.in:51
 msgid "Near-close central unrounded vowel"
-msgstr ""
+msgstr "次閉央不圓唇母音"
 
 #: ../data/ipa.xml.in:52
 msgid "Close central unrounded vowel"
-msgstr ""
+msgstr "閉央不圓唇母音"
 
 #: ../data/ipa.xml.in:53
 msgid "Palatal approximant"
-msgstr ""
+msgstr "硬顎近音"
 
 #: ../data/ipa.xml.in:54
 msgid "Voiced palatal fricative"
-msgstr ""
+msgstr "濁硬顎擦音"
 
 #: ../data/ipa.xml.in:55
 msgid "Voiced palatal plosive"
-msgstr ""
+msgstr "濁硬顎塞音"
 
 #: ../data/ipa.xml.in:56
 msgid "Voiced palatal affricate"
-msgstr ""
+msgstr "濁硬顎塞擦音"
 
 #: ../data/ipa.xml.in:57
 msgid "Voiced palatal implosive"
-msgstr ""
+msgstr "濁硬顎內爆音"
 
 #: ../data/ipa.xml.in:58
 msgid "Voiceless velar plosive"
-msgstr ""
+msgstr "清軟顎塞音"
 
 #: ../data/ipa.xml.in:60
 msgid "Voiceless labial-velar plosive"
-msgstr ""
+msgstr "清唇軟顎塞音"
 
 #: ../data/ipa.xml.in:61
 msgid "Voiceless velar affricate"
-msgstr ""
+msgstr "清軟顎塞擦音"
 
 #: ../data/ipa.xml.in:62
 msgid "Alveolar lateral approximant"
-msgstr ""
+msgstr "齒齦邊近音"
 
 #: ../data/ipa.xml.in:63
 msgid "Velarized alveolar lateral approximant"
-msgstr ""
+msgstr "軟顎化齒齦邊近音"
 
 #: ../data/ipa.xml.in:64
 msgid "Voiceless alveolar lateral fricative"
-msgstr ""
+msgstr "清齒齦邊擦音"
 
 #: ../data/ipa.xml.in:65
 msgid "Retroflex lateral approximant"
-msgstr ""
+msgstr "捲舌邊近音"
 
 #: ../data/ipa.xml.in:66
 msgid "Voiced alveolar lateral fricative"
-msgstr ""
+msgstr "濁齒齦邊擦音"
 
 #: ../data/ipa.xml.in:67
 msgid "Velar lateral approximant"
-msgstr ""
+msgstr "軟顎邊近音"
 
 #: ../data/ipa.xml.in:69
 msgid "Bilabial nasal"
-msgstr ""
+msgstr "雙唇鼻音"
 
 #: ../data/ipa.xml.in:70
 msgid "Labiodental nasal"
-msgstr ""
+msgstr "唇齒鼻音"
 
 #: ../data/ipa.xml.in:71
 msgid "Alveolar nasal"
-msgstr ""
+msgstr "齒齦鼻音"
 
 #: ../data/ipa.xml.in:72
 msgid "Velar nasal"
-msgstr ""
+msgstr "軟顎鼻音"
 
 #: ../data/ipa.xml.in:73
 msgid "Labial-velar nasal"
-msgstr ""
+msgstr "唇軟顎鼻音"
 
 #: ../data/ipa.xml.in:74
 msgid "Palatal nasal"
-msgstr ""
+msgstr "硬顎鼻音"
 
 #: ../data/ipa.xml.in:75
 msgid "Retroflex nasal"
-msgstr ""
+msgstr "捲舌鼻音"
 
 #: ../data/ipa.xml.in:76
 msgid "Uvular nasal"
-msgstr ""
+msgstr "小舌鼻音"
 
 #: ../data/ipa.xml.in:77
 msgid "Close-mid back rounded vowel"
-msgstr ""
+msgstr "半閉後圓唇母音"
 
 #: ../data/ipa.xml.in:78
 msgid "Close-mid front rounded vowel"
-msgstr ""
+msgstr "半閉前圓唇母音"
 
 #: ../data/ipa.xml.in:79
 msgid "Close-mid central rounded vowel"
-msgstr ""
+msgstr "半閉央圓唇母音"
 
 #: ../data/ipa.xml.in:80
 msgid "Open-mid front rounded vowel"
-msgstr ""
+msgstr "半開前圓唇母音"
 
 #: ../data/ipa.xml.in:81
 msgid "Open front rounded vowel"
-msgstr ""
+msgstr "開前圓唇母音"
 
 #: ../data/ipa.xml.in:82
 msgid "Voiceless bilabial plosive"
-msgstr ""
+msgstr "清雙唇塞音"
 
 #: ../data/ipa.xml.in:83
 msgid "Voiceless bilabial-labiodental affricate"
-msgstr ""
+msgstr "清雙唇唇齒塞擦音"
 
 #: ../data/ipa.xml.in:84
 msgid "Voiceless bilabial affricate"
-msgstr ""
+msgstr "清雙唇塞擦音"
 
 #: ../data/ipa.xml.in:85
 msgid "Voiceless labiodental affricate"
-msgstr ""
+msgstr "清唇齒塞擦音"
 
 #: ../data/ipa.xml.in:86
 msgid "Voiceless uvular plosive"
-msgstr ""
+msgstr "清小舌塞音"
 
 #: ../data/ipa.xml.in:87
 msgid "Alveolar trill"
-msgstr ""
+msgstr "齒齦顫音"
 
 #: ../data/ipa.xml.in:89
 msgid "Alveolar lateral flap"
-msgstr ""
+msgstr "齒齦邊閃音"
 
 #: ../data/ipa.xml.in:90
 msgid "Uvular trill"
-msgstr ""
+msgstr "小舌顫音"
 
 #: ../data/ipa.xml.in:92
 msgid "Alveolar approximant"
-msgstr ""
+msgstr "齒齦近音"
 
 #: ../data/ipa.xml.in:93
 msgid "Retroflex approximant"
-msgstr ""
+msgstr "捲舌近音"
 
 #: ../data/ipa.xml.in:94
 msgid "Voiced uvular fricative"
-msgstr ""
+msgstr "濁小舌擦音"
 
 #: ../data/ipa.xml.in:95
 msgid "Voiceless alveolar fricative"
-msgstr ""
+msgstr "清齒齦擦音"
 
 #: ../data/ipa.xml.in:96
 msgid "Voiceless palato-alveolar fricative"
-msgstr ""
+msgstr "清顎齦擦音"
 
 #: ../data/ipa.xml.in:97
 msgid "Voiceless retroflex fricative"
-msgstr ""
+msgstr "清捲舌擦音"
 
 #: ../data/ipa.xml.in:98
 msgid "Voiceless alveolar plosive"
-msgstr ""
+msgstr "清齒齦塞音"
 
 #: ../data/ipa.xml.in:99
 msgid "Voiceless retroflex plosive"
-msgstr ""
+msgstr "清捲舌塞音"
 
 #: ../data/ipa.xml.in:100
 msgid "Voiceless alveolar lateral affricate"
-msgstr ""
+msgstr "清齒齦邊塞擦音"
 
 #: ../data/ipa.xml.in:104
 msgid "Voiceless retroflex affricate"
-msgstr ""
+msgstr "清捲舌塞擦音"
 
 #: ../data/ipa.xml.in:105
 msgid "Close back rounded vowel"
-msgstr ""
+msgstr "閉後圓唇母音"
 
 #: ../data/ipa.xml.in:107
 msgid "Near-close central vowel"
-msgstr ""
+msgstr "次閉央母音"
 
 #: ../data/ipa.xml.in:108
 msgid "Close central rounded vowel"
-msgstr ""
+msgstr "閉央圓唇母音"
 
 #: ../data/ipa.xml.in:109
 msgid "Labial-palatal approximant"
-msgstr ""
+msgstr "唇硬顎近音"
 
 #: ../data/ipa.xml.in:110
 msgid "Close back unrounded vowel"
-msgstr ""
+msgstr "閉後不圓唇母音"
 
 #: ../data/ipa.xml.in:111
 msgid "Voiced labiodental fricative"
-msgstr ""
+msgstr "濁唇齒擦音"
 
 #: ../data/ipa.xml.in:112
 msgid "Labiodental flap"
-msgstr ""
+msgstr "唇齒閃音"
 
 #: ../data/ipa.xml.in:113
 msgid "Labiodental approximant"
-msgstr ""
+msgstr "唇齒近音"
 
 #: ../data/ipa.xml.in:114
 msgid "Voiced velar fricative"
-msgstr ""
+msgstr "濁軟顎擦音"
 
 #: ../data/ipa.xml.in:115
 msgid "Close-mid back unrounded vowel"
-msgstr ""
+msgstr "半閉後不圓唇母音"
 
 #: ../data/ipa.xml.in:116
 msgid "Voiced labiovelar approximant"
-msgstr ""
+msgstr "濁唇軟顎近音"
 
 #: ../data/ipa.xml.in:117
 msgid "Voiceless labiovelar approximant"
-msgstr ""
+msgstr "清唇軟顎近音"
 
 #: ../data/ipa.xml.in:118
 msgid "Velar approximant"
-msgstr ""
+msgstr "軟顎近音"
 
 #: ../data/ipa.xml.in:119
 msgid "Bilabial percussive"
-msgstr ""
+msgstr "雙唇敲擊音"
 
 #: ../data/ipa.xml.in:120
 msgid "Voiceless velar fricative"
-msgstr ""
+msgstr "清軟顎擦音"
 
 #: ../data/ipa.xml.in:121
 msgid "Voiceless uvular fricative"
-msgstr ""
+msgstr "清小舌擦音"
 
 #: ../data/ipa.xml.in:122
 msgid "Close front rounded vowel"
-msgstr ""
+msgstr "閉前圓唇母音"
 
 #: ../data/ipa.xml.in:123
 msgid "Near-close near-front rounded vowel"
-msgstr ""
+msgstr "次閉次前圓唇母音"
 
 #: ../data/ipa.xml.in:124
 msgid "Palatal lateral approximant"
-msgstr ""
+msgstr "硬顎邊近音"
 
 #: ../data/ipa.xml.in:126
 msgid "Voiced alveolar fricative"
-msgstr ""
+msgstr "濁齒齦擦音"
 
 #: ../data/ipa.xml.in:127
 msgid "Voiced palato-alveolar fricative"
-msgstr ""
+msgstr "濁顎齦擦音"
 
 #: ../data/ipa.xml.in:129
 msgid "Voiced retroflex fricative"
-msgstr ""
+msgstr "濁捲舌擦音"
 
 #: ../data/ipa.xml.in:130
 msgid "Voiceless dental fricative"
-msgstr ""
+msgstr "清齒擦音"
 
 #: ../data/ipa.xml.in:131
 msgid "Voiceless bilabial fricative"
-msgstr ""
+msgstr "清雙唇擦音"
 
 #: ../data/ipa.xml.in:132
 msgid "Glottal stop"
-msgstr "子群組"
+msgstr "聲門塞音"
 
 #: ../data/ipa.xml.in:133
 msgid "Epiglottal plosive"
-msgstr ""
+msgstr "會厭塞音"
 
 #: ../data/ipa.xml.in:134
 msgid "Voiced pharyngeal fricative"
-msgstr ""
+msgstr "濁咽擦音"
 
 #: ../data/ipa.xml.in:135
 msgid "Voiced epiglottal fricative"
-msgstr ""
+msgstr "濁會厭擦音"
 
 #: ../data/ipa.xml.in:136
 msgid "Bilabial click"
-msgstr ""
+msgstr "雙唇搭嘴音"
 
 #: ../data/ipa.xml.in:139
 msgid "Palatal click"
-msgstr ""
+msgstr "硬顎搭嘴音"
 
 #: ../data/ipa.xml.in:141
 msgid "Bidental percussive"
-msgstr ""
+msgstr "雙齒敲擊音"
 
 #: ../data/ipa.xml.in:142
 msgid "Aspiration mark"
-msgstr ""
+msgstr "送氣標記"
 
 #: ../data/ipa.xml.in:143
 msgid "Non-aspiration mark"
-msgstr ""
+msgstr "非送氣標記"
 
 #: ../data/ipa.xml.in:144
 msgid "Breathy voice mark"
-msgstr ""
+msgstr "氣聲標記"
 
 #: ../data/ipa.xml.in:145
 msgid "Palatalization mark"
-msgstr ""
+msgstr "顎化標記"
 
 #: ../data/ipa.xml.in:146
 msgid "Lateral release mark"
-msgstr ""
+msgstr "邊釋放標記"
 
 #: ../data/ipa.xml.in:147
 msgid "Bilabial nasal release mark"
-msgstr ""
+msgstr "雙唇鼻音釋放標記"
 
 #: ../data/ipa.xml.in:148
 msgid "Labiodental nasal release mark"
-msgstr ""
+msgstr "唇齒鼻音釋放標記"
 
 #: ../data/ipa.xml.in:149
 msgid "Alveolar nasal release mark"
-msgstr ""
+msgstr "齒齦鼻音釋放標記"
 
 #: ../data/ipa.xml.in:150
 msgid "Palatal nasal release mark"
-msgstr ""
+msgstr "硬顎鼻音釋放標記"
 
 #: ../data/ipa.xml.in:151
 msgid "Retroflex nasal release mark"
-msgstr ""
+msgstr "捲舌鼻音釋放標記"
 
 #: ../data/ipa.xml.in:152
 msgid "Uvular nasal release mark"
-msgstr ""
+msgstr "小舌鼻音釋放標記"
 
 #: ../data/ipa.xml.in:153
 msgid "Labio-palatalization mark"
-msgstr ""
+msgstr "唇顎化標記"
 
 #: ../data/ipa.xml.in:154
 msgid "Labiodentalization mark"
-msgstr ""
+msgstr "唇齒化標記"
 
 #: ../data/ipa.xml.in:155
 msgid "Labialization mark"
-msgstr ""
+msgstr "唇化標記"
 
 #: ../data/ipa.xml.in:156
 msgid "Velarization mark"
-msgstr ""
+msgstr "軟顎化標記"
 
 #: ../data/ipa.xml.in:157
 msgid "Glottalization mark"
-msgstr ""
+msgstr "聲門化標記"
 
 #: ../data/ipa.xml.in:158
 msgid "Pharyngealization mark"
-msgstr ""
+msgstr "咽化標記"
 
 #: ../data/ipa.xml.in:159
 msgid "Combining velarization/pharyngealization mark"
-msgstr ""
+msgstr "結合軟顎化／咽化標記"
 
 #: ../data/ipa.xml.in:160
 msgid "Combining laryngealization mark"
-msgstr ""
+msgstr "結合喉化標記"
 
 #: ../data/ipa.xml.in:161
 msgid "Combining retroflexion mark"
-msgstr ""
+msgstr "結合捲舌化標記"
 
 #: ../data/ipa.xml.in:162
 msgid "Ejection mark"
-msgstr ""
+msgstr "擠喉標記"
 
 #: ../data/ipa.xml.in:163
 msgid "Rhotacization mark"
-msgstr ""
+msgstr "r 音化標記"
 
 #: ../data/ipa.xml.in:164
 msgid "Combining dentalization mark"
-msgstr ""
+msgstr "結合齒化標記"
 
 #: ../data/ipa.xml.in:165
 msgid "Combining dentolabialization mark"
-msgstr ""
+msgstr "結合齒唇化標記"
 
 #: ../data/ipa.xml.in:166
 msgid "Combining alveolarization mark"
-msgstr ""
+msgstr "結合齒齦化標記"
 
 #: ../data/ipa.xml.in:167
 msgid "Combining linguolabialization mark"
-msgstr ""
+msgstr "結合舌唇化標記"
 
 #: ../data/ipa.xml.in:168
 msgid "Combining apicalization mark"
-msgstr ""
+msgstr "結合舌尖化標記"
 
 #: ../data/ipa.xml.in:169
 msgid "Combining laminalization mark"
-msgstr ""
+msgstr "結合舌葉化標記"
 
 #: ../data/ipa.xml.in:170
 msgid "Combining centralization mark"
-msgstr ""
+msgstr "結合央化標記"
 
 #: ../data/ipa.xml.in:171
 msgid "Combining mid-centralization mark"
-msgstr ""
+msgstr "結合中央化標記"
 
 #: ../data/ipa.xml.in:172
 msgid "Combining nasalization mark"
-msgstr ""
+msgstr "結合鼻化標記"
 
 #: ../data/ipa.xml.in:173
 msgid "Combining nasalization mark below"
-msgstr ""
+msgstr "結合鼻化標記（下）"
 
 #: ../data/ipa.xml.in:174
 msgid "Combining denasalization mark"
-msgstr ""
+msgstr "結合去鼻化標記"
 
 #: ../data/ipa.xml.in:175
 msgid "Combining nasal friction mark"
-msgstr ""
+msgstr "結合鼻擦音標記"
 
 #: ../data/ipa.xml.in:176
 msgid "Combining velopharyngeal friction mark"
-msgstr ""
+msgstr "結合顎咽擦音標記"
 
 #: ../data/ipa.xml.in:177
 msgid "Combining voiced mark"
-msgstr ""
+msgstr "結合濁音標記"
 
 #: ../data/ipa.xml.in:178
 msgid "Combining voiceless mark"
-msgstr ""
+msgstr "結合清音標記"
 
 #: ../data/ipa.xml.in:179
 msgid "Combining voiceless mark above"
-msgstr ""
+msgstr "結合清音標記（上）"
 
 #: ../data/ipa.xml.in:180
 msgid "Pre-voicing/post-voicing mark"
-msgstr ""
+msgstr "前濁化／後濁化標記"
 
 #: ../data/ipa.xml.in:181
 msgid "Combining breathy voice mark"
-msgstr ""
+msgstr "結合氣聲標記"
 
 #: ../data/ipa.xml.in:182
 msgid "Combining unreleased stop mark"
-msgstr ""
+msgstr "結合無釋放塞音標記"
 
 #: ../data/ipa.xml.in:183
 msgid "Combining more rounded mark"
-msgstr ""
+msgstr "結合較圓唇標記"
 
 #: ../data/ipa.xml.in:184
 msgid "Combining less rounded mark"
-msgstr ""
+msgstr "結合較不圓唇標記"
 
 #: ../data/ipa.xml.in:185
 msgid "Combining labial spreading mark"
-msgstr ""
+msgstr "結合展唇標記"
 
 #: ../data/ipa.xml.in:186
 msgid "Combining syllabic mark"
-msgstr ""
+msgstr "結合音節性標記"
 
 #: ../data/ipa.xml.in:187
 msgid "Combining syllabic mark above"
-msgstr ""
+msgstr "結合音節性標記（上）"
 
 #: ../data/ipa.xml.in:188
 msgid "Combining non-syllabic mark"
-msgstr ""
+msgstr "結合非音節性標記"
 
 #: ../data/ipa.xml.in:189
 msgid "Combining non-syllabic mark above"
-msgstr ""
+msgstr "結合非音節性標記（上）"
 
 #: ../data/ipa.xml.in:190
 msgid "Combining top tone mark"
-msgstr ""
+msgstr "結合頂聲調標記"
 
 #: ../data/ipa.xml.in:191
 msgid "Combining high tone mark"
-msgstr ""
+msgstr "結合高聲調標記"
 
 #: ../data/ipa.xml.in:192
 msgid "Combining mid tone mark"
-msgstr ""
+msgstr "結合中聲調標記"
 
 #: ../data/ipa.xml.in:193
 msgid "Combining low tone mark"
-msgstr ""
+msgstr "結合低聲調標記"
 
 #: ../data/ipa.xml.in:194
 msgid "Combining bottom tone mark"
-msgstr ""
+msgstr "結合底聲調標記"
 
 #: ../data/ipa.xml.in:195
 msgid "Combining falling tone mark"
-msgstr ""
+msgstr "結合降聲調標記"
 
 #: ../data/ipa.xml.in:196
 msgid "Combining high falling tone mark"
-msgstr ""
+msgstr "結合高降聲調標記"
 
 #: ../data/ipa.xml.in:197
 msgid "Combining low falling tone mark"
-msgstr ""
+msgstr "結合低降聲調標記"
 
 #: ../data/ipa.xml.in:198
 msgid "Combining rising tone mark"
-msgstr ""
+msgstr "結合升聲調標記"
 
 #: ../data/ipa.xml.in:199
 msgid "Combining high rising tone mark"
-msgstr ""
+msgstr "結合高升聲調標記"
 
 #: ../data/ipa.xml.in:200
 msgid "Combining low rising tone mark"
-msgstr ""
+msgstr "結合低升聲調標記"
 
 #: ../data/ipa.xml.in:201
 msgid "Combining dipping tone mark"
-msgstr ""
+msgstr "結合降升聲調標記"
 
 #: ../data/ipa.xml.in:202
 msgid "Combining peaking tone mark"
-msgstr ""
+msgstr "結合升降聲調標記"
 
 #: ../data/ipa.xml.in:203
 msgid "Top tone letter"
-msgstr ""
+msgstr "頂聲調字元"
 
 #: ../data/ipa.xml.in:204
 msgid "High tone letter"
-msgstr ""
+msgstr "高聲調字元"
 
 #: ../data/ipa.xml.in:205
 msgid "Mid tone letter"
-msgstr ""
+msgstr "中聲調字元"
 
 #: ../data/ipa.xml.in:206
 msgid "Low tone letter"
-msgstr ""
+msgstr "低聲調字元"
 
 #: ../data/ipa.xml.in:207
 msgid "Bottom tone letter"
-msgstr ""
+msgstr "底聲調字元"
 
 #: ../data/ipa.xml.in:208
 msgid "Falling tone digraph"
-msgstr ""
+msgstr "降聲調雙字元"
 
 #: ../data/ipa.xml.in:209
 msgid "High falling tone digraph"
-msgstr ""
+msgstr "高降聲調雙字元"
 
 #: ../data/ipa.xml.in:210
 msgid "Rising tone digraph"
-msgstr ""
+msgstr "升聲調雙字元"
 
 #: ../data/ipa.xml.in:211
 msgid "High rising tone digraph"
-msgstr ""
+msgstr "高升聲調雙字元"
 
 #: ../data/ipa.xml.in:212
 msgid "Low rising tone digraph"
-msgstr ""
+msgstr "低升聲調雙字元"
 
 #: ../data/ipa.xml.in:213
 msgid "Dipping tone trigraph"
-msgstr ""
+msgstr "降升聲調三字元"
 
 #: ../data/ipa.xml.in:214
 msgid "Peaking tone trigraph"
-msgstr ""
+msgstr "升降聲調三字元"
 
 #: ../data/ipa.xml.in:215
-#, fuzzy
 msgid "Upstep mark"
-msgstr "重音標記"
+msgstr "升階標記"
 
 #: ../data/ipa.xml.in:216
 msgid "Downstep mark"
-msgstr ""
+msgstr "降階標記"
 
 #: ../data/ipa.xml.in:217
 msgid "Minor break"
-msgstr ""
+msgstr "次要停頓"
 
 #: ../data/ipa.xml.in:218
 msgid "Major break"
-msgstr ""
+msgstr "主要停頓"
 
 #: ../data/ipa.xml.in:219
 msgid "Rising intonation mark"
-msgstr ""
+msgstr "升語調標記"
 
 #: ../data/ipa.xml.in:220
 msgid "Falling intonation mark"
-msgstr ""
+msgstr "降語調標記"
 
 #: ../data/ipa.xml.in:221
 msgid "Advanced articulation mark"
-msgstr ""
+msgstr "前移調音標記"
 
 #: ../data/ipa.xml.in:222
 msgid "Retracted articulation mark"
-msgstr ""
+msgstr "後縮調音標記"
 
 #: ../data/ipa.xml.in:223
 msgid "Combining advanced articulation mark"
-msgstr ""
+msgstr "結合前移調音標記"
 
 #: ../data/ipa.xml.in:224
 msgid "Combining retracted articulation mark"
-msgstr ""
+msgstr "結合後縮調音標記"
 
 #: ../data/ipa.xml.in:225
 msgid "Raised sound mark"
-msgstr ""
+msgstr "提高音標記"
 
 #: ../data/ipa.xml.in:226
 msgid "Lowered sound mark"
-msgstr ""
+msgstr "降低音標記"
 
 #: ../data/ipa.xml.in:227
 msgid "Combining raised sound mark"
-msgstr ""
+msgstr "結合提高音標記"
 
 #: ../data/ipa.xml.in:228
 msgid "Combining lowered sound mark"
-msgstr ""
+msgstr "結合降低音標記"
 
 #: ../data/ipa.xml.in:229
 msgid "Combining tongue root advancement mark"
-msgstr ""
+msgstr "結合舌根前移標記"
 
 #: ../data/ipa.xml.in:230
 msgid "Combining tongue root retraction mark"
-msgstr ""
+msgstr "結合舌根後縮標記"
 
 #: ../data/ipa.xml.in:231
 msgid "Combining strong articulation mark"
-msgstr ""
+msgstr "結合強調音標記"
 
 #: ../data/ipa.xml.in:232
 msgid "Combining weak articulation mark"
-msgstr ""
+msgstr "結合弱調音標記"
 
 #: ../data/ipa.xml.in:233
 msgid "Combining whistled articulation mark"
-msgstr ""
+msgstr "結合口哨調音標記"
 
 #: ../data/ipa.xml.in:234
 msgid "Combining sliding articulation mark"
-msgstr ""
+msgstr "結合滑動調音標記"
 
 #: ../data/ipa.xml.in:235
 msgid "Egression mark"
-msgstr ""
+msgstr "呼氣標記"
 
 #: ../data/ipa.xml.in:236
 msgid "Ingression mark"
-msgstr ""
+msgstr "吸氣標記"
 
 #: ../data/ipa.xml.in:237
 msgid "Combining ligature tie"
-msgstr ""
+msgstr "結合連字線"
 
 #: ../data/ipa.xml.in:238
 msgid "Combining ligature undertie"
-msgstr ""
+msgstr "結合連字下線"
 
 #: ../data/ipa.xml.in:239
 msgid "Elongation mark"
-msgstr ""
+msgstr "延長標記"
 
 #: ../data/ipa.xml.in:240
 msgid "Weak elongation mark"
-msgstr ""
+msgstr "弱延長標記"
 
 #: ../data/ipa.xml.in:241
 msgid "Combining extra-short duration mark"
-msgstr ""
+msgstr "結合超短時長標記"
 
 #: ../data/ipa.xml.in:242
 msgid "Liaison mark"
-msgstr ""
+msgstr "連音標記"
 
 #: ../data/ipa.xml.in:243
 msgid "Stress mark"
@@ -1377,7 +1377,7 @@ msgstr "重音標記"
 
 #: ../data/ipa.xml.in:244
 msgid "Weak stress mark"
-msgstr ""
+msgstr "弱重音標記"
 
 #: ../data/ipa.xml.in:245
 msgid "Syllable break"
@@ -1385,11 +1385,11 @@ msgstr "音節分隔"
 
 #: ../data/ipa.xml.in:246
 msgid "Opening orthographic bracket"
-msgstr ""
+msgstr "左拼字括號"
 
 #: ../data/ipa.xml.in:247
 msgid "Closing orthographic bracket"
-msgstr ""
+msgstr "右拼字括號"
 
 #: ../data/ja.xml.in:1
 msgid "Japanese"
@@ -1421,7 +1421,7 @@ msgstr "功能鍵"
 
 #: ../data/keyboard.xml.in:3
 msgid "Key Pad"
-msgstr ""
+msgstr "鍵盤區"
 
 #: ../data/latin.xml.in:1
 msgid "ASCII"
@@ -1437,27 +1437,27 @@ msgstr "拉丁字擴充-A"
 
 #: ../data/latin.xml.in:4
 msgid "Old and Middle English"
-msgstr ""
+msgstr "古英文與中古英文"
 
 #: ../data/runr.xml.in:1
 msgid "Runes (Unicode Block)"
-msgstr ""
+msgstr "盧恩字母（Unicode 區塊）"
 
 #: ../data/runr.xml.in:2
 msgid "Runes (Elder Fuþark)"
-msgstr ""
+msgstr "盧恩字母（古弗薩克）"
 
 #: ../data/runr.xml.in:3
 msgid "Runes (Younger Fuþark)"
-msgstr ""
+msgstr "盧恩字母（新弗薩克）"
 
 #: ../data/runr.xml.in:4
 msgid "Runes (Fuþorc)"
-msgstr ""
+msgstr "盧恩字母（弗托克）"
 
 #: ../data/shaw.xml.in:1 ../input-pad/unicode_block.h:200
 msgid "Shavian"
-msgstr "肅伯納字母"
+msgstr "蕭伯納字母"
 
 #: ../data/str.xml.in:1
 msgid "Chat"
@@ -1469,143 +1469,143 @@ msgstr "繪文字"
 
 #: ../data/str.xml.in:3
 msgid "Rain"
-msgstr ""
+msgstr "雨"
 
 #: ../data/str.xml.in:4
 msgid "Comet"
-msgstr ""
+msgstr "彗星"
 
 #: ../data/str.xml.in:5
 msgid "Cross"
-msgstr ""
+msgstr "十字"
 
 #: ../data/str.xml.in:6
 msgid "Solar"
-msgstr ""
+msgstr "太陽"
 
 #: ../data/str.xml.in:7
 msgid "Mercury"
-msgstr ""
+msgstr "水星"
 
 #: ../data/str.xml.in:8
 msgid "Venus"
-msgstr ""
+msgstr "金星"
 
 #: ../data/str.xml.in:9
 msgid "Earth"
-msgstr ""
+msgstr "地球"
 
 #: ../data/str.xml.in:10
 msgid "Mars"
-msgstr ""
+msgstr "火星"
 
 #: ../data/str.xml.in:11
 msgid "Jupiter"
-msgstr ""
+msgstr "木星"
 
 #: ../data/str.xml.in:12
 msgid "Saturn"
-msgstr ""
+msgstr "土星"
 
 #: ../data/str.xml.in:13
 msgid "Uranus"
-msgstr ""
+msgstr "天王星"
 
 #: ../data/str.xml.in:14
 msgid "Neptune"
-msgstr ""
+msgstr "海王星"
 
 #: ../data/str.xml.in:15
 msgid "Pluto"
-msgstr ""
+msgstr "冥王星"
 
 #: ../data/str.xml.in:16
 msgid "Aries"
-msgstr ""
+msgstr "牡羊座"
 
 #: ../data/str.xml.in:17
 msgid "Taurus"
-msgstr ""
+msgstr "金牛座"
 
 #: ../data/str.xml.in:18
 msgid "Gemini"
-msgstr ""
+msgstr "雙子座"
 
 #: ../data/str.xml.in:19
 msgid "Cancer"
-msgstr "取消"
+msgstr "巨蟹座"
 
 #: ../data/str.xml.in:20
 msgid "Leo"
-msgstr ""
+msgstr "獅子座"
 
 #: ../data/str.xml.in:21
 msgid "Virgo"
-msgstr ""
+msgstr "處女座"
 
 #: ../data/str.xml.in:22
 msgid "Libra"
-msgstr ""
+msgstr "天秤座"
 
 #: ../data/str.xml.in:23
 msgid "Scorpius"
-msgstr ""
+msgstr "天蠍座"
 
 #: ../data/str.xml.in:24
 msgid "Sagittarius"
-msgstr ""
+msgstr "射手座"
 
 #: ../data/str.xml.in:25
 msgid "Capricorn"
-msgstr ""
+msgstr "摩羯座"
 
 #: ../data/str.xml.in:26
 msgid "Aquarius"
-msgstr ""
+msgstr "水瓶座"
 
 #: ../data/str.xml.in:27
 msgid "Pisces"
-msgstr ""
+msgstr "雙魚座"
 
 #: ../data/str.xml.in:28
 msgid "Dice 1"
-msgstr ""
+msgstr "骰子 1"
 
 #: ../data/str.xml.in:29
 msgid "Dice 2"
-msgstr ""
+msgstr "骰子 2"
 
 #: ../data/str.xml.in:30
 msgid "Dice 3"
-msgstr ""
+msgstr "骰子 3"
 
 #: ../data/str.xml.in:31
 msgid "Dice 4"
-msgstr ""
+msgstr "骰子 4"
 
 #: ../data/str.xml.in:32
 msgid "Dice 5"
-msgstr ""
+msgstr "骰子 5"
 
 #: ../data/str.xml.in:33
 msgid "Dice 6"
-msgstr ""
+msgstr "骰子 6"
 
 #: ../data/str.xml.in:34
 msgid "Anchor"
-msgstr ""
+msgstr "錨"
 
 #: ../data/str.xml.in:35
 msgid "Sword"
-msgstr ""
+msgstr "劍"
 
 #: ../data/str.xml.in:36
 msgid "Scales"
-msgstr ""
+msgstr "天秤"
 
 #: ../data/str.xml.in:37
 msgid "Conversation"
-msgstr ""
+msgstr "對話"
 
 #: ../data/str.xml.in:38
 msgid "Warning"
@@ -1613,455 +1613,455 @@ msgstr "警告"
 
 #: ../data/str.xml.in:39
 msgid "Thunder"
-msgstr ""
+msgstr "雷"
 
 #: ../data/str.xml.in:40
 msgid "Coffin"
-msgstr ""
+msgstr "棺材"
 
 #: ../data/str.xml.in:41
 msgid "Gender"
-msgstr ""
+msgstr "性別"
 
 #: ../data/str.xml.in:42
 msgid "Soccer"
-msgstr ""
+msgstr "足球"
 
 #: ../data/str.xml.in:43
 msgid "Baseball"
-msgstr ""
+msgstr "棒球"
 
 #: ../data/str.xml.in:44
 msgid "Snowman"
-msgstr ""
+msgstr "雪人"
 
 #: ../data/str.xml.in:45
 msgid "Shogi"
-msgstr ""
+msgstr "將棋"
 
 #: ../data/str.xml.in:46
 msgid "Shoji"
-msgstr ""
+msgstr "將棋棋子"
 
 #: ../data/str.xml.in:47
 msgid "Maintenance"
-msgstr "保養"
+msgstr "施工"
 
 #: ../data/str.xml.in:48
 msgid "Roadblock"
-msgstr ""
+msgstr "路障"
 
 #: ../data/str.xml.in:49
 msgid "No entry"
-msgstr ""
+msgstr "禁止進入"
 
 #: ../data/str.xml.in:50
 msgid "Truck"
-msgstr ""
+msgstr "卡車"
 
 #: ../data/str.xml.in:51
 msgid "Torii"
-msgstr ""
+msgstr "鳥居"
 
 #: ../data/str.xml.in:52
 msgid "Church"
-msgstr ""
+msgstr "教堂"
 
 #: ../data/str.xml.in:53
 msgid "Castle"
-msgstr ""
+msgstr "城堡"
 
 #: ../data/str.xml.in:54
 msgid "Historic site"
-msgstr ""
+msgstr "古蹟"
 
 #: ../data/str.xml.in:55
 msgid "Power station"
-msgstr ""
+msgstr "發電站"
 
 #: ../data/str.xml.in:56
 msgid "Lighthouse"
-msgstr ""
+msgstr "燈塔"
 
 #: ../data/str.xml.in:57
 msgid "Mountain"
-msgstr ""
+msgstr "山"
 
 #: ../data/str.xml.in:58
 msgid "Beach"
-msgstr ""
+msgstr "海灘"
 
 #: ../data/str.xml.in:59
 msgid "Park"
-msgstr ""
+msgstr "公園"
 
 #: ../data/str.xml.in:60
 msgid "Ferry"
-msgstr ""
+msgstr "渡輪"
 
 #: ../data/str.xml.in:61
 msgid "Sailboat"
-msgstr ""
+msgstr "帆船"
 
 #: ../data/str.xml.in:62
 msgid "Ice rink"
-msgstr ""
+msgstr "溜冰場"
 
 #: ../data/str.xml.in:63
 msgid "Scissors"
-msgstr ""
+msgstr "剪刀"
 
 #: ../data/str.xml.in:64
 msgid "Airplane"
-msgstr ""
+msgstr "飛機"
 
 #: ../data/str.xml.in:65
 msgid "Clenched Fist"
-msgstr ""
+msgstr "緊握拳頭"
 
 #: ../data/str.xml.in:66
 msgid "Hand"
-msgstr ""
+msgstr "手"
 
 #: ../data/str.xml.in:67
 msgid "V Sign"
-msgstr ""
+msgstr "V 手勢"
 
 #: ../data/str.xml.in:68
 msgid "Writing"
-msgstr "寫入"
+msgstr "書寫"
 
 #: ../data/str.xml.in:69
 msgid "Pencil"
-msgstr ""
+msgstr "鉛筆"
 
 #: ../data/str.xml.in:70
 msgid "Pen"
-msgstr ""
+msgstr "筆"
 
 #: ../data/str.xml.in:71
 msgid "Star"
-msgstr "星"
+msgstr "星星"
 
 #: ../data/str.xml.in:72
 msgid "Typhoon"
-msgstr ""
+msgstr "颱風"
 
 #: ../data/str.xml.in:73
 msgid "Fog"
-msgstr ""
+msgstr "霧"
 
 #: ../data/str.xml.in:74
 msgid "Umbrella"
-msgstr ""
+msgstr "傘"
 
 #: ../data/str.xml.in:75
 msgid "Night sky"
-msgstr ""
+msgstr "夜空"
 
 #: ../data/str.xml.in:76
 msgid "Sunrise"
-msgstr ""
+msgstr "日出"
 
 #: ../data/str.xml.in:77
 msgid "Sunset"
-msgstr ""
+msgstr "日落"
 
 #: ../data/str.xml.in:78
 msgid "Bridge"
-msgstr "橋接網路"
+msgstr "橋"
 
 #: ../data/str.xml.in:79
 msgid "Wave"
-msgstr ""
+msgstr "波浪"
 
 #: ../data/str.xml.in:80
 msgid "New Moon"
-msgstr ""
+msgstr "新月"
 
 #: ../data/str.xml.in:81
 msgid "Crescent Moon"
-msgstr ""
+msgstr "眉月"
 
 #: ../data/str.xml.in:82
 msgid "Quarter Moon"
-msgstr ""
+msgstr "弦月"
 
 #: ../data/str.xml.in:83
 msgid "Gibbous Moon"
-msgstr ""
+msgstr "凸月"
 
 #: ../data/str.xml.in:84
 msgid "Full Moon"
-msgstr ""
+msgstr "滿月"
 
 #: ../data/str.xml.in:85
 msgid "Moon"
-msgstr "月"
+msgstr "月亮"
 
 #: ../data/str.xml.in:86
 msgid "Sun"
-msgstr ""
+msgstr "太陽"
 
 #: ../data/str.xml.in:87
 msgid "Cloud"
-msgstr ""
+msgstr "雲"
 
 #: ../data/str.xml.in:88
 msgid "Palm"
-msgstr ""
+msgstr "棕櫚樹"
 
 #: ../data/str.xml.in:89
 msgid "Hot Pepper"
-msgstr ""
+msgstr "辣椒"
 
 #: ../data/str.xml.in:90
 msgid "Flower"
-msgstr ""
+msgstr "花"
 
 #: ../data/str.xml.in:91
 msgid "Tulip"
-msgstr ""
+msgstr "鬱金香"
 
 #: ../data/str.xml.in:92
 msgid "Cherry"
-msgstr ""
+msgstr "櫻花"
 
 #: ../data/str.xml.in:93
 msgid "Rose"
-msgstr ""
+msgstr "玫瑰"
 
 #: ../data/str.xml.in:94
 msgid "Hibiscus"
-msgstr ""
+msgstr "扶桑花"
 
 #: ../data/str.xml.in:95
 msgid "Sunflower"
-msgstr ""
+msgstr "向日葵"
 
 #: ../data/str.xml.in:96
 msgid "Blossom"
-msgstr ""
+msgstr "花朵"
 
 #: ../data/str.xml.in:97
 msgid "Clover"
-msgstr ""
+msgstr "幸運草"
 
 #: ../data/str.xml.in:98
 msgid "Maple"
-msgstr ""
+msgstr "楓葉"
 
 #: ../data/str.xml.in:99
 msgid "Fallen Leaf"
-msgstr ""
+msgstr "落葉"
 
 #: ../data/str.xml.in:100
 msgid "Leaf"
-msgstr ""
+msgstr "葉子"
 
 #: ../data/str.xml.in:101
 msgid "Mushroom"
-msgstr ""
+msgstr "蘑菇"
 
 #: ../data/str.xml.in:102
 msgid "Tomato"
-msgstr ""
+msgstr "番茄"
 
 #: ../data/str.xml.in:103
 msgid "Eggplant"
-msgstr ""
+msgstr "茄子"
 
 #: ../data/str.xml.in:104
 msgid "Grape"
-msgstr ""
+msgstr "葡萄"
 
 #: ../data/str.xml.in:105
 msgid "Melon"
-msgstr ""
+msgstr "甜瓜"
 
 #: ../data/str.xml.in:106
 msgid "Watermelon"
-msgstr ""
+msgstr "西瓜"
 
 #: ../data/str.xml.in:107
 msgid "Tangerine"
-msgstr ""
+msgstr "橘子"
 
 #: ../data/str.xml.in:108
 msgid "Lemon"
-msgstr ""
+msgstr "檸檬"
 
 #: ../data/str.xml.in:109
 msgid "Banana"
-msgstr ""
+msgstr "香蕉"
 
 #: ../data/str.xml.in:110
 msgid "Pineapple"
-msgstr ""
+msgstr "鳳梨"
 
 #: ../data/str.xml.in:111
 msgid "Apple"
-msgstr ""
+msgstr "蘋果"
 
 #: ../data/str.xml.in:112
 msgid "Pear"
-msgstr ""
+msgstr "梨子"
 
 #: ../data/str.xml.in:113
 msgid "Peach"
-msgstr ""
+msgstr "桃子"
 
 #: ../data/str.xml.in:114
 msgid "Strawberry"
-msgstr ""
+msgstr "草莓"
 
 #: ../data/str.xml.in:115
 msgid "Hamburger"
-msgstr ""
+msgstr "漢堡"
 
 #: ../data/str.xml.in:116
 msgid "Pizza"
-msgstr ""
+msgstr "披薩"
 
 #: ../data/str.xml.in:117
 msgid "Meat"
-msgstr ""
+msgstr "肉"
 
 #: ../data/str.xml.in:118
 msgid "Poultry"
-msgstr ""
+msgstr "禽肉"
 
 #: ../data/str.xml.in:119
 msgid "Rice Cracker"
-msgstr ""
+msgstr "仙貝"
 
 #: ../data/str.xml.in:120
 msgid "Rice Ball"
-msgstr ""
+msgstr "飯糰"
 
 #: ../data/str.xml.in:121
 msgid "Rice"
-msgstr ""
+msgstr "米飯"
 
 #: ../data/str.xml.in:122
 msgid "Curry"
-msgstr ""
+msgstr "咖哩"
 
 #: ../data/str.xml.in:123
 msgid "Ramen"
-msgstr ""
+msgstr "拉麵"
 
 #: ../data/str.xml.in:124
 msgid "Spaghetti"
-msgstr ""
+msgstr "義大利麵"
 
 #: ../data/str.xml.in:125
 msgid "Bread"
-msgstr ""
+msgstr "麵包"
 
 #: ../data/str.xml.in:126
 msgid "Fried Potato"
-msgstr ""
+msgstr "薯條"
 
 #: ../data/str.xml.in:127
 msgid "Roasted Sweet Potato"
-msgstr ""
+msgstr "烤蕃薯"
 
 #: ../data/str.xml.in:128
 msgid "Dango"
-msgstr ""
+msgstr "糰子"
 
 #: ../data/str.xml.in:129
 msgid "Oden"
-msgstr ""
+msgstr "關東煮"
 
 #: ../data/str.xml.in:130
 msgid "Sushi"
-msgstr ""
+msgstr "壽司"
 
 #: ../data/str.xml.in:131
 msgid "Fried Shrimp"
-msgstr ""
+msgstr "炸蝦"
 
 #: ../data/str.xml.in:132
 msgid "Fish Cake"
-msgstr ""
+msgstr "魚板"
 
 #: ../data/str.xml.in:133
 msgid "Soft Ice Cream"
-msgstr ""
+msgstr "霜淇淋"
 
 #: ../data/str.xml.in:134
 msgid "Shaved Ice"
-msgstr ""
+msgstr "刨冰"
 
 #: ../data/str.xml.in:135
 msgid "Ice Cream"
-msgstr ""
+msgstr "冰淇淋"
 
 #: ../data/str.xml.in:136
 msgid "Doughnut"
-msgstr ""
+msgstr "甜甜圈"
 
 #: ../data/str.xml.in:137
 msgid "Cookie"
-msgstr ""
+msgstr "餅乾"
 
 #: ../data/str.xml.in:138
 msgid "Chocolate"
-msgstr ""
+msgstr "巧克力"
 
 #: ../data/str.xml.in:139
 msgid "Candy"
-msgstr ""
+msgstr "糖果"
 
 #: ../data/str.xml.in:140
 msgid "Custard"
-msgstr ""
+msgstr "卡士達醬"
 
 #: ../data/str.xml.in:141
 msgid "Honey"
-msgstr ""
+msgstr "蜂蜜"
 
 #: ../data/str.xml.in:142
 msgid "Shortcake"
-msgstr ""
+msgstr "草莓蛋糕"
 
 #: ../data/str.xml.in:143
 msgid "Bento"
-msgstr ""
+msgstr "便當"
 
 #: ../data/str.xml.in:144
 msgid "Pot of Food"
-msgstr ""
+msgstr "火鍋"
 
 #: ../data/str.xml.in:145
 msgid "Cooking"
-msgstr ""
+msgstr "烹飪"
 
 #: ../data/str.xml.in:146
 msgid "Meal"
-msgstr ""
+msgstr "餐點"
 
 #: ../data/str.xml.in:147
 msgid "Cup"
-msgstr ""
+msgstr "杯子"
 
 #: ../data/str.xml.in:148
 msgid "Sake"
-msgstr ""
+msgstr "清酒"
 
 #: ../data/str.xml.in:149
 msgid "Wine"
-msgstr ""
+msgstr "紅酒"
 
 #: ../data/str.xml.in:150
 msgid "Cocktail"
-msgstr ""
+msgstr "雞尾酒"
 
 #: ../data/str.xml.in:151
 msgid "Drink"
-msgstr ""
+msgstr "飲料"
 
 #: ../data/str.xml.in:152
 msgid "Beer"
@@ -2069,19 +2069,19 @@ msgstr "啤酒"
 
 #: ../data/str.xml.in:153
 msgid "Cheers"
-msgstr ""
+msgstr "乾杯"
 
 #: ../data/str.xml.in:154
 msgid "Baby Bottle"
-msgstr ""
+msgstr "奶瓶"
 
 #: ../data/str.xml.in:155
 msgid "Ribbon"
-msgstr ""
+msgstr "緞帶"
 
 #: ../data/str.xml.in:156
 msgid "Present"
-msgstr ""
+msgstr "禮物"
 
 #: ../data/str.xml.in:157
 msgid "Cake"
@@ -2089,27 +2089,27 @@ msgstr "蛋糕"
 
 #: ../data/str.xml.in:158
 msgid "Hallowe'en"
-msgstr ""
+msgstr "萬聖節"
 
 #: ../data/str.xml.in:159
 msgid "Christmas"
-msgstr ""
+msgstr "聖誕節"
 
 #: ../data/str.xml.in:160
 msgid "Piano"
-msgstr ""
+msgstr "鋼琴"
 
 #: ../data/str.xml.in:161
 msgid "Microphone"
-msgstr ""
+msgstr "麥克風"
 
 #: ../data/str.xml.in:162
 msgid "Headphone"
-msgstr ""
+msgstr "耳機"
 
 #: ../data/str.xml.in:163
 msgid "Hat"
-msgstr ""
+msgstr "帽子"
 
 #: ../data/str.xml.in:164
 msgid "Musical Note"
@@ -2117,143 +2117,143 @@ msgstr "音符"
 
 #: ../data/str.xml.in:165
 msgid "Saxophone"
-msgstr ""
+msgstr "薩克斯風"
 
 #: ../data/str.xml.in:166
 msgid "Guitar"
-msgstr ""
+msgstr "吉他"
 
 #: ../data/str.xml.in:167
 msgid "Trumpet"
-msgstr ""
+msgstr "小號"
 
 #: ../data/str.xml.in:168
 msgid "Violin"
-msgstr ""
+msgstr "小提琴"
 
 #: ../data/str.xml.in:169
 msgid "Musical Score"
-msgstr ""
+msgstr "樂譜"
 
 #: ../data/str.xml.in:170
 msgid "Tennis"
-msgstr ""
+msgstr "網球"
 
 #: ../data/str.xml.in:171
 msgid "Ski"
-msgstr ""
+msgstr "滑雪"
 
 #: ../data/str.xml.in:172
 msgid "Basketball"
-msgstr ""
+msgstr "籃球"
 
 #: ../data/str.xml.in:173
 msgid "Flag"
-msgstr ""
+msgstr "旗幟"
 
 #: ../data/str.xml.in:174
 msgid "Show Board"
-msgstr ""
+msgstr "滑雪板"
 
 #: ../data/str.xml.in:175
 msgid "Running"
-msgstr ""
+msgstr "跑步"
 
 #: ../data/str.xml.in:176
 msgid "Surfer"
-msgstr ""
+msgstr "衝浪"
 
 #: ../data/str.xml.in:177
 msgid "Medal"
-msgstr ""
+msgstr "獎牌"
 
 #: ../data/str.xml.in:178
 msgid "Trophy"
-msgstr ""
+msgstr "獎盃"
 
 #: ../data/str.xml.in:179
 msgid "Horse Racing"
-msgstr ""
+msgstr "賽馬"
 
 #: ../data/str.xml.in:180
 msgid "American Football"
-msgstr ""
+msgstr "美式足球"
 
 #: ../data/str.xml.in:181
 msgid "Rugby"
-msgstr ""
+msgstr "橄欖球"
 
 #: ../data/str.xml.in:182
 msgid "Swimmer"
-msgstr ""
+msgstr "游泳"
 
 #: ../data/str.xml.in:183
 msgid "Weight Lifting"
-msgstr ""
+msgstr "舉重"
 
 #: ../data/str.xml.in:184
 msgid "Golf"
-msgstr ""
+msgstr "高爾夫"
 
 #: ../data/str.xml.in:185
 msgid "Motorcycle"
-msgstr ""
+msgstr "摩托車"
 
 #: ../data/str.xml.in:186
 msgid "Race"
-msgstr ""
+msgstr "賽車"
 
 #: ../data/str.xml.in:187
 msgid "House"
-msgstr ""
+msgstr "房子"
 
 #: ../data/str.xml.in:188
 msgid "Office"
-msgstr ""
+msgstr "辦公室"
 
 #: ../data/str.xml.in:189
 msgid "Hospital"
-msgstr ""
+msgstr "醫院"
 
 #: ../data/str.xml.in:190
 msgid "Bank"
-msgstr ""
+msgstr "銀行"
 
 #: ../data/str.xml.in:191
 msgid "Hotel"
-msgstr ""
+msgstr "旅館"
 
 #: ../data/str.xml.in:192
 msgid "School"
-msgstr ""
+msgstr "學校"
 
 #: ../data/str.xml.in:193
 msgid "Factory"
-msgstr ""
+msgstr "工廠"
 
 #: ../data/str.xml.in:194
 msgid "Rat"
-msgstr ""
+msgstr "老鼠"
 
 #: ../data/str.xml.in:195
 msgid "Mouse"
-msgstr ""
+msgstr "鼠"
 
 #: ../data/str.xml.in:196
 msgid "Cow"
-msgstr ""
+msgstr "牛"
 
 #: ../data/str.xml.in:197
 msgid "Tiger"
-msgstr ""
+msgstr "老虎"
 
 #: ../data/str.xml.in:198
 msgid "Leopard"
-msgstr ""
+msgstr "豹"
 
 #: ../data/str.xml.in:199
 msgid "Rabbit"
-msgstr ""
+msgstr "兔子"
 
 #: ../data/str.xml.in:200
 msgid "Cat"
@@ -2261,43 +2261,43 @@ msgstr "貓"
 
 #: ../data/str.xml.in:201
 msgid "Dragon"
-msgstr ""
+msgstr "龍"
 
 #: ../data/str.xml.in:202
 msgid "Crocodile"
-msgstr ""
+msgstr "鱷魚"
 
 #: ../data/str.xml.in:203
 msgid "Whale"
-msgstr ""
+msgstr "鯨魚"
 
 #: ../data/str.xml.in:204
 msgid "Snail"
-msgstr ""
+msgstr "蝸牛"
 
 #: ../data/str.xml.in:205
 msgid "Snake"
-msgstr ""
+msgstr "蛇"
 
 #: ../data/str.xml.in:206
 msgid "Horse"
-msgstr ""
+msgstr "馬"
 
 #: ../data/str.xml.in:207
 msgid "Sheep"
-msgstr ""
+msgstr "綿羊"
 
 #: ../data/str.xml.in:208
 msgid "Goat"
-msgstr ""
+msgstr "山羊"
 
 #: ../data/str.xml.in:209
 msgid "Monkey"
-msgstr "猴"
+msgstr "猴子"
 
 #: ../data/str.xml.in:210
 msgid "Chicken"
-msgstr ""
+msgstr "雞"
 
 #: ../data/str.xml.in:211
 msgid "Dog"
@@ -2305,171 +2305,171 @@ msgstr "狗"
 
 #: ../data/str.xml.in:212
 msgid "Pig"
-msgstr ""
+msgstr "豬"
 
 #: ../data/str.xml.in:213
 msgid "Elephant"
-msgstr ""
+msgstr "大象"
 
 #: ../data/str.xml.in:214
 msgid "Octopus"
-msgstr ""
+msgstr "章魚"
 
 #: ../data/str.xml.in:215
 msgid "Spiral Shell"
-msgstr ""
+msgstr "螺"
 
 #: ../data/str.xml.in:216
 msgid "Bug"
-msgstr ""
+msgstr "蟲"
 
 #: ../data/str.xml.in:217
 msgid "Ant"
-msgstr ""
+msgstr "螞蟻"
 
 #: ../data/str.xml.in:218
 msgid "Lady Beetle"
-msgstr ""
+msgstr "瓢蟲"
 
 #: ../data/str.xml.in:219
 msgid "Fish"
-msgstr ""
+msgstr "魚"
 
 #: ../data/str.xml.in:220
 msgid "Tropical Fish"
-msgstr ""
+msgstr "熱帶魚"
 
 #: ../data/str.xml.in:221
 msgid "Blowfish"
-msgstr ""
+msgstr "河豚"
 
 #: ../data/str.xml.in:222
 msgid "Bird"
-msgstr ""
+msgstr "鳥"
 
 #: ../data/str.xml.in:223
 msgid "Penguin"
-msgstr ""
+msgstr "企鵝"
 
 #: ../data/str.xml.in:224
 msgid "Koala"
-msgstr ""
+msgstr "無尾熊"
 
 #: ../data/str.xml.in:225
 msgid "Poodle"
-msgstr ""
+msgstr "貴賓狗"
 
 #: ../data/str.xml.in:226
 msgid "Camel"
-msgstr ""
+msgstr "駱駝"
 
 #: ../data/str.xml.in:227
 msgid "Dolphin"
-msgstr ""
+msgstr "海豚"
 
 #: ../data/str.xml.in:228
 msgid "Frog"
-msgstr ""
+msgstr "青蛙"
 
 #: ../data/str.xml.in:229
 msgid "Hamster"
-msgstr ""
+msgstr "倉鼠"
 
 #: ../data/str.xml.in:230
 msgid "Wolf"
-msgstr ""
+msgstr "狼"
 
 #: ../data/str.xml.in:231
 msgid "Bear"
-msgstr ""
+msgstr "熊"
 
 #: ../data/str.xml.in:232
 msgid "Panda"
-msgstr ""
+msgstr "熊貓"
 
 #: ../data/str.xml.in:233
 msgid "Eye"
-msgstr ""
+msgstr "眼睛"
 
 #: ../data/str.xml.in:234
 msgid "Ear"
-msgstr ""
+msgstr "耳朵"
 
 #: ../data/str.xml.in:235
 msgid "Nose"
-msgstr ""
+msgstr "鼻子"
 
 #: ../data/str.xml.in:236
 msgid "Mouth"
-msgstr ""
+msgstr "嘴巴"
 
 #: ../data/str.xml.in:237
 msgid "Tongue"
-msgstr ""
+msgstr "舌頭"
 
 #: ../data/str.xml.in:238
 msgid "Crown"
-msgstr ""
+msgstr "皇冠"
 
 #: ../data/str.xml.in:239
 msgid "Glasses"
-msgstr ""
+msgstr "眼鏡"
 
 #: ../data/str.xml.in:240
 msgid "Necktie"
-msgstr ""
+msgstr "領帶"
 
 #: ../data/str.xml.in:241
 msgid "T-Shirt"
-msgstr ""
+msgstr "T 恤"
 
 #: ../data/str.xml.in:242
 msgid "Jeans"
-msgstr ""
+msgstr "牛仔褲"
 
 #: ../data/str.xml.in:243
 msgid "Dress"
-msgstr ""
+msgstr "洋裝"
 
 #: ../data/str.xml.in:244
 msgid "Kimono"
-msgstr ""
+msgstr "和服"
 
 #: ../data/str.xml.in:245
 msgid "Bikini"
-msgstr ""
+msgstr "比基尼"
 
 #: ../data/str.xml.in:246
 msgid "Clothes"
-msgstr ""
+msgstr "衣服"
 
 #: ../data/str.xml.in:247
 msgid "Purse"
-msgstr ""
+msgstr "錢包"
 
 #: ../data/str.xml.in:248
 msgid "Handbag"
-msgstr ""
+msgstr "手提包"
 
 #: ../data/str.xml.in:249
 msgid "Pouch"
-msgstr ""
+msgstr "收納袋"
 
 #: ../data/str.xml.in:250
 msgid "Shoe"
-msgstr ""
+msgstr "鞋子"
 
 #: ../data/str.xml.in:251
 msgid "Footprint"
-msgstr ""
+msgstr "腳印"
 
 #: ../data/str.xml.in:252
 msgid "Bust in silhouette"
-msgstr ""
+msgstr "上半身剪影"
 
 #: ../data/str.xml.in:253
 msgid "Busts in silhouette"
-msgstr ""
+msgstr "雙人上半身剪影"
 
 #: ../data/str.xml.in:254
 msgid "Boy"
@@ -2481,111 +2481,111 @@ msgstr "女孩"
 
 #: ../data/str.xml.in:256
 msgid "Man"
-msgstr ""
+msgstr "男人"
 
 #: ../data/str.xml.in:257
 msgid "Woman"
-msgstr ""
+msgstr "女人"
 
 #: ../data/str.xml.in:258
 msgid "Family"
-msgstr ""
+msgstr "家庭"
 
 #: ../data/str.xml.in:259
 msgid "Man and woman holding hands"
-msgstr ""
+msgstr "男女牽手"
 
 #: ../data/str.xml.in:260
 msgid "Men holding hands"
-msgstr ""
+msgstr "男男牽手"
 
 #: ../data/str.xml.in:261
 msgid "Women holding hands"
-msgstr ""
+msgstr "女女牽手"
 
 #: ../data/str.xml.in:262
 msgid "Men's room"
-msgstr ""
+msgstr "男廁"
 
 #: ../data/str.xml.in:263
 msgid "Women's room"
-msgstr ""
+msgstr "女廁"
 
 #: ../data/str.xml.in:264
 msgid "Restroom"
-msgstr ""
+msgstr "廁所"
 
 #: ../data/str.xml.in:265
 msgid "Princess"
-msgstr ""
+msgstr "公主"
 
 #: ../data/str.xml.in:266
 msgid "Japanese Ogre"
-msgstr ""
+msgstr "日本鬼"
 
 #: ../data/str.xml.in:267
 msgid "Japanese Goblin"
-msgstr ""
+msgstr "日本妖怪"
 
 #: ../data/str.xml.in:268
 msgid "Ghost"
-msgstr ""
+msgstr "鬼"
 
 #: ../data/str.xml.in:269
 msgid "Baby Angel"
-msgstr ""
+msgstr "小天使"
 
 #: ../data/str.xml.in:270
 msgid "Extraterrestrial Alien"
-msgstr ""
+msgstr "外星人"
 
 #: ../data/str.xml.in:271
 msgid "Alien Monster"
-msgstr ""
+msgstr "外星怪物"
 
 #: ../data/str.xml.in:272
 msgid "Imp"
-msgstr ""
+msgstr "小惡魔"
 
 #: ../data/str.xml.in:273
 msgid "Skull"
-msgstr ""
+msgstr "骷髏"
 
 #: ../data/str.xml.in:274
 msgid "Information Desk Person"
-msgstr ""
+msgstr "服務台人員"
 
 #: ../data/str.xml.in:275
 msgid "Guardsman"
-msgstr ""
+msgstr "衛兵"
 
 #: ../data/str.xml.in:276
 msgid "Dancer"
-msgstr ""
+msgstr "舞者"
 
 #: ../data/str.xml.in:277
 msgid "Lipstick"
-msgstr ""
+msgstr "口紅"
 
 #: ../data/str.xml.in:278
 msgid "Nail polish"
-msgstr ""
+msgstr "指甲油"
 
 #: ../data/str.xml.in:279
 msgid "Face"
-msgstr ""
+msgstr "臉"
 
 #: ../data/str.xml.in:280
 msgid "Haircut"
-msgstr ""
+msgstr "剪髮"
 
 #: ../data/str.xml.in:281
 msgid "Syringe"
-msgstr ""
+msgstr "針筒"
 
 #: ../data/str.xml.in:282
 msgid "Pill"
-msgstr ""
+msgstr "藥丸"
 
 #: ../data/str.xml.in:283
 msgid "Kiss"
@@ -2593,289 +2593,287 @@ msgstr "吻"
 
 #: ../data/str.xml.in:284
 msgid "Love Letter"
-msgstr ""
+msgstr "情書"
 
 #: ../data/str.xml.in:285
 msgid "Ring"
-msgstr ""
+msgstr "戒指"
 
 #: ../data/str.xml.in:286
 msgid "Gem Stone"
-msgstr ""
+msgstr "寶石"
 
 #: ../data/str.xml.in:287
 msgid "Wedding"
-msgstr ""
+msgstr "婚禮"
 
 #: ../data/str.xml.in:288
 msgid "Heart"
-msgstr ""
+msgstr "愛心"
 
 #: ../data/str.xml.in:289
 msgid "Idea"
-msgstr ""
+msgstr "點子"
 
 #: ../data/str.xml.in:290
 msgid "Anger"
-msgstr ""
+msgstr "生氣符號"
 
 #: ../data/str.xml.in:291
 msgid "Bomb"
-msgstr ""
+msgstr "炸彈"
 
 #: ../data/str.xml.in:292
 msgid "Sleeping"
-msgstr ""
+msgstr "睡覺"
 
 #: ../data/str.xml.in:293
 msgid "Collision"
-msgstr ""
+msgstr "碰撞"
 
 #: ../data/str.xml.in:294
 msgid "Sweat"
-msgstr ""
+msgstr "汗水"
 
 #: ../data/str.xml.in:295
 msgid "Droplet"
-msgstr ""
+msgstr "水滴"
 
 #: ../data/str.xml.in:296
 msgid "Dash"
-msgstr ""
+msgstr "破折號"
 
 #: ../data/str.xml.in:297
 msgid "Poo"
-msgstr ""
+msgstr "大便"
 
 #: ../data/str.xml.in:298
 msgid "Muscle"
-msgstr ""
+msgstr "肌肉"
 
 #: ../data/str.xml.in:299
 msgid "Dizzy"
-msgstr ""
+msgstr "暈眩"
 
 #: ../data/str.xml.in:300
 msgid "Speech"
-msgstr ""
+msgstr "對話框"
 
 #: ../data/str.xml.in:301
 msgid "Thought"
-msgstr ""
+msgstr "思考框"
 
 #: ../data/str.xml.in:302
 msgid "Perfect Score"
-msgstr ""
+msgstr "滿分"
 
 #: ../data/str.xml.in:303
 msgid "Pushpin"
-msgstr ""
+msgstr "圖釘"
 
 #: ../data/str.xml.in:304
 msgid "Paperclip"
-msgstr ""
+msgstr "迴紋針"
 
 #: ../data/str.xml.in:305
 msgid "Speaker with cancellation stroke"
-msgstr ""
+msgstr "靜音喇叭"
 
 #: ../data/str.xml.in:306
 msgid "Speaker low volume"
-msgstr ""
+msgstr "喇叭低音量"
 
 #: ../data/str.xml.in:307
 msgid "Speaker medium volume"
-msgstr ""
+msgstr "喇叭中音量"
 
 #: ../data/str.xml.in:308
 msgid "Speaker high volume"
-msgstr ""
+msgstr "喇叭高音量"
 
 #: ../data/str.xml.in:309
 msgid "Battery"
-msgstr ""
+msgstr "電池"
 
 #: ../data/str.xml.in:310
 msgid "Plug"
-msgstr ""
+msgstr "插頭"
 
 #: ../data/str.xml.in:311
 msgid "Magnifying glass tilted left"
-msgstr ""
+msgstr "放大鏡向左"
 
 #: ../data/str.xml.in:312
 msgid "Magnifying glass tilted right"
-msgstr ""
+msgstr "放大鏡向右"
 
 #: ../data/str.xml.in:313
 msgid "Bookmark"
-msgstr ""
+msgstr "書籤"
 
 #: ../data/str.xml.in:314
 msgid "Book"
-msgstr ""
+msgstr "書"
 
 #: ../data/str.xml.in:315
 msgid "Memo"
-msgstr ""
+msgstr "備忘錄"
 
 #: ../data/str.xml.in:316
 msgid "Mail"
-msgstr ""
+msgstr "郵件"
 
 #: ../data/str.xml.in:317
 msgid "Incoming envelope"
-msgstr ""
+msgstr "來信"
 
 #: ../data/str.xml.in:318
 msgid "Postbox"
-msgstr ""
+msgstr "郵筒"
 
 #: ../data/str.xml.in:319
 msgid "Mobile Phone"
-msgstr ""
+msgstr "手機"
 
 #: ../data/str.xml.in:320
 msgid "Antenna with bars"
-msgstr ""
+msgstr "天線與訊號"
 
 #: ../data/str.xml.in:321
 msgid "Camera"
-msgstr ""
+msgstr "相機"
 
 #: ../data/str.xml.in:322
 msgid "Video"
-msgstr ""
+msgstr "影片"
 
 #: ../data/str.xml.in:323
 msgid "Television"
-msgstr ""
+msgstr "電視"
 
 #: ../data/str.xml.in:324
 msgid "Radio"
-msgstr ""
+msgstr "收音機"
 
 #: ../data/str.xml.in:325
 msgid "Key"
-msgstr ""
+msgstr "鑰匙"
 
 #: ../data/str.xml.in:326
 msgid "Lock, locked"
-msgstr ""
+msgstr "上鎖"
 
 #: ../data/str.xml.in:327
 msgid "Lock, unlocked"
-msgstr ""
+msgstr "解鎖"
 
 #: ../data/str.xml.in:328
 msgid "Fire"
-msgstr ""
+msgstr "火"
 
 #: ../data/str.xml.in:329
 msgid "Wrench"
-msgstr ""
+msgstr "扳手"
 
 #: ../data/str.xml.in:330
 msgid "Hammer"
-msgstr ""
+msgstr "槌子"
 
 #: ../data/str.xml.in:331
 msgid "Nut and bolt"
-msgstr ""
+msgstr "螺帽與螺栓"
 
 #: ../data/str.xml.in:332
 msgid "Hocho"
-msgstr ""
+msgstr "菜刀"
 
 #: ../data/str.xml.in:333
 msgid "Pistol"
-msgstr ""
+msgstr "手槍"
 
 #: ../data/str.xml.in:334
 msgid "Microscope"
-msgstr ""
+msgstr "顯微鏡"
 
 #: ../data/str.xml.in:335
 msgid "Telescope"
-msgstr ""
+msgstr "望遠鏡"
 
 #: ../data/str.xml.in:336
 msgid "Crystal"
-msgstr ""
+msgstr "水晶球"
 
 #: ../data/str.xml.in:337
 msgid "David Star"
-msgstr ""
+msgstr "大衛星"
 
 #: ../data/str.xml.in:338
 msgid "Beginner"
-msgstr ""
+msgstr "新手"
 
 #: ../data/str.xml.in:339
 msgid "Candle"
-msgstr ""
+msgstr "蠟燭"
 
 #: ../data/str.xml.in:340
 msgid "Hole"
-msgstr ""
+msgstr "洞"
 
 #: ../data/str.xml.in:341
-#, fuzzy
-#| msgid "Acronym (Computer)"
 msgid "Laptop Computer"
-msgstr "縮寫 (電腦)"
+msgstr "筆記型電腦"
 
 #: ../data/str.xml.in:342
 msgid "Desktop Computer"
-msgstr ""
+msgstr "桌上型電腦"
 
 #: ../data/str.xml.in:343
 msgid "keyboard"
-msgstr ""
+msgstr "鍵盤"
 
 #: ../data/str.xml.in:344
 msgid "Printer"
-msgstr ""
+msgstr "印表機"
 
 #: ../data/str.xml.in:345
 msgid "Calculator"
-msgstr ""
+msgstr "計算機"
 
 #: ../data/str.xml.in:346
 msgid "Minimize"
-msgstr ""
+msgstr "最小化"
 
 #: ../data/str.xml.in:347
 msgid "Maximize"
-msgstr ""
+msgstr "最大化"
 
 #: ../data/str.xml.in:348
 msgid "Refresh"
-msgstr ""
+msgstr "重新整理"
 
 #: ../data/str.xml.in:349
 msgid "Close"
-msgstr ""
+msgstr "關閉"
 
 #: ../data/str.xml.in:350
 msgid "World"
-msgstr ""
+msgstr "世界"
 
 #: ../data/str.xml.in:351
 msgid "Mt. Fuji"
-msgstr ""
+msgstr "富士山"
 
 #: ../data/str.xml.in:352
 msgid "Tokyo Tower"
-msgstr ""
+msgstr "東京鐵塔"
 
 #: ../data/str.xml.in:353
 msgid "Japan"
-msgstr ""
+msgstr "日本"
 
 #: ../data/str.xml.in:354
 msgid "Anguish"
-msgstr ""
+msgstr "痛苦"
 
 #: ../data/str.xml.in:355
 msgid "Smile"
@@ -2883,35 +2881,35 @@ msgstr "微笑"
 
 #: ../data/str.xml.in:356
 msgid "Smirk"
-msgstr ""
+msgstr "奸笑"
 
 #: ../data/str.xml.in:357
 msgid "Neutral"
-msgstr ""
+msgstr "無表情"
 
 #: ../data/str.xml.in:358
 msgid "Expressionless"
-msgstr ""
+msgstr "面無表情"
 
 #: ../data/str.xml.in:359
 msgid "Unamused"
-msgstr ""
+msgstr "不悅"
 
 #: ../data/str.xml.in:360
 msgid "Pensive"
-msgstr ""
+msgstr "沉思"
 
 #: ../data/str.xml.in:361
 msgid "Confused"
-msgstr ""
+msgstr "困惑"
 
 #: ../data/str.xml.in:362
 msgid "Confounded"
-msgstr ""
+msgstr "苦惱"
 
 #: ../data/str.xml.in:363
 msgid "Disappointed"
-msgstr ""
+msgstr "失望"
 
 #: ../data/str.xml.in:364
 msgid "Angry"
@@ -2919,91 +2917,91 @@ msgstr "生氣"
 
 #: ../data/str.xml.in:365
 msgid "Cry"
-msgstr ""
+msgstr "大哭"
 
 #: ../data/str.xml.in:366
 msgid "Sleepy"
-msgstr ""
+msgstr "想睡"
 
 #: ../data/str.xml.in:367
 msgid "Tired"
-msgstr ""
+msgstr "疲倦"
 
 #: ../data/str.xml.in:368
 msgid "Surprise"
-msgstr ""
+msgstr "驚訝"
 
 #: ../data/str.xml.in:369
 msgid "Scream"
-msgstr ""
+msgstr "尖叫"
 
 #: ../data/str.xml.in:370
 msgid "Flushed"
-msgstr ""
+msgstr "臉紅"
 
 #: ../data/str.xml.in:371
 msgid "Medical Mask"
-msgstr ""
+msgstr "口罩"
 
 #: ../data/str.xml.in:372
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../data/str.xml.in:373
 msgid "Bow"
-msgstr ""
+msgstr "鞠躬"
 
 #: ../data/str.xml.in:374
 msgid "See-No-Evil"
-msgstr ""
+msgstr "非禮勿視"
 
 #: ../data/str.xml.in:375
 msgid "Hear-No-Evil"
-msgstr ""
+msgstr "非禮勿聽"
 
 #: ../data/str.xml.in:376
 msgid "Speak-No-Evil"
-msgstr ""
+msgstr "非禮勿言"
 
 #: ../data/str.xml.in:377
 msgid "Banzai"
-msgstr ""
+msgstr "萬歲"
 
 #: ../data/str.xml.in:378
 msgid "Pleading"
-msgstr ""
+msgstr "哀求"
 
 #: ../data/str.xml.in:379
 msgid "Smileys"
-msgstr "笑面"
+msgstr "笑臉"
 
 #: ../data/str.xml.in:380
 msgid "Smile Big"
-msgstr "大微笑"
+msgstr "大笑臉"
 
 #: ../data/str.xml.in:381
 msgid "Sad"
-msgstr "哀"
+msgstr "悲傷"
 
 #: ../data/str.xml.in:382
 msgid "Wink"
-msgstr ""
+msgstr "眨眼"
 
 #: ../data/str.xml.in:383
 msgid "Shock"
-msgstr ""
+msgstr "震驚"
 
 #: ../data/str.xml.in:384
 msgid "Kiss | Secret"
-msgstr "吻 | 祕密"
+msgstr "吻 | 秘密"
 
 #: ../data/str.xml.in:385
 msgid "Glasses Cool | Eyeroll"
-msgstr ""
+msgstr "酷眼鏡 | 翻白眼"
 
 #: ../data/str.xml.in:386
 msgid "Glasses Cool"
-msgstr ""
+msgstr "酷眼鏡"
 
 #: ../data/str.xml.in:387
 msgid "Embarrassed"
@@ -3015,15 +3013,15 @@ msgstr "哭"
 
 #: ../data/str.xml.in:389
 msgid "Thinking"
-msgstr ""
+msgstr "思考"
 
 #: ../data/str.xml.in:390
 msgid "Don't Know"
-msgstr "不懂"
+msgstr "不知道"
 
 #: ../data/str.xml.in:391
 msgid "Party"
-msgstr ""
+msgstr "派對"
 
 #: ../data/str.xml.in:392
 msgid "Yawn"
@@ -3031,11 +3029,11 @@ msgstr "打哈欠"
 
 #: ../data/str.xml.in:393
 msgid "Bunny"
-msgstr ""
+msgstr "兔子"
 
 #: ../data/str.xml.in:394
 msgid "Sick"
-msgstr "病"
+msgstr "生病"
 
 #: ../data/str.xml.in:395
 msgid "Devil"
@@ -3055,7 +3053,7 @@ msgstr "愛完結"
 
 #: ../data/str.xml.in:399
 msgid "Film"
-msgstr ""
+msgstr "影片"
 
 #: ../data/str.xml.in:400
 msgid "Clock"
@@ -3079,40 +3077,40 @@ msgstr "右抱"
 
 #: ../data/str.xml.in:405
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: ../data/str.xml.in:406
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: ../data/str.xml.in:407
 msgid "Shut Mouth"
-msgstr ""
+msgstr "閉嘴"
 
 #: ../data/str.xml.in:408
 msgid "Money Mouth"
-msgstr ""
+msgstr "錢嘴"
 
 #: ../data/str.xml.in:409
 msgid "Foot in Mouth"
-msgstr ""
+msgstr "說錯話"
 
 #: ../data/str.xml.in:410
 msgid "Shout"
-msgstr ""
+msgstr "喊叫"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in:412
 msgid "Smileys (Japanese)"
-msgstr "笑面 (日文)"
+msgstr "笑臉 (日文)"
 
 #: ../data/str.xml.in:413
 msgid "Smoking"
-msgstr "抽煙"
+msgstr "吸煙"
 
 #: ../data/str.xml.in:414
 msgid "Sorry"
-msgstr ""
+msgstr "抱歉"
 
 #: ../data/str.xml.in:415
 msgid "Hug"
@@ -3121,16 +3119,16 @@ msgstr "抱"
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in:417
 msgid "Smileys (Japanese 2ch)"
-msgstr "笑面 (日文 2ch)"
+msgstr "笑臉 (日文 2ch)"
 
 #: ../data/str.xml.in:418
 msgid "Hey"
-msgstr ""
+msgstr "嘿"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in:420
 msgid "Smileys (Chinese)"
-msgstr "笑面 (中文)"
+msgstr "笑臉 (中文)"
 
 #: ../data/str.xml.in:421
 msgid "Crow"
@@ -3152,35 +3150,35 @@ msgstr "縮寫 (日文)"
 
 #: ../data/str.xml.in:427
 msgid "Do not want to read between lines (Aete Kuuki Wo Yomanai)"
-msgstr ""
+msgstr "不想讀空氣 (敢えて空気を読まない)"
 
 #: ../data/str.xml.in:428
 msgid "Can't get together (Guda Guda)"
-msgstr ""
+msgstr "懶懶散散 (ぐだぐだ)"
 
 #: ../data/str.xml.in:429
 msgid "Say whatever one feels (Iitaidake)"
-msgstr ""
+msgstr "有話直說 (言いたいだけ)"
 
 #: ../data/str.xml.in:430
 msgid "Excited (Kitakore)"
-msgstr "興奮 (Kitakore)"
+msgstr "興奮 (キタコレ)"
 
 #: ../data/str.xml.in:431
 msgid "Detail (Kuwashiku)"
-msgstr "詳細"
+msgstr "詳細 (詳しく)"
 
 #: ../data/str.xml.in:432
 msgid "Cannot read between lines (Kuuki Ga Yomenai)"
-msgstr ""
+msgstr "不會讀空氣 (空気が読めない)"
 
 #: ../data/str.xml.in:433
 msgid "Omission (Shouryaku)"
-msgstr ""
+msgstr "省略 (省略)"
 
 #: ../data/str.xml.in:434
 msgid "Excited (Waku Waku Teka Teka)"
-msgstr "興奮 (Waku Waku Teka Teka)"
+msgstr "興奮 (ワクワクテカテカ)"
 
 #: ../data/str.xml.in:435
 msgid "Laugh"
@@ -3188,59 +3186,59 @@ msgstr "笑"
 
 #: ../data/str.xml.in:436
 msgid "Dude (Oi!)"
-msgstr ""
+msgstr "喂 (おい！)"
 
 #: ../data/str.xml.in:437
 msgid "Good job (Otsukare)"
-msgstr ""
+msgstr "辛苦了 (お疲れ)"
 
 #: ../data/str.xml.in:438
 msgid "Want (Kure, E.g. pics クレメンス)"
-msgstr ""
+msgstr "想要 (くれ、例：pics クレメンス)"
 
 #: ../data/str.xml.in:439
 msgid "ASCII art of a hand (✊, E.g. つAttention)"
-msgstr ""
+msgstr "手部 AA (✊, 例：つ注意)"
 
 #: ../data/str.xml.in:440
 msgid "In The Meantime (Toriaezu, Maa)"
-msgstr ""
+msgstr "總之 (とりあえず、まあ)"
 
 #: ../data/str.xml.in:441
 msgid "Self-confidence (Aniki, E.g. tennis ニキ)"
-msgstr ""
+msgstr "大哥 (兄貴、例：テニス ニキ)"
 
 #: ../data/str.xml.in:442
 msgid "Bye"
-msgstr ""
+msgstr "再見"
 
 #: ../data/str.xml.in:443
 msgid "Want (Hattekure, E.g. pics ハラデイ)"
-msgstr ""
+msgstr "想要 (貼ってくれ、例：pics ハラデイ)"
 
 #: ../data/str.xml.in:444
 msgid "Exist as microparticles (Biryushi Level De Sonzaisuru)"
-msgstr ""
+msgstr "以微粒層級存在 (微粒子レベルで存在する)"
 
 #: ../data/str.xml.in:445
 msgid "False Start (Flying Get)"
-msgstr ""
+msgstr "偷跑 (フライングゲット)"
 
 #: ../data/str.xml.in:446
 msgid "Fulfilling Life (Real life is Zyujitsu)"
-msgstr ""
+msgstr "充實生活 (リア充)"
 
 #: ../data/str.xml.in:447
 msgid "Laugh (Warau)"
-msgstr "笑 (Warau)"
+msgstr "笑 (笑う)"
 
 #: ../data/str.xml.in:448
 msgid "He (Yatsu &lt;- Yashi)"
-msgstr ""
+msgstr "傢伙 (奴 ← 奴氏)"
 
 #: ../data/w3c.xml.in:1
 msgid "Char References"
-msgstr ""
+msgstr "字元參照"
 
 #: ../data/zh.xml.in:1
 msgid "Chinese"
@@ -3264,7 +3262,7 @@ msgstr "關閉程式"
 
 #: ../input-pad/app-menu.ui.h:4
 msgid "_Pad"
-msgstr ""
+msgstr "輸入板(_P)"
 
 #: ../input-pad/app-menu.ui.h:5
 msgid "_Code Point"
@@ -3272,7 +3270,7 @@ msgstr "碼位(_C)"
 
 #: ../input-pad/app-menu.ui.h:6
 msgid "_Show Pad"
-msgstr "顯示 Pad(_S)"
+msgstr "顯示輸入板(_S)"
 
 #: ../input-pad/app-menu.ui.h:7
 msgid "Show _All Characters"
@@ -3288,103 +3286,103 @@ msgstr "不顯示(_N)"
 
 #: ../input-pad/app-menu.ui.h:10
 msgid "Show _Keyboard Layout"
-msgstr "顯示鍵盤配置(_K)"
+msgstr "顯示鍵盤設定(_K)"
 
 #: ../input-pad/app-menu.ui.h:11
 msgid "_Help"
-msgstr "求助(_H)"
+msgstr "說明(_H)"
 
 #: ../input-pad/app-menu.ui.h:12
 msgid "_Troubleshoot"
-msgstr ""
+msgstr "疑難排解(_T)"
 
 #: ../input-pad/app-menu.ui.h:13
 msgid "_About"
-msgstr ""
+msgstr "關於(_A)"
 
 #: ../input-pad/dialog.ui.h:1
 msgid "Code Point Dialog"
-msgstr ""
+msgstr "碼位對話框"
 
 #: ../input-pad/dialog.ui.h:2
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: ../input-pad/dialog.ui.h:3
 msgid "You can choose encoding type"
-msgstr "可選擇編碼類型"
+msgstr "您可以選擇編碼類型"
 
 #: ../input-pad/dialog.ui.h:4
 msgid "Current Encoding"
-msgstr "當前編碼"
+msgstr "目前編碼"
 
 #: ../input-pad/dialog.ui.h:5
 msgid "Copy Buffer"
-msgstr ""
+msgstr "複製緩衝區"
 
 #: ../input-pad/dialog.ui.h:6
 msgid ""
 "Base 16\n"
 "Hex"
 msgstr ""
-"十六進制\n"
+"十六進位\n"
 "Hex"
 
 #: ../input-pad/dialog.ui.h:8
 msgid "Set number case to hexadecimal"
-msgstr ""
+msgstr "將數字進位設為十六進位"
 
 #: ../input-pad/dialog.ui.h:9
 msgid ""
 "Base 10\n"
 "Dec"
 msgstr ""
-"十進制\n"
+"十進位\n"
 "Dec"
 
 #: ../input-pad/dialog.ui.h:11
 msgid "Set number case to decimal"
-msgstr ""
+msgstr "將數字進位設為十進位"
 
 #: ../input-pad/dialog.ui.h:12
 msgid ""
 "Base 8\n"
 "Oct"
 msgstr ""
-"八進制\n"
+"八進位\n"
 "Oct"
 
 #: ../input-pad/dialog.ui.h:14
 msgid "Set number case to octal"
-msgstr ""
+msgstr "將數字進位設為八進位"
 
 #: ../input-pad/dialog.ui.h:15
 msgid ""
 "Base 2\n"
 "Bin"
 msgstr ""
-"二進制\n"
+"二進位\n"
 "Bin"
 
 #: ../input-pad/dialog.ui.h:17
 msgid "Set number case to binary"
-msgstr ""
+msgstr "將數字進位設為二進位"
 
 #: ../input-pad/dialog.ui.h:18
 msgid "Code Point:"
-msgstr "碼位:"
+msgstr "碼位："
 
 #: ../input-pad/dialog.ui.h:19
 msgid "Character:"
-msgstr "字元:"
+msgstr "字元："
 
 #: ../input-pad/dialog.ui.h:20
 msgid "_Send"
-msgstr "發送(_S)"
+msgstr "傳送(_S)"
 
 #: ../input-pad/dialog.ui.h:22
 msgid "Input Pad Troubleshoot"
-msgstr ""
+msgstr "輸入板疑難排解"
 
 #: ../input-pad/dialog.ui.h:24
 #, no-c-format
@@ -3401,30 +3399,38 @@ msgid ""
 "You also can copy pad files from /usr/share/input-pad/pad to $HOME/.config/"
 "pad to customize those in \"Custom Character\" pane."
 msgstr ""
+"\n"
+"此應用程式可作為獨立程式執行，或在輸入法應用程式下執行。\n"
+"若要傳送多位元組字元，此應用程式需在輸入法應用程式下執行。\n"
+"若要傳送字元至 X11 應用程式，這些應用程式需允許傳送事件，例如：\n"
+"% xterm -xrm \"XTerm*allowSendEvents: true\"\n"
+"\n"
+"您亦可將輸入板檔案從 /usr/share/input-pad/pad 複製到 $HOME/.config/pad，\n"
+"以在「自訂字元」窗格中自訂這些檔案。"
 
 #: ../input-pad/dialog.ui.h:31
 msgid "_OK"
-msgstr ""
+msgstr "確定(_O)"
 
 #: ../input-pad/dialog.ui.h:32
 msgid "Configure Keyboard Layouts"
-msgstr "設定鍵盤配置"
+msgstr "設定鍵盤設定"
 
 #: ../input-pad/dialog.ui.h:33
 msgid "A_vailable layouts:"
-msgstr "可用配置(_V):"
+msgstr "可用設定(_V)："
 
 #: ../input-pad/dialog.ui.h:34
 msgid "_Add"
-msgstr ""
+msgstr "新增(_A)"
 
 #: ../input-pad/dialog.ui.h:35
 msgid "_Layouts shown in the list:"
-msgstr ""
+msgstr "清單中顯示的設定(_L)："
 
 #: ../input-pad/dialog.ui.h:36
 msgid "_Remove"
-msgstr ""
+msgstr "移除(_R)"
 
 #: ../input-pad/dialog.ui.h:37
 msgid "_Options"
@@ -3448,19 +3454,22 @@ msgstr "<b>鍵盤選項</b>"
 
 #: ../input-pad/dialog.ui.h:43
 msgid "The input pad is a tool to send a character on button."
-msgstr ""
+msgstr "輸入板是一個可透過按鈕傳送字元的工具。"
 
 #: ../input-pad/dialog.ui.h:44
 msgid "translator_credits"
 msgstr ""
+"Walter Cheuk <wwycheuk@gmail.com>, 2012.\n"
+"hsu zangmen <chzang55@gmail.com>, 2025.\n"
+"Alang Hsu <alang.hsu@gmail.com>, 2026."
 
 #: ../input-pad/eek-gtk.c:65
 msgid "Use libeek to draw keyboard"
-msgstr "以 libeek 繪畫鍵盤"
+msgstr "使用 libeek 繪製鍵盤"
 
 #: ../input-pad/eek-gtk.c:237
 msgid "eekboard layout"
-msgstr "eekboard 配置"
+msgstr "eekboard 設定"
 
 #: ../input-pad/eek-gtk.c:249
 msgid "eekboard Options"
@@ -3472,39 +3481,39 @@ msgstr "顯示 eekboard 選項"
 
 #: ../input-pad/unicode_block.h:37
 msgid "Basic Latin"
-msgstr ""
+msgstr "基本拉丁字母"
 
 #: ../input-pad/unicode_block.h:40
 msgid "Latin Extended-B"
-msgstr ""
+msgstr "拉丁字擴充-B"
 
 #: ../input-pad/unicode_block.h:41
 msgid "IPA Extensions"
-msgstr ""
+msgstr "國際音標擴充"
 
 #: ../input-pad/unicode_block.h:42
 msgid "Spacing Modifier Letters"
-msgstr ""
+msgstr "間距修飾字母"
 
 #: ../input-pad/unicode_block.h:43
 msgid "Combining Diacritical Marks"
-msgstr ""
+msgstr "結合變音符號"
 
 #: ../input-pad/unicode_block.h:44
 msgid "Greek and Coptic"
-msgstr ""
+msgstr "希臘字母與科普特字母"
 
 #: ../input-pad/unicode_block.h:45
 msgid "Cyrillic"
-msgstr ""
+msgstr "西里爾字母"
 
 #: ../input-pad/unicode_block.h:46
 msgid "Cyrillic Supplement"
-msgstr ""
+msgstr "西里爾字母補充"
 
 #: ../input-pad/unicode_block.h:47
 msgid "Armenian"
-msgstr ""
+msgstr "亞美尼亞字母"
 
 #: ../input-pad/unicode_block.h:48
 msgid "Hebrew"
@@ -3516,7 +3525,7 @@ msgstr "阿拉伯文"
 
 #: ../input-pad/unicode_block.h:50
 msgid "Syriac"
-msgstr ""
+msgstr "敘利亞字母"
 
 #: ../input-pad/unicode_block.h:51
 msgid "Arabic Supplement"
@@ -3524,15 +3533,15 @@ msgstr "阿拉伯文補充"
 
 #: ../input-pad/unicode_block.h:52
 msgid "Thaana"
-msgstr ""
+msgstr "它拿字母"
 
 #: ../input-pad/unicode_block.h:53
 msgid "NKo"
-msgstr ""
+msgstr "西非書寫字母"
 
 #: ../input-pad/unicode_block.h:54
 msgid "Samaritan"
-msgstr ""
+msgstr "撒瑪利亞字母"
 
 #: ../input-pad/unicode_block.h:55
 msgid "Devanagari"
@@ -3544,35 +3553,35 @@ msgstr "孟加拉文"
 
 #: ../input-pad/unicode_block.h:57
 msgid "Gurmukhi"
-msgstr ""
+msgstr "古木基文"
 
 #: ../input-pad/unicode_block.h:58
 msgid "Gujarati"
-msgstr ""
+msgstr "古吉拉特文"
 
 #: ../input-pad/unicode_block.h:59
 msgid "Oriya"
-msgstr ""
+msgstr "奧里亞文"
 
 #: ../input-pad/unicode_block.h:60
 msgid "Tamil"
-msgstr "泰米爾文"
+msgstr "坦米爾文"
 
 #: ../input-pad/unicode_block.h:61
 msgid "Telugu"
-msgstr ""
+msgstr "泰盧固文"
 
 #: ../input-pad/unicode_block.h:62
 msgid "Kannada"
-msgstr ""
+msgstr "坎納達文"
 
 #: ../input-pad/unicode_block.h:63
 msgid "Malayalam"
-msgstr "馬來文"
+msgstr "馬拉雅拉姆文"
 
 #: ../input-pad/unicode_block.h:64
 msgid "Sinhala"
-msgstr ""
+msgstr "僧伽羅文"
 
 #: ../input-pad/unicode_block.h:65
 msgid "Thai"
@@ -3600,27 +3609,27 @@ msgstr "諺文字母"
 
 #: ../input-pad/unicode_block.h:71
 msgid "Ethiopic"
-msgstr ""
+msgstr "衣索比亞字母"
 
 #: ../input-pad/unicode_block.h:72
 msgid "Ethiopic Supplement"
-msgstr ""
+msgstr "衣索比亞字母補充"
 
 #: ../input-pad/unicode_block.h:73
 msgid "Cherokee"
-msgstr ""
+msgstr "柴羅基字母"
 
 #: ../input-pad/unicode_block.h:74
 msgid "Unified Canadian Aboriginal Syllabics"
-msgstr ""
+msgstr "加拿大原住民統一音節字母"
 
 #: ../input-pad/unicode_block.h:75
 msgid "Ogham"
-msgstr ""
+msgstr "歐甘字母"
 
 #: ../input-pad/unicode_block.h:76
 msgid "Runic"
-msgstr ""
+msgstr "盧恩字母"
 
 #: ../input-pad/unicode_block.h:77
 msgid "Tagalog"
@@ -3628,15 +3637,15 @@ msgstr "他加祿文"
 
 #: ../input-pad/unicode_block.h:78
 msgid "Hanunoo"
-msgstr ""
+msgstr "哈努諾文"
 
 #: ../input-pad/unicode_block.h:79
 msgid "Buhid"
-msgstr ""
+msgstr "布希德文"
 
 #: ../input-pad/unicode_block.h:80
 msgid "Tagbanwa"
-msgstr ""
+msgstr "塔格巴努亞文"
 
 #: ../input-pad/unicode_block.h:81
 msgid "Khmer"
@@ -3644,39 +3653,39 @@ msgstr "高棉文"
 
 #: ../input-pad/unicode_block.h:82
 msgid "Mongolian"
-msgstr "蒙文"
+msgstr "蒙古文"
 
 #: ../input-pad/unicode_block.h:83
 msgid "Unified Canadian Aboriginal Syllabics Extended"
-msgstr ""
+msgstr "加拿大原住民統一音節字母擴充"
 
 #: ../input-pad/unicode_block.h:84
 msgid "Limbu"
-msgstr ""
+msgstr "林布文"
 
 #: ../input-pad/unicode_block.h:85
 msgid "Tai Le"
-msgstr ""
+msgstr "傣仂文"
 
 #: ../input-pad/unicode_block.h:86
 msgid "New Tai Lue"
-msgstr ""
+msgstr "新傣仂文"
 
 #: ../input-pad/unicode_block.h:87
 msgid "Khmer Symbols"
-msgstr "高棉符號"
+msgstr "高棉文符號"
 
 #: ../input-pad/unicode_block.h:88
 msgid "Buginese"
-msgstr ""
+msgstr "布吉文"
 
 #: ../input-pad/unicode_block.h:89
 msgid "Tai Tham"
-msgstr ""
+msgstr "傣擔文"
 
 #: ../input-pad/unicode_block.h:90
 msgid "Balinese"
-msgstr ""
+msgstr "峇里文"
 
 #: ../input-pad/unicode_block.h:91
 msgid "Sundanese"
@@ -3684,35 +3693,35 @@ msgstr "巽他文"
 
 #: ../input-pad/unicode_block.h:92
 msgid "Lepcha"
-msgstr ""
+msgstr "雷布查文"
 
 #: ../input-pad/unicode_block.h:93
 msgid "Ol Chiki"
-msgstr ""
+msgstr "桑塔利文"
 
 #: ../input-pad/unicode_block.h:94
 msgid "Vedic Extensions"
-msgstr ""
+msgstr "吠陀擴充"
 
 #: ../input-pad/unicode_block.h:95
 msgid "Phonetic Extensions"
-msgstr ""
+msgstr "語音擴充"
 
 #: ../input-pad/unicode_block.h:96
 msgid "Phonetic Extensions Supplement"
-msgstr ""
+msgstr "語音擴充補充"
 
 #: ../input-pad/unicode_block.h:97
 msgid "Combining Diacritical Marks Supplement"
-msgstr ""
+msgstr "結合變音符號補充"
 
 #: ../input-pad/unicode_block.h:98
 msgid "Latin Extended Additional"
-msgstr ""
+msgstr "拉丁字額外擴充"
 
 #: ../input-pad/unicode_block.h:99
 msgid "Greek Extended"
-msgstr ""
+msgstr "希臘字母擴充"
 
 #: ../input-pad/unicode_block.h:100
 msgid "General Punctuation"
@@ -3728,15 +3737,15 @@ msgstr "貨幣符號"
 
 #: ../input-pad/unicode_block.h:103
 msgid "Combining Diacritical Marks for Symbols"
-msgstr ""
+msgstr "符號用結合變音符號"
 
 #: ../input-pad/unicode_block.h:104
 msgid "Letterlike Symbols"
-msgstr ""
+msgstr "類字母符號"
 
 #: ../input-pad/unicode_block.h:105
 msgid "Number Forms"
-msgstr ""
+msgstr "數字形式"
 
 #: ../input-pad/unicode_block.h:106
 msgid "Arrows"
@@ -3748,27 +3757,27 @@ msgstr "數學運算子"
 
 #: ../input-pad/unicode_block.h:108
 msgid "Miscellaneous Technical"
-msgstr "雜項科技"
+msgstr "雜項科技符號"
 
 #: ../input-pad/unicode_block.h:109
 msgid "Control Pictures"
-msgstr ""
+msgstr "控制圖示"
 
 #: ../input-pad/unicode_block.h:110
 msgid "Optical Character Recognition"
-msgstr "泰米爾文"
+msgstr "光學字元辨識"
 
 #: ../input-pad/unicode_block.h:111
 msgid "Enclosed Alphanumerics"
-msgstr "包起來的字母和數字"
+msgstr "圈框字母數字"
 
 #: ../input-pad/unicode_block.h:113
 msgid "Block Elements"
-msgstr ""
+msgstr "方塊元素"
 
 #: ../input-pad/unicode_block.h:114
 msgid "Geometric Shapes"
-msgstr "地理學圖形"
+msgstr "幾何圖形"
 
 #: ../input-pad/unicode_block.h:115
 msgid "Miscellaneous Symbols"
@@ -3784,7 +3793,7 @@ msgstr "補充箭頭-A"
 
 #: ../input-pad/unicode_block.h:119
 msgid "Braille Patterns"
-msgstr "盲文式樣"
+msgstr "點字圖案"
 
 #: ../input-pad/unicode_block.h:120
 msgid "Supplemental Arrows-B"
@@ -3796,7 +3805,7 @@ msgstr "雜項數學符號-B"
 
 #: ../input-pad/unicode_block.h:122
 msgid "Supplemental Mathematical Operators"
-msgstr ""
+msgstr "補充數學運算子"
 
 #: ../input-pad/unicode_block.h:123
 msgid "Miscellaneous Symbols and Arrows"
@@ -3804,15 +3813,15 @@ msgstr "雜項符號和箭頭"
 
 #: ../input-pad/unicode_block.h:124
 msgid "Glagolitic"
-msgstr ""
+msgstr "格拉哥里字母"
 
 #: ../input-pad/unicode_block.h:125
 msgid "Latin Extended-C"
-msgstr ""
+msgstr "拉丁字擴充-C"
 
 #: ../input-pad/unicode_block.h:126
 msgid "Coptic"
-msgstr ""
+msgstr "科普特字母"
 
 #: ../input-pad/unicode_block.h:127
 msgid "Georgian Supplement"
@@ -3820,19 +3829,19 @@ msgstr "喬治亞文補充"
 
 #: ../input-pad/unicode_block.h:128
 msgid "Tifinagh"
-msgstr ""
+msgstr "提非納字母"
 
 #: ../input-pad/unicode_block.h:129
 msgid "Ethiopic Extended"
-msgstr ""
+msgstr "衣索比亞字母擴充"
 
 #: ../input-pad/unicode_block.h:130
 msgid "Cyrillic Extended-A"
-msgstr ""
+msgstr "西里爾字母擴充-A"
 
 #: ../input-pad/unicode_block.h:131
 msgid "Supplemental Punctuation"
-msgstr ""
+msgstr "補充標點"
 
 #: ../input-pad/unicode_block.h:133
 msgid "Kangxi Radicals"
@@ -3840,7 +3849,7 @@ msgstr "康熙部首"
 
 #: ../input-pad/unicode_block.h:134
 msgid "Ideographic Description Characters"
-msgstr "表意文字說明字元"
+msgstr "表意文字描述字元"
 
 #: ../input-pad/unicode_block.h:135
 msgid "CJK Symbols and Punctuation"
@@ -3864,19 +3873,19 @@ msgstr "中日韓筆畫"
 
 #: ../input-pad/unicode_block.h:143
 msgid "Katakana Phonetic Extensions"
-msgstr ""
+msgstr "片假名語音擴充"
 
 #: ../input-pad/unicode_block.h:144
 msgid "Enclosed CJK Letters and Months"
-msgstr "包起來的中日韓字母和月份符號"
+msgstr "圈框中日韓字母和月份"
 
 #: ../input-pad/unicode_block.h:146
 msgid "CJK Unified Ideographs Extension A"
-msgstr "中日韓統一表意文字擴充 A 集"
+msgstr "中日韓統一表意文字擴充 A"
 
 #: ../input-pad/unicode_block.h:147
 msgid "Yijing Hexagram Symbols"
-msgstr "易經八卦符號"
+msgstr "易經卦象符號"
 
 #: ../input-pad/unicode_block.h:148
 msgid "CJK Unified Ideographs"
@@ -3884,51 +3893,51 @@ msgstr "中日韓統一表意文字"
 
 #: ../input-pad/unicode_block.h:149
 msgid "Yi Syllables"
-msgstr "彞文音節"
+msgstr "彝文音節"
 
 #: ../input-pad/unicode_block.h:150
 msgid "Yi Radicals"
-msgstr "彞文部首"
+msgstr "彝文部首"
 
 #: ../input-pad/unicode_block.h:151
 msgid "Lisu"
-msgstr ""
+msgstr "傈僳文"
 
 #: ../input-pad/unicode_block.h:152
 msgid "Vai"
-msgstr ""
+msgstr "瓦伊文"
 
 #: ../input-pad/unicode_block.h:153
 msgid "Cyrillic Extended-B"
-msgstr ""
+msgstr "西里爾字母擴充-B"
 
 #: ../input-pad/unicode_block.h:154
 msgid "Bamum"
-msgstr ""
+msgstr "巴姆穆文"
 
 #: ../input-pad/unicode_block.h:155
 msgid "Modifier Tone Letters"
-msgstr ""
+msgstr "聲調修飾字母"
 
 #: ../input-pad/unicode_block.h:156
 msgid "Latin Extended-D"
-msgstr ""
+msgstr "拉丁字擴充-D"
 
 #: ../input-pad/unicode_block.h:157
 msgid "Syloti Nagri"
-msgstr ""
+msgstr "錫爾赫特文"
 
 #: ../input-pad/unicode_block.h:158
 msgid "Common Indic Number Forms"
-msgstr ""
+msgstr "通用印度數字形式"
 
 #: ../input-pad/unicode_block.h:159
 msgid "Phags-pa"
-msgstr ""
+msgstr "八思巴文"
 
 #: ../input-pad/unicode_block.h:160
 msgid "Saurashtra"
-msgstr ""
+msgstr "索拉什特拉文"
 
 #: ../input-pad/unicode_block.h:161
 msgid "Devanagari Extended"
@@ -3936,11 +3945,11 @@ msgstr "天城文擴充"
 
 #: ../input-pad/unicode_block.h:162
 msgid "Kayah Li"
-msgstr ""
+msgstr "克耶文"
 
 #: ../input-pad/unicode_block.h:163
 msgid "Rejang"
-msgstr ""
+msgstr "勒姜文"
 
 #: ../input-pad/unicode_block.h:164
 msgid "Hangul Jamo Extended-A"
@@ -3952,7 +3961,7 @@ msgstr "爪哇文"
 
 #: ../input-pad/unicode_block.h:166
 msgid "Cham"
-msgstr ""
+msgstr "占文"
 
 #: ../input-pad/unicode_block.h:167
 msgid "Myanmar Extended-A"
@@ -3960,11 +3969,11 @@ msgstr "緬文擴充-A"
 
 #: ../input-pad/unicode_block.h:168
 msgid "Tai Viet"
-msgstr ""
+msgstr "傣越文"
 
 #: ../input-pad/unicode_block.h:169
 msgid "Meetei Mayek"
-msgstr ""
+msgstr "曼尼普爾文"
 
 #: ../input-pad/unicode_block.h:170
 msgid "Hangul Syllables"
@@ -3976,19 +3985,19 @@ msgstr "諺文字母擴充-B"
 
 #: ../input-pad/unicode_block.h:172
 msgid "High Surrogates"
-msgstr ""
+msgstr "高代理區"
 
 #: ../input-pad/unicode_block.h:173
 msgid "High Private Use Surrogates"
-msgstr ""
+msgstr "高私人使用代理區"
 
 #: ../input-pad/unicode_block.h:174
 msgid "Low Surrogates"
-msgstr ""
+msgstr "低代理區"
 
 #: ../input-pad/unicode_block.h:175
 msgid "Private Use Area"
-msgstr ""
+msgstr "私人使用區"
 
 #: ../input-pad/unicode_block.h:176
 msgid "CJK Compatibility Ideographs"
@@ -3996,23 +4005,23 @@ msgstr "中日韓相容表意文字"
 
 #: ../input-pad/unicode_block.h:177
 msgid "Alphabetic Presentation Forms"
-msgstr "字母表現形式"
+msgstr "字母表達形式"
 
 #: ../input-pad/unicode_block.h:178
 msgid "Arabic Presentation Forms-A"
-msgstr "阿拉伯字母表現形式 A"
+msgstr "阿拉伯字母表達形式-A"
 
 #: ../input-pad/unicode_block.h:179
 msgid "Variation Selectors"
-msgstr "異體字選擇元"
+msgstr "異體字選擇器"
 
 #: ../input-pad/unicode_block.h:180
 msgid "Vertical Forms"
-msgstr "直排"
+msgstr "直排形式"
 
 #: ../input-pad/unicode_block.h:181
 msgid "Combining Half Marks"
-msgstr ""
+msgstr "結合半形標記"
 
 #: ../input-pad/unicode_block.h:182
 msgid "CJK Compatibility Forms"
@@ -4020,15 +4029,15 @@ msgstr "中日韓相容形式"
 
 #: ../input-pad/unicode_block.h:183
 msgid "Small Form Variants"
-msgstr "小型相容形式"
+msgstr "小寫形式變體"
 
 #: ../input-pad/unicode_block.h:184
 msgid "Arabic Presentation Forms-B"
-msgstr "阿拉伯字母表現形式 B"
+msgstr "阿拉伯字母表達形式-B"
 
 #: ../input-pad/unicode_block.h:185
 msgid "Halfwidth and Fullwidth Forms"
-msgstr "半形和全形"
+msgstr "半形與全形形式"
 
 #: ../input-pad/unicode_block.h:186
 msgid "Specials"
@@ -4036,15 +4045,15 @@ msgstr "特殊字元"
 
 #: ../input-pad/unicode_block.h:187
 msgid "Linear B Syllabary"
-msgstr ""
+msgstr "線性 B 音節文字"
 
 #: ../input-pad/unicode_block.h:188
 msgid "Linear B Ideograms"
-msgstr ""
+msgstr "線性 B 表意文字"
 
 #: ../input-pad/unicode_block.h:189
 msgid "Aegean Numbers"
-msgstr ""
+msgstr "愛琴數字"
 
 #: ../input-pad/unicode_block.h:190
 msgid "Ancient Greek Numbers"
@@ -4052,111 +4061,111 @@ msgstr "古希臘數字"
 
 #: ../input-pad/unicode_block.h:191
 msgid "Ancient Symbols"
-msgstr "古符號"
+msgstr "古代符號"
 
 #: ../input-pad/unicode_block.h:192
 msgid "Phaistos Disc"
-msgstr ""
+msgstr "費斯托斯圓盤"
 
 #: ../input-pad/unicode_block.h:193
 msgid "Lycian"
-msgstr ""
+msgstr "呂基亞字母"
 
 #: ../input-pad/unicode_block.h:194
 msgid "Carian"
-msgstr ""
+msgstr "卡里亞字母"
 
 #: ../input-pad/unicode_block.h:195
 msgid "Old Italic"
-msgstr ""
+msgstr "古義大利字母"
 
 #: ../input-pad/unicode_block.h:197
 msgid "Ugaritic"
-msgstr ""
+msgstr "烏加里特字母"
 
 #: ../input-pad/unicode_block.h:198
 msgid "Old Persian"
-msgstr ""
+msgstr "古波斯文"
 
 #: ../input-pad/unicode_block.h:199
 msgid "Deseret"
-msgstr ""
+msgstr "德瑟雷特字母"
 
 #: ../input-pad/unicode_block.h:201
 msgid "Osmanya"
-msgstr ""
+msgstr "奧斯曼亞字母"
 
 #: ../input-pad/unicode_block.h:202
 msgid "Cypriot Syllabary"
-msgstr ""
+msgstr "賽普勒斯音節文字"
 
 #: ../input-pad/unicode_block.h:203
 msgid "Imperial Aramaic"
-msgstr ""
+msgstr "帝國亞拉姆文"
 
 #: ../input-pad/unicode_block.h:204
 msgid "Phoenician"
-msgstr ""
+msgstr "腓尼基字母"
 
 #: ../input-pad/unicode_block.h:205
 msgid "Lydian"
-msgstr ""
+msgstr "呂底亞字母"
 
 #: ../input-pad/unicode_block.h:206
 msgid "Kharoshthi"
-msgstr ""
+msgstr "佉盧文"
 
 #: ../input-pad/unicode_block.h:207
 msgid "Old South Arabian"
-msgstr ""
+msgstr "古南阿拉伯字母"
 
 #: ../input-pad/unicode_block.h:208
 msgid "Avestan"
-msgstr ""
+msgstr "阿維斯陀字母"
 
 #: ../input-pad/unicode_block.h:209
 msgid "Inscriptional Parthian"
-msgstr ""
+msgstr "碑刻帕提亞文"
 
 #: ../input-pad/unicode_block.h:210
 msgid "Inscriptional Pahlavi"
-msgstr ""
+msgstr "碑刻巴列維文"
 
 #: ../input-pad/unicode_block.h:211
 msgid "Old Turkic"
-msgstr ""
+msgstr "古突厥文"
 
 #: ../input-pad/unicode_block.h:212
 msgid "Rumi Numeral Symbols"
-msgstr ""
+msgstr "魯米數字符號"
 
 #: ../input-pad/unicode_block.h:213
 msgid "Kaithi"
-msgstr ""
+msgstr "凱提文"
 
 #: ../input-pad/unicode_block.h:214
 msgid "Cuneiform"
-msgstr ""
+msgstr "楔形文字"
 
 #: ../input-pad/unicode_block.h:215
 msgid "Cuneiform Numbers and Punctuation"
-msgstr ""
+msgstr "楔形文字數字和標點"
 
 #: ../input-pad/unicode_block.h:216
 msgid "Egyptian Hieroglyphs"
-msgstr ""
+msgstr "埃及象形文字"
 
 #: ../input-pad/unicode_block.h:217
 msgid "Byzantine Musical Symbols"
-msgstr "Byzantine 音符"
+msgstr "拜占庭音樂符號"
 
 #: ../input-pad/unicode_block.h:218
 msgid "Musical Symbols"
-msgstr "音符"
+msgstr "音樂符號"
 
 #: ../input-pad/unicode_block.h:219
 msgid "Ancient Greek Musical Notation"
-msgstr "古希臘音符"
+msgstr "古希臘音樂記譜"
 
 #: ../input-pad/unicode_block.h:220
 msgid "Tai Xuan Jing Symbols"
@@ -4168,7 +4177,7 @@ msgstr "算籌數字"
 
 #: ../input-pad/unicode_block.h:222
 msgid "Mathematical Alphanumeric Symbols"
-msgstr ""
+msgstr "數學字母數字符號"
 
 #: ../input-pad/unicode_block.h:223
 msgid "Mahjong Tiles"
@@ -4180,19 +4189,19 @@ msgstr "骨牌"
 
 #: ../input-pad/unicode_block.h:225
 msgid "Enclosed Alphanumeric Supplement"
-msgstr "包起來的字母和數字補充"
+msgstr "圈框字母數字補充"
 
 #: ../input-pad/unicode_block.h:226
 msgid "Enclosed Ideographic Supplement"
-msgstr "包起來的表音文字補充"
+msgstr "圈框表意文字補充"
 
 #: ../input-pad/unicode_block.h:227
 msgid "CJK Unified Ideographs Extension B"
-msgstr "中日韓統一表意文字擴充 B 集"
+msgstr "中日韓統一表意文字擴充 B"
 
 #: ../input-pad/unicode_block.h:228
 msgid "CJK Unified Ideographs Extension C"
-msgstr "中日韓統一表意文字擴充 C 集"
+msgstr "中日韓統一表意文字擴充 C"
 
 #: ../input-pad/unicode_block.h:229
 msgid "CJK Compatibility Ideographs Supplement"
@@ -4200,19 +4209,19 @@ msgstr "中日韓相容表意文字補充"
 
 #: ../input-pad/unicode_block.h:230
 msgid "Tags"
-msgstr "標記"
+msgstr "標籤"
 
 #: ../input-pad/unicode_block.h:231
 msgid "Variation Selectors Supplement"
-msgstr "異體字選擇元補充"
+msgstr "異體字選擇器補充"
 
 #: ../input-pad/unicode_block.h:232
 msgid "Supplementary Private Use Area-A"
-msgstr ""
+msgstr "補充私人使用區-A"
 
 #: ../input-pad/unicode_block.h:233
 msgid "Supplementary Private Use Area-B"
-msgstr ""
+msgstr "補充私人使用區-B"
 
 #: ../input-pad/window-gtk.c:247
 msgid "Display version"
@@ -4221,45 +4230,45 @@ msgstr "顯示版本"
 #. Translators: the word 'KBDUI' is not translated.
 #: ../input-pad/window-gtk.c:250
 msgid "Use KBDUI to draw keyboard"
-msgstr "以 KBDUI 繪畫鍵盤"
+msgstr "使用 KBDUI 繪製鍵盤"
 
 #. Translators: the word 'TYPE' is not translated.
 #: ../input-pad/window-gtk.c:253
 msgid "Use TYPE of char table. The available TYPE=0, 1, 2"
-msgstr ""
+msgstr "使用 TYPE 字元表格。可用的 TYPE=0, 1, 2"
 
 #. Translators: the word 'TYPE' is not translated.
 #: ../input-pad/window-gtk.c:256
 msgid "Use TYPE of keyboard layout. The available TYPE=0, 1"
-msgstr ""
+msgstr "使用 TYPE 鍵盤設定。可用的 TYPE=0, 1"
 
 #: ../input-pad/window-gtk.c:263
 msgid "Use XTEST module to send key events"
-msgstr ""
+msgstr "使用 XTEST 模組傳送按鍵事件"
 
 #: ../input-pad/window-gtk.c:268
 msgid "Use XSendEvent to send key events"
-msgstr ""
+msgstr "使用 XSendEvent 傳送按鍵事件"
 
 #: ../input-pad/window-gtk.c:1216
 msgid "Fold layout"
-msgstr ""
+msgstr "摺疊設定"
 
 #: ../input-pad/window-gtk.c:1221 ../input-pad/window-gtk.c:2619
 msgid "Extend layout"
-msgstr ""
+msgstr "展開設定"
 
 #: ../input-pad/window-gtk.c:2833
 msgid "Layout"
-msgstr "配置"
+msgstr "設定"
 
 #: ../input-pad/window-gtk.c:3104
 msgid "_Layout:"
-msgstr "配置(_L):"
+msgstr "設定(_L)："
 
 #: ../input-pad/window-gtk.c:3134
 msgid "_Configure Layouts"
-msgstr "設定配置(_C)"
+msgstr "設定設定(_C)"
 
 #. No longer used in gtk 2.20
 #. gchar *license1, *license2, *license3;
@@ -4288,7 +4297,7 @@ msgstr "設定配置(_C)"
 #: ../input-pad/window-gtk.c:3173
 #, c-format
 msgid "This program comes with ABSOLUTELY NO WARRANTY; for details, visit %s"
-msgstr ""
+msgstr "本程式不提供任何擔保；詳情請參閱 %s"
 
 #: ../input-pad/window-gtk.c:3455
 msgid "Group"
