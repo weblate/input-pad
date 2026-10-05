@@ -6,13 +6,14 @@
 # Christopher Meng <cickumqt@gmail.com>, 2012-2013
 # Tommy He <lovenemesis@gmail.com>, 2012
 # Jingge Chen <mariocanfly@hotmail.com>, 2024.
+# Kung Kun <kun17.kung317@silomails.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
-"PO-Revision-Date: 2024-01-22 11:36+0000\n"
-"Last-Translator: Jingge Chen <mariocanfly@hotmail.com>\n"
+"PO-Revision-Date: 2026-10-06 15:17+0000\n"
+"Last-Translator: Kung Kun <kun17.kung317@silomails.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
 "projects/input-pad/master/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.3.1\n"
+"X-Generator: Weblate 2026.10\n"
 
 #: ../data/alphabet.xml.in.in:1
 msgid "Alphabets"
@@ -3078,7 +3079,7 @@ msgstr ""
 
 #: ../data/str.xml.in:405
 msgid "Yes"
-msgstr "Yes"
+msgstr "是"
 
 #: ../data/str.xml.in:406
 msgid "No"
