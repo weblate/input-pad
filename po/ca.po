@@ -5,20 +5,22 @@
 # Translators:
 # jordimash <jmas@softcatala.org>, 2013
 # Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2015. #zanata
+# David Medina <dmedinacpnl@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
 "POT-Creation-Date: 2025-03-21 13:08+0900\n"
-"PO-Revision-Date: 2015-10-03 08:46-0400\n"
-"Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
-"Language-Team: Catalan <fedora@llistes.softcatala.org>\n"
+"PO-Revision-Date: 2026-11-17 11:18+0000\n"
+"Last-Translator: David Medina <dmedinacpnl@gmail.com>\n"
+"Language-Team: Catalan <https://translate.fedoraproject.org/projects/input-"
+"pad/master/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.8.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #: ../data/alphabet.xml.in.in:1
 msgid "Alphabets"
@@ -63,7 +65,7 @@ msgstr "Cal·ligrafia"
 
 #: ../data/base.xml.in:11
 msgid "Double Struck"
-msgstr ""
+msgstr "Doble corda"
 
 #: ../data/base.xml.in:12
 msgid "All"
@@ -147,7 +149,7 @@ msgstr "Compatibilitat CJK"
 
 #: ../data/base.xml.in:32
 msgid "Small Form"
-msgstr ""
+msgstr "Forma petita"
 
 #: ../data/cmd.xml.in:1
 msgid "Command"
@@ -258,7 +260,7 @@ msgstr "Implosiva bilabial sorda"
 
 #: ../data/ipa-obsolete.xml.in:6 ../data/ipa.xml.in.h:138
 msgid "Alveolar click"
-msgstr ""
+msgstr "Clic alveolar"
 
 #: ../data/ipa-obsolete.xml.in:7
 msgid "Palatalized voiced alveolar plosive"
@@ -306,7 +308,7 @@ msgstr "Palatalització nasal alveolar"
 
 #: ../data/ipa-obsolete.xml.in:18
 msgid "Syllabic alveolar nasal"
-msgstr ""
+msgstr "Nasal alveolar sil·làbica"
 
 #: ../data/ipa-obsolete.xml.in:19
 msgid "Palatalized voiceless bilabial plosive"
@@ -322,7 +324,7 @@ msgstr "Palatalització vibrant alveolar"
 
 #: ../data/ipa-obsolete.xml.in:22
 msgid "Voiced strident apico-alveolar trill"
-msgstr ""
+msgstr "Trill estrident apico-alveolar"
 
 #: ../data/ipa-obsolete.xml.in:23
 msgid "Palatalized voiceless alveolar fricative"
@@ -358,7 +360,7 @@ msgstr "Implosiva alveolar sorda"
 
 #: ../data/ipa-obsolete.xml.in:31 ../data/ipa.xml.in.h:137
 msgid "Dental click"
-msgstr ""
+msgstr "Clic dental"
 
 #: ../data/ipa-obsolete.xml.in:32
 msgid "Voiceless uvular implosive"
@@ -390,7 +392,7 @@ msgstr "Vocal quasitancada quasianterior"
 
 #: ../data/ipa-obsolete.xml.in:39 ../data/ipa.xml.in.h:140
 msgid "Alveolar lateral click"
-msgstr ""
+msgstr "Clic lateral alveolar"
 
 #: ../data/ipa-obsolete.xml.in:40
 msgid "Labialized voiceless alveolar or dental fricative"
@@ -402,11 +404,11 @@ msgstr "Labialització alveolar sonora o labialització fricativa dental sonora"
 
 #: ../data/ipa-obsolete.xml.in:42
 msgid "Combining labialization mark"
-msgstr ""
+msgstr "Combinació de la marca de labialització"
 
 #: ../data/ipa-obsolete.xml.in:43
 msgid "Combining palatalization mark"
-msgstr ""
+msgstr "S'està combinant la marca de palatalització"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa-unofficial.xml.in:2
@@ -473,12 +475,12 @@ msgstr "Lateral africada retroflexa sorda (PUA)"
 
 #: ../data/ipa-unofficial.xml.in:19
 msgid "Combining stridency mark"
-msgstr ""
+msgstr "Combinació de la marca d'estridència"
 
 #. "PUA" stands for "Private Use Area"
 #: ../data/ipa-unofficial.xml.in:21
 msgid "Combining stridency mark (PUA)"
-msgstr ""
+msgstr "Combinació de la marca d'estridència (PUA)"
 
 #. "IPA" stands for "International Phonetic Alphabet"
 #: ../data/ipa.xml.in:2
@@ -603,7 +605,7 @@ msgstr "Fricativa labiodental sorda"
 
 #: ../data/ipa.xml.in:38
 msgid "Velopharyngeal fricative"
-msgstr ""
+msgstr "Fricativa veofaríngia"
 
 #: ../data/ipa.xml.in:39
 msgid "Voiced velar plosive"
@@ -771,11 +773,11 @@ msgstr "Vocal oberta anterior arrodonida"
 
 #: ../data/ipa.xml.in:82
 msgid "Voiceless bilabial plosive"
-msgstr ""
+msgstr "Oclusiva bilabial sorda"
 
 #: ../data/ipa.xml.in:83
 msgid "Voiceless bilabial-labiodental affricate"
-msgstr ""
+msgstr "Africada bilabial-labiodental sorda"
 
 #: ../data/ipa.xml.in:84
 msgid "Voiceless bilabial affricate"
@@ -783,11 +785,11 @@ msgstr "Africada bilabial sorda"
 
 #: ../data/ipa.xml.in:85
 msgid "Voiceless labiodental affricate"
-msgstr ""
+msgstr "Africada labiodental sorda"
 
 #: ../data/ipa.xml.in:86
 msgid "Voiceless uvular plosive"
-msgstr ""
+msgstr "Oclusiva uvular sorda"
 
 #: ../data/ipa.xml.in:87
 msgid "Alveolar trill"
@@ -803,19 +805,19 @@ msgstr "Vibrant uvular"
 
 #: ../data/ipa.xml.in:92
 msgid "Alveolar approximant"
-msgstr ""
+msgstr "Aproximant alveolar"
 
 #: ../data/ipa.xml.in:93
 msgid "Retroflex approximant"
-msgstr ""
+msgstr "Aproximant retroflex"
 
 #: ../data/ipa.xml.in:94
 msgid "Voiced uvular fricative"
-msgstr ""
+msgstr "Fricativa uvular sonora"
 
 #: ../data/ipa.xml.in:95
 msgid "Voiceless alveolar fricative"
-msgstr ""
+msgstr "Fricativa alveolar sorda"
 
 #: ../data/ipa.xml.in:96
 msgid "Voiceless palato-alveolar fricative"
@@ -823,11 +825,11 @@ msgstr "Fricativa postalveolar sorda"
 
 #: ../data/ipa.xml.in:97
 msgid "Voiceless retroflex fricative"
-msgstr ""
+msgstr "Fricativa retroflexa sorda"
 
 #: ../data/ipa.xml.in:98
 msgid "Voiceless alveolar plosive"
-msgstr ""
+msgstr "Oclusiva alveolar sorda"
 
 #: ../data/ipa.xml.in:99
 msgid "Voiceless retroflex plosive"
@@ -855,7 +857,7 @@ msgstr "Vocal tancada central arrodonida"
 
 #: ../data/ipa.xml.in:109
 msgid "Labial-palatal approximant"
-msgstr ""
+msgstr "Aproximant labial-palatal"
 
 #: ../data/ipa.xml.in:110
 msgid "Close back unrounded vowel"
@@ -895,7 +897,7 @@ msgstr "Aproximant velar"
 
 #: ../data/ipa.xml.in:119
 msgid "Bilabial percussive"
-msgstr ""
+msgstr "Percussiva bilabial"
 
 #: ../data/ipa.xml.in:120
 msgid "Voiceless velar fricative"
@@ -939,83 +941,83 @@ msgstr "Fricativa bilabial sorda"
 
 #: ../data/ipa.xml.in:132
 msgid "Glottal stop"
-msgstr ""
+msgstr "Aturada glotal"
 
 #: ../data/ipa.xml.in:133
 msgid "Epiglottal plosive"
-msgstr ""
+msgstr "Oclusiva epiglotal"
 
 #: ../data/ipa.xml.in:134
 msgid "Voiced pharyngeal fricative"
-msgstr ""
+msgstr "Fricativa faríngia sonora"
 
 #: ../data/ipa.xml.in:135
 msgid "Voiced epiglottal fricative"
-msgstr ""
+msgstr "Fricativa epiglotal sonora"
 
 #: ../data/ipa.xml.in:136
 msgid "Bilabial click"
-msgstr ""
+msgstr "Clic bilabial"
 
 #: ../data/ipa.xml.in:139
 msgid "Palatal click"
-msgstr ""
+msgstr "Clic palatí"
 
 #: ../data/ipa.xml.in:141
 msgid "Bidental percussive"
-msgstr ""
+msgstr "Percussiva bidental"
 
 #: ../data/ipa.xml.in:142
 msgid "Aspiration mark"
-msgstr ""
+msgstr "Marca d'aspiració"
 
 #: ../data/ipa.xml.in:143
 msgid "Non-aspiration mark"
-msgstr ""
+msgstr "Marca no aspirant"
 
 #: ../data/ipa.xml.in:144
 msgid "Breathy voice mark"
-msgstr ""
+msgstr "Marca de veu Breathy"
 
 #: ../data/ipa.xml.in:145
 msgid "Palatalization mark"
-msgstr ""
+msgstr "Marca de paletització"
 
 #: ../data/ipa.xml.in:146
 msgid "Lateral release mark"
-msgstr ""
+msgstr "Marca d'alliberament lateral"
 
 #: ../data/ipa.xml.in:147
 msgid "Bilabial nasal release mark"
-msgstr ""
+msgstr "Marca d'alliberament nasal bilabial"
 
 #: ../data/ipa.xml.in:148
 msgid "Labiodental nasal release mark"
-msgstr ""
+msgstr "Marca d'alliberament nasal labiodental"
 
 #: ../data/ipa.xml.in:149
 msgid "Alveolar nasal release mark"
-msgstr ""
+msgstr "Marca d'alliberament nasal alveolar"
 
 #: ../data/ipa.xml.in:150
 msgid "Palatal nasal release mark"
-msgstr ""
+msgstr "Marca d'alliberament nasal palatina"
 
 #: ../data/ipa.xml.in:151
 msgid "Retroflex nasal release mark"
-msgstr ""
+msgstr "Marca d'alliberament nasal retroflexa"
 
 #: ../data/ipa.xml.in:152
 msgid "Uvular nasal release mark"
-msgstr ""
+msgstr "Marca d'alliberament nasal uvular"
 
 #: ../data/ipa.xml.in:153
 msgid "Labio-palatalization mark"
-msgstr ""
+msgstr "Marca de labiopalatalització"
 
 #: ../data/ipa.xml.in:154
 msgid "Labiodentalization mark"
-msgstr ""
+msgstr "Marca de labiodentalització"
 
 #: ../data/ipa.xml.in:155
 msgid "Labialization mark"
@@ -1023,371 +1025,371 @@ msgstr "Marca de labialització"
 
 #: ../data/ipa.xml.in:156
 msgid "Velarization mark"
-msgstr ""
+msgstr "Marca de Velarització"
 
 #: ../data/ipa.xml.in:157
 msgid "Glottalization mark"
-msgstr ""
+msgstr "Marca de Glottalització"
 
 #: ../data/ipa.xml.in:158
 msgid "Pharyngealization mark"
-msgstr ""
+msgstr "Marca de faringi"
 
 #: ../data/ipa.xml.in:159
 msgid "Combining velarization/pharyngealization mark"
-msgstr ""
+msgstr "Combinació de la marca velarització/feringenialització"
 
 #: ../data/ipa.xml.in:160
 msgid "Combining laryngealization mark"
-msgstr ""
+msgstr "Combinació de la laringalització"
 
 #: ../data/ipa.xml.in:161
 msgid "Combining retroflexion mark"
-msgstr ""
+msgstr "Combinació de la marca de retroflexió"
 
 #: ../data/ipa.xml.in:162
 msgid "Ejection mark"
-msgstr ""
+msgstr "Marca d'expulsió"
 
 #: ../data/ipa.xml.in:163
 msgid "Rhotacization mark"
-msgstr ""
+msgstr "Marca de ratificació"
 
 #: ../data/ipa.xml.in:164
 msgid "Combining dentalization mark"
-msgstr ""
+msgstr "Combinació de la marca dental"
 
 #: ../data/ipa.xml.in:165
 msgid "Combining dentolabialization mark"
-msgstr ""
+msgstr "Combinació de la marca de desntolabialització"
 
 #: ../data/ipa.xml.in:166
 msgid "Combining alveolarization mark"
-msgstr ""
+msgstr "Combinació de la marca d'alveolarització"
 
 #: ../data/ipa.xml.in:167
 msgid "Combining linguolabialization mark"
-msgstr ""
+msgstr "Combinació de la marca de linguolabialització"
 
 #: ../data/ipa.xml.in:168
 msgid "Combining apicalization mark"
-msgstr ""
+msgstr "Combinació de la marca d'apicalització"
 
 #: ../data/ipa.xml.in:169
 msgid "Combining laminalization mark"
-msgstr ""
+msgstr "Combinació de la laminalització"
 
 #: ../data/ipa.xml.in:170
 msgid "Combining centralization mark"
-msgstr ""
+msgstr "Combinació de la marca de centralització"
 
 #: ../data/ipa.xml.in:171
 msgid "Combining mid-centralization mark"
-msgstr ""
+msgstr "Combinació de la marca de centralització mitjana"
 
 #: ../data/ipa.xml.in:172
 msgid "Combining nasalization mark"
-msgstr ""
+msgstr "Combinació de la marca de nasalització"
 
 #: ../data/ipa.xml.in:173
 msgid "Combining nasalization mark below"
-msgstr ""
+msgstr "Combinació de la marca de nasalització a sota"
 
 #: ../data/ipa.xml.in:174
 msgid "Combining denasalization mark"
-msgstr ""
+msgstr "Combinació de la marca de desnasalització"
 
 #: ../data/ipa.xml.in:175
 msgid "Combining nasal friction mark"
-msgstr ""
+msgstr "Combinació de la marca de fricció nasal"
 
 #: ../data/ipa.xml.in:176
 msgid "Combining velopharyngeal friction mark"
-msgstr ""
+msgstr "Combinació de la marca de fricció velofaríngia"
 
 #: ../data/ipa.xml.in:177
 msgid "Combining voiced mark"
-msgstr ""
+msgstr "Combinació de la marca sonora"
 
 #: ../data/ipa.xml.in:178
 msgid "Combining voiceless mark"
-msgstr ""
+msgstr "Combinació de marca sorda"
 
 #: ../data/ipa.xml.in:179
 msgid "Combining voiceless mark above"
-msgstr ""
+msgstr "Combinació de la marca sorda a sobre"
 
 #: ../data/ipa.xml.in:180
 msgid "Pre-voicing/post-voicing mark"
-msgstr ""
+msgstr "Marca de pre-veu/post-veu"
 
 #: ../data/ipa.xml.in:181
 msgid "Combining breathy voice mark"
-msgstr ""
+msgstr "Combinació de la marca de veu respirada"
 
 #: ../data/ipa.xml.in:182
 msgid "Combining unreleased stop mark"
-msgstr ""
+msgstr "Combinació d'una marca d'aturada no publicada"
 
 #: ../data/ipa.xml.in:183
 msgid "Combining more rounded mark"
-msgstr ""
+msgstr "Combinació de la marca més arrodonida"
 
 #: ../data/ipa.xml.in:184
 msgid "Combining less rounded mark"
-msgstr ""
+msgstr "Combinació de la marca menys arrodonida"
 
 #: ../data/ipa.xml.in:185
 msgid "Combining labial spreading mark"
-msgstr ""
+msgstr "Combinació de la marca d'expansió labial"
 
 #: ../data/ipa.xml.in:186
 msgid "Combining syllabic mark"
-msgstr ""
+msgstr "Combinació de la marca síl·laba"
 
 #: ../data/ipa.xml.in:187
 msgid "Combining syllabic mark above"
-msgstr ""
+msgstr "Combinació de la marca sil·làbica a sobre"
 
 #: ../data/ipa.xml.in:188
 msgid "Combining non-syllabic mark"
-msgstr ""
+msgstr "Combinació de la marca no-sil·làbica"
 
 #: ../data/ipa.xml.in:189
 msgid "Combining non-syllabic mark above"
-msgstr ""
+msgstr "Combinació de la marca no-sil·làbica a sobre"
 
 #: ../data/ipa.xml.in:190
 msgid "Combining top tone mark"
-msgstr ""
+msgstr "Combinació de la marca del to superior"
 
 #: ../data/ipa.xml.in:191
 msgid "Combining high tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to alt"
 
 #: ../data/ipa.xml.in:192
 msgid "Combining mid tone mark"
-msgstr ""
+msgstr "Combinació de la marca del to mitjà"
 
 #: ../data/ipa.xml.in:193
 msgid "Combining low tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to baix"
 
 #: ../data/ipa.xml.in:194
 msgid "Combining bottom tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to inferior"
 
 #: ../data/ipa.xml.in:195
 msgid "Combining falling tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to que cau"
 
 #: ../data/ipa.xml.in:196
 msgid "Combining high falling tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to de caiguda alta"
 
 #: ../data/ipa.xml.in:197
 msgid "Combining low falling tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to de caiguda baixa"
 
 #: ../data/ipa.xml.in:198
 msgid "Combining rising tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to ascendent"
 
 #: ../data/ipa.xml.in:199
 msgid "Combining high rising tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to alt ascendent"
 
 #: ../data/ipa.xml.in:200
 msgid "Combining low rising tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to ascendent baix"
 
 #: ../data/ipa.xml.in:201
 msgid "Combining dipping tone mark"
-msgstr ""
+msgstr "S'està combinant la marca del to d'immersió"
 
 #: ../data/ipa.xml.in:202
 msgid "Combining peaking tone mark"
-msgstr ""
+msgstr "Combinació de la marca de to picant"
 
 #: ../data/ipa.xml.in:203
 msgid "Top tone letter"
-msgstr ""
+msgstr "Lletra de to superior"
 
 #: ../data/ipa.xml.in:204
 msgid "High tone letter"
-msgstr ""
+msgstr "Lletra de to alt"
 
 #: ../data/ipa.xml.in:205
 msgid "Mid tone letter"
-msgstr ""
+msgstr "Lletra de to mitjà"
 
 #: ../data/ipa.xml.in:206
 msgid "Low tone letter"
-msgstr ""
+msgstr "Lletra de to baix"
 
 #: ../data/ipa.xml.in:207
 msgid "Bottom tone letter"
-msgstr ""
+msgstr "Lletra de to inferior"
 
 #: ../data/ipa.xml.in:208
 msgid "Falling tone digraph"
-msgstr ""
+msgstr "Dígraf de to caigut"
 
 #: ../data/ipa.xml.in:209
 msgid "High falling tone digraph"
-msgstr ""
+msgstr "Dígraf de to de caiguda alta"
 
 #: ../data/ipa.xml.in:210
 msgid "Rising tone digraph"
-msgstr ""
+msgstr "Dígraf de to creixent"
 
 #: ../data/ipa.xml.in:211
 msgid "High rising tone digraph"
-msgstr ""
+msgstr "Dígraf de to ascendent alt"
 
 #: ../data/ipa.xml.in:212
 msgid "Low rising tone digraph"
-msgstr ""
+msgstr "Dígraf de to ascendent baix"
 
 #: ../data/ipa.xml.in:213
 msgid "Dipping tone trigraph"
-msgstr ""
+msgstr "Trígraf de to de baixada"
 
 #: ../data/ipa.xml.in:214
 msgid "Peaking tone trigraph"
-msgstr ""
+msgstr "Trígraf de to de pic"
 
 #: ../data/ipa.xml.in:215
 msgid "Upstep mark"
-msgstr ""
+msgstr "Marca de pas"
 
 #: ../data/ipa.xml.in:216
 msgid "Downstep mark"
-msgstr ""
+msgstr "Marca de retrocés"
 
 #: ../data/ipa.xml.in:217
 msgid "Minor break"
-msgstr ""
+msgstr "Trencament menor"
 
 #: ../data/ipa.xml.in:218
 msgid "Major break"
-msgstr ""
+msgstr "Trencament principal"
 
 #: ../data/ipa.xml.in:219
 msgid "Rising intonation mark"
-msgstr ""
+msgstr "Marca d'entonació ascendent"
 
 #: ../data/ipa.xml.in:220
 msgid "Falling intonation mark"
-msgstr ""
+msgstr "Marca d'entonació caiguda"
 
 #: ../data/ipa.xml.in:221
 msgid "Advanced articulation mark"
-msgstr ""
+msgstr "Marca d'articulació avançada"
 
 #: ../data/ipa.xml.in:222
 msgid "Retracted articulation mark"
-msgstr ""
+msgstr "Marca d'articulació restaurada"
 
 #: ../data/ipa.xml.in:223
 msgid "Combining advanced articulation mark"
-msgstr ""
+msgstr "Combinació de la marca d'articulació avançada"
 
 #: ../data/ipa.xml.in:224
 msgid "Combining retracted articulation mark"
-msgstr ""
+msgstr "Combinació de la marca d'articulació retractada"
 
 #: ../data/ipa.xml.in:225
 msgid "Raised sound mark"
-msgstr ""
+msgstr "Marca de so augmentada"
 
 #: ../data/ipa.xml.in:226
 msgid "Lowered sound mark"
-msgstr ""
+msgstr "Marca de so baixa"
 
 #: ../data/ipa.xml.in:227
 msgid "Combining raised sound mark"
-msgstr ""
+msgstr "Combinació de la marca de so elevada"
 
 #: ../data/ipa.xml.in:228
 msgid "Combining lowered sound mark"
-msgstr ""
+msgstr "Combinació de la marca de so abaixada"
 
 #: ../data/ipa.xml.in:229
 msgid "Combining tongue root advancement mark"
-msgstr ""
+msgstr "Combinació de la marca d'avanç de l'arrel de la llengua"
 
 #: ../data/ipa.xml.in:230
 msgid "Combining tongue root retraction mark"
-msgstr ""
+msgstr "Combinació de la retracció de l'arrel de la llengua"
 
 #: ../data/ipa.xml.in:231
 msgid "Combining strong articulation mark"
-msgstr ""
+msgstr "Combinació d'una marca d'articulació forta"
 
 #: ../data/ipa.xml.in:232
 msgid "Combining weak articulation mark"
-msgstr ""
+msgstr "Combinació de marca d'articulació feble"
 
 #: ../data/ipa.xml.in:233
 msgid "Combining whistled articulation mark"
-msgstr ""
+msgstr "Combinació de la marca d'articulació xiulada"
 
 #: ../data/ipa.xml.in:234
 msgid "Combining sliding articulation mark"
-msgstr ""
+msgstr "Combinació de la marca d'articulació lliscant"
 
 #: ../data/ipa.xml.in:235
 msgid "Egression mark"
-msgstr ""
+msgstr "Marca d'emergència"
 
 #: ../data/ipa.xml.in:236
 msgid "Ingression mark"
-msgstr ""
+msgstr "Marca d'entrada"
 
 #: ../data/ipa.xml.in:237
 msgid "Combining ligature tie"
-msgstr ""
+msgstr "Combinació de lligadura"
 
 #: ../data/ipa.xml.in:238
 msgid "Combining ligature undertie"
-msgstr ""
+msgstr "Combinació de la lligadura"
 
 #: ../data/ipa.xml.in:239
 msgid "Elongation mark"
-msgstr ""
+msgstr "Marca d'elongació"
 
 #: ../data/ipa.xml.in:240
 msgid "Weak elongation mark"
-msgstr ""
+msgstr "Marca d'elongació feble"
 
 #: ../data/ipa.xml.in:241
 msgid "Combining extra-short duration mark"
-msgstr ""
+msgstr "Combinació de la marca de durada extra-curt"
 
 #: ../data/ipa.xml.in:242
 msgid "Liaison mark"
-msgstr ""
+msgstr "Marca d'enllaç"
 
 #: ../data/ipa.xml.in:243
 msgid "Stress mark"
-msgstr ""
+msgstr "Marca d'estrès"
 
 #: ../data/ipa.xml.in:244
 msgid "Weak stress mark"
-msgstr ""
+msgstr "Marca d'estrès feble"
 
 #: ../data/ipa.xml.in:245
 msgid "Syllable break"
-msgstr ""
+msgstr "Salt de síl·laba"
 
 #: ../data/ipa.xml.in:246
 msgid "Opening orthographic bracket"
-msgstr ""
+msgstr "Obertura del parèntesi ortogràfic"
 
 #: ../data/ipa.xml.in:247
 msgid "Closing orthographic bracket"
-msgstr ""
+msgstr "Tancament del parèntesi ortogràfic"
 
 #: ../data/ja.xml.in:1
 msgid "Japanese"
@@ -1403,7 +1405,7 @@ msgstr "Katakana"
 
 #: ../data/ja.xml.in:4 ../data/zh.xml.in.h:3
 msgid "Radicals"
-msgstr ""
+msgstr "Radicals"
 
 #: ../data/ja.xml.in:5 ../input-pad/unicode_block.h:132
 msgid "CJK Radicals Supplement"
@@ -1415,11 +1417,11 @@ msgstr "Teclat"
 
 #: ../data/keyboard.xml.in:2
 msgid "Function Key"
-msgstr ""
+msgstr "Tecla de funció"
 
 #: ../data/keyboard.xml.in:3
 msgid "Key Pad"
-msgstr ""
+msgstr "Tecla"
 
 #: ../data/latin.xml.in:1
 msgid "ASCII"
@@ -1435,23 +1437,23 @@ msgstr "Llatí ampliat-A"
 
 #: ../data/latin.xml.in:4
 msgid "Old and Middle English"
-msgstr ""
+msgstr "Anglès antic i mitjà"
 
 #: ../data/runr.xml.in:1
 msgid "Runes (Unicode Block)"
-msgstr ""
+msgstr "Executa (Bloc d'Unicode)"
 
 #: ../data/runr.xml.in:2
 msgid "Runes (Elder Fuþark)"
-msgstr ""
+msgstr "Runes (Fuarark antic)"
 
 #: ../data/runr.xml.in:3
 msgid "Runes (Younger Fuþark)"
-msgstr ""
+msgstr "Runes (Younger Fu)ark)"
 
 #: ../data/runr.xml.in:4
 msgid "Runes (Fuþorc)"
-msgstr ""
+msgstr "Execucions (Fu)orc)"
 
 #: ../data/shaw.xml.in:1 ../input-pad/unicode_block.h:200
 msgid "Shavian"
@@ -1467,15 +1469,15 @@ msgstr "Emoji"
 
 #: ../data/str.xml.in:3
 msgid "Rain"
-msgstr ""
+msgstr "Pluja"
 
 #: ../data/str.xml.in:4
 msgid "Comet"
-msgstr ""
+msgstr "Cometa"
 
 #: ../data/str.xml.in:5
 msgid "Cross"
-msgstr ""
+msgstr "Creu"
 
 #: ../data/str.xml.in:6
 msgid "Solar"
@@ -1515,15 +1517,15 @@ msgstr "Neptú"
 
 #: ../data/str.xml.in:15
 msgid "Pluto"
-msgstr ""
+msgstr "Plutó"
 
 #: ../data/str.xml.in:16
 msgid "Aries"
-msgstr ""
+msgstr "Àries"
 
 #: ../data/str.xml.in:17
 msgid "Taurus"
-msgstr ""
+msgstr "Taurus"
 
 #: ../data/str.xml.in:18
 msgid "Gemini"
@@ -1591,15 +1593,15 @@ msgstr "Dau 6"
 
 #: ../data/str.xml.in:34
 msgid "Anchor"
-msgstr ""
+msgstr "Àncora"
 
 #: ../data/str.xml.in:35
 msgid "Sword"
-msgstr ""
+msgstr "Espasa"
 
 #: ../data/str.xml.in:36
 msgid "Scales"
-msgstr ""
+msgstr "Escales"
 
 #: ../data/str.xml.in:37
 msgid "Conversation"
@@ -1619,7 +1621,7 @@ msgstr "Taüt"
 
 #: ../data/str.xml.in:41
 msgid "Gender"
-msgstr ""
+msgstr "Gènere"
 
 #: ../data/str.xml.in:42
 msgid "Soccer"
@@ -1635,7 +1637,7 @@ msgstr "Ninot de neu"
 
 #: ../data/str.xml.in:45
 msgid "Shogi"
-msgstr ""
+msgstr "Shogi"
 
 #: ../data/str.xml.in:46
 msgid "Shoji"
@@ -1651,15 +1653,15 @@ msgstr "Tanca"
 
 #: ../data/str.xml.in:49
 msgid "No entry"
-msgstr ""
+msgstr "Sense entrada"
 
 #: ../data/str.xml.in:50
 msgid "Truck"
-msgstr ""
+msgstr "Truck"
 
 #: ../data/str.xml.in:51
 msgid "Torii"
-msgstr ""
+msgstr "Torii"
 
 #: ../data/str.xml.in:52
 msgid "Church"
@@ -2087,7 +2089,7 @@ msgstr "Pastis"
 
 #: ../data/str.xml.in:158
 msgid "Hallowe'en"
-msgstr ""
+msgstr "Hallowe'en"
 
 #: ../data/str.xml.in:159
 msgid "Christmas"
@@ -2118,8 +2120,6 @@ msgid "Saxophone"
 msgstr "Saxòfon"
 
 #: ../data/str.xml.in:166
-#, fuzzy
-#| msgid "Guiter"
 msgid "Guitar"
 msgstr "Guitarra"
 
@@ -2153,11 +2153,11 @@ msgstr "Bandera"
 
 #: ../data/str.xml.in:174
 msgid "Show Board"
-msgstr ""
+msgstr "Mostra el tauler"
 
 #: ../data/str.xml.in:175
 msgid "Running"
-msgstr ""
+msgstr "En execució"
 
 #: ../data/str.xml.in:176
 msgid "Surfer"
@@ -2189,7 +2189,7 @@ msgstr "Natació"
 
 #: ../data/str.xml.in:183
 msgid "Weight Lifting"
-msgstr ""
+msgstr "Incrementa el pes"
 
 #: ../data/str.xml.in:184
 msgid "Golf"
@@ -2421,15 +2421,15 @@ msgstr "Corbata"
 
 #: ../data/str.xml.in:241
 msgid "T-Shirt"
-msgstr ""
+msgstr "Samarreta"
 
 #: ../data/str.xml.in:242
 msgid "Jeans"
-msgstr ""
+msgstr "Jeans"
 
 #: ../data/str.xml.in:243
 msgid "Dress"
-msgstr ""
+msgstr "Vesteix"
 
 #: ../data/str.xml.in:244
 msgid "Kimono"
@@ -2441,35 +2441,35 @@ msgstr "Biquini"
 
 #: ../data/str.xml.in:246
 msgid "Clothes"
-msgstr ""
+msgstr "Roba"
 
 #: ../data/str.xml.in:247
 msgid "Purse"
-msgstr ""
+msgstr "Purse"
 
 #: ../data/str.xml.in:248
 msgid "Handbag"
-msgstr ""
+msgstr "Bossa"
 
 #: ../data/str.xml.in:249
 msgid "Pouch"
-msgstr ""
+msgstr "Pouch"
 
 #: ../data/str.xml.in:250
 msgid "Shoe"
-msgstr ""
+msgstr "Sabata"
 
 #: ../data/str.xml.in:251
 msgid "Footprint"
-msgstr ""
+msgstr "Empremta"
 
 #: ../data/str.xml.in:252
 msgid "Bust in silhouette"
-msgstr ""
+msgstr "Bust en silueta"
 
 #: ../data/str.xml.in:253
 msgid "Busts in silhouette"
-msgstr ""
+msgstr "Bustos en silueta"
 
 #: ../data/str.xml.in:254
 msgid "Boy"
@@ -2493,25 +2493,21 @@ msgstr "Família"
 
 #: ../data/str.xml.in:259
 msgid "Man and woman holding hands"
-msgstr ""
+msgstr "Home i dona agafats de la mà"
 
 #: ../data/str.xml.in:260
 msgid "Men holding hands"
-msgstr ""
+msgstr "Homes agafats"
 
 #: ../data/str.xml.in:261
 msgid "Women holding hands"
-msgstr ""
+msgstr "Dones agafades"
 
 #: ../data/str.xml.in:262
-#, fuzzy
-#| msgid "Mushroom"
 msgid "Men's room"
 msgstr "Bolet"
 
 #: ../data/str.xml.in:263
-#, fuzzy
-#| msgid "Restroom"
 msgid "Women's room"
 msgstr "Lavabos"
 
@@ -2521,51 +2517,51 @@ msgstr "Lavabos"
 
 #: ../data/str.xml.in:265
 msgid "Princess"
-msgstr ""
+msgstr "Princesa"
 
 #: ../data/str.xml.in:266
 msgid "Japanese Ogre"
-msgstr ""
+msgstr "Ogre japonès"
 
 #: ../data/str.xml.in:267
 msgid "Japanese Goblin"
-msgstr ""
+msgstr "Goblin japonès"
 
 #: ../data/str.xml.in:268
 msgid "Ghost"
-msgstr ""
+msgstr "Fantasma"
 
 #: ../data/str.xml.in:269
 msgid "Baby Angel"
-msgstr ""
+msgstr "Angelngel del nadó"
 
 #: ../data/str.xml.in:270
 msgid "Extraterrestrial Alien"
-msgstr ""
+msgstr "Extraterrestre"
 
 #: ../data/str.xml.in:271
 msgid "Alien Monster"
-msgstr ""
+msgstr "Alien Monster"
 
 #: ../data/str.xml.in:272
 msgid "Imp"
-msgstr ""
+msgstr "Imp"
 
 #: ../data/str.xml.in:273
 msgid "Skull"
-msgstr ""
+msgstr "Calavera"
 
 #: ../data/str.xml.in:274
 msgid "Information Desk Person"
-msgstr ""
+msgstr "Persona del taulell d'informació"
 
 #: ../data/str.xml.in:275
 msgid "Guardsman"
-msgstr ""
+msgstr "Guardià"
 
 #: ../data/str.xml.in:276
 msgid "Dancer"
-msgstr ""
+msgstr "Ballarina"
 
 #: ../data/str.xml.in:277
 msgid "Lipstick"
@@ -2573,7 +2569,7 @@ msgstr "Barra de llavis"
 
 #: ../data/str.xml.in:278
 msgid "Nail polish"
-msgstr ""
+msgstr "Poliment de les ungles"
 
 #: ../data/str.xml.in:279
 msgid "Face"
@@ -2589,7 +2585,7 @@ msgstr "Xeringa"
 
 #: ../data/str.xml.in:282
 msgid "Pill"
-msgstr ""
+msgstr "Pill"
 
 #: ../data/str.xml.in:283
 msgid "Kiss"
@@ -2597,7 +2593,7 @@ msgstr "Petó"
 
 #: ../data/str.xml.in:284
 msgid "Love Letter"
-msgstr ""
+msgstr "Carta d'amor"
 
 #: ../data/str.xml.in:285
 msgid "Ring"
@@ -2605,11 +2601,11 @@ msgstr "Anell"
 
 #: ../data/str.xml.in:286
 msgid "Gem Stone"
-msgstr ""
+msgstr "Pedra de la joia"
 
 #: ../data/str.xml.in:287
 msgid "Wedding"
-msgstr ""
+msgstr "Casament"
 
 #: ../data/str.xml.in:288
 msgid "Heart"
@@ -2621,7 +2617,7 @@ msgstr "Idea"
 
 #: ../data/str.xml.in:290
 msgid "Anger"
-msgstr ""
+msgstr "Ira"
 
 #: ../data/str.xml.in:291
 msgid "Bomb"
@@ -2629,87 +2625,87 @@ msgstr "Bomba"
 
 #: ../data/str.xml.in:292
 msgid "Sleeping"
-msgstr ""
+msgstr "Dormir"
 
 #: ../data/str.xml.in:293
 msgid "Collision"
-msgstr ""
+msgstr "Col·lisió"
 
 #: ../data/str.xml.in:294
 msgid "Sweat"
-msgstr ""
+msgstr "Suat"
 
 #: ../data/str.xml.in:295
 msgid "Droplet"
-msgstr ""
+msgstr "Droplet"
 
 #: ../data/str.xml.in:296
 msgid "Dash"
-msgstr ""
+msgstr "Traç"
 
 #: ../data/str.xml.in:297
 msgid "Poo"
-msgstr ""
+msgstr "Poo"
 
 #: ../data/str.xml.in:298
 msgid "Muscle"
-msgstr ""
+msgstr "Muscle"
 
 #: ../data/str.xml.in:299
 msgid "Dizzy"
-msgstr ""
+msgstr "Dizzy"
 
 #: ../data/str.xml.in:300
 msgid "Speech"
-msgstr ""
+msgstr "Discurs"
 
 #: ../data/str.xml.in:301
 msgid "Thought"
-msgstr ""
+msgstr "Pensament"
 
 #: ../data/str.xml.in:302
 msgid "Perfect Score"
-msgstr ""
+msgstr "Puntuació perfecta"
 
 #: ../data/str.xml.in:303
 msgid "Pushpin"
-msgstr ""
+msgstr "Pushpin"
 
 #: ../data/str.xml.in:304
 msgid "Paperclip"
-msgstr ""
+msgstr "Paperclip"
 
 #: ../data/str.xml.in:305
 msgid "Speaker with cancellation stroke"
-msgstr ""
+msgstr "Altaveu amb traç de cancel·lació"
 
 #: ../data/str.xml.in:306
 msgid "Speaker low volume"
-msgstr ""
+msgstr "Volum baix de l'altaveu"
 
 #: ../data/str.xml.in:307
 msgid "Speaker medium volume"
-msgstr ""
+msgstr "Volum mitjà de l'altaveu"
 
 #: ../data/str.xml.in:308
 msgid "Speaker high volume"
-msgstr ""
+msgstr "Altaveu i volum"
 
 #: ../data/str.xml.in:309
 msgid "Battery"
-msgstr ""
+msgstr "Bateria"
 
 #: ../data/str.xml.in:310
 msgid "Plug"
-msgstr ""
+msgstr "Connector"
 
 #: ../data/str.xml.in:311
 msgid "Magnifying glass tilted left"
-msgstr ""
+msgstr "Lupa inclinada a l'esquerra"
 
 #: ../data/str.xml.in:312
 msgid "Magnifying glass tilted right"
-msgstr ""
+msgstr "Lupa inclinada cap a la dreta"
 
 #: ../data/str.xml.in:313
 msgid "Bookmark"
@@ -2721,7 +2717,7 @@ msgstr "Llibre"
 
 #: ../data/str.xml.in:315
 msgid "Memo"
-msgstr ""
+msgstr "Anotació"
 
 #: ../data/str.xml.in:316
 msgid "Mail"
@@ -2729,11 +2725,11 @@ msgstr "Correu"
 
 #: ../data/str.xml.in:317
 msgid "Incoming envelope"
-msgstr ""
+msgstr "Sobre entrant"
 
 #: ../data/str.xml.in:318
 msgid "Postbox"
-msgstr ""
+msgstr "Bústia"
 
 #: ../data/str.xml.in:319
 msgid "Mobile Phone"
@@ -2741,7 +2737,7 @@ msgstr "Telèfon mòbil"
 
 #: ../data/str.xml.in:320
 msgid "Antenna with bars"
-msgstr ""
+msgstr "Antena amb barres"
 
 #: ../data/str.xml.in:321
 msgid "Camera"
@@ -2765,11 +2761,11 @@ msgstr "Clau"
 
 #: ../data/str.xml.in:326
 msgid "Lock, locked"
-msgstr ""
+msgstr "Bloqueja, bloqueja"
 
 #: ../data/str.xml.in:327
 msgid "Lock, unlocked"
-msgstr ""
+msgstr "Bloqueja, desbloquejat"
 
 #: ../data/str.xml.in:328
 msgid "Fire"
@@ -2777,23 +2773,23 @@ msgstr "Foc"
 
 #: ../data/str.xml.in:329
 msgid "Wrench"
-msgstr ""
+msgstr "Wrench"
 
 #: ../data/str.xml.in:330
 msgid "Hammer"
-msgstr ""
+msgstr "Martell"
 
 #: ../data/str.xml.in:331
 msgid "Nut and bolt"
-msgstr ""
+msgstr "Nu i bolt"
 
 #: ../data/str.xml.in:332
 msgid "Hocho"
-msgstr ""
+msgstr "Hocho"
 
 #: ../data/str.xml.in:333
 msgid "Pistol"
-msgstr ""
+msgstr "Pistol"
 
 #: ../data/str.xml.in:334
 msgid "Microscope"
@@ -2805,7 +2801,7 @@ msgstr "Telescopi"
 
 #: ../data/str.xml.in:336
 msgid "Crystal"
-msgstr ""
+msgstr "Crist"
 
 #: ../data/str.xml.in:337
 msgid "David Star"
@@ -2813,7 +2809,7 @@ msgstr "Estrella de David"
 
 #: ../data/str.xml.in:338
 msgid "Beginner"
-msgstr ""
+msgstr "Iniciador"
 
 #: ../data/str.xml.in:339
 msgid "Candle"
@@ -2821,17 +2817,13 @@ msgstr "Espelma"
 
 #: ../data/str.xml.in:340
 msgid "Hole"
-msgstr ""
+msgstr "Forat"
 
 #: ../data/str.xml.in:341
-#, fuzzy
-#| msgid "Personal Computer"
 msgid "Laptop Computer"
 msgstr "Ordinador personal"
 
 #: ../data/str.xml.in:342
-#, fuzzy
-#| msgid "Personal Computer"
 msgid "Desktop Computer"
 msgstr "Ordinador personal"
 
@@ -2897,11 +2889,11 @@ msgstr "Neutral"
 
 #: ../data/str.xml.in:358
 msgid "Expressionless"
-msgstr ""
+msgstr "Expressionless"
 
 #: ../data/str.xml.in:359
 msgid "Unamused"
-msgstr ""
+msgstr "Desemmascarat"
 
 #: ../data/str.xml.in:360
 msgid "Pensive"
@@ -2913,7 +2905,7 @@ msgstr "Confós"
 
 #: ../data/str.xml.in:362
 msgid "Confounded"
-msgstr ""
+msgstr "Confund"
 
 #: ../data/str.xml.in:363
 msgid "Disappointed"
@@ -2929,7 +2921,7 @@ msgstr "Plorar"
 
 #: ../data/str.xml.in:366
 msgid "Sleepy"
-msgstr ""
+msgstr "Dorment"
 
 #: ../data/str.xml.in:367
 msgid "Tired"
@@ -2945,7 +2937,7 @@ msgstr "Cridar"
 
 #: ../data/str.xml.in:370
 msgid "Flushed"
-msgstr ""
+msgstr "Flushed"
 
 #: ../data/str.xml.in:371
 msgid "Medical Mask"
@@ -2957,27 +2949,27 @@ msgstr "D'acord"
 
 #: ../data/str.xml.in:373
 msgid "Bow"
-msgstr ""
+msgstr "Bow"
 
 #: ../data/str.xml.in:374
 msgid "See-No-Evil"
-msgstr ""
+msgstr "Veure-no-mal"
 
 #: ../data/str.xml.in:375
 msgid "Hear-No-Evil"
-msgstr ""
+msgstr "Escolta-no-mal"
 
 #: ../data/str.xml.in:376
 msgid "Speak-No-Evil"
-msgstr ""
+msgstr "Pronuncia-no-mal"
 
 #: ../data/str.xml.in:377
 msgid "Banzai"
-msgstr ""
+msgstr "Banzai"
 
 #: ../data/str.xml.in:378
 msgid "Pleading"
-msgstr ""
+msgstr "Pleading"
 
 #: ../data/str.xml.in:379
 msgid "Smileys"
@@ -2985,7 +2977,7 @@ msgstr "Emoticones"
 
 #: ../data/str.xml.in:380
 msgid "Smile Big"
-msgstr ""
+msgstr "Somriu gran"
 
 #: ../data/str.xml.in:381
 msgid "Sad"
@@ -2997,19 +2989,19 @@ msgstr "Fer l'ullet"
 
 #: ../data/str.xml.in:383
 msgid "Shock"
-msgstr ""
+msgstr "Shock"
 
 #: ../data/str.xml.in:384
 msgid "Kiss | Secret"
-msgstr ""
+msgstr "Kiss | Secret"
 
 #: ../data/str.xml.in:385
 msgid "Glasses Cool | Eyeroll"
-msgstr ""
+msgstr "Refrigeració de les ulleres | Eyeroll"
 
 #: ../data/str.xml.in:386
 msgid "Glasses Cool"
-msgstr ""
+msgstr "Vidres freds"
 
 #: ../data/str.xml.in:387
 msgid "Embarrassed"
@@ -3033,15 +3025,15 @@ msgstr "Festa"
 
 #: ../data/str.xml.in:392
 msgid "Yawn"
-msgstr ""
+msgstr "Yawn"
 
 #: ../data/str.xml.in:393
 msgid "Bunny"
-msgstr ""
+msgstr "Bunny"
 
 #: ../data/str.xml.in:394
 msgid "Sick"
-msgstr ""
+msgstr "Malalt"
 
 #: ../data/str.xml.in:395
 msgid "Devil"
@@ -3057,7 +3049,7 @@ msgstr "Amor"
 
 #: ../data/str.xml.in:398
 msgid "Love Over"
-msgstr ""
+msgstr "Amor sobre"
 
 #: ../data/str.xml.in:399
 msgid "Film"
@@ -3077,11 +3069,11 @@ msgstr "Telèfon"
 
 #: ../data/str.xml.in:403
 msgid "Hug Left"
-msgstr ""
+msgstr "Hug esquerra"
 
 #: ../data/str.xml.in:404
 msgid "Hug Right"
-msgstr ""
+msgstr "Abraça a la dreta"
 
 #: ../data/str.xml.in:405
 msgid "Yes"
@@ -3093,19 +3085,19 @@ msgstr "No"
 
 #: ../data/str.xml.in:407
 msgid "Shut Mouth"
-msgstr ""
+msgstr "Tanca la boca"
 
 #: ../data/str.xml.in:408
 msgid "Money Mouth"
-msgstr ""
+msgstr "Ratolí dels diners"
 
 #: ../data/str.xml.in:409
 msgid "Foot in Mouth"
-msgstr ""
+msgstr "Peu al ratolí"
 
 #: ../data/str.xml.in:410
 msgid "Shout"
-msgstr ""
+msgstr "Shout"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in:412
@@ -3118,11 +3110,11 @@ msgstr "Fumar"
 
 #: ../data/str.xml.in:414
 msgid "Sorry"
-msgstr ""
+msgstr "Ho sento"
 
 #: ../data/str.xml.in:415
 msgid "Hug"
-msgstr ""
+msgstr "Hug"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in:417
@@ -3131,7 +3123,7 @@ msgstr "Emoticones (japonès 2c)"
 
 #: ../data/str.xml.in:418
 msgid "Hey"
-msgstr ""
+msgstr "Ei"
 
 #. http://ja.wikipedia.org/wiki/%E9%A1%94%E6%96%87%E5%AD%97
 #: ../data/str.xml.in:420
@@ -3140,7 +3132,7 @@ msgstr "Emoticones (xinès)"
 
 #: ../data/str.xml.in:421
 msgid "Crow"
-msgstr ""
+msgstr "Crow"
 
 #. http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B0
 #: ../data/str.xml.in:423
@@ -3162,59 +3154,59 @@ msgstr "No vull llegir entre línies (Aete Kuuki Wo Yomanai)"
 
 #: ../data/str.xml.in:428
 msgid "Can't get together (Guda Guda)"
-msgstr ""
+msgstr "No es pot reunir (Guda Guda)"
 
 #: ../data/str.xml.in:429
 msgid "Say whatever one feels (Iitaidake)"
-msgstr ""
+msgstr "Digues el que sents (Iitaidake)"
 
 #: ../data/str.xml.in:430
 msgid "Excited (Kitakore)"
-msgstr ""
+msgstr "Excitat (Kitakore)"
 
 #: ../data/str.xml.in:431
 msgid "Detail (Kuwashiku)"
-msgstr ""
+msgstr "Detall (Kuwashiku)"
 
 #: ../data/str.xml.in:432
 msgid "Cannot read between lines (Kuuki Ga Yomenai)"
-msgstr ""
+msgstr "No es pot llegir entre línies (Kuuki Ga Yomenai)"
 
 #: ../data/str.xml.in:433
 msgid "Omission (Shouryaku)"
-msgstr ""
+msgstr "Omissió (Shouryaku)"
 
 #: ../data/str.xml.in:434
 msgid "Excited (Waku Waku Teka Teka)"
-msgstr ""
+msgstr "Excitat (Waku Waku Teka Teka)"
 
 #: ../data/str.xml.in:435
 msgid "Laugh"
-msgstr ""
+msgstr "Laugh"
 
 #: ../data/str.xml.in:436
 msgid "Dude (Oi!)"
-msgstr ""
+msgstr "Tio (Oi!)"
 
 #: ../data/str.xml.in:437
 msgid "Good job (Otsukare)"
-msgstr ""
+msgstr "Bona feina (Otsukare)"
 
 #: ../data/str.xml.in:438
 msgid "Want (Kure, E.g. pics クレメンス)"
-msgstr ""
+msgstr "Vol (Kure, P. ex. pics ,)"
 
 #: ../data/str.xml.in:439
 msgid "ASCII art of a hand (✊, E.g. つAttention)"
-msgstr ""
+msgstr "Art ASCII d'una mà (., p. ex. tenAtenció)"
 
 #: ../data/str.xml.in:440
 msgid "In The Meantime (Toriaezu, Maa)"
-msgstr ""
+msgstr "En el medio (Toriaezu, Maa)"
 
 #: ../data/str.xml.in:441
 msgid "Self-confidence (Aniki, E.g. tennis ニキ)"
-msgstr ""
+msgstr "Autoconfiança (Aniki, P. ex. tennis ,)"
 
 #: ../data/str.xml.in:442
 msgid "Bye"
@@ -3222,27 +3214,27 @@ msgstr "Adéu"
 
 #: ../data/str.xml.in:443
 msgid "Want (Hattekure, E.g. pics ハラデイ)"
-msgstr ""
+msgstr "Vol (Hattekure, P. ex. pics ,)"
 
 #: ../data/str.xml.in:444
 msgid "Exist as microparticles (Biryushi Level De Sonzaisuru)"
-msgstr ""
+msgstr "Existeix com a micropartícules (Biryushi Level De Sonzaisuru)"
 
 #: ../data/str.xml.in:445
 msgid "False Start (Flying Get)"
-msgstr ""
+msgstr "Fals inici (volar obtenció)"
 
 #: ../data/str.xml.in:446
 msgid "Fulfilling Life (Real life is Zyujitsu)"
-msgstr ""
+msgstr "Fulfilling Life (La vida real és Zyujitsu)"
 
 #: ../data/str.xml.in:447
 msgid "Laugh (Warau)"
-msgstr ""
+msgstr "Laugh (Warau)"
 
 #: ../data/str.xml.in:448
 msgid "He (Yatsu &lt;- Yashi)"
-msgstr ""
+msgstr "Ell (Yatsu lt;- Yashi)"
 
 #: ../data/w3c.xml.in:1
 msgid "Char References"
